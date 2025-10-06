@@ -1,0 +1,140 @@
+# Webalizer V2.23-05 Incremental Data - 05/25/2020 09:35:52
+2020 5 25 9 35 52
+10 10 1 9 0 0 1252735 1 1 1
+1 3 22 25 25
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 10 1252735 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 1165931 0
+3 3 86804 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/wbtm8yn3zdm0/public_html/images/pic_3.png
+0 1 0 78596 0 0
+/home/wbtm8yn3zdm0/public_html/test
+0 1 0 0 1 0
+/home/wbtm8yn3zdm0/public_html/images/QR.jpg
+0 1 0 45519 0 0
+/home/wbtm8yn3zdm0/public_html/css/multiColumnTemplate.css
+0 2 9 16407 0 0
+/home/wbtm8yn3zdm0/public_html/images/IM_ret.png
+0 1 0 772695 0 0
+/home/wbtm8yn3zdm0/public_html/images/big_data.png
+0 1 7147050351020498787 188488 0 0
+/home/wbtm8yn3zdm0/public_html/images/ICA_figure.jpg
+0 1 7579395915248066403 65636 0 0
+/home/wbtm8yn3zdm0/public_html/sigsys.php
+0 1 0 6798 0 0
+/home/wbtm8yn3zdm0/public_html/images/pic_3.PNG
+0 1 0 78596 0 0
+# End Of Table - urls
+# -sites- (monthly)
+99.112.228.26
+0 10 10 1252735 1 1590399142
+/home/wbtm8yn3zdm0/public_html/test
+# End Of Table - sites (monthly)
+# -sites- (daily)
+99.112.228.26
+0 10 10 1252735 1 1590399142
+/home/wbtm8yn3zdm0/public_html/test
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+wbtm8yn3zdm0
+0 10 10 1252735 2 1590399142
+# End Of Table - usernames

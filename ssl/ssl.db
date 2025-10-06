@@ -1,0 +1,50 @@
+--- 
+files: 
+  certificate: 
+    immanuelmanohar_com_d7509_f4cd7_1749758331_88b80bc50801ee5986c4c443f472ae6b: 
+      created: '1718222331'
+      domains: 
+        - immanuelmanohar.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: immanuelmanohar.com
+      id: immanuelmanohar_com_d7509_f4cd7_1749758331_88b80bc50801ee5986c4c443f472ae6b
+      is_self_signed: 1
+      issuer.commonName: immanuelmanohar.com
+      issuer.organizationName: "-"
+      key_algorithm: rsaEncryption
+      modulus: d75093755771d8361655db593694d6a96c40e40fff03e747e96c560213e578a98bceffe0841e9003f38b9d74e0791b9b031ff80b04e5a2630b64c105d22819857b476bf2d02d2e8414066db7b87049b5c15bb34ce190840191022ad74ce3fe02a8aca34cd9def997c45b50a9a590e089fcad43c6ca9e28508a9e44c9362895c9081496db34ff6622b02552c4c7fb60a313eabde98c430d3945d04d99934235945bd60361ff6e3fbab0b2e0d1aeb65f6f6b8fc8bb7c137dacbd00765ac19208347ca6f8273c715bb08438f029e6c6010950f14fbe76f0aed3adce678c624def0506b1761709716aa40cd56eab56c635bd9c6345790ef7db1b8a9023fd2f3f4cd7
+      modulus_length: 2048
+      not_after: '1749758331'
+      not_before: '1718222331'
+      serial: ed955019
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: immanuelmanohar.com
+      validation_type: ~
+  key: 
+    d7509_f4cd7_40cc569a8b421185708ae2ceba335cbc: 
+      created: '1718222331'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: immanuelmanohar.com
+      id: d7509_f4cd7_40cc569a8b421185708ae2ceba335cbc
+      key_algorithm: rsaEncryption
+      modulus: d75093755771d8361655db593694d6a96c40e40fff03e747e96c560213e578a98bceffe0841e9003f38b9d74e0791b9b031ff80b04e5a2630b64c105d22819857b476bf2d02d2e8414066db7b87049b5c15bb34ce190840191022ad74ce3fe02a8aca34cd9def997c45b50a9a590e089fcad43c6ca9e28508a9e44c9362895c9081496db34ff6622b02552c4c7fb60a313eabde98c430d3945d04d99934235945bd60361ff6e3fbab0b2e0d1aeb65f6f6b8fc8bb7c137dacbd00765ac19208347ca6f8273c715bb08438f029e6c6010950f14fbe76f0aed3adce678c624def0506b1761709716aa40cd56eab56c635bd9c6345790ef7db1b8a9023fd2f3f4cd7
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      d75093755771d8361655db593694d6a96c40e40fff03e747e96c560213e578a98bceffe0841e9003f38b9d74e0791b9b031ff80b04e5a2630b64c105d22819857b476bf2d02d2e8414066db7b87049b5c15bb34ce190840191022ad74ce3fe02a8aca34cd9def997c45b50a9a590e089fcad43c6ca9e28508a9e44c9362895c9081496db34ff6622b02552c4c7fb60a313eabde98c430d3945d04d99934235945bd60361ff6e3fbab0b2e0d1aeb65f6f6b8fc8bb7c137dacbd00765ac19208347ca6f8273c715bb08438f029e6c6010950f14fbe76f0aed3adce678c624def0506b1761709716aa40cd56eab56c635bd9c6345790ef7db1b8a9023fd2f3f4cd7: 
+        immanuelmanohar_com_d7509_f4cd7_1749758331_88b80bc50801ee5986c4c443f472ae6b: ~
+    subject.commonName: 
+      immanuelmanohar.com: 
+        immanuelmanohar_com_d7509_f4cd7_1749758331_88b80bc50801ee5986c4c443f472ae6b: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      immanuelmanohar.com: immanuelmanohar_com_d7509_f4cd7_1749758331_88b80bc50801ee5986c4c443f472ae6b
+  key: 
+    friendly_name: 
+      immanuelmanohar.com: d7509_f4cd7_40cc569a8b421185708ae2ceba335cbc
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      d75093755771d8361655db593694d6a96c40e40fff03e747e96c560213e578a98bceffe0841e9003f38b9d74e0791b9b031ff80b04e5a2630b64c105d22819857b476bf2d02d2e8414066db7b87049b5c15bb34ce190840191022ad74ce3fe02a8aca34cd9def997c45b50a9a590e089fcad43c6ca9e28508a9e44c9362895c9081496db34ff6622b02552c4c7fb60a313eabde98c430d3945d04d99934235945bd60361ff6e3fbab0b2e0d1aeb65f6f6b8fc8bb7c137dacbd00765ac19208347ca6f8273c715bb08438f029e6c6010950f14fbe76f0aed3adce678c624def0506b1761709716aa40cd56eab56c635bd9c6345790ef7db1b8a9023fd2f3f4cd7: d7509_f4cd7_40cc569a8b421185708ae2ceba335cbc

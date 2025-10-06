@@ -1,0 +1,406 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2054                
+POS_TIME 2713                
+POS_VISITOR 9222                
+POS_DAY 9968                
+POS_DOMAIN 3305                
+POS_LOGIN 3645                
+POS_ROBOT 3800                
+POS_WORMS 3973                
+POS_EMAILSENDER 4104                
+POS_EMAILRECEIVER 4247                
+POS_SESSION 10216               
+POS_FILESIZE 12726               
+POS_SIDER 10373               
+POS_FILETYPES 4382                
+POS_DOWNLOADS 4466                
+POS_OS 4514                
+POS_BROWSER 4711                
+POS_SCREENSIZE 5536                
+POS_UNKNOWNREFERER 5610                
+POS_UNKNOWNREFERERBROWSER 5697                
+POS_ORIGIN 5779                
+POS_SEREFERRALS 5913                
+POS_PAGEREFS 6057                
+POS_SEARCHWORDS 6205                
+POS_KEYWORDS 6357                
+POS_MISC 2377                
+POS_ERRORS 6416                
+POS_CLUSTER 3501                
+POS_SIDER_404 6502                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250902054346 1 0 13689497483590
+FirstTime 0
+LastTime 20250831214846
+LastUpdate 20250903051956 1 0 0 0 0
+TotalVisits 16                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 24 286058 22 22 0
+1 12 12 143057 1 1 0
+2 0 0 0 9 9 0
+3 40 40 476023 14 14 0
+4 0 0 0 4 4 0
+5 12 12 143302 14 14 0
+6 12 12 143316 1 1 0
+7 56 56 667054 5 5 0
+8 0 0 0 19 19 35905
+9 24 24 285933 1 1 0
+10 0 0 0 1 1 0
+11 0 0 0 2 2 0
+12 0 0 0 6 6 0
+13 0 0 0 4 4 0
+14 12 12 143094 6 6 0
+15 0 0 0 15 15 0
+16 0 0 0 2 2 23949
+17 0 0 0 48 48 35869
+18 0 0 0 25 25 71446
+19 12 12 143281 50 50 71284
+20 0 0 0 10 10 0
+21 24 24 286429 3 3 0
+22 12 12 143141 4 4 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 92 92 1096379
+ua 64 64 762568
+gb 24 24 286705
+in 12 12 143094
+ru 12 12 142544
+ro 12 12 143186
+de 12 12 143155
+eu 12 12 143057
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 20 238453 20250830170308 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+php 240 2860688 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linux 15 15
+win8.1 6 6
+macosx10 7 7
+win10 158 158
+macosx12 3 3
+linuxubuntu 5 5
+macosx15 16 16
+win7 27 27
+macosx14 2 2
+macosx13 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+firefox74.0 1 1
+firefox67.0 4 4
+firefox77.0 5 5
+opera70.0.3728.95 23 23
+chrome74.0.3729.131 1 1
+chrome70.0.3538.110 4 4
+chrome74.0.3729.157 3 3
+chrome75.0.3770.100 6 6
+firefox73.0 6 6
+safari12.1.1 2 2
+chrome79.0.3945.130 10 10
+firefox79.0 26 26
+firefox71.0 3 3
+chrome78.0.3904.108 4 4
+chrome58.0.3029.110 7 7
+chrome70.0.3538.77 5 5
+chrome80.0.3987.149 15 15
+chrome77.0.3865.90 4 4
+chrome79.0.3945.88 8 8
+chrome79.0.3945.79 4 4
+firefox72.0 4 4
+safari12.1.2 1 1
+firefox66.0 3 3
+firefox76.0 3 3
+chrome83.0.4103.61 2 2
+firefox75.0 3 3
+chrome81.0.4044.129 8 8
+chrome84.0.4147.125 3 3
+chrome83.0.4103.97 4 4
+chrome91.0.4472.124 1 1
+msie10.0 4 4
+chrome39.0.2171.95 7 7
+mozilla 4 4
+chrome84.0.4147.105 26 26
+chrome74.0.3729.169 11 11
+chrome69.0.3497.100 7 7
+chrome72.0.3626.121 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 240 240
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 246 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 54
+/.well-known/acme-challenge/license.php 4 -
+/.well-known/acme-challenge/xmrlpc.php 19 -
+/.well-known/acme-challenge/content.php 2 -
+/.well-known/acme-challenge/atomlib.php 2 -
+/.well-known/acme-challenge/sxx.php 2 -
+/.well-known/acme-challenge/admin.php 13 -
+/.well-known/acme-challenge/action=./ 1 -
+/.well-known/acme-challenge/shimo.php 2 -
+/.well-known/acme-challenge/readme.php 1 -
+/.well-known/acme-challenge/doc.php 7 -
+/.well-known/acme-challenge/bak.php 2 -
+/.well-known/acme-challenge/install.php 8 -
+/.well-known/acme-challenge/class_api.php 2 -
+/.well-known/acme-challenge/themes.php 7 -
+/.well-known/acme-challenge/wso112233.php 2 -
+/.well-known/acme-challenge/dropdown.php 2 -
+/.well-known/acme-challenge/makeasmtp.php 10 -
+/.well-known/acme-challenge/duwwuahn.php 2 -
+/.well-known/acme-challenge/admiin.php 2 -
+/.well-known/acme-challenge/sx.php 1 -
+/uat/m/.well-known/acme-challenge/zkotynva.php 4 -
+/.well-known/acme-challenge/zmFM.php 4 -
+/.well-known/acme-challenge/adminfuns.php 2 -
+/.well-known/acme-challenge/init-widgets-sitemaps.php 1 -
+/.well-known/acme-challenge/file.php 2 -
+/.well-known/acme-challenge/dihlamer.php 1 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 2 -
+/.well-known/acme-challenge/index.php 25 -
+/.well-known/acme-challenge/edit.php 2 -
+/.well-known/acme-challenge/input.php 2 -
+/.well-known/acme-challenge/theme_support.php 2 -
+/.well-known/acme-challenge/jmfi2.php 2 -
+/.well-known/acme-challenge/mariju.php 12 -
+/.well-known/acme-challenge/my1.php 2 -
+/.well-known/acme-challenge/wp-protector.php 2 -
+/.well-known/acme-challenge/about.php 22 -
+/.well-known/acme-challenge/wp-login.php 2 -
+/.well-known/acme-challenge/blurbs.php 2 -
+/.well-known/acme-challenge/wp-atom.php 2 -
+/wp-admin/network/index.php/.well-known/acme-challenge/admin.php 1 -
+/.well-known/acme-challenge/shop.php 3 -
+/.well-known/acme-challenge/inputs.php 2 -
+/.well-known/acme-challenge/server.php 2 -
+/.well-known/acme-challenge/iRSzrsOUEP.php 2 -
+/.well-known/acme-challenge/upfile.php 4 -
+/.well-known/acme-challenge/autoload_classmap.php 2 -
+/.well-known/acme-challenge/plugins.php 8 -
+/.well-known/acme-challenge/cloud.php 20 -
+/.well-known/acme-challenge/parx.php 5 -
+/.well-known/acme-challenge/LA.php 1 -
+/.well-known/acme-challenge/radio.php 4 -
+/.well-known/acme-challenge/class.api.php 2 -
+/.well-known/acme-challenge/classwithtostring.php 4 -
+/.well-known/acme-challenge/moon.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+37.19.211.73 40 40 476023 20250823030807
+149.88.23.89 27 27 321222 20250822071044
+52.169.236.240 18 18 214921 20250831075354
+149.34.242.60 12 12 143141 20250830222922
+5.181.233.214 12 12 143155 20250826003843
+45.134.140.24 12 12 143094 20250828142243
+146.70.192.166 12 12 143389 20250823091541
+138.199.60.185 12 12 143057 20250830011021
+149.22.81.151 12 12 143281 20250823194845
+185.156.46.108 12 12 142544 20250821095534
+37.19.211.100 12 12 143243 20250831214846
+37.19.211.8 12 12 143302 20250830051906
+146.70.192.156 12 12 143316 20250829062525
+37.120.235.20 12 12 143186 20250826211201
+149.88.106.146 12 12 142903 20250829001954
+149.88.23.87 11 11 130911 20250822071144
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20250821 12 12 142544 1
+20250822 38 38 452133 2
+20250823 64 64 762693 3
+20250826 24 24 286341 2
+20250828 12 12 143094 1
+20250829 24 24 286219 2
+20250830 36 36 429500 3
+20250831 30 30 358164 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 13
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 44
+/.well-known/acme-challenge/about.php 15 178800 0 0
+/.well-known/acme-challenge/install.php 14 166888 8 0
+/.well-known/acme-challenge/index.php 11 130862 0 0
+/.well-known/acme-challenge/content.php 11 131284 0 0
+/.well-known/acme-challenge/atomlib.php 11 131157 0 0
+/.well-known/acme-challenge/license.php 11 131297 1 0
+/.well-known/acme-challenge/file.php 11 130968 0 0
+/.well-known/acme-challenge/admin.php 10 119327 0 0
+/.well-known/acme-challenge/iR7SzrsOUEP.php 10 119400 2 0
+/.well-known/acme-challenge/plugins.php 10 119147 0 0
+/.well-known/acme-challenge/11.php 8 95485 0 0
+/.well-known/acme-challenge/wp-load.php 8 95751 0 8
+/.well-known/acme-challenge/doc.php 7 83290 0 1
+/.well-known/acme-challenge/themes.php 7 83442 0 4
+/.well-known/acme-challenge/cloud.php 7 83418 0 0
+/.well-known/acme-challenge/zmFM.php 7 83366 0 0
+/.well-known/acme-challenge/xmrlpc.php 6 71581 4 0
+/.well-known/acme-challenge/upfile.php 6 71463 0 0
+/.well-known/acme-challenge/makeasmtp.php 6 71463 0 0
+/.well-known/acme-challenge/parx.php 6 71549 0 1
+/.well-known/acme-challenge/shimo.php 4 47865 0 0
+/.well-known/acme-challenge/adminfuns.php 4 47705 0 0
+/.well-known/acme-challenge/autoload_classmap.php 3 35742 0 1
+/.well-known/acme-challenge/blurbs.php 3 35879 0 0
+/.well-known/acme-challenge/wp-login.php 3 35789 0 0
+/.well-known/acme-challenge/server.php 2 23779 0 0
+/.well-known/acme-challenge/inputs.php 2 23790 0 0
+/.well-known/acme-challenge/iRSzrsOUEP.php 2 23888 0 0
+/.well-known/acme-challenge/wp-atom.php 2 23793 0 0
+/.well-known/acme-challenge/radio.php 2 23833 0 0
+/.well-known/acme-challenge/class.api.php 2 23816 0 0
+/.well-known/acme-challenge/moon.php 3 35741 0 0
+/.well-known/acme-challenge/edit.php 2 23745 0 0
+/.well-known/acme-challenge/my1.php 2 23779 1 0
+/.well-known/acme-challenge/wp-protector.php 2 23668 0 0
+/.well-known/acme-challenge/theme_support.php 2 23845 0 0
+/.well-known/acme-challenge/input.php 2 23700 0 0
+/.well-known/acme-challenge/mariju.php 2 23840 0 0
+/.well-known/acme-challenge/jmfi2.php 2 23768 0 0
+/.well-known/acme-challenge/admiin.php 2 23860 0 0
+/.well-known/acme-challenge/duwwuahn.php 2 23748 0 0
+/.well-known/acme-challenge/dropdown.php 3 35684 0 0
+/.well-known/acme-challenge/sxx.php 2 23781 0 1
+/.well-known/acme-challenge/class_api.php 3 35712 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 2
+5K+ 260
+0-44 246
+END_FILESIZE

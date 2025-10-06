@@ -1,0 +1,1746 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202209 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2701                
+POS_VISITOR 59074               
+POS_DAY 73376               
+POS_DOMAIN 3567                
+POS_LOGIN 3825                
+POS_ROBOT 3980                
+POS_WORMS 4749                
+POS_EMAILSENDER 4880                
+POS_EMAILRECEIVER 5023                
+POS_SESSION 74171               
+POS_SIDER 74351               
+POS_FILETYPES 5158                
+POS_DOWNLOADS 5338                
+POS_OS 5386                
+POS_BROWSER 5679                
+POS_SCREENSIZE 8026                
+POS_UNKNOWNREFERER 8100                
+POS_UNKNOWNREFERERBROWSER 9063                
+POS_ORIGIN 9714                
+POS_SEREFERRALS 9854                
+POS_PAGEREFS 10047               
+POS_SEARCHWORDS 10274               
+POS_KEYWORDS 10450               
+POS_MISC 2365                
+POS_ERRORS 10535               
+POS_CLUSTER 3681                
+POS_SIDER_404 10622               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221001011025 139 30399 9007170499776
+FirstTime 20220901002639
+LastTime 20220930214323
+LastUpdate 20221001052725 139 0 138 0 0
+TotalVisits 460                 
+TotalUnique 285                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 408                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 56 62 1263995 158 184 204573
+1 31 41 2296924 83 103 1925093
+2 18 24 1185185 76 96 1037822
+3 24 51 6314626 90 105 1921980
+4 30 38 319108 379 622 1001768
+5 15 16 991344 84 97 886621
+6 23 30 2155869 65 79 1052041
+7 33 58 5698985 59 73 45769
+8 23 24 45962 68 82 806089
+9 24 35 2358229 249 269 1062356
+10 33 34 1025189 136 155 2054130
+11 26 29 2023641 151 171 3068202
+12 31 31 62802 141 168 3688197
+13 20 20 41020 86 115 1309232
+14 26 26 45604 115 141 4609208
+15 28 46 1478157 125 136 231825
+16 26 44 3694873 39 53 148345
+17 27 28 1020326 224 237 106193
+18 19 19 36660 165 191 2159166
+19 23 29 1199645 182 207 3278329
+20 28 34 362165 135 153 990520
+21 26 26 49381 159 176 2594733
+22 17 24 997785 85 97 106820
+23 27 39 3241896 163 188 2206133
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 619 793 37879553
+eu 14 14 27767
+cn 1 1 2051
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Sogou[\x20]web[\x20]spider/ 183 375333 20220930211213 0
+AhrefsBot/ 119 13320324 20220926210345 0
+bot[\s_+:,\.\;\/\\-] 78 10096848 20220930161950 0
+bingbot/ 66 11098694 20220929225011 0
+Googlebot/ 48 89729 20220928121256 0
+crawl 35 171392 20220928160439 0
+no_user_agent 23 26820 20220919143103 0
+BLEXBot/ 19 35049 20220921221611 0
+SemrushBot/ 12 20918 20220930131624 0
+MJ12bot/ 10 17800 20220928134926 0
+YandexBot/ 9 18459 20220930053106 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 3155 20220920135412 0
+Googlebot\-Image/ 2 254124 20220918152536 0
+oBot/ 1 2051 20220921133810 0
+Dalvik/ 1 2051 20220921123143 0
+CFNetwork 1 962398 20220926112605 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 69 107131 0 0
+png 54 21711490 0 0
+html 564 1141803 0 0
+css 31 45477 0 0
+jpg 89 14890932 0 0
+Unknown 1 12538 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linuxandroid 60 39
+macosx11 4 4
+ios_iphone 27 19
+winlong 7 7
+macosx9 2 2
+win7 61 28
+winxp 8 2
+macosx8 2 2
+macosx7 1 1
+linux 97 88
+Unknown 49 48
+macintosh 2 2
+win8.1 4 4
+unix 1 1
+macosx10 4 4
+win8 1 1
+win10 453 367
+macosx 25 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 108
+chrome104.0.5112.97 1 0
+firefox53.0 4 4
+chrome57.0.2987.132 1 1
+chrome79.0 15 15
+mozilla 19 18
+chrome100.0.4896.127 2 1
+chrome34.0.1847.131 1 1
+edge14 1 1
+firefox35.0 1 1
+chrome105.0.0.0 7 4
+msie9.0 4 2
+opera80.0.4170.63 3 0
+chrome90.0.4430.85 5 5
+chrome96.0.4664.110 1 1
+firefox103.0 1 1
+chrome95.0.4638.69 25 22
+opera84.0.4316.14 1 1
+firefox96.0 7 1
+safari15.0 3 0
+chrome76.0.3809.132 4 4
+firefox50.0 2 2
+chrome89.0.4389.114 41 41
+chrome91.0.4472.114 13 13
+chrome100.0.4758.11 2 2
+firefox91.0 3 0
+chrome89.0.4389.105 7 1
+firefox25.0 2 2
+firefox65.0 6 6
+chrome80.0.3987.106 1 1
+chrome101.0.4951.67 2 2
+chrome88.0.4240.193 42 42
+android 3 2
+chrome61.0.3163.128 11 3
+chrome32.0.1667.0 1 1
+chrome80.0.3987.149 19 13
+msie11.0 2 2
+chrome77.0.3865.90 1 1
+chrome83.0.4103.61 5 5
+chrome60.0.3112.107 17 17
+chrome26.0.1410.65 2 2
+chrome45.0.2454.94 1 1
+chrome84.0.4147.105 3 3
+chrome102.0.0.0 4 4
+firefox73.0.1 1 1
+chrome74.0.3694.0 7 1
+chrome84.0.4147.89 5 5
+chrome99.0.4844.84 1 1
+chrome79.0.3945.130 6 6
+chrome88.0.4324.190 2 2
+chrome23.0.1271.64 1 1
+chrome51.0.2704.84 2 2
+chrome72.0.3626.109 3 3
+chrome83.0.4103.97 33 33
+safari13.0.3 12 12
+chrome29.0.1547.57 1 1
+firefox83.0 1 1
+chrome96.0.4664.45 4 3
+chrome34.0.1847.116 7 7
+chrome59.0.3029.83 3 3
+chrome60.0.3112.90 32 5
+chrome89.0.4389.90 2 2
+chrome98.0.4758.102 1 1
+chrome99.0.4859.172 2 2
+firefox59.0 2 2
+firefox102.0 11 11
+chrome85.0.4183.121 17 17
+Unknown 31 31
+chrome89.0.4389.82 1 1
+chrome79.0.3945.117 1 0
+chrome100.0.4895.86 1 1
+chrome61.0.3163.79 8 8
+safari 9 2
+chrome67.0.3396.87 2 2
+chrome99.0.4430.212 2 2
+chrome81.0.4044.138 10 10
+chrome103.0.5060.114 1 1
+opera6.11 1 1
+chrome39.0.2171.95 2 2
+firefox72.0 2 0
+firefox60.0 2 2
+firefox104.0 6 6
+chrome66.0.3359.117 4 4
+chrome47.0.2526.106 2 2
+chrome66.0.3359.158 1 1
+chrome102.0.5005.63 1 1
+firefox28.0 4 4
+chrome76.0.3809.71 39 10
+chrome104.0.0.0 14 2
+firefox88.0 2 2
+chrome27.0.1453.93 8 2
+chrome105.0.5195.136 1 0
+chrome63.0.3239.132 5 5
+chrome101.0.4951.64 3 3
+opera89.0.4447.51 2 2
+chrome83.0.4103.106 7 5
+chrome79.0.3945.79 28 5
+chrome74.0.3729.169 10 6
+opera11.61 1 1
+chrome103.0.0.0 12 12
+firefox105.0 1 1
+chrome63.0.3239.108 2 2
+chrome65.0.3325.109 5 5
+safari15.4 1 0
+chrome96.0.4664.55 10 9
+chrome81.0.4044.129 18 18
+chrome78.0.3904.108 83 83
+firefox57.0 5 1
+netscape5.0 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20220904170625
+Mozilla/5.0_zgrab/0.x 20220922221646
+Go-http-client/1.1 20220901025333
+okhttp/3.3.1 20220903044351
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220901071611
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220930040957
+python-requests/2.28.1 20220906024524
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220930071235
+python-requests/2.21.0 20220915005832
+python-requests/2.25.1 20220904035035
+python-requests/2.27.1 20220926233337
+Python/3.10_aiohttp/3.8.1 20220903172318
+panscient.com 20220919064748
+Mozilla/5.0_Firefox/35.0 20220927232839
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+python-requests/2.28.1 20220906024524
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220930040957
+okhttp/3.3.1 20220903044351
+Go-http-client/1.1 20220901025333
+Python/3.10_aiohttp/3.8.1 20220903172318
+python-requests/2.27.1 20220926233337
+panscient.com 20220919064748
+python-requests/2.25.1 20220904035035
+python-requests/2.21.0 20220915005832
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 560 580
+From1 3 3
+From2 8 16
+From3 30 30
+From4 33 179
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+sogou 3 3
+www_google_com 2 10
+baidu 2 2
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://idr-stat.com 22 22
+http://www.idr-stat.com 6 6
+http://www.gumbo.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.idr-stat.com 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 3
+www.idr-stat.com 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 3251 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 892
+/n/news/banner 1 http://immanuelmanohar.com/n/news/banner
+/source/20220119/static/wap/css/trade-history.css 1 http://immanuelmanohar.com/source/20220119/static/wap/css/trade-history.css
+/wp/xmlrpc.php 1 -
+/app/config/getConfig 1 http://immanuelmanohar.com/app/config/getConfig
+/class-wp-widget-archives.php 1 www.google.com
+/static/home/csjs/bankCheck.js 1 http://immanuelmanohar.com/static/home/csjs/bankCheck.js
+/Hander/emploer_Handler.ashx 1 http://immanuelmanohar.com/Hander/emploer_Handler.ashx
+/template/css/login.css 1 http://immanuelmanohar.com/template/css/login.css
+/blog 9 -
+/views/home/home.js 1 http://immanuelmanohar.com/views/home/home.js
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 -
+//wp-includes/customize/class-wp-customize-nav-menu.php 1 -
+/api/apps 1 http://immanuelmanohar.com/api/apps
+/shx.php 1 www.google.com
+/phpinfo.php 6 -
+/static/index/js/lk/order.js 1 http://immanuelmanohar.com/static/index/js/lk/order.js
+/phpinf0.php 1 -
+/wap.html 1 http://immanuelmanohar.com/wap.html
+/haxor.php 1 www.google.com
+/home/login.jpg 1 http://immanuelmanohar.com/home/login.jpg
+/wp-2019.php 1 www.google.com
+/wso.php 4 www.bing.com
+/wp-admin/tool.php 1 www.google.com
+/api/Index/getLottery 1 http://immanuelmanohar.com/api/Index/getLottery
+/shop/wp-includes/wlwmanifest.xml 76 -
+/2021/wp-includes/wlwmanifest.xml 14 -
+/.awscredentials 1 -
+/opss.php 1 www.google.com
+/public/.env 8 -
+/api/shares/hqStrList 1 http://immanuelmanohar.com/api/shares/hqStrList
+/wp-includes/fonts/css.php 1 anonymousfox.co
+/legal/currency/set 1 http://immanuelmanohar.com/legal/currency/set
+/test/.env 1 -
+/images/vuln.php 1 -
+/wp-content/themes/SqueezeTheme/style.css 1 -
+/api/currency/quotation_new 1 http://immanuelmanohar.com/api/currency/quotation_new
+/shop1/.env 1 -
+/css/skin/ymPrompt.css 1 http://immanuelmanohar.com/css/skin/ymPrompt.css
+/nyyh/chkjs.js 1 http://immanuelmanohar.com/nyyh/chkjs.js
+/home 2 -
+/index/login/login 1 http://immanuelmanohar.com/index/login/login
+/Home/Bind/binding 1 http://immanuelmanohar.com/Home/Bind/binding
+/homes/ 2 http://immanuelmanohar.com/homes/
+/static/css/public.css 1 http://immanuelmanohar.com/static/css/public.css
+/olux.php 4 www.bing.com
+/mini.php 1 www.google.com
+/wp-content/themes/konzept/style.css 1 -
+/hetong/yq 1 http://immanuelmanohar.com/hetong/yq
+/wp-includes/wlwmanifest.xml 74 -
+/static/js/jump/go.js 1 http://immanuelmanohar.com/static/js/jump/go.js
+/wp-content/cache.php 1 www.google.com
+/api/site/getInfo.do 1 http://immanuelmanohar.com/api/site/getInfo.do
+/s_api/basic/download/info 1 http://immanuelmanohar.com/s_api/basic/download/info
+/202110/images/public.css 1 http://immanuelmanohar.com/202110/images/public.css
+/wordpress/xmlrpc.php 1 -
+/m/ticker/usdtqc 1 http://immanuelmanohar.com/m/ticker/usdtqc
+/api/link/platform 2 http://immanuelmanohar.com/api/link/platform
+/help.php 4 www.google.com
+/c.php 1 www.google.com
+/Public/css/_pk10.css 1 http://immanuelmanohar.com/Public/css/_pk10.css
+/api/mstock/getsystemprivate 1 http://immanuelmanohar.com/api/mstock/getsystemprivate
+/home/ 1 http://immanuelmanohar.com/home/
+/index/home/login.html 1 http://immanuelmanohar.com/index/home/login.html
+/js/a.script 1 http://immanuelmanohar.com/js/a.script
+/doc.php 5 www.bing.com
+//wp-22.php 4 -
+/wp-content/plugins/config.bak.php 1 anonymousfox.co
+/wp1/wp-includes/wlwmanifest.xml 81 -
+/wp-includes/lfx.php 1 anonymousfox.co
+/templates/beez3/cgialfa 4 www.bing.com
+/temp/.env 1 -
+/JS/loginstatus.js 1 http://immanuelmanohar.com/JS/loginstatus.js
+/new 11 -
+/assets/images/mobile/dou_icon_money.png 1 http://immanuelmanohar.com/assets/images/mobile/dou_icon_money.png
+/blog/xmlrpc.php 1 -
+/Home/GetAllGameCategory 1 http://immanuelmanohar.com/Home/GetAllGameCategory
+/wp-content/plugins/sid/up.php 1 www.google.com
+/public/css/style.css 1 http://immanuelmanohar.com/public/css/style.css
+/Home/Index/ajaxTJ 1 http://immanuelmanohar.com/Home/Index/ajaxTJ
+/assets/images/dy.jpg 1 http://immanuelmanohar.com/assets/images/dy.jpg
+/admin.php 1 anonymousfox.co
+/login.html 2 http://immanuelmanohar.com/login.html
+/larva.php 1 anonymousfox.co
+/wp-content/outcms.php 4 www.bing.com
+/api/lottery/color 1 http://immanuelmanohar.com/api/lottery/color
+/wp-content/themes/sketch/404.php 1 www.google.com
+/root/.env 1 -
+/.git/HEADAA 1 -
+/test2/.env 1 -
+/im/in/GetUuid 1 http://immanuelmanohar.com/im/in/GetUuid
+/static/wap/css/common.css 1 http://immanuelmanohar.com/static/wap/css/common.css
+/vuln.php 1 -
+/s_ne.php 5 www.bing.com
+/wp-admin/includes/ 2 -
+/verification.asp 1 http://immanuelmanohar.com/verification.asp
+/index/login/reg.html 1 http://immanuelmanohar.com/index/login/reg.html
+/blog/ 2 -
+/source/20220119/static/wap/js/order.js 1 http://immanuelmanohar.com/source/20220119/static/wap/js/order.js
+/lanren/css/global.css 1 http://immanuelmanohar.com/lanren/css/global.css
+/res/kuai/1.css 1 http://immanuelmanohar.com/res/kuai/1.css
+/detail1/js/add.js 1 http://immanuelmanohar.com/detail1/js/add.js
+/_ignition/execute-solution 1 -
+/static/home/imgs/jkjl.png 1 http://immanuelmanohar.com/static/home/imgs/jkjl.png
+/detail5/css/details.css 1 http://immanuelmanohar.com/detail5/css/details.css
+/xianyu/image/jiantou.png 1 http://immanuelmanohar.com/xianyu/image/jiantou.png
+/wp-content/plugins/super-forms/uploads/php/index.php 1 -
+/wp-content/wp-1ogin_bak.php 1 anonymousfox.co
+/site/.env 1 -
+/blog/robots.txt 2 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 1 anonymousfox.co
+/f.php 1 www.google.com
+/api/v1/app-info 1 http://immanuelmanohar.com/api/v1/app-info
+/alfa.php 6 www.bing.com
+/wp-content/themes/twentytwenty/content.php 1 www.google.com
+/wp-lo.Php/ 1 www.google.com
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 1 anonymousfox.co
+/Public/js/common.js 1 http://immanuelmanohar.com/Public/js/common.js
+/local/.env 4 -
+/img/close.png 1 http://immanuelmanohar.com/img/close.png
+/api/customerServiceLink 1 http://immanuelmanohar.com/api/customerServiceLink
+/wap/trading/lastKlineParameter 1 http://immanuelmanohar.com/wap/trading/lastKlineParameter
+/zz2/address.php 1 http://immanuelmanohar.com/zz2/address.php
+/wp-admin/style.php 5 www.bing.com
+/client/api/findFreeTrade 1 http://immanuelmanohar.com/client/api/findFreeTrade
+/static/css/reset.css 1 http://immanuelmanohar.com/static/css/reset.css
+/wordpress/ 2 -
+/openApi/systemConfig/findSystemConfigById 1 http://immanuelmanohar.com/openApi/systemConfig/findSystemConfigById
+/wp-load.php 5 www.bing.com
+/gaga/city.php 1 http://immanuelmanohar.com/gaga/city.php
+/jym-wn/ 1 http://immanuelmanohar.com/jym-wn/
+/cgi-bin/.env 3 -
+/client/api/findConfigByKey 1 http://immanuelmanohar.com/client/api/findConfigByKey
+/portal/index/protocol.html 1 http://immanuelmanohar.com/portal/index/protocol.html
+/wp-content/themes/qualifire/style.css 1 -
+/mindex.html 1 http://immanuelmanohar.com/mindex.html
+/mobile/login.html 1 http://immanuelmanohar.com/mobile/login.html
+/js/bk.min.js 1 http://immanuelmanohar.com/js/bk.min.js
+/robots.txt 204 -
+/op.php 1 www.google.com
+/assets/yibao/Nweshebao/img/icon2.png 1 http://immanuelmanohar.com/assets/yibao/Nweshebao/img/icon2.png
+/detaila/js/ntkfstat.js 1 http://immanuelmanohar.com/detaila/js/ntkfstat.js
+/api/default/login-page 1 http://immanuelmanohar.com/api/default/login-page
+/api/config 1 http://immanuelmanohar.com/api/config
+/template/tmp1/js/common.js 1 http://immanuelmanohar.com/template/tmp1/js/common.js
+/wp-login.php 39 -
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 http://immanuelmanohar.com/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/api/lastestBetLog 1 http://immanuelmanohar.com/api/lastestBetLog
+/ALFA_DATA/alfacgiapi/perl.alfa 10 www.google.com
+/static/common/js/common.js 1 http://immanuelmanohar.com/static/common/js/common.js
+/wp-content/uploads/alfacgiapi 4 www.bing.com
+/r00t.php 1 www.google.com
+/services/.env 1 -
+/templates/beez3/ALFA_DATA 4 www.bing.com
+/lib/public.js 1 http://immanuelmanohar.com/lib/public.js
+/upload.php 6 -
+/saconfig/secure/yunwei.js 1 http://immanuelmanohar.com/saconfig/secure/yunwei.js
+/v1/management/tenant/getSpeedDomain 1 http://immanuelmanohar.com/v1/management/tenant/getSpeedDomain
+/defau1t.php 4 www.bing.com
+/index/overt/regist/inviteid 1 http://immanuelmanohar.com/index/overt/regist/inviteid
+/wp-plain.php 10 www.google.com
+/getConfig/listPopFrame.do 2 http://immanuelmanohar.com/getConfig/listPopFrame.do
+/hg556/js/main.js 1 http://immanuelmanohar.com/hg556/js/main.js
+/home/GetQrCodeInfo 1 http://immanuelmanohar.com/home/GetQrCodeInfo
+/manager/js/left.js 1 http://immanuelmanohar.com/manager/js/left.js
+/saudi.php 1 www.google.com
+/2020/wp-includes/wlwmanifest.xml 42 -
+/wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php 1 -
+/assets/mstock/newimg/guid-info.png 1 http://immanuelmanohar.com/assets/mstock/newimg/guid-info.png
+/ru.php 1 www.google.com
+/wp-json/wp/v2/users/ 1 -
+/api/mobile/checkStrategyHistory 1 http://immanuelmanohar.com/api/mobile/checkStrategyHistory
+/Public/initJs.php 1 http://immanuelmanohar.com/Public/initJs.php
+/shell20211028.php 1 www.google.com
+/Home/Get/getJnd28 1 http://immanuelmanohar.com/Home/Get/getJnd28
+/wp-admin/infodata.php 1 www.google.com
+/biz/server/config 1 http://immanuelmanohar.com/biz/server/config
+/Content/m_1/js/m_1_Jquery.js 1 http://immanuelmanohar.com/Content/m_1/js/m_1_Jquery.js
+/xe.php 1 www.google.com
+/arif_master/telerik.web.ui.dialoghandler.aspx 1 -
+/assets/AssetManifest.json 1 http://immanuelmanohar.com/assets/AssetManifest.json
+/assets/images/mobile/ic_launcher.png 1 http://immanuelmanohar.com/assets/images/mobile/ic_launcher.png
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php 1 -
+/app/js/base.js 1 http://immanuelmanohar.com/app/js/base.js
+/service 1 http://immanuelmanohar.com/service
+/administrator/help/en-GB/toc.json 7 -
+/static/home/css/feiqi-ee5401a8e6.css 1 http://immanuelmanohar.com/static/home/css/feiqi-ee5401a8e6.css
+/css/all.css 1 http://immanuelmanohar.com/css/all.css
+/uploads/ 12 binance.com
+/error.php 4 www.bing.com
+/stock2c1/api/site/getInfo.do 1 http://immanuelmanohar.com/stock2c1/api/site/getInfo.do
+/user/Login 1 http://immanuelmanohar.com/user/Login
+/old-index.php 1 anonymousfox.co
+/archives.php 4 www.bing.com
+/website/.env 1 -
+/js/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/home/banner/getLogo 1 http://immanuelmanohar.com/home/banner/getLogo
+/.well-known/ALFA_DATA 4 www.bing.com
+/proxy/games 1 http://immanuelmanohar.com/proxy/games
+/loan/css/index.css 1 http://immanuelmanohar.com/loan/css/index.css
+/masterControl/getSystemSetting 1 http://immanuelmanohar.com/masterControl/getSystemSetting
+/static/index/css/iindex.css 1 http://immanuelmanohar.com/static/index/css/iindex.css
+/plugins/system/debug/debug.xml 7 -
+/assets/GrayMobile/active_gameType_SportsBook.png 1 http://immanuelmanohar.com/assets/GrayMobile/active_gameType_SportsBook.png
+/wp-content/cgialfa 4 www.bing.com
+/wp-content/mu-plugins/db-safe-mode.php 5 www.bing.com
+/login 2 http://immanuelmanohar.com/login
+/site/api/v1/configuration/onlinecustomservice 1 http://immanuelmanohar.com/site/api/v1/configuration/onlinecustomservice
+/static/admincp/js/common.js 1 http://immanuelmanohar.com/static/admincp/js/common.js
+/sucai/zxkf.png 1 http://immanuelmanohar.com/sucai/zxkf.png
+/static/img/notices.png 1 http://immanuelmanohar.com/static/img/notices.png
+/wso1.php 1 www.google.com
+/sitemap.xml 2 -
+/index/user/login.html 1 http://immanuelmanohar.com/index/user/login.html
+/sitemap 14 -
+/static/wap/css/index.css 1 http://immanuelmanohar.com/static/wap/css/index.css
+/sites/default/files/cgialfa 4 www.bing.com
+/cgi-etc/quti.php 1 www.google.com
+/alfacgiapi 4 www.bing.com
+/beta/.env 1 -
+/thriveGame.css 1 http://immanuelmanohar.com/thriveGame.css
+/ffAA531.php 1 www.google.com
+/static/f_title.png 1 http://immanuelmanohar.com/static/f_title.png
+/wp-content/plugins/wp-work/infodata.php 1 www.google.com
+/dev 9 -
+/new/xmlrpc.php 1 -
+/tokenlite_app/.env 1 -
+/wp-includes/xleet.php 1 www.google.com
+/img/zllqdk.png 1 http://immanuelmanohar.com/img/zllqdk.png
+/jiaoyimao/default.css 1 http://immanuelmanohar.com/jiaoyimao/default.css
+/static/css/index.css 1 http://immanuelmanohar.com/static/css/index.css
+/im/ 1 http://immanuelmanohar.com/im/
+/wp-admin/admin-post.php 1 www.google.com
+/php/.env 1 -
+/.env.backup 2 -
+/api/web/user/getIndexData.php 1 http://immanuelmanohar.com/api/web/user/getIndexData.php
+/member/js/lang_zh_CN.js 1 http://immanuelmanohar.com/member/js/lang_zh_CN.js
+/laravel/.env 6 -
+/kyc/.env 1 -
+/infe/rest/fig/advertise/common.json 1 http://immanuelmanohar.com/infe/rest/fig/advertise/common.json
+/feed/ 15 -
+/api/index/setting 1 http://immanuelmanohar.com/api/index/setting
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 http://immanuelmanohar.com/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/banner.do 1 http://immanuelmanohar.com/banner.do
+/i.php 1 www.google.com
+/wpindex.php 1 anonymousfox.co
+/wp-includes/class-wordpress-license.php 2 www.google.com
+/ALFA_DATA 4 www.bing.com
+/im/App/config 1 http://immanuelmanohar.com/im/App/config
+/admin/controller/extension/extension/ 12 binance.com
+/zoushi 1 http://immanuelmanohar.com/zoushi
+/wordpress/wp-includes/wlwmanifest.xml 83 -
+/wp-includes/class-wp-roles.php 1 www.google.com
+/skin/main/onload.js 1 http://immanuelmanohar.com/skin/main/onload.js
+/Public/home/js/fukuang.js 1 http://immanuelmanohar.com/Public/home/js/fukuang.js
+/bc 2 -
+/mobile21/js/index/gameManagement.js 1 http://immanuelmanohar.com/mobile21/js/index/gameManagement.js
+/m/lotto-h5/manifest.json 1 http://immanuelmanohar.com/m/lotto-h5/manifest.json
+/index.php/Wap/Api/getSystemNotice 1 http://immanuelmanohar.com/index.php/Wap/Api/getSystemNotice
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-pop.css 1 -
+/m/env.js 1 http://immanuelmanohar.com/m/env.js
+/js/base1.js 1 http://immanuelmanohar.com/js/base1.js
+/static/customer/js/xiaotian.cli.v2.js 1 http://immanuelmanohar.com/static/customer/js/xiaotian.cli.v2.js
+/defaul1.php 1 www.google.com
+/backupasdasd.zip 2 -
+/icpmffgh.php 1 www.google.com
+/wp-content/uploads/cgialfa 4 www.bing.com
+/old/wp-admin/install.php 1 -
+/img/phonetrackeronline.png 1 http://immanuelmanohar.com/img/phonetrackeronline.png
+/data/json/config.json 1 http://immanuelmanohar.com/data/json/config.json
+/ws/index/getTheLotteryInitList 1 http://immanuelmanohar.com/ws/index/getTheLotteryInitList
+/API/.env 1 -
+/wp-includes/ID3/license.txt 15 -
+/wp-content/plugins/wpconfig.bak.php 5 www.bing.com
+/api/v1/cocos/version 1 http://immanuelmanohar.com/api/v1/cocos/version
+/base/exchange_article/index/classid/1/id/1 1 http://immanuelmanohar.com/base/exchange_article/index/classid/1/id/1
+/installer.php 1 -
+/wp-sid.php 1 www.google.com
+/radio.php 6 www.bing.com
+/ads.txt 6 -
+/config/aws.yml 4 -
+/km.asmx/getPlatParam 1 http://immanuelmanohar.com/km.asmx/getPlatParam
+/room/script/face.js 1 http://immanuelmanohar.com/room/script/face.js
+/ex.php 1 www.google.com
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/base/exchange_index/changepwdfirst 1 http://immanuelmanohar.com/base/exchange_index/changepwdfirst
+/wp-commentin.php 17 www.google.com
+/wp-includes/alfacgiapi 4 www.bing.com
+/zz/address.php 1 http://immanuelmanohar.com/zz/address.php
+/Recruit/download_url 1 http://immanuelmanohar.com/Recruit/download_url
+/.env.dev 1 -
+/Public/home/common/js/index.js 1 http://immanuelmanohar.com/Public/home/common/js/index.js
+/administrator/language/en-GB/en-GB.xml 7 -
+/h5/static/cert/icon_yanzhengma.png 1 http://immanuelmanohar.com/h5/static/cert/icon_yanzhengma.png
+/Public/home/wap/css/qdgame.css 1 http://immanuelmanohar.com/Public/home/wap/css/qdgame.css
+/index/newapi/api 1 http://immanuelmanohar.com/index/newapi/api
+/public/static/css/public.css 1 http://immanuelmanohar.com/public/static/css/public.css
+/phpmyadmin/index.php 1 -
+/Css/Hm.css 1 http://immanuelmanohar.com/Css/Hm.css
+/proxy/settings 1 http://immanuelmanohar.com/proxy/settings
+/shell.php 4 www.bing.com
+/index/index/ajaxdata 1 http://immanuelmanohar.com/index/index/ajaxdata
+/ms_thesis.html 1 -
+/testing/.env 2 -
+/api/grame/getHomePtLottery 1 http://immanuelmanohar.com/api/grame/getHomePtLottery
+/template/920ka/css/lsy.css 1 http://immanuelmanohar.com/template/920ka/css/lsy.css
+/test/wp-includes/wlwmanifest.xml 81 -
+/static/download/style.css 1 http://immanuelmanohar.com/static/download/style.css
+/index/aurl 1 http://immanuelmanohar.com/index/aurl
+/api/im/v2/app/t 1 http://immanuelmanohar.com/api/im/v2/app/t
+/mobile/config.js 1 http://immanuelmanohar.com/mobile/config.js
+/s_e.php 5 www.bing.com
+/bet/lotteryinfo/allLotteryInfoList 1 http://immanuelmanohar.com/bet/lotteryinfo/allLotteryInfoList
+/m/ 2 http://immanuelmanohar.com/m/
+/static/data/thirdgames.json 1 http://immanuelmanohar.com/static/data/thirdgames.json
+/database/.env 5 -
+/wp/wp-includes/wlwmanifest.xml 83 -
+/api/vue/transaction/config 1 http://immanuelmanohar.com/api/vue/transaction/config
+/api/im/v2/app/config 1 http://immanuelmanohar.com/api/im/v2/app/config
+/wp-content/themes/famous/megaframe/megapanel/inc/functions.php 1 -
+/js/subsidy/bk.min.js 1 http://immanuelmanohar.com/js/subsidy/bk.min.js
+/phpinfo 5 -
+/wp-content/plugins/backup_index.php 5 www.bing.com
+/Promotions/list.mvc 1 http://immanuelmanohar.com/Promotions/list.mvc
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 1 anonymousfox.co
+/js/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/env.txt 1 -
+/home/help 1 http://immanuelmanohar.com/home/help
+/login/img/nyyh/chkjs.js 1 http://immanuelmanohar.com/login/img/nyyh/chkjs.js
+/lottery/lottery_list 1 http://immanuelmanohar.com/lottery/lottery_list
+/assets/images/redian.jpg 1 http://immanuelmanohar.com/assets/images/redian.jpg
+/api/ApiHub/fetchJinse 1 http://immanuelmanohar.com/api/ApiHub/fetchJinse
+/news/wp-includes/wlwmanifest.xml 67 -
+/projectConfig 1 http://immanuelmanohar.com/projectConfig
+/shop/.env 1 -
+/demo/.env 1 -
+/admin/.env 3 -
+/css/nsc/reset.css 1 http://immanuelmanohar.com/css/nsc/reset.css
+/.env1 1 -
+/protected/.env 3 -
+/static/js/main.js 1 http://immanuelmanohar.com/static/js/main.js
+/static/image/logo.png 1 http://immanuelmanohar.com/static/image/logo.png
+/test1/.env 1 -
+/wp-fox.php 1 www.google.com
+/static/mobile/user.html 1 http://immanuelmanohar.com/static/mobile/user.html
+/.git/HEAD 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 67 -
+/wp-admin/install.php 1 -
+/wp-supports.php 1 www.google.com
+/wp-content/config.bak.php 1 anonymousfox.co
+/user/getAllNicknames 1 http://immanuelmanohar.com/user/getAllNicknames
+/statics/js/API.js 1 http://immanuelmanohar.com/statics/js/API.js
+/wp-content/plugins/ioptimization/IOptimize.php 1 anonymousfox.co
+/public/static/home/js/moblie/login.js 1 http://immanuelmanohar.com/public/static/home/js/moblie/login.js
+/common/template/lottery/lecai/css/style.css 1 http://immanuelmanohar.com/common/template/lottery/lecai/css/style.css
+/detail6/image/sjrz.png 1 http://immanuelmanohar.com/detail6/image/sjrz.png
+/static/local/img/userCenter/hourlyPrivilege.svg 1 http://immanuelmanohar.com/static/local/img/userCenter/hourlyPrivilege.svg
+/market/market-ws/iframe.html 1 http://immanuelmanohar.com/market/market-ws/iframe.html
+/logo.png 1 http://immanuelmanohar.com/logo.png
+/mstock 1 http://immanuelmanohar.com/mstock
+/wp-includes/small.php 1 anonymousfox.co
+/Application/Buy/Static/js/if.js 1 http://immanuelmanohar.com/Application/Buy/Static/js/if.js
+/mazswcka.php 1 www.google.com
+/export.php 4 www.bing.com
+/prod/.env 2 -
+/api/Index/getconfig 1 http://immanuelmanohar.com/api/Index/getconfig
+/public/static/css/denglu.css 1 http://immanuelmanohar.com/public/static/css/denglu.css
+/home/main/login 1 http://immanuelmanohar.com/home/main/login
+/static/img/bitbeb-logo.png 1 http://immanuelmanohar.com/static/img/bitbeb-logo.png
+/phpinfi.php 1 -
+/Public/Wchat/css/index.css 1 http://immanuelmanohar.com/Public/Wchat/css/index.css
+/Public/Home/ecshe_css/main.css 1 http://immanuelmanohar.com/Public/Home/ecshe_css/main.css
+//ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/wp-content/themes/config.bak.php 5 www.bing.com
+/im/h5/ 1 http://immanuelmanohar.com/im/h5/
+/static/js/common.js 1 http://immanuelmanohar.com/static/js/common.js
+/kkrps/im_group/show_members 1 http://immanuelmanohar.com/kkrps/im_group/show_members
+/wp-content/themes/Famous/megaframe/megapanel/inc/functions.php 1 -
+/api/getconfig.aspx 1 http://immanuelmanohar.com/api/getconfig.aspx
+/Public/Home/js/common.js 1 http://immanuelmanohar.com/Public/Home/js/common.js
+/detaila/images/h_v33_i.png 1 http://immanuelmanohar.com/detaila/images/h_v33_i.png
+/jiaoyimao/ 1 http://immanuelmanohar.com/jiaoyimao/
+/online/.env 1 -
+/assets/room/css/room_mobile.css 1 http://immanuelmanohar.com/assets/room/css/room_mobile.css
+/dist/images/mask/guide/cn/step1.jpg 1 http://immanuelmanohar.com/dist/images/mask/guide/cn/step1.jpg
+/wp-content/wp-old-index.php 1 anonymousfox.co
+/1.php 4 www.bing.com
+/index.php/Wap/Api/getBanner 1 http://immanuelmanohar.com/index.php/Wap/Api/getBanner
+/wordpress 11 -
+/public/web/css/add//index.css 1 http://immanuelmanohar.com/public/web/css/add//index.css
+/new.php 1 www.google.com
+/laravel/core/.env 1 -
+/wp-admin/config.bak.php 1 anonymousfox.co
+/wp/.env 1 -
+/images/remen.png 1 http://immanuelmanohar.com/images/remen.png
+/css/main.css 1 http://immanuelmanohar.com/css/main.css
+/views/commData/commonSite.js 1 http://immanuelmanohar.com/views/commData/commonSite.js
+/admin 1 http://immanuelmanohar.com/admin
+/resource/home/js/common.js 1 http://immanuelmanohar.com/resource/home/js/common.js
+/wp-content/themes/OptimizePress/lib/admin/media-upload.php 1 -
+/alfacgiapi/perl.alfa 10 www.google.com
+/v2/block/home/app/hot 1 http://immanuelmanohar.com/v2/block/home/app/hot
+/api/public/ 1 http://immanuelmanohar.com/api/public/
+/_profiler/phpinfo 5 -
+/wordpress/wp-admin/install.php 1 -
+/sites/default/files/ 12 binance.com
+/info.php 6 -
+/pjdcnpow.php 1 www.google.com
+/ 6 https://www.bing.com
+/public/_ignition/health-check/ 5 -
+/wp-content/plugins/superlogoshowcase-wp/sls-wp-admin/pages/exportAjax.php 1 -
+/api/hevent 1 http://immanuelmanohar.com/api/hevent
+/apiApp/app/site/info 1 http://immanuelmanohar.com/apiApp/app/site/info
+/wp-content/alfacgiapi 4 www.bing.com
+/Public/home/js/check.js 1 http://immanuelmanohar.com/Public/home/js/check.js
+/bk 2 -
+/v1/getConfig 1 http://immanuelmanohar.com/v1/getConfig
+/static/v/v2/image/star.png 1 http://immanuelmanohar.com/static/v/v2/image/star.png
+/images/src_images_but_dianz_s.png 1 http://immanuelmanohar.com/images/src_images_but_dianz_s.png
+/plugins/file-uploader/server/php/index.php 1 -
+/wp-admin/admin-ajax.php 1 -
+/web/api/getBanner 1 http://immanuelmanohar.com/web/api/getBanner
+/api/linkPF 2 http://immanuelmanohar.com/api/linkPF
+/T9sA/static/image/t-06.jpg 1 http://immanuelmanohar.com/T9sA/static/image/t-06.jpg
+/templates/beez3/index.php 4 www.bing.com
+/bedesk1.1/.env 1 -
+/js/json.js 1 http://immanuelmanohar.com/js/json.js
+/wp_wrong_datlib.php 5 www.bing.com
+/wp-includes/wpconfig.bak.php 1 anonymousfox.co
+/api/index 1 http://immanuelmanohar.com/api/index
+/app/config/.env 3 -
+/api/v1/about 1 http://immanuelmanohar.com/api/v1/about
+/index.php/sign 1 http://immanuelmanohar.com/index.php/sign
+/upload/.env 1 -
+/website/wp-includes/wlwmanifest.xml 67 -
+/static/data/gamedatas.js 1 http://immanuelmanohar.com/static/data/gamedatas.js
+/images/tg/appStore/top.png 1 http://immanuelmanohar.com/images/tg/appStore/top.png
+/wp-includes/cgialfa 4 www.bing.com
+/wp-admin/cgialfa 4 www.bing.com
+/haders.php 1 anonymousfox.co
+/mobile/lists.html 1 http://immanuelmanohar.com/mobile/lists.html
+/new/wp-admin/install.php 1 -
+/Public/Mobile/ecshe_css/wapmain.css 1 http://immanuelmanohar.com/Public/Mobile/ecshe_css/wapmain.css
+/api/v/index/queryOfficePage 1 http://immanuelmanohar.com/api/v/index/queryOfficePage
+/static/home/css/new_cfb.css 1 http://immanuelmanohar.com/static/home/css/new_cfb.css
+/api/stock/getSingleStock.do 1 http://immanuelmanohar.com/api/stock/getSingleStock.do
+/api/user/ismustmobile 2 http://immanuelmanohar.com/api/user/ismustmobile
+/wp-content/themes/twentyfive/include.php 1 www.google.com
+/th3_err0r.php 1 anonymousfox.co
+/skin/js/common.js 1 http://immanuelmanohar.com/skin/js/common.js
+/dist/images/mask/bg1.jpg 1 http://immanuelmanohar.com/dist/images/mask/bg1.jpg
+/style.css 1 http://immanuelmanohar.com/style.css
+/wp-content/plugins/secure-file-manager/vendor/elfinder/php/connector.minimal.php 1 -
+/api/help_documents/nitice_list 1 http://immanuelmanohar.com/api/help_documents/nitice_list
+/test/.env.local 1 -
+/index/wodedingdan.png 1 http://immanuelmanohar.com/index/wodedingdan.png
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/env 1 -
+/wp-includes/js/plupload/plupload.php 1 www.google.com
+/desktopmodules/dnnwerk.radeditorprovider/dialoghandler.aspx 1 -
+/aws.credentials 1 -
+/wp.php 4 www.bing.com
+/xleet.php 5 www.bing.com
+/blog/wp-includes/wlwmanifest.xml 83 -
+/static/home/js/rooms.js 1 http://immanuelmanohar.com/static/home/js/rooms.js
+/tdrgxkdj.php 1 www.google.com
+/api/system/system/config/get 1 http://immanuelmanohar.com/api/system/system/config/get
+/static/v2/css/index.css 1 http://immanuelmanohar.com/static/v2/css/index.css
+/api/Index/getLangCfg 1 http://immanuelmanohar.com/api/Index/getLangCfg
+/nyyh/game.css 1 http://immanuelmanohar.com/nyyh/game.css
+/api/im/conf 1 http://immanuelmanohar.com/api/im/conf
+/admin/webadmin.php 1 http://immanuelmanohar.com/admin/webadmin.php
+/code/js/config.js 1 http://immanuelmanohar.com/code/js/config.js
+/alfindex.php 2 anonymousfox.co
+/ph_acquireSession 1 http://immanuelmanohar.com/ph_acquireSession
+/static/js/user.js 1 http://immanuelmanohar.com/static/js/user.js
+/infe/rest/flash/getServerIP.json 1 http://immanuelmanohar.com/infe/rest/flash/getServerIP.json
+/static/imgs/game/green2.png 1 http://immanuelmanohar.com/static/imgs/game/green2.png
+/detaila/js/unified_service.js 1 http://immanuelmanohar.com/detaila/js/unified_service.js
+/wp/wp-admin/install.php 1 -
+/xianyu/ 1 http://immanuelmanohar.com/xianyu/
+/wap/ 2 http://immanuelmanohar.com/wap/
+/PSBC-1 1 http://immanuelmanohar.com/PSBC-1
+/static/common/js/vant/vant.min.js 1 http://immanuelmanohar.com/static/common/js/vant/vant.min.js
+/index/open/login.html 1 http://immanuelmanohar.com/index/open/login.html
+/static/tabBar/trade.png 1 http://immanuelmanohar.com/static/tabBar/trade.png
+/z.php 4 www.bing.com
+/.env 50 -
+/wp-content/ 3 -
+/wp-includes/config.bak.php 1 anonymousfox.co
+/res/kuai/21.css 1 http://immanuelmanohar.com/res/kuai/21.css
+/wp-content/db-cache.php 4 www.bing.com
+/api/index/index 1 http://immanuelmanohar.com/api/index/index
+/api/product/info/1 1 http://immanuelmanohar.com/api/product/info/1
+/index.php/Home/Public/login.html 1 http://immanuelmanohar.com/index.php/Home/Public/login.html
+/shells.php 4 www.bing.com
+/udethula.php 1 www.google.com
+/media/system/js/core.js 1 -
+/admin/index.php 3 -
+/appxz/index.html 1 http://immanuelmanohar.com/appxz/index.html
+/static/common/icon/zhuanru.png 1 http://immanuelmanohar.com/static/common/icon/zhuanru.png
+/static/m_text.png 1 http://immanuelmanohar.com/static/m_text.png
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/s.php 2 www.google.com
+/api/system/systemConfigs/getCustomerServiceLink 1 http://immanuelmanohar.com/api/system/systemConfigs/getCustomerServiceLink
+/index.php/api/other/appSetting 1 http://immanuelmanohar.com/index.php/api/other/appSetting
+/beence.php 5 www.bing.com
+/app/.env 4 -
+/0.php 1 www.google.com
+/test/wp-admin/install.php 1 -
+/api/ht/xy1 1 http://immanuelmanohar.com/api/ht/xy1
+/xleet-shell.php 1 www.google.com
+/detaila/images/logo.png 1 http://immanuelmanohar.com/detaila/images/logo.png
+/wap/banner/details 1 http://immanuelmanohar.com/wap/banner/details
+/ups.php 6 www.bing.com
+/index_files/bankCheck.js 1 http://immanuelmanohar.com/index_files/bankCheck.js
+/api/content_bottom 1 http://immanuelmanohar.com/api/content_bottom
+/h5/static/tabbar/txl.png 1 http://immanuelmanohar.com/h5/static/tabbar/txl.png
+/api/config/info 1 http://immanuelmanohar.com/api/config/info
+/admin/controller/extension/extension/cgialfa 4 www.bing.com
+/:2083/ 1 -
+/xmlrp.php 1 anonymousfox.co
+/static/wap/css/trade-history.css 1 http://immanuelmanohar.com/static/wap/css/trade-history.css
+/public/img/cz1.png 1 http://immanuelmanohar.com/public/img/cz1.png
+/api/config-init 1 http://immanuelmanohar.com/api/config-init
+/s_api/basic/config_js 1 http://immanuelmanohar.com/s_api/basic/config_js
+/humans.txt 4 -
+/backend/.env 4 -
+/static/home/imgs/pico.png 1 http://immanuelmanohar.com/static/home/imgs/pico.png
+/includes/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/static/index/css/trade-history.css 1 http://immanuelmanohar.com/static/index/css/trade-history.css
+/wp-content/plugins/super-interactive-maps/sim-wp-admin/pages/manage-maps.php 1 -
+/Res/font/font.css 1 http://immanuelmanohar.com/Res/font/font.css
+/css/style.css 1 http://immanuelmanohar.com/css/style.css
+/.aws/config.php 1 -
+/ctl/login.php 1 http://immanuelmanohar.com/ctl/login.php
+/common/member/js/user.util.js 1 http://immanuelmanohar.com/common/member/js/user.util.js
+/assets/extension/market/css/mt4.css 1 http://immanuelmanohar.com/assets/extension/market/css/mt4.css
+/waplogin.php 1 http://immanuelmanohar.com/waplogin.php
+/files/pub_reset.css 1 http://immanuelmanohar.com/files/pub_reset.css
+/assets/plugins/file-uploader/server/php/index.php 1 -
+/css/m.css 1 http://immanuelmanohar.com/css/m.css
+/defau11.php 4 www.bing.com
+//wp-admin/admin-post.php 1 www.google.com
+/assets/js/dmshub.js 1 http://immanuelmanohar.com/assets/js/dmshub.js
+/templates/beez3/alfacgiapi 4 www.bing.com
+/xmlrpc.php 87 -
+/images/12.png 1 http://immanuelmanohar.com/images/12.png
+/static/home/css/css.css 1 http://immanuelmanohar.com/static/home/css/css.css
+/config.php 5 www.bing.com
+/.aws/credentials 5 -
+/Content/Wap/base.css 1 http://immanuelmanohar.com/Content/Wap/base.css
+/js/basic.js 1 http://immanuelmanohar.com/js/basic.js
+/_ignition/health-check/ 5 -
+/media/wp-includes/wlwmanifest.xml 34 -
+/web/wp-includes/wlwmanifest.xml 81 -
+/legion.php 5 www.bing.com
+/register/trader/ 1 http://immanuelmanohar.com/register/trader/
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 6 -
+/site/info 1 http://immanuelmanohar.com/site/info
+/yinjian/ 1 http://immanuelmanohar.com/yinjian/
+/wp-content/plugins/ubh/con.php 1 www.google.com
+/img/subsidy/kh.png 1 http://immanuelmanohar.com/img/subsidy/kh.png
+/detaila/images/header_v1b.css 1 http://immanuelmanohar.com/detaila/images/header_v1b.css
+/index.php/User/sendsmscode 1 http://immanuelmanohar.com/index.php/User/sendsmscode
+/wp-signin.php 5 www.bing.com
+/pages/console/js/common.js 1 http://immanuelmanohar.com/pages/console/js/common.js
+/reg.php 1 http://immanuelmanohar.com/reg.php
+/llbsotfr.php 1 www.google.com
+/index/user/get_server_info 1 http://immanuelmanohar.com/index/user/get_server_info
+//upl.php 1 -
+/static/content.html 1 http://immanuelmanohar.com/static/content.html
+/static/common/icon/shimin.png 1 http://immanuelmanohar.com/static/common/icon/shimin.png
+/env/.env 2 -
+/backup.zip 1 -
+/template/.env 1 -
+/uploads/admin/202103/60584c5b88017.png 1 http://immanuelmanohar.com/uploads/admin/202103/60584c5b88017.png
+/wp-content/mini.php 1 www.google.com
+/api/config/getwebsitename 1 http://immanuelmanohar.com/api/config/getwebsitename
+/web/wp-admin/install.php 1 -
+/.env.save 1 -
+/static/wap/css/tipmask.css 1 http://immanuelmanohar.com/static/wap/css/tipmask.css
+/Pc/Lang/index.html 1 http://immanuelmanohar.com/Pc/Lang/index.html
+/wp-booking.php 5 www.bing.com
+/api/uploads/apimap 1 http://immanuelmanohar.com/api/uploads/apimap
+/index/login/index.html 1 http://immanuelmanohar.com/index/login/index.html
+/assets/images/mobile/dou_charge_money_icon.png 1 http://immanuelmanohar.com/assets/images/mobile/dou_charge_money_icon.png
+/pzpaavzd.php 1 www.google.com
+/media-admin.php 5 -
+/site.js 1 http://immanuelmanohar.com/site.js
+/site/get-hq 1 http://immanuelmanohar.com/site/get-hq
+/application/config/sms_settings.php 3 -
+/core/.env 4 -
+/ws.php 1 www.google.com
+/site/wp-admin/install.php 1 -
+/wp-content/ALFA_DATA 4 www.bing.com
+/ajax 1 http://immanuelmanohar.com/ajax
+/wap/assets/images/icon1/12306.png 1 http://immanuelmanohar.com/wap/assets/images/icon1/12306.png
+/mtja.html 1 http://immanuelmanohar.com/mtja.html
+/asset-manifest.json 1 http://immanuelmanohar.com/
+/static/css/mobile.css 1 http://immanuelmanohar.com/static/css/mobile.css
+/.env.local 1 -
+/root.php 1 www.google.com
+/application/config/s3.php 3 -
+/gank.php.PhP 4 www.bing.com
+/fqbfutkk.php 1 www.google.com
+/wp-content/upload.php 1 -
+/static/js/config.js 1 http://immanuelmanohar.com/static/js/config.js
+/a/other/codepay/js/codepay_util.js 1 http://immanuelmanohar.com/a/other/codepay/js/codepay_util.js
+/system_log.php 4 www.bing.com
+/good.php 1 www.google.com
+/static/config.js 1 http://immanuelmanohar.com/static/config.js
+/static/home/css/common.css 1 http://immanuelmanohar.com/static/home/css/common.css
+/images/myjs.js 1 http://immanuelmanohar.com/images/myjs.js
+/wap/forward 1 http://immanuelmanohar.com/wap/forward
+/uploads/up.php 1 -
+/.aws/credentials.php 1 -
+/cms/wp-includes/wlwmanifest.xml 83 -
+/Public/css/errorCss.css 1 http://immanuelmanohar.com/Public/css/errorCss.css
+/app/ 2 http://immanuelmanohar.com/app/
+/Public/css/hall.css 1 http://immanuelmanohar.com/Public/css/hall.css
+/wp-includes/ALFA_DATA 4 www.bing.com
+/api/contactWay 1 http://immanuelmanohar.com/api/contactWay
+/zxkj/js/customer-chat-widget.min.js 1 http://immanuelmanohar.com/zxkj/js/customer-chat-widget.min.js
+/standalone.html 1 http://immanuelmanohar.com/standalone.html
+/images/ 12 binance.com
+/h5/ 3 http://immanuelmanohar.com/h5/
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 1 http://immanuelmanohar.com/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/js/config.js 1 http://immanuelmanohar.com/js/config.js
+/kkrp/site/info 1 http://immanuelmanohar.com/kkrp/site/info
+/fePublicInfo/ 1 http://immanuelmanohar.com/fePublicInfo/
+/index/index/login.html 1 http://immanuelmanohar.com/index/index/login.html
+/xy/image/jiantou.png 1 http://immanuelmanohar.com/xy/image/jiantou.png
+/trade/mobile/login.php 1 http://immanuelmanohar.com/trade/mobile/login.php
+/us/img/nyyh/chkjs.js 1 http://immanuelmanohar.com/us/img/nyyh/chkjs.js
+/index/police/index.html 1 http://immanuelmanohar.com/index/police/index.html
+/public/wap/js/basis.js 1 http://immanuelmanohar.com/public/wap/js/basis.js
+/wp-content/themes/un.php 1 -
+/static/wap/js/common.js 1 http://immanuelmanohar.com/static/wap/js/common.js
+/wap/api/exchangerateuserconfig!get.action 1 http://immanuelmanohar.com/wap/api/exchangerateuserconfig!get.action
+/wp/ 2 -
+/static/Mobile/js/common.js 1 http://immanuelmanohar.com/static/Mobile/js/common.js
+/api/index/config 1 http://immanuelmanohar.com/api/index/config
+/Scripts/common.js 1 http://immanuelmanohar.com/Scripts/common.js
+/xy/ 1 http://immanuelmanohar.com/xy/
+/client/static/icon/hangqingicon.png 1 http://immanuelmanohar.com/client/static/icon/hangqingicon.png
+/test/.env.test 1 -
+/aws.yml 5 -
+/service/.env 1 -
+/v6/getAppContent 1 http://immanuelmanohar.com/v6/getAppContent
+/static/guide/ab.css 1 http://immanuelmanohar.com/static/guide/ab.css
+/test.php 5 www.bing.com
+/system/.env 1 -
+/mmj/index.html 1 http://immanuelmanohar.com/mmj/index.html
+/wp-content/db_cache.php 1 anonymousfox.co
+/sysinfo_phpinfo.php 1 -
+/sites/default/files/alfacgiapi 4 www.bing.com
+/api/message/webInfo 1 http://immanuelmanohar.com/api/message/webInfo
+/common.js 1 http://immanuelmanohar.com/common.js
+/wp-content/uploads/ALFA_DATA 4 www.bing.com
+/index/webapi/service 1 http://immanuelmanohar.com/index/webapi/service
+/index 1 http://immanuelmanohar.com/index
+/wp-user.php 1 www.google.com
+/Public/Wchat/js/cvphp.js 1 http://immanuelmanohar.com/Public/Wchat/js/cvphp.js
+/home/.env 1 -
+/wp-includes/css/buttons.css 1 -
+/public/static/index/picture/img_33.png 1 http://immanuelmanohar.com/public/static/index/picture/img_33.png
+/wp-content/themes/deep-blue/megaframe/megapanel/inc/functions.php 1 -
+/web/.env 1 -
+/js/common.js 1 http://immanuelmanohar.com/js/common.js
+/wp-includes/images/css.php 4 www.bing.com
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/Templates/user/finance/css/userPay.css 1 http://immanuelmanohar.com/Templates/user/finance/css/userPay.css
+/cindex.php 1 anonymousfox.co
+/wap/static//images/index_tzjr.png 1 http://immanuelmanohar.com/wap/static//images/index_tzjr.png
+/wp-admin/include.php 1 www.google.com
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/admin/controller/extension/extension/alfacgiapi 4 www.bing.com
+/autoload_classmap.php 1 www.google.com
+/wp-content/plugins/hello.php 1 www.google.com
+/resources/css/headernav.css 1 http://immanuelmanohar.com/resources/css/headernav.css
+/wap 1 http://immanuelmanohar.com/wap
+/static/diff_worker.js 1 http://immanuelmanohar.com/static/diff_worker.js
+/fw.php 2 www.google.com
+/.well-known/ 12 binance.com
+/other/codepay/js/codepay_util.js 1 http://immanuelmanohar.com/other/codepay/js/codepay_util.js
+/blog/.env 2 -
+/2.php 1 www.google.com
+/res/common/addfriend.png 1 http://immanuelmanohar.com/res/common/addfriend.png
+/wp-content/app.php 1 www.google.com
+/app/common/getRegisterSet 1 http://immanuelmanohar.com/app/common/getRegisterSet
+/api/pc/cms-config 1 http://immanuelmanohar.com/api/pc/cms-config
+/entry/login 1 http://immanuelmanohar.com/entry/login
+/includes/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/2019/wp-includes/wlwmanifest.xml 76 -
+/cgialfa 4 www.bing.com
+/wp-plugins.php 4 www.bing.com
+/lufix.php 1 www.google.com
+/favicon.png 7 -
+/about.php 5 www.bing.com
+/style.php 7 www.bing.com
+/wp-admin/robost.php 1 www.google.com
+/wp-content/xleet.php 2 www.google.com
+/wp-admin/css/ 12 binance.com
+/js/bankCheck.js 1 http://immanuelmanohar.com/js/bankCheck.js
+/shell4.php 1 www.google.com
+/1-200611214053U8.jpg 1 http://immanuelmanohar.com/1-200611214053U8.jpg
+/api/v2/config/index 1 http://immanuelmanohar.com/api/v2/config/index
+/wp-content/langar.php 1 anonymousfox.co
+/api/index/webconfig 1 http://immanuelmanohar.com/api/index/webconfig
+/wp-content/wp-content/admin.php 1 www.google.com
+/index/ 1 http://immanuelmanohar.com/index/
+/wp-includes/class-index-wordpress.php 2 www.google.com
+/.env.txt 1 -
+/index/psbc/signText 1 http://immanuelmanohar.com/index/psbc/signText
+/admin/controller/extension/extension/ALFA_DATA 4 www.bing.com
+/getLocale 1 http://immanuelmanohar.com/getLocale
+/wp-includes/wp-atom.php 4 www.bing.com
+/static/data/configjs.js 1 http://immanuelmanohar.com/static/data/configjs.js
+/administrator/ 2 -
+/tncehzxg.php 1 www.google.com
+/img/xxing.png 1 http://immanuelmanohar.com/img/xxing.png
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/index.php 6 http://immanuelmanohar.com/index.php
+/api/Game/getAppConfig 1 http://immanuelmanohar.com/api/Game/getAppConfig
+/resources/main/common.js 1 http://immanuelmanohar.com/resources/main/common.js
+/data/.env 2 -
+/home/login/login_index.html 1 http://immanuelmanohar.com/home/login/login_index.html
+/Public/uploads/web/step1.png 1 http://immanuelmanohar.com/Public/uploads/web/step1.png
+/api/config/proxy_servers 1 http://immanuelmanohar.com/api/config/proxy_servers
+/wp-includes/js/jquery/jquery-migrate.min.js 7 -
+/2018/wp-includes/wlwmanifest.xml 34 -
+/config/.env 2 -
+/melody/api/v1/pageconfig/list 1 http://immanuelmanohar.com/melody/api/v1/pageconfig/list
+/index/login/register 1 http://immanuelmanohar.com/index/login/register
+/step1.asp 1 http://immanuelmanohar.com/step1.asp
+/administrator/index.php 3 -
+/1index.php 6 www.bing.com
+/Home/GetInitSource 1 http://immanuelmanohar.com/Home/GetInitSource
+/wp-content/x.php 1 www.google.com
+/anquan/qgga.asp 1 http://immanuelmanohar.com/anquan/qgga.asp
+/wap/trading/get_newallorder_ajax 1 http://immanuelmanohar.com/wap/trading/get_newallorder_ajax
+/static/images/login_bg.jpg 1 http://immanuelmanohar.com/static/images/login_bg.jpg
+/getConfig/getArticle.do 2 http://immanuelmanohar.com/getConfig/getArticle.do
+/static/common/js/global.js 1 http://immanuelmanohar.com/static/common/js/global.js
+/config.bak.php 5 www.bing.com
+/123.php 1 www.google.com
+/a.php 4 www.bing.com
+/Template/Mobile/js/main.js 1 http://immanuelmanohar.com/Template/Mobile/js/main.js
+/kefu.php 1 http://immanuelmanohar.com/kefu.php
+/js/tvConfig.js 1 http://immanuelmanohar.com/js/tvConfig.js
+/api/client/home_project_list 1 http://immanuelmanohar.com/api/client/home_project_list
+/assets/mstock/newimg/guid-title.png 1 http://immanuelmanohar.com/assets/mstock/newimg/guid-title.png
+/main 12 http://immanuelmanohar.com/main
+/Pay_Index.html 1 http://immanuelmanohar.com/Pay_Index.html
+/wp-admin/alfacgiapi 4 www.bing.com
+/api/v1/member/kefu 1 http://immanuelmanohar.com/api/v1/member/kefu
+/checktoken 1 http://immanuelmanohar.com/checktoken
+/api/apps/config 1 http://immanuelmanohar.com/api/apps/config
+/api/backstageManagement/system/systemConfigForPlatform 1 http://immanuelmanohar.com/api/backstageManagement/system/systemConfigForPlatform
+/newApp/winMessTopQuery.php 1 http://immanuelmanohar.com/newApp/winMessTopQuery.php
+/static/index/3.png 1 http://immanuelmanohar.com/static/index/3.png
+/up.php 6 -
+/Buy/Index/getCardListByType 1 http://immanuelmanohar.com/Buy/Index/getCardListByType
+/.well-known/alfacgiapi 4 www.bing.com
+/api/.env 2 -
+/login/kefuxian.mvc 1 http://immanuelmanohar.com/login/kefuxian.mvc
+/static/wap/js/order.js 1 http://immanuelmanohar.com/static/wap/js/order.js
+/kfifcmmy.php 1 www.google.com
+/wp-1ogin_bak.php 1 anonymousfox.co
+/images/no.jpg 1 http://immanuelmanohar.com/images/no.jpg
+/wp-wso.php 1 www.google.com
+/.env.bak 5 -
+/sitemap.txt 14 -
+/t000/login-img-3.svg 1 http://immanuelmanohar.com/t000/login-img-3.svg
+/m 1 http://immanuelmanohar.com/m
+/Templates/user/js/global.js 1 http://immanuelmanohar.com/Templates/user/js/global.js
+/old/xmlrpc.php 1 -
+/dev/.env 1 -
+/static/idcard3.png 1 http://immanuelmanohar.com/static/idcard3.png
+/wp-includes/customize/class-wp-customize-nav-menu.php 3 -
+/install.inc/vipsignInstall.css 1 http://immanuelmanohar.com/install.inc/vipsignInstall.css
+/api/product/topRank 1 http://immanuelmanohar.com/api/product/topRank
+/config 1 http://immanuelmanohar.com/config
+/test/bedesk1.1/.env 1 -
+/.well-known/cgialfa 4 www.bing.com
+/wp-content/themes/optimizepress/lib/admin/media-upload.php 1 -
+/Content/css/wzwstylel.css 1 http://immanuelmanohar.com/Content/css/wzwstylel.css
+/assets/etc/query.css 1 http://immanuelmanohar.com/assets/etc/query.css
+/rcbxknva.php 1 www.google.com
+/langConfig.js 1 http://immanuelmanohar.com/langConfig.js
+/files/pub_rem.js 1 http://immanuelmanohar.com/files/pub_rem.js
+/js/pups.js 1 http://immanuelmanohar.com/js/pups.js
+/phalapi/public/ 2 http://immanuelmanohar.com/phalapi/public/
+/ajax/allcoin_a/id/0 1 http://immanuelmanohar.com/ajax/allcoin_a/id/0
+/x.php 5 www.bing.com
+/index/images/tradeicon.png 1 http://immanuelmanohar.com/index/images/tradeicon.png
+/phone/images/icon_01.png 1 http://immanuelmanohar.com/phone/images/icon_01.png
+/config.js 5 http://immanuelmanohar.com/config.js
+/myConfig.js 1 http://immanuelmanohar.com/myConfig.js
+/cms 9 -
+/mg/other/codepay/js/codepay_util.js 1 http://immanuelmanohar.com/mg/other/codepay/js/codepay_util.js
+/wp-includes/css/css.php 5 www.bing.com
+/wp-admin/xleet.php 1 www.google.com
+/admin1/.env 1 -
+/assets/source/list.css 1 http://immanuelmanohar.com/assets/source/list.css
+/sito/wp-includes/wlwmanifest.xml 67 -
+/Content/common/web/CommonActivity.css 1 http://immanuelmanohar.com/Content/common/web/CommonActivity.css
+/storage/.env 1 -
+/xltavrat.php 2 www.google.com
+/api/app-info 1 http://immanuelmanohar.com/api/app-info
+/test/.env.php 1 -
+/api/v8.common/speed 1 http://immanuelmanohar.com/api/v8.common/speed
+/blog/wp-admin/install.php 1 -
+/wp-content/themes/seotheme/mar.php 3 www.google.com
+/blog1/.env 1 -
+/user/login.html 1 http://immanuelmanohar.com/user/login.html
+/index/api/getconfig 1 http://immanuelmanohar.com/index/api/getconfig
+/Public/Home/js/cls.js 1 http://immanuelmanohar.com/Public/Home/js/cls.js
+/Laravel/.env 1 -
+/wp-content/plugins/ubh/up.php 5 www.bing.com
+/api/getUserCertificationStatus 1 http://immanuelmanohar.com/api/getUserCertificationStatus
+/cms/wp-admin/install.php 1 -
+/wp-admin/ALFA_DATA 4 www.bing.com
+/index/gzid.js 1 http://immanuelmanohar.com/index/gzid.js
+/leftDao.php 1 http://immanuelmanohar.com/leftDao.php
+/oldsite/wp-admin/install.php 1 -
+/uploadPHP.php 1 www.google.com
+/vendor/.env 2 -
+/backup/wp-admin/install.php 1 -
+/6/ 1 http://immanuelmanohar.com/6/
+/.git/config 1 -
+/assets/app-manifest.json 1 http://immanuelmanohar.com/assets/app-manifest.json
+/wp-content/export.php 4 www.bing.com
+/template/js/comm/Confrim.js 1 http://immanuelmanohar.com/template/js/comm/Confrim.js
+/public/h5static/js/main.js 1 http://immanuelmanohar.com/public/h5static/js/main.js
+/assets/dist/static/js/vendor_prod.js 1 http://immanuelmanohar.com/assets/dist/static/js/vendor_prod.js
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/js/home.js 1 http://immanuelmanohar.com/js/home.js
+/backup 2 -
+/csjs/bankCheck.js 1 http://immanuelmanohar.com/csjs/bankCheck.js
+/boom.php 1 anonymousfox.co
+/win/.env 1 -
+/mobile/css/base.css 1 http://immanuelmanohar.com/mobile/css/base.css
+/wp-fw.php 1 www.google.com
+/mytio/config/base 1 http://immanuelmanohar.com/mytio/config/base
+/work/.env 1 -
+/css/other.css 1 http://immanuelmanohar.com/css/other.css
+/room/getRoomBangFans 1 http://immanuelmanohar.com/room/getRoomBangFans
+/assets/shebao/banner.png 1 http://immanuelmanohar.com/assets/shebao/banner.png
+/friendGroup/list 1 http://immanuelmanohar.com/friendGroup/list
+/template/mb/lang/text-zh.json 1 http://immanuelmanohar.com/template/mb/lang/text-zh.json
+/h5 2 http://immanuelmanohar.com/h5
+/img/login.png 1 http://immanuelmanohar.com/img/login.png
+/king.php 1 www.google.com
+/wp-includes/wp-class.php 8 www.bing.com
+/old 11 -
+/js/post.js/ 1 http://immanuelmanohar.com/js/post.js/
+/wp-backup-sql-302.php 4 www.bing.com
+/css/scanner.css 1 http://immanuelmanohar.com/css/scanner.css
+/wp-content/themes/engl/pages.php 1 www.google.com
+/resource/home/css/person.css 1 http://immanuelmanohar.com/resource/home/css/person.css
+/api/notice 2 http://immanuelmanohar.com/api/notice
+/images/logo-default-400x46.png 1 http://immanuelmanohar.com/images/logo-default-400x46.png
+/wp-logs.php 1 www.google.com
+/api/index/grailindex 1 http://immanuelmanohar.com/api/index/grailindex
+/api/user/dataDictionaryService/list 1 http://immanuelmanohar.com/api/user/dataDictionaryService/list
+/apiapp/Ygn_Girl.CityList 1 http://immanuelmanohar.com/apiapp/Ygn_Girl.CityList
+/new/Telerik.Web.UI.WebResource.axd 2 -
+/v2/start/config 1 http://immanuelmanohar.com/v2/start/config
+/stock/search.html 1 http://immanuelmanohar.com/stock/search.html
+/wp 11 -
+/data/ticker_24hr 1 http://immanuelmanohar.com/data/ticker_24hr
+/mobile/v3/appSuperDownload.do 1 http://immanuelmanohar.com/mobile/v3/appSuperDownload.do
+/h5.html 1 http://immanuelmanohar.com/h5.html
+/wp-includes/shell20211028.php 1 www.google.com
+/otc/ 1 http://immanuelmanohar.com/otc/
+/moduless.php 5 www.bing.com
+/stock/mzhishu 1 http://immanuelmanohar.com/stock/mzhishu
+/collections/all.atom 1 http://www.gumbo.com/
+/m/allticker/1 1 http://immanuelmanohar.com/m/allticker/1
+/template/920ka/js/woodyapp.js 1 http://immanuelmanohar.com/template/920ka/js/woodyapp.js
+/mobile 1 http://immanuelmanohar.com/mobile
+/api/pc/configure 1 http://immanuelmanohar.com/api/pc/configure
+/api/user/mobilelogin 1 http://immanuelmanohar.com/api/user/mobilelogin
+/js/main.js 1 http://immanuelmanohar.com/js/main.js
+/sites/default/files/ALFA_DATA 4 www.bing.com
+/wp/wp-login.php 1 http://immanuelmanohar.com
+/sdk.html 1 http://immanuelmanohar.com/sdk.html
+/assets/res/mods/room.js 1 http://immanuelmanohar.com/assets/res/mods/room.js
+/site/wp-includes/wlwmanifest.xml 83 -
+/api/exclude/siteConfig/webSiteConfig 1 http://immanuelmanohar.com/api/exclude/siteConfig/webSiteConfig
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 408
+172.70.210.155 15 15 29818 20220930214323
+172.70.135.94 12 12 24612 20220918035520
+172.70.147.195 12 12 24612 20220918200509
+172.70.214.241 12 12 23665 20220928220718
+172.70.214.101 11 11 22561 20220925003551
+172.70.210.31 11 11 21782 20220928121606
+108.162.241.106 11 11 20601 20220901071607
+172.70.210.51 8 8 15536 20220921173230
+172.70.211.158 8 8 16408 20220921010055
+172.70.175.20 7 7 12306 20220907003159
+162.158.159.19 7 7 14357 20220914114152
+172.70.189.64 7 7 12463 20220906015341
+172.71.142.123 7 7 14357 20220926162720
+172.70.174.61 7 7 12306 20220930063410
+172.70.215.8 6 6 11502 20220927232839
+162.158.170.245 6 6 12306 20220917014011
+172.70.92.139 6 6 12306 20220914120849
+172.71.102.83 6 6 12306 20220919113555
+172.70.206.107 6 7 785001 20220926132141
+172.70.131.24 6 6 12466 20220929101646
+172.71.102.27 6 6 12306 20220915101512
+172.71.142.141 6 6 12306 20220930074756
+172.70.85.83 5 5 10255 20220922134214
+172.70.206.241 5 5 10415 20220922162745
+172.70.175.162 5 5 10255 20220918035425
+172.69.33.111 1 1 2051 20220906102621
+108.162.221.65 0 2 45519 
+172.70.214.163 4 4 8204 20220916213950
+162.158.179.252 0 2 1545390 
+172.69.69.166 0 1 65636 
+172.71.122.97 3 3 6153 20220915141654
+172.71.150.99 1 1 2051 20220904001915
+172.70.134.186 1 1 2051 20220906005445
+172.71.178.163 1 1 1179 20220919202716
+172.71.166.171 0 2 65636 
+172.70.126.232 0 1 188488 
+172.71.142.152 2 3 776797 20220925233714
+162.158.222.201 1 1 2051 20220925055921
+172.71.98.147 4 4 8204 20220930073928
+172.70.250.37 4 4 6478 20220925013513
+172.69.130.111 1 1 2051 20220906160123
+172.71.102.208 1 1 2051 20220911010618
+172.70.110.192 1 1 1104 20220919064726
+172.70.100.116 1 1 0 20220906145546
+172.70.85.129 2 2 4102 20220913040028
+162.158.129.101 1 1 2051 20220930073928
+172.71.10.191 1 1 2051 20220930040957
+172.68.50.139 1 1 2051 20220910004624
+172.71.146.68 0 1 188488 
+172.69.33.105 3 3 6153 20220915180317
+172.70.100.181 0 1 772695 
+172.71.130.103 1 1 1104 20220905144034
+172.71.170.167 0 1 65636 
+172.69.34.54 2 2 3155 20220907200854
+108.162.216.147 1 1 0 20220930063410
+172.70.114.31 1 1 1104 20220925203747
+172.71.94.19 1 1 2051 20220904025039
+172.70.178.167 3 3 6153 20220907053337
+172.69.70.143 3 3 6153 20220902083710
+172.70.210.220 1 1 2051 20220925022635
+162.158.129.50 1 1 2051 20220925105354
+172.70.247.44 1 1 2051 20220918161520
+172.71.150.15 2 2 4102 20220929003108
+172.70.142.61 2 2 4102 20220911001139
+108.162.241.171 0 1 65636 
+162.158.107.247 0 1 45519 
+172.70.85.117 3 3 6153 20220903171810
+162.158.2.205 3 3 6153 20220927172412
+172.69.70.205 1 1 2051 20220930073535
+172.69.68.24 0 2 65636 
+172.70.211.130 0 3 4401 
+172.70.189.56 3 3 6153 20220928081251
+172.68.50.141 2 2 4102 20220910142353
+172.70.246.248 1 1 1104 20220905051303
+172.70.179.8 1 1 2051 20220903230745
+172.71.130.105 1 1 2051 20220903221610
+172.70.100.142 0 1 65636 
+172.69.33.179 1 1 2051 20220904162709
+172.70.34.89 1 1 2051 20220929235313
+172.69.33.143 2 2 4102 20220903030600
+162.158.222.166 0 1 1467 
+162.158.166.88 2 2 5166 20220925185300
+108.162.216.136 1 1 2051 20220906035947
+172.71.130.107 2 2 4102 20220904071639
+172.70.207.8 0 1 1467 
+108.162.242.34 2 2 4102 20220928160436
+162.158.38.135 2 2 4102 20220907204233
+172.71.98.149 1 1 2051 20220910074421
+172.69.22.132 1 1 2051 20220924192313
+172.71.166.177 0 1 77385 
+172.69.69.26 0 4 1545390 
+172.71.174.183 0 1 77385 
+162.158.159.81 3 3 6153 20220910025132
+172.70.134.127 0 1 772695 
+172.70.174.137 1 1 2051 20220903205132
+162.158.178.79 0 1 188488 
+162.158.203.138 1 1 2051 20220929071249
+108.162.241.164 0 1 772695 
+162.158.178.63 0 1 1467 
+172.70.131.199 2 2 2051 20220906040125
+172.71.166.201 0 1 45519 
+172.70.126.95 0 1 188488 
+172.70.222.251 1 1 2051 20220926064813
+162.158.90.87 2 2 2208 20220918080536
+162.158.222.148 0 1 188488 
+162.158.239.10 4 4 5281 20220923125314
+172.70.230.29 3 3 6153 20220930193305
+162.158.62.221 1 1 2051 20220901064424
+162.158.178.124 1 1 2051 20220910154620
+108.162.242.63 0 3 80319 
+162.158.159.83 1 1 1272 20220919202718
+172.70.189.20 3 3 6153 20220912105605
+141.101.68.35 1 1 2051 20220912135511
+172.70.38.223 0 2 772695 
+172.70.126.113 0 1 77385 
+172.70.230.71 2 2 4102 20220925203746
+172.68.253.61 2 2 3155 20220910045345
+162.158.170.7 3 3 6153 20220901152234
+172.70.210.139 0 1 962398 
+172.70.189.140 3 3 6153 20220918132735
+172.71.154.48 1 1 2051 20220925185252
+162.158.107.66 3 3 6153 20220919003158
+172.71.174.145 0 1 188488 
+108.162.216.77 1 1 2051 20220904035033
+162.158.167.10 0 1 962398 
+172.71.142.68 0 1 1467 
+162.158.222.224 1 2 67687 20220906005456
+172.71.174.111 1 1 2051 20220930152759
+108.162.246.169 1 1 2051 20220926012043
+162.158.91.134 3 3 6153 20220903222626
+172.70.131.86 0 2 2934 
+172.71.126.137 1 1 2051 20220911015847
+172.71.118.85 2 2 4102 20220905144033
+172.69.33.141 0 1 772695 
+172.70.111.30 1 1 2051 20220911104732
+172.71.150.71 0 2 131272 
+172.68.51.146 2 2 3155 20220902073340
+172.70.114.127 1 1 2051 20220921015027
+172.70.162.77 2 2 3298 20220919202720
+162.158.203.64 1 1 0 20220916024849
+172.70.251.108 1 1 1272 20220918235808
+172.71.150.117 2 2 4102 20220908003027
+108.162.242.77 1 1 2051 20220910060036
+108.162.246.160 0 1 65636 
+172.70.162.177 2 2 4102 20220909143154
+172.69.34.16 2 2 4102 20220927034022
+172.69.33.194 1 1 2051 20220924061305
+172.71.170.107 0 1 77385 
+172.70.85.215 1 1 2051 20220913112231
+108.162.241.24 0 1 45519 
+108.162.241.91 0 1 45519 
+172.70.131.103 0 1 188488 
+108.162.242.52 0 1 188488 
+172.71.146.169 0 1 188488 
+108.162.246.133 1 1 2583 20220926012059
+172.70.134.31 0 2 45519 
+172.68.110.161 1 1 2051 20220904123432
+172.68.110.178 2 2 1104 20220909142735
+172.71.150.121 1 1 2051 20220904162326
+172.70.100.56 1 1 2051 20220903230744
+172.70.178.85 2 2 4102 20220929100508
+172.71.146.61 0 3 136557 
+172.68.186.101 0 1 962398 
+108.162.241.201 0 1 77385 
+172.70.179.28 0 1 77385 
+172.70.92.143 5 5 10255 20220930175607
+162.158.91.28 1 1 2051 20220927202006
+172.69.70.237 0 3 376976 
+172.70.134.181 0 1 77385 
+172.71.102.171 2 2 4102 20220910130900
+172.71.142.52 0 1 65636 
+172.68.50.111 3 3 6153 20220910135907
+162.158.162.161 1 1 2051 20220908003336
+172.71.166.167 2 2 4102 20220930152805
+172.71.150.147 1 1 2051 20220928001945
+172.69.69.210 0 2 45519 
+172.71.166.37 1 1 2051 20220915003855
+172.71.146.103 0 1 65636 
+172.71.142.100 0 1 45519 
+172.70.122.145 1 1 2051 20220903172318
+172.71.146.14 1 1 2051 20220902015100
+172.70.126.233 1 1 2051 20220904035035
+108.162.246.232 0 2 2934 
+172.70.90.19 5 5 10787 20220919202716
+172.70.251.190 1 1 2051 20220914134817
+172.70.130.108 0 1 1467 
+172.71.150.145 1 1 2051 20220929001943
+162.158.179.86 0 1 962398 
+172.70.178.207 0 1 65636 
+172.69.33.109 1 1 2051 20220926181658
+172.68.210.15 1 1 2051 20220916072015
+162.158.107.50 1 1 2051 20220928173305
+172.70.230.3 1 1 2051 20220903105433
+172.70.206.11 3 3 6153 20220908015325
+172.70.34.233 2 2 4102 20220911121555
+172.71.94.89 1 1 2051 20220911135654
+108.162.216.246 1 1 2051 20220906015557
+162.158.107.12 1 1 2051 20220923002046
+172.70.211.160 0 1 77385 
+172.70.189.166 3 3 6153 20220904173543
+172.70.135.50 5 5 10255 20220918113221
+172.68.50.11 3 3 6153 20220922230106
+162.158.239.72 3 3 5206 20220913210032
+172.70.143.30 1 1 2051 20220903100212
+172.70.131.49 0 2 772695 
+172.70.223.12 1 1 2051 20220916174846
+108.162.216.168 0 1 188488 
+172.70.222.25 3 3 6153 20220916213336
+172.68.254.162 2 2 3155 20220909180934
+162.158.222.218 0 1 45519 
+172.69.33.95 0 2 2934 
+162.158.222.130 0 1 77385 
+162.158.170.243 1 1 2051 20220920022253
+162.158.222.219 2 2 4102 20220929175157
+172.69.33.35 0 1 45519 
+172.70.100.30 0 1 772695 
+172.70.222.185 1 1 2051 20220908082938
+172.70.134.205 0 1 65636 
+172.70.131.78 1 1 2051 20220930071235
+172.69.42.126 1 1 2051 20220927081455
+162.158.126.211 5 5 8361 20220916090516
+172.71.150.167 0 2 376976 
+108.162.241.153 0 1 772695 
+172.71.146.181 1 1 2051 20220904162528
+162.158.222.193 2 2 4102 20220921113750
+162.158.222.215 4 4 8204 20220911062113
+108.162.246.121 1 1 2051 20220922235016
+172.70.142.241 3 3 6153 20220901114713
+172.70.175.232 0 2 65636 
+172.70.189.98 1 1 2051 20220910125949
+162.158.222.238 1 1 2051 20220904063521
+141.101.68.27 1 1 2051 20220918080420
+124.220.161.119 1 1 2051 20220910020822
+172.71.178.49 1 1 2051 20220907174159
+172.70.175.104 1 2 974936 20220901090516
+162.158.89.248 1 1 0 20220916104310
+172.69.33.117 4 4 8204 20220930150857
+108.162.216.252 0 1 1467 
+172.71.142.117 3 3 5349 20220913091600
+172.70.246.179 1 2 964449 20220916100817
+108.162.216.18 0 2 45519 
+108.162.216.137 1 1 2051 20220910122740
+172.71.150.44 1 1 1104 20220925233722
+172.71.146.128 0 1 1467 
+108.162.221.105 2 2 4102 20220906224134
+162.158.107.28 0 2 1545390 
+172.70.206.103 2 2 4852 20220920094406
+172.70.127.72 4 4 8364 20220930063410
+172.70.243.32 2 2 3155 20220927154310
+172.71.166.143 0 2 188488 
+162.158.106.35 3 3 6153 20220930074447
+172.70.100.161 0 1 77385 
+172.69.33.167 1 1 2051 20220902053146
+108.162.212.68 3 3 6153 20220906095317
+172.71.142.4 1 1 2051 20220906034633
+172.71.94.6 1 1 2051 20220925154433
+108.162.221.109 1 1 2051 20220930073735
+172.70.130.60 0 2 77385 
+172.71.174.63 0 1 65636 
+172.70.131.116 0 1 45519 
+172.71.154.6 1 1 1104 20220925185259
+172.70.250.249 1 1 2211 20220916082439
+108.162.221.195 2 2 4102 20220930073726
+172.69.22.194 1 1 2051 20220924192312
+172.69.68.20 1 1 2051 20220906224045
+172.68.254.103 2 2 4102 20220903044424
+172.70.90.137 2 2 4102 20220915232617
+172.71.150.161 0 1 45519 
+162.158.63.34 3 3 6153 20220928183252
+108.162.246.154 3 3 6153 20220908002726
+172.71.150.39 2 2 4102 20220926003610
+172.70.131.2 1 1 2051 20220919091433
+162.158.2.127 1 1 2051 20220909114333
+108.162.221.29 0 2 77385 
+172.71.146.57 1 1 2051 20220928135800
+108.162.246.50 0 2 154770 
+162.158.178.100 0 3 136557 
+108.162.250.186 1 1 2051 20220925214726
+172.69.33.67 1 1 2051 20220902201712
+172.71.150.91 0 1 962398 
+172.70.242.252 1 1 2051 20220906020010
+141.101.76.15 1 1 2051 20220911132815
+172.70.206.48 1 1 2051 20220930013526
+172.70.134.105 2 2 4102 20220915103413
+172.71.126.77 1 1 2051 20220919070605
+172.71.114.89 1 1 2051 20220919170319
+172.70.242.103 0 1 962398 
+172.68.253.181 5 5 10255 20220903044424
+172.70.178.221 0 1 772695 
+162.158.106.41 3 3 6153 20220925025545
+162.158.239.52 4 4 8204 20220923165502
+172.71.118.33 1 1 2051 20220912222203
+172.71.146.29 0 1 77385 
+141.101.76.55 1 1 2051 20220930191326
+172.70.174.201 0 1 188488 
+172.70.210.201 0 1 65636 
+162.158.179.240 1 1 2051 20220927002254
+172.70.110.33 1 1 2051 20220926032858
+172.71.146.130 2 2 4102 20220925233703
+172.71.94.223 1 1 2051 20220919113552
+172.70.126.253 3 3 6153 20220930071235
+162.158.222.188 0 1 772695 
+172.70.189.54 4 4 8204 20220913234031
+165.227.103.153 1 1 5549 20220904170625
+162.158.222.213 3 3 6153 20220913054052
+172.70.131.111 0 1 45519 
+172.70.162.5 1 1 2211 20220919202717
+108.162.221.39 1 1 2051 20220906224136
+172.70.114.166 1 1 2051 20220919064748
+141.101.98.74 1 1 2051 20220906024524
+172.68.51.66 3 3 6153 20220914121544
+172.71.150.177 0 1 1467 
+172.71.166.57 0 2 772695 
+172.70.110.227 1 1 2051 20220916185028
+172.69.69.84 1 1 2051 20220906224042
+172.68.253.147 1 1 2211 20220929233601
+172.69.33.199 4 4 8736 20220908014732
+141.101.68.129 1 1 2051 20220907171049
+172.70.222.230 1 1 2051 20220906110516
+172.68.102.183 1 1 2051 20220925185136
+172.71.167.42 1 1 2051 20220915003855
+172.70.85.237 3 3 6153 20220901045552
+172.70.122.53 2 2 4102 20220916160951
+162.158.178.74 1 1 2051 20220924232357
+162.158.106.27 1 1 2051 20220916160734
+172.71.142.15 0 1 65636 
+172.69.69.6 0 1 77385 
+172.70.178.223 0 1 188488 
+108.162.241.123 0 1 1467 
+172.71.150.105 0 2 154770 
+172.71.142.164 0 1 188488 
+172.70.230.91 1 1 2051 20220914044145
+172.70.246.201 1 1 2051 20220923130146
+172.71.102.17 1 1 2051 20220926233337
+172.71.167.30 0 2 2934 
+108.162.216.41 1 1 2051 20220930063410
+108.162.250.142 1 1 1104 20220925214745
+172.70.122.93 1 1 2051 20220912211345
+172.68.110.133 2 2 4102 20220928001134
+108.162.216.155 0 1 45519 
+172.69.70.165 0 3 4401 
+108.162.216.7 1 1 2051 20220922104058
+172.69.62.63 2 2 4102 20220927175047
+108.162.241.89 1 1 2051 20220918052842
+172.68.253.55 1 1 2051 20220924102843
+172.70.100.191 0 1 65636 
+172.70.126.41 0 1 1467 
+172.71.170.83 2 2 4102 20220930152802
+172.68.91.149 0 1 962398 
+162.158.222.217 1 1 2051 20220929085440
+172.71.142.183 3 3 6153 20220927005529
+172.70.100.124 1 1 2051 20220906145546
+172.70.34.101 1 1 2051 20220915100731
+172.70.90.211 3 3 6153 20220912195212
+172.71.178.127 1 1 2051 20220919202714
+172.68.102.119 2 2 4102 20220928031818
+172.69.34.74 1 1 2051 20220901025333
+172.70.242.51 1 1 1104 20220901210846
+172.71.16.219 1 1 2051 20220917071419
+172.68.118.15 1 1 1104 20220916174847
+162.158.106.11 0 3 565464 
+172.70.38.35 0 1 188488 
+141.101.84.39 3 3 6153 20220902071713
+172.70.54.77 0 1 962398 
+172.69.33.157 3 3 6153 20220908190651
+172.69.33.182 1 1 2051 20220929022044
+172.71.146.145 1 1 2051 20220915005832
+172.69.33.11 1 1 0 20220918211432
+108.162.246.78 1 1 2051 20220927005513
+172.68.253.141 0 1 65636 
+172.71.170.55 0 1 1467 
+172.70.135.188 4 4 8204 20220915103414
+172.71.142.78 0 1 77385 
+172.71.110.121 3 3 6153 20220901203606
+172.69.70.51 2 2 4102 20220906155603
+172.69.34.64 0 1 188488 
+172.70.116.151 0 1 962398 
+172.71.130.15 1 1 2051 20220911020413
+108.162.241.210 2 3 69738 20220922221646
+141.101.99.254 1 1 1104 20220905065225
+162.158.62.253 1 1 1104 20220916185029
+108.162.241.32 0 1 188488 
+172.70.38.171 0 2 154770 
+141.101.68.133 1 1 2051 20220918164041
+172.70.233.201 0 1 45519 
+172.70.100.86 0 1 1467 
+172.70.130.90 0 1 65636 
+172.71.146.74 1 1 2583 20220925233724
+172.71.142.81 0 3 4401 
+108.162.246.51 0 1 65636 
+172.71.118.45 1 1 2051 20220917125728
+172.68.253.125 1 1 2051 20220903044353
+108.162.216.183 1 1 2051 20220919161554
+172.71.142.73 0 1 772695 
+172.71.142.137 0 2 91038 
+108.162.241.103 2 2 4102 20220921132843
+172.68.210.37 1 1 1104 20220918063207
+108.162.221.139 1 1 2051 20220906155732
+141.101.76.247 1 1 2051 20220921192833
+172.70.100.171 1 1 2051 20220906005444
+172.70.175.135 2 2 4102 20220906005445
+108.162.246.231 1 1 2051 20220926012039
+172.70.243.10 3 3 5534 20220928231236
+141.101.76.29 2 2 4102 20220919113554
+172.70.34.247 0 1 188488 
+172.71.146.121 0 2 1545390 
+172.71.146.113 2 2 4102 20220906162606
+172.70.100.197 1 1 2051 20220906015503
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20220901 45 46 100395 18
+20220902 22 22 44175 13
+20220903 52 76 4594688 34
+20220904 18 24 1191606 15
+20220905 17 19 1956822 13
+20220906 57 114 7891492 46
+20220907 17 18 996318 12
+20220908 18 18 34040 15
+20220909 12 12 18616 8
+20220910 31 37 1214574 21
+20220911 12 12 24612 12
+20220912 13 13 26663 8
+20220913 29 37 2173890 17
+20220914 25 26 52902 13
+20220915 23 23 45447 13
+20220916 23 23 39443 17
+20220917 5 5 10255 3
+20220918 30 39 2027677 21
+20220919 22 23 1004810 21
+20220920 4 4 7332 4
+20220921 10 10 20510 10
+20220922 15 16 75337 12
+20220923 7 13 1165547 7
+20220924 12 13 986763 11
+20220925 19 20 998643 19
+20220926 17 17 35399 15
+20220927 16 16 31869 13
+20220928 21 28 2155093 15
+20220929 10 18 3981669 10
+20220930 32 66 5002784 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 453
+15mn-30mn 3
+30mn-1h 1
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 564 1141803 414 401
+/contact.php 30 32016 17 28
+/default.php 8 16408 7 6
+/teaching.php 8 17688 7 7
+/reshist.php 7 18081 5 6
+/ResumeCV.php 6 7632 3 4
+/publications.php 4 4716 3 3
+/personal.php 4 4988 2 3
+/sigsys.php 2 5602 1 1
+//cpanel 1 12538 1 1
+END_SIDER

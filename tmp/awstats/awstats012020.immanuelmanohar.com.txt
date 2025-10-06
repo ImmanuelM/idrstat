@@ -1,0 +1,849 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2698                
+POS_VISITOR 21188               
+POS_DAY 29790               
+POS_DOMAIN 3479                
+POS_LOGIN 3726                
+POS_ROBOT 3881                
+POS_WORMS 4551                
+POS_EMAILSENDER 4682                
+POS_EMAILRECEIVER 4825                
+POS_SESSION 30506               
+POS_SIDER 30685               
+POS_FILETYPES 4960                
+POS_DOWNLOADS 5120                
+POS_OS 5168                
+POS_BROWSER 5451                
+POS_SCREENSIZE 6631                
+POS_UNKNOWNREFERER 6705                
+POS_UNKNOWNREFERERBROWSER 7402                
+POS_ORIGIN 7659                
+POS_SEREFERRALS 7798                
+POS_PAGEREFS 8012                
+POS_SEARCHWORDS 8215                
+POS_KEYWORDS 8391                
+POS_MISC 2362                
+POS_ERRORS 8476                
+POS_CLUSTER 3582                
+POS_SIDER_404 8562                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201005235 77 13427 5319106697149
+FirstTime 20200101011456
+LastTime 20200131215149
+LastUpdate 20200201051529 77 0 76 0 0
+TotalVisits 211                 
+TotalUnique 166                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 248                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 22 2315572 59 81 799431
+1 4 4 8204 30 34 10488
+2 19 19 35049 167 178 899448
+3 7 7 12606 36 50 1138622
+4 25 45 4783729 34 44 63481
+5 4 4 7400 37 50 37017
+6 27 53 4783963 34 46 225682
+7 5 5 10255 18 29 1561099
+8 27 27 48063 32 47 128179
+9 15 24 2316222 67 84 794757
+10 4 10 1092893 33 54 1974306
+11 2 8 1155206 31 45 1118624
+12 18 31 4425268 25 37 108653
+13 21 27 1191411 8 14 5349
+14 5 5 8204 80 98 408256
+15 17 27 2399645 40 52 290132
+16 8 8 14514 59 71 76375
+17 0 0 0 31 43 153442
+18 4 10 1159308 75 97 859969
+19 7 7 13553 58 93 414560
+20 10 10 19706 38 51 1096007
+21 29 50 3792964 35 53 1239686
+22 8 14 1165786 53 65 18286
+23 4 4 6596 9 22 372465
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 265 401 29957821
+eu 18 20 808296
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 133 226046 20200127221928 0
+bot[\s_+:,\.\;\/\\-] 83 10822804 20200131024714 0
+bingbot/ 72 1276183 20200131182547 0
+AhrefsBot/ 39 71189 20200131124634 0
+Sogou[\x20]web[\x20]spider/ 27 55377 20200130211759 0
+YandexBot/ 18 32751 20200122035703 0
+MJ12bot/ 17 29505 20200130192636 0
+no_user_agent 15 28055 20200127050922 0
+(firefox/)([0-9]\.|[0-1][0]\.) 12 1162631 20200122035533 0
+msnbot/ 5 82909 20200131125024 0
+bingpreview 2 2762 20200131182547 0
+DuckDuckGo\-Favicons\-Bot/ 1 2051 20200130031330 0
+curl 1 2051 20200114164137 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 59 16763123 0 0
+php 139 235035 0 0
+html 144 284485 0 0
+css 17 23477 0 0
+jpg 62 13459997 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx12 18 6
+win8 8 8
+winlong 18 18
+win10 127 79
+winxp 5 5
+macosx11 2 2
+macosx9 1 1
+Unknown 128 82
+linux 46 29
+win8.1 4 4
+macosx10 2 2
+winvista 2 2
+win7 16 16
+macosx8 1 1
+linuxandroid 1 1
+macosx 41 27
+ios_iphone 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+chrome71.0.3578.98 2 2
+opera11.61 1 1
+Unknown 20 20
+chrome79.0.3945.117 26 7
+firefox21.0 4 4
+msie6.0 1 1
+opera46.0.2597.57 2 2
+safari 1 0
+chrome41.0.2225.0 2 2
+chrome78.0.3904.70 21 11
+firefox71.0 8 2
+chrome67.0.3396.87 1 1
+chrome77.0.3865.120 1 1
+mozilla 28 22
+msie7.0 2 2
+chrome66.0.3359.117 2 2
+chrome79.0.3945.88 8 2
+chrome35.0.1916.47 1 1
+opera62.0.3331.99 2 2
+opera53.0.2907.99 4 4
+chrome81.0.4003.0 16 7
+firefox72.0 30 13
+chrome74.0.3729.169 8 8
+firefox63.0 2 2
+chrome63.0.3239.132 10 10
+chrome65.0.3325.181 2 2
+chrome66.0.3359.181 10 10
+firefox53.0 1 1
+chrome78.0.3904.97 3 3
+safari13.0.3 1 1
+chrome67.0.3396.99 2 2
+chrome51.0.2704.103 10 10
+firefox28.0 2 2
+firefox60.0 8 8
+firefox59.0 2 2
+chrome26.0.1410.65 1 1
+chrome70.0.3538.77 1 1
+chrome74.0.3729.108 1 1
+chrome45.0.2454.94 1 1
+chrome75.0.3770.0 1 1
+chrome39.0.2171.95 1 1
+firefox57.0 1 1
+chrome67.0.3396.79 1 1
+chrome76.0.3809.132 7 7
+cloudflare 80 40
+msie8.0 1 1
+firefox47.0 2 2
+opera54.0.2952.51 1 1
+firefox34.0 17 17
+chrome58.0.3029.110 2 2
+chrome68.0.3440.106 2 2
+chrome79.0.3945.130 36 12
+chrome61.0.3163.100 2 2
+chrome78.0.3904.108 17 17
+chrome5.0.375.99 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20200127043809
+Go-http-client/1.1 20200131215149
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200118134121
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200129080412
+Mozilla/5.0_(compatible;_ips-agent) 20200130035136
+python-requests/2.22.0 20200131165438
+python-requests/2.11.1 20200105091053
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20200127043804
+python-requests/2.18.4 20200116073158
+User-Agent\ 20200123114716
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+User-Agent\ 20200123114716
+Go-http-client/1.1 20200131215149
+python-requests/2.18.4 20200116073158
+python-requests/2.11.1 20200105091053
+python-requests/2.22.0 20200131165438
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 213 213
+From1 2 2
+From2 14 15
+From3 4 4
+From4 50 187
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google_com 3 3
+google_co_in 1 1
+sogou 8 8
+www_google_com 1 2
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://idr-stat.com 3 3
+http://www.idr-stat.com:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.idr-stat.com 8
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+site 8
+www.idr-stat.com 8
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 981 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 224
+/vendor/phpunit/phpunit/build.xml 5 -
+/default.php%20and%201%3D1 1 -
+/publications.php%20and%201%3E1 1 -
+/ResumeCV.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/admin/.env 1 -
+/wp 1 -
+/__media__/js/netsoltrademark.php 1 http://immanuelmanohar.com/__media__/js/netsoltrademark.php
+/blog/xmlrpc.php 1 -
+/site/wp-includes/wlwmanifest.xml 13 -
+/teaching.php%20and%201%3E1 1 -
+/personal.php%27%20and%20%27x%27%3D%27x 1 -
+/contact.php%27%20and%20%27x%27%3D%27x 1 -
+/default.php%27%20and%20%27x%27%3D%27x 1 -
+/personal.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(110,70,70,66,89,76,84,79,74),1),name_const(CHAR(110,70,70,66,89,76,84,79,74),1))a)%20--%20%27x%27=%27x 1 -
+/portal/ 1 -
+/web/ 1 -
+/vendor/kcfinder/upload.php 2 -
+/mysql/print.css 1 -
+/reshist.php\" 1 -
+/ResumeCV.php%20and%201%3D1 1 -
+/ResumeCV.php\" 1 -
+/default.php2121121121212.1 1 -
+/administrator/ 9 -
+/blog/wp-includes/wlwmanifest.xml 36 -
+/default.php\" 1 -
+/personal.php\" 1 -
+/site/ 1 -
+/sigsys.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1),name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1))a)%20--%20%22x%22=%22x 1 -
+/wp1/wp-includes/wlwmanifest.xml 9 -
+/default.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1),name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1))a)%20--%20%27x%27=%27x 1 -
+/publications.php%22%20and%20%22x%22%3D%22y 1 -
+/teaching.php\" 1 -
+/plugins/system/debug/debug.xml 9 -
+/reshist.php%27%20and%20%27x%27%3D%27y 1 -
+/admin 4 -
+/sigsys.php\" 1 -
+/personal.php\"%20and%20\"x\"%3D\"x 1 -
+/user/register/ 2 -
+/wp-includes/wlwmanifest.xml 13 -
+/assets/kcfinder/upload.php 2 -
+/teaching.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1),name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1))a)%20--%20%22x%22=%22x 1 -
+/sigsys.php2121121121212.1 1 -
+/ResumeCV.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/teaching.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/reshist.php%27%20and%20%27x%27%3D%27x 1 -
+/default.php\"%20and%20\"x\"%3D\"x 1 -
+/personal.php%20and%201%3D1 1 -
+/personal.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(110,70,70,66,89,76,84,79,74),1),name_const(CHAR(110,70,70,66,89,76,84,79,74),1))a)%20--%20and%201%3D1 1 -
+/sigsys.php%20and%201%3E1 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/default.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 6 -
+/admin/kcfinder/upload.php 2 -
+/teaching.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1),name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1))a)%20--%20%27x%27=%27x 1 -
+/teaching.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/ajOXg/SmlSf/personal.php 1 -
+/new/ 2 -
+/reshist.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1),name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1))a)%20--%20%22x%22=%22x 1 -
+/sigsys.php\"%20and%20\"x\"%3D\"x 1 -
+/2016/wp-includes/wlwmanifest.xml 3 -
+/assets/plugin/kcfinder/upload.php 2 -
+/.env 15 -
+/contact.php%27%20and%20%27x%27%3D%27y 1 -
+/contact.php\" 1 -
+/wordpress 1 -
+/index.php/component/users 2 -
+/press 1 -
+/ResumeCV.php\"%20and%20\"x\"%3D\"x 1 -
+/default.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1),name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1))a)%20--%20%22x%22=%22x 1 -
+/publications.php\" 1 -
+/default.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1),name_const(CHAR(83,109,109,81,102,83,117,97,111,109),1))a)%20--%20and%201%3D1 1 -
+/test 1 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/tmp/ 1 -
+/personal.php%20and%201%3E1 1 -
+/blog/ 4 -
+/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/sigsys.php%27%20and%20%27x%27%3D%27y 1 -
+/admin/view/javascript/common.js 5 -
+/sigsys.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/ResumeCV.php%20and%201%3E1 1 -
+/feed/ 1 -
+/dev/ 1 -
+/media/wp-includes/wlwmanifest.xml 9 -
+/.bitcoin/ 1 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/administrator/language/en-GB/install.xml 9 -
+/reshist.php2121121121212.1 1 -
+/test/ 2 -
+/test/wp-includes/wlwmanifest.xml 17 -
+/sigsys.php%27%20and%20%27x%27%3D%27x 1 -
+/default.php%20and%201%3E1 1 -
+/blog 1 -
+/laravel/.env 1 -
+/ckeditor/plugins/kcfinder/upload.php 2 -
+/myadmin/print.css 1 -
+/test/.env 1 -
+/publications.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/sitemap.xml 1 -
+/ResumeCV.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1),name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1))a)%20--%20%27x%27=%27x 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/main/ 1 -
+/publications.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/misc/ajax.js 5 -
+/contact.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1),name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1))a)%20--%20and%201%3D1 1 -
+/ResumeCV.php%27%20and%20%27x%27%3D%27x 1 -
+/website/wp-includes/wlwmanifest.xml 10 -
+/ResumeCV.php%27%20and%20%27x%27%3D%27y 1 -
+/wordpress/ 2 -
+/reshist.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1),name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1))a)%20--%20and%201%3D1 1 -
+//laravel/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/cms/wp-includes/wlwmanifest.xml 36 -
+/shop/wp-includes/wlwmanifest.xml 17 -
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/publications.php2121121121212.1 1 -
+/xmlrpc.php 43 -
+/teaching.php%27%20and%20%27x%27%3D%27x 1 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/web/wp-includes/wlwmanifest.xml 10 -
+/contact.php\"%20and%20\"x\"%3D\"x 1 -
+/publications.php%27%20and%20%27x%27%3D%27x 1 -
+/contact.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1),name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1))a)%20--%20%22x%22=%22x 1 -
+/teaching.php%20and%201%3D1 1 -
+/demo/ 1 -
+/temp/ 1 -
+/manager/top.asp 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 7 -
+/cgi-bin 1 -
+/sito/wp-includes/wlwmanifest.xml 9 -
+/reshist.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1),name_const(CHAR(79,118,109,106,67,72,71,120,114,116),1))a)%20--%20%27x%27=%27x 1 -
+/wp/ 3 -
+/wp2/wp-includes/wlwmanifest.xml 17 -
+/publications.php\"%20and%20\"x\"%3D\"x 1 -
+/wp/wp-includes/wlwmanifest.xml 36 -
+/old/ 2 -
+/components/ 1 -
+/.git/config 1 -
+/contact.php2121121121212.1 1 -
+/demo 1 -
+/phpmyadmin/print.css 1 -
+/backup/ 1 -
+/index.php 2 -
+/personal.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(110,70,70,66,89,76,84,79,74),1),name_const(CHAR(110,70,70,66,89,76,84,79,74),1))a)%20--%20%22x%22=%22x 1 -
+/js/preload/example.txt 1 -
+/2019/wp-includes/wlwmanifest.xml 6 -
+/admin/includes/general.js 5 -
+/personal.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/teaching.php\"%20and%20\"x\"%3D\"x 1 -
+/default.php%22%20and%20%22x%22%3D%22y 1 -
+/publications.php%27%20and%20%27x%27%3D%27y 1 -
+/personal.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/administrator/help/en-GB/toc.json 9 -
+/phpMyAdmin/print.css 1 -
+/ResumeCV.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/database/print.css 1 -
+/plugins/kcfinder/upload.php 2 -
+/2017/wp-includes/wlwmanifest.xml 8 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 5 -
+/reshist.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/reshist.php%20and%201%3D1 1 -
+/pma/print.css 1 -
+/sigsys.php%22%20and%20%22x%22%3D%22y 1 -
+/sigsys.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/publications.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(70,70,77,112,109,104,73,109,68),1),name_const(CHAR(70,70,77,112,109,104,73,109,68),1))a)%20--%20and%201%3D1 1 -
+/personal.php%22%20and%20%22x%22%3D%22y 1 -
+/news 1 -
+/default.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/contact.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/sigsys.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1),name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1))a)%20--%20and%201%3D1 1 -
+/ResumeCV.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1),name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1))a)%20--%20and%201%3D1 1 -
+/ads.txt 2 -
+/reshist.php%22%20and%20%22x%22%3D%22y 1 -
+/reshist.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/personal.php2121121121212.1 1 -
+/default.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/admin/editor/kcfinder/upload.php 2 -
+/contact.php%22%20and%20%22x%22%3D%22y 1 -
+/teaching.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/personal.php%27%20and%20%27x%27%3D%27y 1 -
+/kcfinder/upload.php 2 -
+/sigsys.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1),name_const(CHAR(98,83,79,99,87,108,103,81,117,78,119,112),1))a)%20--%20%27x%27=%27x 1 -
+/publications.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(70,70,77,112,109,104,73,109,68),1),name_const(CHAR(70,70,77,112,109,104,73,109,68),1))a)%20--%20%27x%27=%27x 1 -
+/robots.txt 200 -
+/teaching.php2121121121212.1 1 -
+/cms/ 1 -
+/reshist.php\"%20and%20\"x\"%3D\"x 1 -
+/ResumeCV.php2121121121212.1 1 -
+/images/editor/separator.gif 5 -
+/news/wp-includes/wlwmanifest.xml 10 -
+/contact.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/publications.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(70,70,77,112,109,104,73,109,68),1),name_const(CHAR(70,70,77,112,109,104,73,109,68),1))a)%20--%20%22x%22=%22x 1 -
+/wp-admin 1 -
+// 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/2018/wp-includes/wlwmanifest.xml 12 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/sigsys.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/teaching.php%22%20and%20%22x%22%3D%22y 1 -
+/teaching.php%27%20and%20%27x%27%3D%27y 1 -
+/js/header-rollup-554.js 5 -
+/contact.php%20and%201%3E1 1 -
+/contact.php99999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x 1 -
+/ResumeCV.php%22%20or%20(1,2)=(select*from(select%20name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1),name_const(CHAR(82,109,73,104,107,81,120,114,119,89,73),1))a)%20--%20%22x%22=%22x 1 -
+/ResumeCV.php%22%20and%20%22x%22%3D%22y 1 -
+/reshist.php999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 1 -
+/wordpress/wp-includes/wlwmanifest.xml 21 -
+/personal.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+/configuration.php 1 -
+/2015/wp-includes/wlwmanifest.xml 8 -
+/contact.php%20and%201%3D1 1 -
+/new 1 -
+/default.php%27%20and%20%27x%27%3D%27y 1 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/teaching.php%20or%20(1,2)=(select*from(select%20name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1),name_const(CHAR(122,86,97,108,115,76,103,109,112,103,72,105),1))a)%20--%20and%201%3D1 1 -
+/home/ 1 -
+/sigsys.php%20and%201%3D1 1 -
+/wp-includes/js/jquery/jquery.js 5 -
+/wp-login.php 40 -
+/administrator/index.php 2 -
+/contact.php%27%20or%20(1,2)=(select*from(select%20name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1),name_const(CHAR(121,118,69,100,102,89,104,122,113,76,69),1))a)%20--%20%27x%27=%27x 1 -
+/publications.php%20and%201%3D1 1 -
+/reshist.php%20and%201%3E1 1 -
+/ 57 -
+/publications.php99999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 248
+162.158.74.13 9 9 16499 20200108211056
+172.69.62.106 8 8 15584 20200130070821
+162.158.38.4 7 7 12123 20200115082120
+162.158.62.107 6 6 11255 20200120221812
+172.69.34.100 5 7 316113 20200128063943
+172.69.33.119 5 5 10386 20200123211117
+172.69.63.95 4 4 6310 20200127043805
+172.69.63.31 4 4 6596 20200127043808
+108.162.245.154 4 4 8204 20200131215149
+172.68.47.192 4 4 7864 20200124120855
+172.68.70.58 4 4 6453 20200113154503
+172.68.70.100 4 4 6453 20200130035136
+172.68.254.247 4 4 7592 20200116022405
+162.158.79.221 4 4 7374 20200127043807
+173.245.54.95 4 4 7710 20200127043807
+162.158.38.8 3 3 5881 20200115082120
+172.68.143.36 3 3 6041 20200124004249
+141.101.69.11 3 3 4402 20200124051141
+162.158.107.37 3 3 6153 20200130092514
+162.158.158.21 3 3 6153 20200122232231
+172.69.68.45 3 3 4562 20200119222342
+162.158.159.24 3 3 5374 20200126222856
+172.68.253.227 3 3 5349 20200116022405
+172.69.202.4 3 3 3741 20200122234212
+172.69.34.150 3 3 6153 20200126131136
+172.68.141.244 0 1 77385 
+162.158.202.4 1 1 2051 20200114134704
+172.68.65.84 0 3 2318085 
+172.68.253.251 1 1 1272 20200116022402
+108.162.219.28 1 1 2051 20200107062935
+141.101.69.15 0 1 1381 
+172.68.25.47 1 1 2051 20200114080942
+108.162.229.204 0 1 77385 
+172.68.65.168 1 1 2051 20200105194644
+108.162.219.54 0 1 153767 
+172.69.69.70 1 1 2051 20200113083322
+162.158.38.20 1 1 2211 20200115082120
+162.158.74.173 1 1 1104 20200101091404
+141.101.69.107 1 1 2051 20200118134120
+172.69.68.135 0 1 962398 
+162.158.186.90 1 1 2051 20200109224953
+172.68.132.27 0 1 962398 
+162.158.111.37 1 1 1104 20200123095455
+162.158.111.187 1 1 2051 20200120100411
+141.101.98.136 1 1 1104 20200121163056
+173.245.54.105 0 3 565464 
+172.68.25.49 1 1 2051 20200109163701
+162.158.106.102 1 1 0 20200127043804
+165.22.40.97 1 1 5549 20200101040723
+172.69.34.98 2 2 4102 20200129032355
+172.69.54.45 1 1 2051 20200114134856
+108.162.237.16 0 1 45519 
+162.158.158.243 0 1 772695 
+108.162.237.88 0 1 772695 
+162.158.178.155 1 1 2211 20200116022405
+141.101.76.220 2 2 4102 20200123095414
+108.162.216.82 1 1 1104 20200130062403
+162.158.38.34 2 2 3230 20200115082120
+162.158.62.47 0 3 77385 
+141.101.104.181 1 1 2051 20200123155602
+162.158.74.37 1 1 2051 20200118133936
+162.158.255.28 0 1 188488 
+108.162.216.44 0 1 772695 
+172.69.63.99 1 1 2051 20200117134609
+162.158.187.19 1 1 1272 20200111210231
+172.69.10.148 1 1 1247 20200116130421
+108.162.229.162 1 2 46623 20200107164105
+162.158.111.235 2 2 4102 20200118012856
+172.69.68.87 1 1 2583 20200114092727
+172.69.70.173 0 1 22624 
+172.69.70.5 2 2 2544 20200114092725
+172.69.69.196 0 1 153767 
+172.69.68.211 0 1 77385 
+108.162.216.112 1 1 1247 20200118133941
+172.69.70.89 0 1 65636 
+172.69.54.75 1 1 2051 20200125075057
+172.68.24.10 1 1 2051 20200106070259
+173.245.48.141 0 2 45248 
+162.158.74.81 1 1 2051 20200112031847
+172.69.63.97 0 3 196908 
+162.158.155.218 0 1 77385 
+172.68.255.176 1 1 2211 20200116022402
+162.158.187.147 1 1 2051 20200111210228
+172.69.63.187 0 2 157192 
+162.158.187.131 0 1 77385 
+162.158.78.118 2 2 4422 20200127043806
+172.69.23.15 2 2 3230 20200124004254
+108.162.229.76 1 1 2051 20200121143412
+172.69.63.141 0 2 376976 
+172.68.253.101 1 1 2051 20200116022402
+172.69.202.10 1 1 1247 20200122231141
+108.162.216.76 1 2 190539 20200101091404
+162.158.187.99 0 1 188488 
+162.158.78.10 0 3 461301 
+162.158.179.226 1 1 2583 20200116022402
+162.158.111.175 1 1 2051 20200120003223
+162.158.187.201 2 2 4102 20200110223907
+172.69.63.183 2 2 5602 20200127043809
+172.69.34.248 0 2 154770 
+162.158.154.109 0 1 1381 
+172.69.62.246 0 2 1545390 
+141.101.69.175 1 1 2051 20200107164105
+162.158.179.208 1 1 1272 20200116022405
+162.158.74.205 1 1 2051 20200118133930
+162.158.74.89 0 1 962398 
+172.69.62.4 0 3 2887194 
+172.69.63.105 2 2 4422 20200127043806
+172.69.63.23 1 1 2051 20200105194643
+162.158.107.215 1 1 2051 20200122200707
+108.162.241.238 1 1 0 20200131211730
+162.158.63.6 1 1 2051 20200106185922
+172.69.63.235 0 2 91038 
+162.158.59.250 0 2 91038 
+108.162.216.100 2 2 3905 20200118133943
+162.158.74.83 0 1 45519 
+108.162.246.119 0 1 0 
+172.69.68.57 1 1 2051 20200114092623
+172.69.135.148 1 1 2051 20200105091053
+108.162.219.22 1 4 133323 20200107211450
+172.69.63.17 2 2 4102 20200127043804
+172.68.253.95 1 1 2801 20200116022405
+162.158.155.206 2 2 4102 20200109015454
+172.68.254.108 1 1 1247 20200116022402
+172.68.65.174 0 2 157192 
+172.68.65.132 0 2 131272 
+162.158.155.146 0 1 962398 
+141.101.99.191 1 1 2051 20200109213811
+108.162.241.196 1 1 0 20200131211735
+172.69.68.171 0 1 1381 
+162.158.159.6 0 1 65636 
+172.68.133.72 0 1 772695 
+173.245.54.61 0 2 1924796 
+172.69.71.42 0 1 772695 
+172.69.70.101 0 1 188488 
+108.162.216.22 1 1 2051 20200108211051
+172.69.22.194 1 1 2051 20200124004202
+172.69.63.71 1 1 2051 20200131165438
+162.158.63.166 0 3 772695 
+172.69.63.209 2 2 2494 20200127043806
+172.69.62.94 0 2 307534 
+162.158.59.132 2 2 4634 20200116155110
+172.69.33.53 2 2 3483 20200124120905
+172.69.54.183 2 2 4102 20200118045350
+108.162.229.64 1 1 2051 20200105120205
+162.158.62.235 1 1 2051 20200123114716
+162.158.107.163 2 2 4102 20200122134338
+162.158.107.67 2 2 2051 20200109064215
+141.101.77.218 1 1 2051 20200116163857
+172.68.90.46 2 2 4102 20200130063009
+141.101.104.71 1 1 2051 20200117203605
+162.158.106.144 1 1 2051 20200113083345
+162.158.74.35 1 1 2051 20200109044739
+172.68.24.66 1 1 2051 20200112141052
+108.162.229.30 0 1 188488 
+162.158.74.165 1 1 2051 20200118133933
+172.68.211.4 0 2 1924796 
+172.68.253.35 2 2 2358 20200116022405
+162.158.79.245 0 3 4143 
+162.158.106.204 0 1 77385 
+172.68.65.228 0 2 154770 
+108.162.246.149 1 1 2051 20200109082328
+172.69.63.241 0 3 136557 
+173.245.54.91 2 2 2544 20200127043806
+172.69.62.254 2 2 4102 20200127043809
+162.158.158.189 1 1 2051 20200126222849
+108.162.229.20 1 1 2051 20200110002543
+173.245.48.189 0 2 131272 
+173.245.52.109 1 1 2051 20200129080412
+162.158.63.184 0 3 376976 
+108.162.216.148 1 1 2051 20200130062402
+162.158.107.181 0 1 772695 
+162.158.38.90 1 1 2211 20200115081936
+108.162.216.52 0 1 1381 
+172.68.47.60 0 2 376976 
+162.158.187.105 0 1 1381 
+172.69.33.107 1 1 2051 20200105093604
+162.158.62.207 0 3 4143 
+108.162.219.148 1 1 1247 20200107063028
+162.158.159.40 0 1 45519 
+172.69.69.220 1 1 1104 20200113083322
+108.162.216.250 0 1 65636 
+162.158.255.210 1 1 2051 20200125124623
+172.69.63.91 0 2 2762 
+108.162.246.233 1 2 190539 20200119204229
+162.158.79.113 0 3 67872 
+108.162.238.167 0 1 65636 
+162.158.38.70 2 2 2519 20200115082120
+162.158.107.189 1 1 2051 20200121084445
+162.158.38.56 1 1 1272 20200115081936
+172.69.22.218 2 3 26726 20200125200513
+108.162.229.194 0 1 65636 
+108.162.216.110 1 1 2051 20200110212429
+173.245.48.195 1 1 2051 20200127004723
+172.69.62.142 2 2 2358 20200127043808
+172.69.68.147 0 1 45519 
+108.162.216.184 1 1 2583 20200118133940
+141.101.69.57 0 1 772695 
+141.101.104.233 1 1 2051 20200128141719
+108.162.246.89 1 1 2051 20200111193902
+162.158.62.153 0 1 22624 
+172.68.24.246 1 1 2051 20200107233757
+172.69.63.237 0 2 45248 
+172.69.69.214 2 2 3230 20200119222342
+162.158.106.228 0 1 1381 
+162.158.74.125 1 1 2211 20200110213012
+162.158.58.9 1 1 2051 20200116155106
+108.162.219.58 1 1 2051 20200103133919
+141.101.99.11 1 1 2051 20200126050229
+108.162.246.179 1 1 0 20200127043804
+172.69.33.227 1 1 1104 20200116155109
+162.158.154.49 0 1 188488 
+172.68.244.114 1 1 2051 20200122195618
+108.162.245.172 2 2 3323 20200122144107
+162.158.107.197 2 2 4102 20200125202325
+172.69.63.37 2 2 2358 20200127043808
+172.68.11.167 1 1 1104 20200117084549
+172.69.55.28 1 1 2051 20200117203606
+172.68.141.22 0 1 45519 
+172.68.141.124 1 1 2051 20200121022452
+172.69.22.8 0 1 1381 
+141.101.105.149 2 2 4102 20200117211352
+162.158.62.165 0 3 91038 
+108.162.216.216 1 1 1272 20200118133938
+172.69.234.136 2 2 4102 20200128051341
+108.162.216.56 1 1 1247 20200110212446
+108.162.216.248 1 1 2051 20200118133944
+172.68.211.34 0 1 78596 
+162.158.59.148 0 2 1545390 
+162.158.159.36 1 1 2051 20200114103707
+172.68.141.148 0 1 153767 
+172.68.24.252 1 1 2051 20200116073158
+162.158.106.66 0 1 45519 
+162.158.78.148 2 2 5602 20200127043809
+141.101.69.173 1 1 2051 20200121120149
+141.101.69.61 1 1 2051 20200126155641
+162.158.74.199 1 1 2211 20200118133935
+172.69.22.98 3 3 6153 20200127000458
+108.162.216.80 0 1 77385 
+162.158.107.167 1 1 2051 20200127004020
+172.69.10.94 1 1 2051 20200116130422
+173.245.54.99 0 3 232155 
+108.162.216.150 1 1 1179 20200118133939
+108.162.246.131 1 1 0 20200109064215
+172.68.143.204 0 1 65636 
+108.162.219.178 1 1 2051 20200101011456
+172.69.34.48 0 2 2762 
+162.158.182.160 1 1 0 20200123141427
+162.158.79.59 2 2 4102 20200127043804
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200101 6 7 977255 6
+20200103 2 2 4102 2
+20200105 6 6 12306 6
+20200106 4 10 1159308 3
+20200107 11 25 498555 7
+20200108 11 11 20601 3
+20200109 27 47 4784333 23
+20200110 7 14 2127215 6
+20200111 3 9 1156478 3
+20200112 5 5 10255 4
+20200113 7 7 11659 4
+20200114 11 20 2309912 9
+20200115 21 27 1120732 10
+20200116 32 42 2427437 21
+20200117 14 23 2316836 7
+20200118 16 22 1181960 14
+20200119 3 3 5206 3
+20200120 3 3 6153 3
+20200121 8 8 14514 8
+20200122 8 8 14800 8
+20200123 8 8 13410 7
+20200124 13 31 4603702 7
+20200125 6 6 12306 5
+20200126 5 11 1160580 5
+20200127 25 45 4780231 20
+20200128 4 4 8204 4
+20200129 2 2 4102 2
+20200130 10 10 17812 6
+20200131 5 5 6153 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 203
+30s-2mn 6
+5mn-15mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 144 284485 130 124
+/personal.php 25 31175 15 12
+/contact.php 22 24288 16 13
+/ResumeCV.php 18 22896 13 13
+/default.php 17 34867 6 11
+/teaching.php 17 37587 13 12
+/reshist.php 16 41328 4 11
+/publications.php 15 17685 9 8
+/sigsys.php 9 25209 5 7
+END_SIDER

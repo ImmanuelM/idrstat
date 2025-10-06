@@ -1,0 +1,793 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2699                
+POS_VISITOR 18715               
+POS_DAY 25321               
+POS_DOMAIN 3479                
+POS_LOGIN 3738                
+POS_ROBOT 3893                
+POS_WORMS 4633                
+POS_EMAILSENDER 4764                
+POS_EMAILRECEIVER 4907                
+POS_SESSION 26074               
+POS_SIDER 26232               
+POS_FILETYPES 5042                
+POS_DOWNLOADS 5201                
+POS_OS 5249                
+POS_BROWSER 5543                
+POS_SCREENSIZE 6623                
+POS_UNKNOWNREFERER 6697                
+POS_UNKNOWNREFERERBROWSER 7348                
+POS_ORIGIN 7611                
+POS_SEREFERRALS 7750                
+POS_PAGEREFS 7938                
+POS_SEARCHWORDS 8141                
+POS_KEYWORDS 8317                
+POS_MISC 2363                
+POS_ERRORS 8402                
+POS_CLUSTER 3594                
+POS_SIDER_404 8488                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601002336 86 17753 18029487148931
+FirstTime 20190501014938
+LastTime 20190531223906
+LastUpdate 20190601051810 86 0 85 0 0
+TotalVisits 235                 
+TotalUnique 135                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 186                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 11 1162653 43 50 75267
+1 9 9 16074 47 54 980221
+2 10 18 1344478 208 218 212565
+3 4 10 1158248 85 93 177765
+4 11 12 19955 23 34 80329
+5 2 3 4953 23 31 27356
+6 22 30 1363429 21 33 878054
+7 26 60 6105313 48 67 101396
+8 14 14 26349 36 47 110317
+9 4 4 7144 21 23 25808
+10 6 6 10702 17 24 95309
+11 4 4 7144 40 46 864802
+12 7 13 1096184 17 23 24852
+13 36 58 3860660 35 47 22329
+14 3 9 1156462 19 30 798067
+15 22 38 2687352 34 49 212200
+16 3 4 12787 36 52 215121
+17 10 19 1346192 29 48 74698
+18 2 2 3572 39 52 221531
+19 7 8 13883 47 60 843335
+20 25 42 2691623 39 54 34581
+21 3 3 5358 26 35 102029
+22 23 39 2689138 28 47 541240
+23 14 33 2706368 44 49 796247
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 256 433 29456821
+eu 11 12 19960
+cn 4 4 19240
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Googlebot/ 229 380525 20190531233316 0
+bot[\s_+:,\.\;\/\\-] 47 5104182 20190530222449 0
+Baiduspider/ 40 64855 20190526054452 0
+bingbot/ 39 1819002 20190531235037 0
+Uptimebot/ 39 7144 20190531210703 0
+DomainCrawler/ 16 25218 20190523070340 0
+Sogou[\x20]web[\x20]spider/ 15 26790 20190531085319 0
+spider 12 12668 20190530172734 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 9696 20190521192349 0
+no_user_agent 5 52663 20190520195227 0
+DomainSONOCrawler/ 2 3572 20190521083005 0
+bingpreview 2 2762 20190528153635 0
+DotBot/ 2 3452 20190507130523 0
+archive\.org_bot 1 1786 20190505144630 0
+MJ12bot/ 1 1104 20190522192250 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 119 184084 0 0
+jpg 72 4413805 0 0
+png 74 24588780 0 0
+css 32 44192 0 0
+html 152 265160 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+macosx7 1 0
+macosx10 5 5
+win8 10 10
+linuxandroid 13 6
+macosx12 3 3
+linux 14 13
+macosx 29 14
+ios_ipad 1 1
+win7 17 13
+win10 48 36
+win8.1 2 1
+macosx8 2 2
+macosx9 3 3
+winlong 7 1
+macosx11 6 6
+macosx6 2 1
+winxp 64 14
+Unknown 222 142
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+firefox62.0 1 1
+opera36.0.2130.32 1 1
+firefox58.0 1 1
+safari7.0.2 1 1
+chrome68.0.3440.106 7 1
+chrome74.0.3729.131 9 3
+safari12.1 14 6
+safari6.1 1 1
+chrome66.0.3359.117 2 2
+safari6.1.1 1 0
+firefox59.0 1 1
+firefox25.0 1 1
+Unknown 32 32
+msie7.0 55 7
+chrome74.0.3729.108 1 1
+chrome74.0.3694.0 1 1
+firefox50.0 1 1
+chrome38.0.1025.166 2 1
+chrome70.0.3538.77 9 9
+chrome58.0.3029.110 3 3
+firefox65.0 8 8
+chrome34.0.1847.131 3 3
+firefox54.0 2 2
+cloudflare 170 90
+firefox29.0 1 0
+chrome63.0.3239.132 6 6
+chrome31.0.1650.63 4 2
+firefox28.0 2 2
+chrome41.0.2227.1 1 1
+msie6.0 2 2
+chrome69.0.3497.100 1 1
+firefox45.0 1 1
+firefox47.0 6 6
+chrome46.0.2490.80 3 3
+opera54.0.2952.60 2 2
+chrome60.0.3112.101 1 1
+msie11.0 2 1
+chrome45.0.2454.94 2 2
+chrome71.0.3578.80 3 3
+safari12.0 1 1
+chrome41.0.2228.0 1 1
+mozilla 20 20
+chrome35.0.1916.153 1 0
+chrome47.0.2526.106 4 4
+chrome14.0.813.0 1 1
+chrome72.0.3626.121 8 7
+chrome74.0.3729.157 17 5
+firefox26.0 4 3
+msie10.0 9 8
+firefox31.0 1 1
+firefox52.0 13 5
+chrome35.0.1916.47 2 2
+chrome61.0.3163.100 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190529064057
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20190531223906
+8LEGS 20190511110129
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20190531223902
+python-requests/2.22.0 20190523230454
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190503161907
+Scrapy/1.5.1_(_https://scrapy.org) 20190526134920
+python-requests/2.21.0 20190518094955
+Go-http-client/1.1 20190531065803
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.22.0 20190523230454
+8LEGS 20190511110129
+Scrapy/1.5.1_(_https://scrapy.org) 20190526134920
+python-requests/2.21.0 20190518094955
+Go-http-client/1.1 20190531065803
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 220 239
+From1 0 0
+From2 11 11
+From3 6 6
+From4 34 193
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 3 3
+sogou 7 7
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://idr-stat.com 5 5
+http://idr-stat.com/admin/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+site+www.idr-stat.com 7
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+www.idr-stat.com 7
+site 7
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 771 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 232
+//email/shell.php 1 https://www.baidu.com
+//images/css/Thumb.asp 1 https://www.baidu.com
+/www 1 -
+//install/md5.php 1 https://www.baidu.com
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 4 http://immanuelmanohar.com/FCKeditor/editor/filemanager/connectors/asp/connector.asp
+//data/conn/config.php 1 https://www.baidu.com
+//plus/e7xue.php 1 https://www.baidu.com
+/wp 3 -
+//shell.php 5 https://www.baidu.com
+//images/swfupload/images/uploadye.php 1 https://www.baidu.com
+/lodyo.php 1 http://immanuelmanohar.com/lodyo.php
+/wordpress 3 -
+//wp-login.php 1 http://www.google.com.hk
+/index.php 9 -
+/index.php/api/Uploadify/preview 3 http://immanuelmanohar.com/index.php/api/Uploadify/preview
+//type.php 3 -
+//test404.php 1 https://www.baidu.com
+/2017/wp-includes/wlwmanifest.xml 8 -
+/wp1/wp-includes/wlwmanifest.xml 8 -
+//plus/mytag_js.phpaid=6022 1 https://www.baidu.com
+//data/config.php 1 https://www.baidu.com
+//utility/convert/index.php 1 http://immanuelmanohar.com/
+//plus/xsvip.php 1 https://www.baidu.com
+//data/cache_template/rss.tpl.php 2 -
+//data/img/css/xianf.ASP 1 https://www.baidu.com
+//uploadfile/member/0/0x0.php 3 -
+/media/wp-includes/wlwmanifest.xml 8 -
+/administrator/index.php 9 -
+/utility/convert/index.php 3 http://immanuelmanohar.com/utility/convert/index.php
+/wordpress/ 3 -
+/wp-admin/setup-config.php 6 -
+//plus/spider.php 1 https://www.baidu.com
+//info1.php 1 https://www.baidu.com
+/,184.168.131.241 1 -
+/admin_aspcms/_system/AspCms_SiteSetting.asp 6 http://immanuelmanohar.com/admin_aspcms/_system/AspCms_SiteSetting.asp
+//dxyylc/md5.asp 1 https://www.baidu.com
+/blog/robots.txt 3 -
+/wp-json/wp/v2/users 2 -
+//1kL1331nu5ESg5Tt.php 3 -
+/e/DoInfo/ecms.php 2 http://immanuelmanohar.com/e/DoInfo/ecms.php
+//Templates/test.asp 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9999 1 https://www.baidu.com
+/admin.php 1 -
+/blog/xmlrpc.php 2 -
+/images/signals.jpg 13 http://www.immanuelmanohar.com/teaching.php
+//admin/admin_ping.php 1 http://immanuelmanohar.com/
+/shop/wp-includes/wlwmanifest.xml 8 -
+/feed 1 -
+//plus/ad_js.php 2 https://www.baidu.com
+//images/cache.asp 1 https://www.baidu.com
+/app/etc/local.xml 1 -
+//fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 http://immanuelmanohar.com//fckeditor/editor/filemanager/upload/aspx/upload.aspx
+/wp2/wp-includes/wlwmanifest.xml 8 -
+//JvC6tUu0XNrgMNAN.txt 1 -
+//fckeditor/editor/filemanager/upload/php/upload.php 1 http://immanuelmanohar.com//fckeditor/editor/filemanager/upload/php/upload.php
+//system/config/database.php 1 http://immanuelmanohar.com/
+/wp/wp-login.php 1 -
+/2016/wp-includes/wlwmanifest.xml 8 -
+/admin/login.php 3 -
+/site/wp-includes/wlwmanifest.xml 12 -
+/joomla/robots.txt 1 -
+//Somnus/Somnus.asp 1 https://www.baidu.com
+/bitrix/admin/index.php 1 -
+//include/helperss/filter.helpear.php 1 https://www.baidu.com
+//book/story_dod_hjkdsafon.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=1 4 https://www.baidu.com
+//user.php 6 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/wordpress/wp-login.php 1 -
+//data/cache/t.php 1 https://www.baidu.com
+/xmlrpc.php 16 -
+/qffon.php 1 http://immanuelmanohar.com/qffon.php
+/robots.txt 149 -
+/ahjwi.php 1 http://immanuelmanohar.com/ahjwi.php
+/wp/wp-includes/wlwmanifest.xml 12 -
+//plus/advancedsearch.php 1 http://immanuelmanohar.com/
+/site 1 -
+/plus/download.php 2 http://immanuelmanohar.com/plus/download.php
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 http://immanuelmanohar.com/
+/demo 1 -
+/shop/index.php 2 -
+//email/index.php 1 http://immanuelmanohar.com/
+/blog 3 -
+//lang/cn/system.php 1 https://www.baidu.com
+//plus/mysql.php 1 https://www.baidu.com
+//admin.php/code/mod 1 http://immanuelmanohar.com/
+/blog/administrator/index.php 1 -
+//Templates/red.asp 1 https://www.baidu.com
+/uploads/dede/sys_verifies.php 6 http://immanuelmanohar.com/uploads/dede/sys_verifies.php
+//xmlrpc.php 1 http://www.google.com.hk
+//plus/md5.php 1 https://www.baidu.com
+//wp-admin/admin-post.php 3 http://www.google.com.hk
+//include/code/mp.php 2 https://www.baidu.com
+/server.php 2 http://immanuelmanohar.com/server.php
+/wp-admin/install.php 2 -
+//admin/sdfg.asp 1 https://www.baidu.com
+/joomla/administrator/index.php 1 -
+//research.asp 1 http://immanuelmanohar.com/
+/website/wp-includes/wlwmanifest.xml 8 -
+//config/AspCms_Config.asp 3 https://www.baidu.com
+//dxyylc/md5.php 1 https://www.baidu.com
+/2018/wp-includes/wlwmanifest.xml 8 -
+//include/data/fonts/uddatasql.php 1 https://www.baidu.com
+/sunshop/index.php 2 -
+//plus/myjs.php 1 https://www.baidu.com
+//plus/90sec.php 2 https://www.baidu.com
+//plus/mytag_js.phpaid=8080 1 https://www.baidu.com
+//admin_login.php 1 https://www.baidu.com
+//plus/mytag_j.php 1 https://www.baidu.com
+/user/ 1 -
+/fdgq.php 3 http://immanuelmanohar.com/fdgq.php
+//preview.php 1 http://immanuelmanohar.com/
+//plus/download.php 3 http://immanuelmanohar.com/
+/plus/mytag_js.php 2 http://immanuelmanohar.com/plus/mytag_js.php
+//kdatebase/index_.asp 1 https://www.baidu.com
+//plugins/weathermap/editor.php 1 http://immanuelmanohar.com/
+//dxyylc/md5.aspx 1 https://www.baidu.com
+//index.php 16 -
+//plus/mytag_js.phpaid=909 1 https://www.baidu.com
+//ads/admin/admin.lnc.php 1 https://www.baidu.com
+/wordpress/wp-includes/wlwmanifest.xml 12 -
+//vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 http://immanuelmanohar.com/
+//plugins/weathermap/configs/test404.php 1 https://www.baidu.com
+/user.php 6 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/blog/ 3 -
+//i.php 4 -
+//plus/mcds.php 1 https://www.baidu.com
+//plus/mumaasp.asp 1 https://www.baidu.com
+/cms 1 -
+//faq.php 1 http://immanuelmanohar.com/
+/wp-login.php 20 -
+//plus/mybak.php 1 https://www.baidu.com
+/press 1 -
+//plus/mytag_js.phpaid=9191 1 https://www.baidu.com
+//admin/Admin_Ta.asp 1 https://www.baidu.com
+/admin/index.php 2 -
+/wp/ 3 -
+/plus/moon.php 4 http://immanuelmanohar.com/plus/moon.php
+//plus/ms.php 1 https://www.baidu.com
+//search.php 3 http://immanuelmanohar.com/
+//base/admin/cache.asp 1 https://www.baidu.com
+//plus/digg.php 1 https://www.baidu.com
+/wp-content/plugins/woocommerce-checkout-manager/includes/pickers/jquery.ui.timepicker.css 1 -
+/blog/wp-includes/wlwmanifest.xml 12 -
+/en 1 -
+//admin/ping.php 1 https://www.baidu.com
+//webconfig.txt.php 1 http://www.google.com.hk
+//system/config/shell.php 1 http://immanuelmanohar.com/
+/wp-includes/wlwmanifest.xml 12 -
+/web/wp-includes/wlwmanifest.xml 8 -
+//install.php 1 http://immanuelmanohar.com//install.php
+//index.php/list/5/ 2 -
+//test/wp-login.php 1 -
+/sitemap.xml 2 -
+//install/index.php.bak 1 http://immanuelmanohar.com/
+//plus/moon.php 2 https://www.baidu.com
+//member/share.php 1 http://immanuelmanohar.com/
+/admin/ 4 -
+//data/36test.php 1 https://www.baidu.com
+//manage/Images/Sql.asp 1 https://www.baidu.com
+/test/wp-includes/wlwmanifest.xml 8 -
+//admin_aspcms/_system/AspCms_SiteSetting.asp 1 http://immanuelmanohar.com/
+/utility/convert/data/config.inc.php 4 http://immanuelmanohar.com/utility/convert/data/config.inc.php
+//plus/mytag_js.phpaid=9013 1 https://www.baidu.com
+//data/data/index.php 1 https://www.baidu.com
+/plus/90sec.php 4 http://immanuelmanohar.com/plus/90sec.php
+//plus/qingtian.php 1 https://www.baidu.com
+//images/Sql.asp 1 https://www.baidu.com
+/ss/index.php 2 -
+//plus/mowang.php 1 https://www.baidu.com
+/sito/wp-includes/wlwmanifest.xml 8 -
+/zmjbi.php 1 http://immanuelmanohar.com/zmjbi.php
+/ads.txt 2 -
+//plus/av.php 1 https://www.baidu.com
+/ 26 -
+/mrfif.php 1 http://immanuelmanohar.com/mrfif.php
+/website 1 -
+//x.php 4 -
+/connectors/system/phpthumb.php 1 -
+/2015/wp-includes/wlwmanifest.xml 8 -
+/new 1 -
+//plus/laobiao.php 1 https://www.baidu.com
+/test 1 -
+//plus/mytag_js.php%20aid=9090 1 https://www.baidu.com
+//plus/mytag_j.phpaid=6022 1 https://www.baidu.com
+/main 1 -
+//plus/service.php 1 https://www.baidu.com
+//tempplate/___index.php 1 https://www.baidu.com
+//hxgs.php 1 https://www.baidu.com
+/ysyqq.php 3 http://immanuelmanohar.com/ysyqq.php
+//plus/mytag_js.phpaid=9527 1 https://www.baidu.com
+/beta/wp-content/themes/AdvanceImage5/functions.php 2 -
+//plus/bakup.php 1 https://www.baidu.com
+//install/includes/configure.php 1 http://immanuelmanohar.com/
+//1DWkz2B98W6s3aBP.php 3 -
+/news/wp-includes/wlwmanifest.xml 8 -
+/cms/wp-login.php 1 -
+/cms/wp-includes/wlwmanifest.xml 12 -
+//da.php 1 http://immanuelmanohar.com//da.php
+//plus/erraddsave.php 1 http://immanuelmanohar.com/
+//statics/images/cache.asp 1 https://www.baidu.com
+//bbs/utility/convert/data/config.inc.php 2 https://www.baidu.com
+//d.php 2 -
+//crm/studio/modules/EntityRelease/release.php 1 http://immanuelmanohar.com/
+/,104.18.48.14 1 -
+//plus/mp.php 1 https://www.baidu.com
+//plus/mcds.asp 1 https://www.baidu.com
+//admin/error.asp 1 https://www.baidu.com
+/wp-admin 3 -
+//md5.asp 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9521 6 https://www.baidu.com
+//fckeditor/editor/filemanager/connectors/php/connector.php 1 http://www.sheaf.com.tw/fckeditor/editor/filemanager/connectors/test.html
+//admin/images/Sql.asp 1 https://www.baidu.com
+//uploadfile/userfiles/media/confg.inc.php 1 https://www.baidu.com
+//include/ckeditor/plugins/pagebreak/images/inCahe.php 1 https://www.baidu.com
+//struts2-showcase/filedownload/index.action 1 https://www.baidu.com
+//plus/backup.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9090 1 https://www.baidu.com
+//utility/convert/data/config.inc.php 3 https://www.baidu.com
+//install/install.php 1 http://immanuelmanohar.com/
+//install/m7lrv.php 1 https://www.baidu.com
+//h2Br3584cT90j74s.txt 1 -
+//plus/mytag_js.php 9 https://www.baidu.com
+//plus/mytag_js.phpaid=7888 1 https://www.baidu.com
+//plus/mycak.php 1 https://www.baidu.com
+/pdcli.php 1 http://immanuelmanohar.com/pdcli.php
+//plus/90000.php 1 https://www.baidu.com
+//plus/x.php 1 https://www.baidu.com
+/news 1 -
+//plus/mytag_js.phpaid=999 1 https://www.baidu.com
+//plus/m7lrv.php 1 https://www.baidu.com
+//admin_UploadDataHandler.ashx 1 http://immanuelmanohar.com//admin_UploadDataHandler.ashx
+/home 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 186
+162.158.79.221 10 10 19275 20190531223905
+172.69.63.31 10 10 15095 20190531223906
+172.68.133.18 6 6 10353 20190510002050
+172.68.65.66 6 6 6792 20190531223851
+172.69.130.82 6 8 78326 20190512065152
+172.69.62.254 5 5 8860 20190531223854
+172.69.62.142 5 5 5895 20190531223854
+162.158.78.76 5 5 8330 20190531223904
+162.158.79.59 5 5 8930 20190531223850
+162.158.79.161 5 5 12915 20190531223853
+162.158.79.107 5 5 6235 20190531223904
+172.69.63.37 5 5 5895 20190531223906
+172.69.63.45 5 5 5520 20190531223903
+162.158.79.5 5 5 6360 20190531223904
+141.101.69.45 5 5 8416 20190524215514
+162.158.78.118 5 5 8330 20190531223853
+162.158.91.35 5 5 8930 20190509014509
+172.69.63.17 5 5 8930 20190531223902
+60.191.38.77 4 4 19240 20190531070635
+172.68.144.67 3 3 4676 20190527233628
+108.162.215.196 3 3 4751 20190523153122
+172.69.130.88 3 5 194081 20190512065152
+162.158.59.160 3 3 5358 20190521192716
+172.69.226.149 3 3 6155 20190524011705
+162.158.63.166 3 3 4805 20190529064050
+108.162.246.107 2 2 3572 20190513173943
+172.68.65.222 1 1 1786 20190501130940
+141.101.88.232 0 1 1381 
+108.162.246.185 2 2 1786 20190516130006
+108.162.246.251 0 2 772695 
+172.68.47.120 2 2 3572 20190523035452
+108.162.229.112 2 2 3572 20190523191411
+162.158.91.173 1 1 1786 20190517094828
+162.158.165.226 0 2 376976 
+162.158.59.148 0 5 3863475 
+172.68.59.30 1 1 1786 20190523123933
+172.69.226.201 1 1 1104 20190515045418
+172.69.70.167 2 2 3572 20190531124646
+162.158.79.113 0 5 113120 
+162.158.74.123 1 1 1272 20190516230657
+172.69.135.52 0 2 91038 
+162.158.79.29 1 1 1786 20190529064048
+162.158.91.17 1 1 1786 20190525054039
+172.68.133.72 0 3 2318085 
+162.158.154.187 1 1 1786 20190511110129
+172.68.65.84 0 5 3863475 
+162.158.79.11 0 5 328180 
+162.158.126.10 2 2 3572 20190516125844
+172.68.65.228 0 5 386925 
+162.158.78.88 0 5 386925 
+172.68.239.179 2 2 3572 20190506083945
+172.69.69.40 1 1 1786 20190531034621
+162.158.75.16 1 1 1786 20190508163014
+172.69.135.46 0 1 22624 
+172.68.144.229 1 1 1666 20190527233633
+172.68.47.102 2 2 3558 20190521013344
+108.162.219.22 1 1 1786 20190528073911
+141.101.69.51 1 1 1786 20190520043818
+172.68.182.40 1 1 1772 20190526102512
+162.158.103.101 1 1 1786 20190518025146
+172.68.211.154 2 2 2519 20190505083948
+172.68.65.210 2 2 3332 20190529064055
+172.69.62.246 0 5 3863475 
+162.158.167.210 0 1 153767 
+162.158.74.63 1 1 1786 20190508135838
+172.68.132.137 1 1 1272 20190505025815
+108.162.216.232 0 1 1381 
+172.68.65.42 0 5 942440 
+162.158.102.130 1 1 1786 20190518025748
+162.158.38.16 1 1 1786 20190527235059
+172.68.65.132 0 5 328180 
+141.101.77.254 1 1 1786 20190518201416
+162.158.89.37 1 1 1786 20190510084839
+172.68.144.253 0 2 154770 
+162.158.106.162 1 1 1786 20190516234149
+162.158.182.250 1 1 1786 20190526102502
+108.162.245.160 1 1 1786 20190523214328
+172.68.230.64 1 1 1786 20190511061823
+108.162.219.142 2 2 4369 20190501130953
+172.68.141.220 2 2 0 20190531223902
+108.162.246.65 0 2 376976 
+162.158.79.143 1 1 2583 20190529064057
+172.68.65.252 1 1 1786 20190501044616
+162.158.106.120 2 2 1786 20190516150941
+162.158.59.250 0 4 136557 
+172.69.54.33 1 1 1786 20190506192412
+162.158.103.135 2 2 3572 20190514233700
+172.69.130.100 0 1 77385 
+141.101.104.41 1 1 1786 20190518200126
+172.68.211.4 2 2 3572 20190520074208
+173.245.48.243 2 2 3452 20190514172247
+141.101.104.53 1 1 1786 20190506192412
+108.162.215.88 0 11 15191 
+108.162.219.4 1 1 1786 20190503135353
+108.162.215.240 3 3 6155 20190529232425
+162.158.39.11 1 1 1786 20190528021655
+162.158.92.142 1 1 1786 20190517050633
+172.68.146.146 2 2 2913 20190508173605
+108.162.219.46 1 1 1786 20190510104118
+162.158.106.210 3 3 5358 20190531065803
+162.158.106.66 0 2 91038 
+108.162.246.119 1 3 67422 20190520072811
+162.158.78.136 1 1 1104 20190529064051
+162.158.75.52 2 2 3572 20190508114246
+162.158.78.148 2 2 3572 20190508170517
+172.68.65.168 0 5 227595 
+162.158.78.10 0 10 881955 
+108.162.241.70 1 1 0 20190501201528
+172.68.58.65 1 1 1786 20190508200448
+172.68.74.28 0 2 838331 
+162.158.107.37 1 1 1786 20190529220017
+108.162.246.35 0 2 154770 
+172.68.141.22 0 4 182076 
+172.69.130.22 0 1 772695 
+162.158.126.46 1 1 1786 20190531091427
+172.68.211.46 1 1 1786 20190505083947
+173.245.52.169 1 1 1786 20190515111253
+162.158.106.228 2 4 4548 20190530060326
+172.68.246.92 1 1 1786 20190518094848
+172.68.141.244 0 2 154770 
+172.69.22.218 0 1 22624 
+162.158.106.192 2 2 1786 20190531223849
+141.101.69.129 2 2 3019 20190515045430
+108.162.219.64 2 2 3572 20190520222430
+173.245.52.61 1 1 1786 20190505145849
+162.158.106.102 2 2 3572 20190524220448
+162.158.63.70 1 1 1272 20190501130947
+162.158.58.45 1 1 1104 20190505083948
+172.68.142.221 1 1 0 20190509070209
+172.68.244.138 1 1 1786 20190518094955
+172.69.68.117 1 1 1786 20190526120620
+162.158.106.246 1 1 1786 20190526204931
+172.69.70.197 1 1 1786 20190515185203
+172.68.141.148 0 1 153767 
+162.158.75.64 1 1 0 20190529125106
+172.68.65.120 0 5 942440 
+108.162.246.143 1 1 1786 20190505151001
+172.68.74.10 0 1 45519 
+172.68.74.112 1 2 190274 20190516131153
+172.69.62.94 0 5 768835 
+162.158.79.245 0 5 6905 
+162.158.75.184 1 1 1786 20190508145348
+108.162.246.155 2 2 1786 20190524133517
+172.69.70.233 1 1 1786 20190526011804
+172.69.62.4 2 2 3033 20190529064100
+162.158.78.244 0 5 6905 
+172.68.144.19 0 2 1545390 
+172.69.22.62 1 1 1786 20190516143945
+108.162.221.109 1 1 1786 20190506121230
+172.69.55.136 1 1 1786 20190513110005
+172.68.74.4 2 2 2451 20190516131209
+172.68.239.17 1 1 1786 20190509041852
+173.245.48.75 1 1 1786 20190506000344
+172.68.59.108 3 3 5358 20190523230454
+162.158.78.184 0 5 227595 
+108.162.246.221 1 1 0 20190524133509
+172.68.74.94 0 1 77385 
+172.68.182.52 1 1 1786 20190512194539
+172.68.143.204 0 3 196908 
+108.162.215.214 0 6 464310 
+172.69.22.8 0 3 4143 
+172.69.226.23 1 1 1666 20190515045425
+162.158.63.232 2 2 2951 20190529064052
+108.162.219.100 1 1 1104 20190501130944
+172.69.130.58 0 1 153767 
+172.68.211.106 1 1 1786 20190512034227
+173.245.48.189 0 5 328180 
+172.68.133.174 1 1 0 20190501204644
+172.68.74.34 0 1 1381 
+172.69.62.160 1 1 1786 20190501130943
+162.158.166.149 1 1 2583 20190508173751
+172.69.55.16 1 1 1786 20190504151139
+162.158.103.131 1 1 1786 20190519225252
+108.162.229.208 1 1 1786 20190522102547
+172.68.47.60 0 5 942440 
+138.197.75.161 1 1 4810 20190503161907
+162.158.91.113 1 1 1786 20190507014325
+172.69.54.183 2 2 2890 20190518200206
+172.69.194.34 1 1 1786 20190526134920
+172.69.10.94 2 2 3572 20190504183425
+172.69.10.4 1 1 1786 20190520155948
+172.69.135.88 0 2 131272 
+162.158.255.28 0 3 565464 
+172.69.130.46 0 1 65636 
+172.69.63.65 1 1 1179 20190529064053
+162.158.167.222 0 2 2762 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190501 33 49 2703533 29
+20190502 1 2 3167 1
+20190503 4 5 11549 4
+20190504 3 3 5358 3
+20190505 19 33 2509977 14
+20190506 6 6 10716 5
+20190507 3 3 5358 2
+20190508 15 23 1353741 13
+20190509 20 36 2683780 18
+20190510 5 17 2265619 5
+20190511 2 3 4953 2
+20190512 11 25 2496566 4
+20190513 4 4 7144 3
+20190514 3 3 8382 3
+20190515 10 12 19550 8
+20190516 28 63 5378431 25
+20190517 3 4 6739 3
+20190518 7 7 11820 7
+20190519 3 9 1090826 3
+20190520 6 12 1164844 6
+20190521 4 4 7144 3
+20190522 1 1 1786 1
+20190523 9 9 19098 8
+20190524 22 38 2687352 19
+20190525 1 1 1786 1
+20190526 6 6 10702 6
+20190527 3 10 1157723 3
+20190528 2 2 3572 2
+20190529 13 19 1170857 12
+20190530 1 1 1786 1
+20190531 23 39 2692162 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 234
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 152 265160 144 141
+/ResumeCV.php 18 22896 13 13
+/personal.php 17 21199 11 11
+/reshist.php 17 43911 11 13
+/default.php 17 30124 11 12
+/teaching.php 17 28322 16 15
+/contact.php 17 18768 15 17
+/publications.php 16 18864 14 13
+END_SIDER

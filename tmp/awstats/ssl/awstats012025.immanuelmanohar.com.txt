@@ -1,0 +1,4112 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/ssl/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2706                
+POS_VISITOR 111698              
+POS_DAY 149055              
+POS_DOMAIN 3567                
+POS_LOGIN 3816                
+POS_ROBOT 3971                
+POS_WORMS 4868                
+POS_EMAILSENDER 4999                
+POS_EMAILRECEIVER 5142                
+POS_SESSION 149886              
+POS_SIDER 150045              
+POS_FILETYPES 5277                
+POS_DOWNLOADS 5453                
+POS_OS 5501                
+POS_BROWSER 5890                
+POS_SCREENSIZE 8602                
+POS_UNKNOWNREFERER 8676                
+POS_UNKNOWNREFERERBROWSER 9532                
+POS_ORIGIN 9980                
+POS_SEREFERRALS 10122               
+POS_PAGEREFS 10322               
+POS_SEARCHWORDS 10767               
+POS_KEYWORDS 10919               
+POS_MISC 2370                
+POS_ERRORS 10978               
+POS_CLUSTER 3672                
+POS_SIDER_404 11066               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201004138 148 28307 14766782681444
+FirstTime 20250101030548
+LastTime 20250131233529
+LastUpdate 20250201053216 148 0 147 0 0
+TotalVisits 1061                
+TotalUnique 891                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1009                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 47 47 78965 443 475 41367
+1 53 59 1242500 711 955 34084
+2 73 85 2401495 250 269 18936
+3 60 64 478329 337 353 20194
+4 78 86 2308868 164 205 18524
+5 31 38 627647 1334 1347 21156
+6 34 40 744526 758 781 16782
+7 59 65 1248793 1284 1295 12515
+8 42 48 1221883 550 589 31024
+9 28 40 2350460 907 935 63184
+10 42 50 1399642 249 269 65749
+11 42 48 1223564 580 598 25661
+12 45 49 1152524 76 96 26821
+13 42 42 72501 796 804 44056
+14 40 40 69111 606 624 199540
+15 34 38 1164465 493 499 29993
+16 57 67 3237992 789 822 16417
+17 36 36 62356 1075 1088 48562
+18 59 59 99974 559 578 50501
+19 53 78 3476305 1106 1144 1205357
+20 65 65 111766 174 202 16767
+21 62 62 106644 1051 1078 1002095
+22 40 46 1219089 942 954 22468
+23 51 57 1235557 1955 1984 29707
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 1102 1237 27022873
+eu 71 72 312083
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+no_user_agent 54 82548 20250131222304 0
+Go\-http\-client/ 50 1217614 20250131113436 0
+AhrefsBot/ 49 77795 20250130023354 0
+bot[\s_+:,\.\;\/\\-] 45 1327752 20250131215742 0
+bingbot/ 32 51543 20250131220619 0
+Barkrowler 27 37716 20250130143006 0
+MJ12bot/ 22 38368 20250131230457 0
+Googlebot/ 21 33970 20250125002757 0
+SemrushBot/ 18 96298 20250128181155 0
+scrapy 12 21432 20250128100226 0
+curl 12 21432 20250129165204 0
+Applebot/ 11 17416 20250131083018 0
+BLEXBot/ 9 14358 20250115204408 0
+Wget/ 3 5358 20250117044057 0
+checker 2 3572 20250104114002 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 3572 20250109162531 0
+survey 2 3572 20250106090548 0
+spider 1 1786 20250123091128 0
+DotBot/ 1 1786 20250108015208 0
+crawl 1 1786 20250118163602 0
+YandexBot/ 1 1786 20250124194958 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 170 200085 0 0
+Unknown 5 5 0 0
+html 998 1780754 0 0
+css 15 20100 0 0
+jpg 65 5643315 0 0
+png 56 19690697 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+Unknown 132 122
+android10 5 5
+win10 557 474
+macosx15 36 26
+win8.1 14 14
+macosx13 2 2
+os/2 1 1
+androidmarshmallow 4 4
+linux 60 30
+linuxubuntu 5 5
+androidoreo 3 3
+unix 6 6
+macosx10 1 1
+androidnougat 22 22
+win7 36 36
+androidlollipop 2 2
+macosx9 3 3
+ios_iphone 395 395
+winxp 2 2
+ios_ipad 2 2
+winnt 4 4
+macosx 4 1
+android 13 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 124
+chrome117.0.5938.132 14 2
+safari17.2 1 1
+chrome68.0.3440.106 2 2
+chrome73.0.3683.90 2 2
+chrome52.0.2743.98 2 2
+chrome58.0.3029.110 16 16
+chrome66.0.3359.181 2 2
+msie8.0 1 1
+chrome42.0.2311.90 1 1
+chrome79.0.3945.79 1 1
+chrome122.0.0.0 10 10
+chrome100.0.5191.506 1 1
+chrome74.0.3729.169 54 54
+chrome117.0.0.0 1 1
+chrome49.0.2623.112 10 10
+chrome113.0.0.0 12 6
+chrome131.0.0.0 45 21
+chrome116.0.0.0 5 5
+chrome126.0.0.0 2 2
+chrome76.0.3809.100 2 2
+safari13.0.3 383 383
+chrome85.0.4183.121 4 4
+chrome100.0.5590.716 1 1
+chrome100.0.2541.313 1 1
+chrome100.0.4001.951 1 1
+chrome77.0.5081.111 1 1
+chrome129.0.0.0 11 11
+chrome119.0.0.0 2 2
+safari17.0 8 8
+chrome94.0.4606.81 2 2
+chrome67.0.3396.99 2 2
+chrome60.0.3112.113 5 5
+firefox65.0 1 1
+firefox24.0 2 2
+chrome124.0.6367.91 2 2
+chrome100.0.2003.668 1 1
+chrome93.0.4577.63 6 6
+chrome100.0.7609.546 1 1
+firefox45.0 1 1
+chrome67.0.3396.87 1 1
+chrome124.0.0.0 20 20
+chrome83.0.4103.61 1 1
+chrome108.0.0.0 5 1
+chrome96.0.4702.147 1 1
+chrome96.0.4664.45 8 0
+firefox123.0 4 4
+safari 2 2
+chrome60.0.3112.107 22 22
+chrome105.0.0.0 6 6
+firefox123 3 3
+chrome112.0.5615.136 1 1
+chrome52.0.1746.98 1 1
+firefox115 1 1
+safari17.5 2 2
+chrome23.0.1271.64 1 1
+edge18 1 1
+chrome130.0.0.0 42 30
+chrome85.0.4183.102 2 2
+chrome79.0 4 4
+chrome78.0.3904.108 16 16
+chrome124.0.6367.119 2 2
+netscape5.0 20 20
+firefox40.0 1 1
+chrome124.0.6367.63 2 2
+chrome52.0.2890.98 1 1
+firefox126.0 4 4
+chrome124.0.6367.60 4 4
+chrome66.0.3359.117 18 18
+chrome46.0.2490.86 1 1
+chrome81.0.4044.129 8 8
+chrome63.0.3239.111 2 2
+chrome127.0.0 4 4
+chrome124.0.6367.93 4 4
+chrome47.0.2526.111 2 2
+chrome115.0.0.0 9 3
+chrome125.0.0.0 2 2
+safari12.1.2 1 1
+chrome80.0.3987.162 1 1
+chrome125.0.6422.60 8 2
+msie11.0 8 8
+chrome106.0.5249.91 7 1
+opera15.0.1147.24 1 1
+chrome78.0.3904.62 2 2
+chrome91.0.4472.114 8 8
+chrome104.0.0.0 4 4
+firefox63.0 2 2
+chrome103.0.5060.53 1 1
+chrome100.0.4896.75 15 15
+chrome83.0.4103.97 1 1
+chrome120.0.0.0 87 68
+chrome110.0.0.0 1 1
+Unknown 53 49
+chrome122.0.6261.94 7 1
+safari17.4.1 1 1
+mozilla 66 60
+firefox21.0 1 1
+chrome62.0.3202.84 1 1
+cloudflare 2 2
+chrome71.0.2623.112 2 2
+chrome12.0.703.0 1 1
+chrome63.0.3239.132 2 2
+chrome79.0.3945.130 8 8
+chrome51.0.2704.64 4 4
+chrome121.0.0.0 8 8
+chrome100.0.7973.586 1 1
+chrome132.0.0.0 8 3
+firefox50.0 9 9
+chrome124.0.6367.61 4 4
+chrome106.0.0.0 2 2
+chrome89.0.4389.90 1 1
+chrome36.0.1985.67 1 1
+chrome78.0.3904.70 7 1
+chrome80.0.3987.149 73 73
+chrome88.0.4240.193 10 10
+chrome41.0.2227.0 1 1
+chrome89.0.4389.114 16 16
+chrome89.0.4389.82 2 2
+safari8.0 1 1
+chrome103.0.0.0 2 2
+chrome116.0.5845.1077 7 1
+opera94.0.0.0 1 1
+chrome87.0.4280.141 10 10
+chrome107.0.0.0 2 2
+chrome37.0.2062.124 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250105234434
+Python/3.11_aiohttp/3.11.11 20250114073217
+python-requests/2.32.3 20250128195945
+python-requests/2.26.0 20250129163537
+okhttp/3.14.9 20250103015830
+Cloudflare-SSLDetector 20250128215038
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20250128024254
+python-requests/2.27.1 20250125162428
+Embarcadero_URI_Client/1.0 20250113111520
+quic-go-HTTP/3 20250104075924
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20250129213335
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250129042606
+Mozilla/5.0 20250127144334
+Python/3.6_aiohttp/3.8.6 20250114135652
+Mozilla/5.0_(compatible) 20250131233529
+panscient.com 20250101183312
+python-requests/2.28.2 20250130144754
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Python/3.11_aiohttp/3.11.11 20250114073217
+python-requests/2.32.3 20250128195945
+quic-go-HTTP/3 20250104075924
+Embarcadero_URI_Client/1.0 20250113111520
+python-requests/2.27.1 20250125162428
+python-requests/2.28.2 20250130144754
+panscient.com 20250101183312
+okhttp/3.14.9 20250103015830
+Python/3.6_aiohttp/3.8.6 20250114135652
+python-requests/2.26.0 20250129163537
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 556 595
+From1 12 12
+From2 3 3
+From3 12 12
+From4 590 687
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 1 1
+google_com 1 1
+www_google_com_hk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://111.230.92.10 2 2
+https://member.168holdings.com 2 2
+https://harveerlogistics.com 1 1
+https://www.quora.com 1 1
+http://107.154.217.230:8069 1 1
+https://admin.getpagerabbit.com 1 1
+https://3.85.252.172:443 1 1
+http://52.209.130.158 1 1
+http://154.44.29.230 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 17497 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2624
+/public/js/global.js 1 http://immanuelmanohar.com/public/js/global.js
+/css/item.php 3 -
+/app/api/app/get_index 2 https://immanuelmanohar.com/app/api/app/get_index
+/administrator/index.php 1 -
+/wp-includes/rest-api/wp-login.php 3 -
+/BIBIL0DAY.php 5 -
+/wp-admin/css/colors/classwithtostring.php 21 -
+/wp-includes/rest-api/search/ 1 -
+/wp-content/dropdown.php 7 -
+/wp-admin/css/plugins.php 3 -
+/wp-includes/css/wp-conflg.php 21 -
+/wp-home.php 1 https://immanuelmanohar.com/wp-home.php
+/cgi-bin/xmrlpc.php 32 -
+/wp-admin/classwithtostring.php 26 -
+/api/app/indexList 2 https://immanuelmanohar.com/api/app/indexList
+/wp-includes/rest-api/fields/ 1 -
+/wp-includes/IXR/about.php 26 -
+/wp-includes/sodium_compat/src/alfa-rex.php 3 -
+//wp-admin/js/about.php 1 -
+/wp-includes/block-supports/autoload_classmap.php 4 -
+/wp-includes/js/codemirror/index.php 21 -
+/wp-includes/css//xc.php 2 -
+/wp-admin/includes/cloud.php 25 -
+/.well-known/cloud.php 7 -
+/wp-admin/network/chosen.php 3 -
+/wp-content/uploads/2016/03/post.php 1 -
+/print/bkindex.php 2 http://immanuelmanohar.com/print/bkindex.php
+/js/a.script 2 https://immanuelmanohar.com/js/a.script
+/.tugboat 1 -
+/wp-includes/style.php 2 -
+//wp-admin/maint/wp-login.php 1 -
+/wp-blog.php 2 -
+/meta.php 11 -
+/.well-known/admin.php 11 -
+/nextjs-app/.env 1 -
+/wp-includes/blocks/wp-conflg.php 3 -
+/images/cloud.php 24 -
+/style.css 2 https://immanuelmanohar.com/style.css
+/contact/ 1 -
+/wp-settings.php 2 -
+/cgi-bin/ 1 -
+/wp-includes/Requests/Text/post.php 1 -
+/wp-includes/flower.php 1 -
+/libraries/legacy/info.php 3 -
+/wp-admin/js/widgets/flower.php 1 -
+/api/Business/ 2 https://immanuelmanohar.com/api/Business/
+/geju.php 25 -
+/wp-content/plugins/WordPressCore/ 1 -
+/portal/index/protocol.html 2 https://immanuelmanohar.com/portal/index/protocol.html
+/wp-includes/images//about.php 3 -
+/wp-includes/images/smilies/index.php 21 -
+/wp-content/plugins/Cache/flower.php 1 -
+/wp-content/plugins/google-seo-rank/ 1 -
+/api/.env 14 -
+/wp-admin/x.php 2 -
+/wp-includes/js/e3B6W/autoload_classmap.php 1 -
+/.well-known/lv.php 3 -
+/wp-admin/wp-signup.php 7 -
+/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/baxa1.php 6 -
+/wp/xleet.php 1 -
+/wp-includes/rest-api/fields/index.php 3 -
+/xx.php 2 http://immanuelmanohar.com/xx.php
+/rbh/log.php 1 http://immanuelmanohar.com/rbh/log.php
+/index/admin.php 1 -
+/cgi-bin/upfile.php 21 -
+/sitemap_index.xml.gz 1 -
+/wp-content/uploads/2020/admin.php 3 -
+/aa.php 2 -
+/wp-includes/block-supports/flower.php 1 -
+/baxa1.phP8 4 http://immanuelmanohar.com/baxa1.phP8
+/.envs 1 -
+//administrator/index.php 2 -
+/wp-admin/images/xmrlpc.php 28 -
+/wp-includes/ID3/install.php 4 -
+/3.php 1 https://immanuelmanohar.com/3.php
+/w.php 4 -
+/wp-content/themes/twentythirteen/functions.php 1 -
+/wp-admin/css/dnIzIDf.php 1 http://immanuelmanohar.com/wp-admin/css/dnIzIDf.php
+/wp-includes/SimplePie/Content/Type/alfa-rex.php 3 -
+/admin.php 70 -
+/ethan.php 3 -
+/wp-admin/users.php 3 -
+/wp-includes/css/dist/block-library/flower.php 1 -
+/wp-includes/SimplePie/ 1 -
+/wp-content/upgrade/plugins.php 3 -
+/wp-content/plugins//index.php 3 -
+/wp-includes/customize/muse.php 21 -
+/Site/ 1 -
+//content.php 1 -
+/wp-includes/theme-compat/embed-core.php 3 -
+/assets/plugins/server/php/ 1 -
+/wp-includes/item.php 7 -
+/.well-known/caches.php.suspected 2 -
+/wp-admin/maint/buy.php 21 -
+/wp-includes/link.php 1 http://immanuelmanohar.com/wp-includes/link.php
+/wp-admin/fx.php 5 -
+/wp-includes/html-api/alfa-rex.php 21 -
+/wp-mail.php/wp-includes/ID3/ 1 -
+/wp//wp-admin/post.php 1 -
+/wp-content/plugins/core-plugin/ 1 -
+/wp-content/languages/ 1 -
+/wp-content/uploads/wpr-addons/forms/flower.php 1 -
+/m/allticker/1 2 https://immanuelmanohar.com/m/allticker/1
+/wp-content/plugins/ 1 -
+/api/shop/getKF 2 https://immanuelmanohar.com/api/shop/getKF
+/wp-content/plugins/not/includes/about.php 20 -
+/wp-includes/assets/post.php 1 -
+/wp-content/plugins/linkpreview/db.php 18 -
+/wp-admin/maint/maint/flower.php 1 -
+/wp-includes/assets/themes.php 3 -
+/uploads/xleet.php 5 -
+//wp-config-sample.php 1 -
+/static/wap/css/common.css 1 http://immanuelmanohar.com/static/wap/css/common.css
+/wp-content/themes/wp-pridmag/up.php 21 -
+/wp-includes/Requests/library/about.php 2 -
+/wp-admin/network/plugins.php 3 -
+/upgrade.php 6 -
+/.env.project 1 -
+/development/.env 1 -
+/worksec.php 5 http://immanuelmanohar.com/worksec.php
+/bc 50 http://immanuelmanohar.com/bc
+/Public/Wchat/js/cvphp.js 2 https://immanuelmanohar.com/Public/Wchat/js/cvphp.js
+/wp-content/cloud.php 7 -
+/dashboard/phpinfo.php 1 -
+/wp-admin/user/network.php 4 -
+/wp-includes/ID3/admin.php 4 -
+/modules/mod_simplefileuploadv1.3/elements/fozi/ 1 -
+/config/.env 3 -
+/wp-content/uploads/2018/03/flower.php 1 -
+/cjfuns.php 3 -
+/class-wp-cmd.php/fied.php 2 -
+/wp-atom.php 3 -
+/.well-knownold/inputs.php 21 -
+/assets/server/php/ 1 -
+/wp-content/themes/twentyeleven/functions.php 1 -
+/api/shared/config.env 1 -
+/wp-content/plugins/core-plugin/file-manager.php 21 -
+//doc.php 1 -
+/wp-includes/PHPMailer/post.php 1 -
+/wp-includes/SimplePie/Cache/autoload_classmap.php 1 -
+/index/login 2 https://immanuelmanohar.com/index/login
+/exif.php 5 -
+/wp-content/themes/include.php 26 -
+/config.xml 2 -
+/.ssh/id_ed25519 2 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/api/config/getkefu 2 https://immanuelmanohar.com/api/config/getkefu
+/8/ 2 https://immanuelmanohar.com/8/
+/delpaths.php 5 -
+/s.php 4 -
+//actuator/env 1 -
+/wp-includes/widgets/post.php 1 -
+/wp-content/updraft/flower.php 1 -
+/api/site/getInfo.do 2 https://immanuelmanohar.com/api/site/getInfo.do
+/static/index/css/index.css 2 https://immanuelmanohar.com/static/index/css/index.css
+//xmlrpc.php 95 -
+/v2/_catalog 2 -
+/wp-includes/ 1 -
+/app/static/picture/star.png 1 http://immanuelmanohar.com/app/static/picture/star.png
+/wp-content/plugins/ioptimization/IOptimize.php 2 -
+/wp-admin/css/colors/post.php 1 -
+/wp-content/themes/extol/settings.php 1 http://immanuelmanohar.com/wp-content/themes/extol/settings.php
+/wp-includes/wp-load.php 8 -
+/wp-admin/shell20211028.php 2 -
+/wp-content/plugins/wp-theme-editor/include.php 19 -
+/cc.php 4 -
+/wp-content/languages/asus.php 3 -
+/wp-content/themes/twentyeleven/ 1 -
+/banner.do 2 https://immanuelmanohar.com/banner.do%3Fcode%3D1
+/api/config.js 1 -
+/wp-p.php7 38 -
+/wp-includes/ID3//file.php 3 -
+/bbfpalvi.php 1 www.google.com
+/wp-includes/widgets/parx.php 21 -
+/libraries/phpmailer/flower.php 1 -
+/wp-comments-post.php 23 -
+/wp-includes/php-compat/post.php 1 -
+/site.js 2 https://immanuelmanohar.com/site.js
+/wp-admin/item.php 4 -
+/Public/home/js/check.js 1 http://immanuelmanohar.com/Public/home/js/check.js
+/Home/Index/api 2 https://immanuelmanohar.com/Home/Index/api
+/fm.php 5 -
+/classwithtostring.php 13 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 3 -
+/.env.php 1 -
+/updates.php 49 -
+/ 17 -
+/wp-admin/images/alfa-rex.php 3 -
+/packed.php 24 -
+/static/admincp/js/common.js 2 https://immanuelmanohar.com/static/admincp/js/common.js
+/wp-content/xleet.php 2 -
+/admin/controller/extension/extension/daDTLv3YPn6.php 1 -
+/Public/js/common.js 2 https://immanuelmanohar.com/Public/js/common.js
+/app.php 1 -
+/ee.php 1 http://immanuelmanohar.com/ee.php
+/e/data/ecmseditor/infoeditor/plugins/smiley/images/angel_smile.png 1 http://immanuelmanohar.com
+/cong.php 30 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/network.php 1 http://immanuelmanohar.com/wp-includes/sodium_compat/src/Core/Curve25519/Ge/network.php
+/api/appVersion 2 https://immanuelmanohar.com/api/appVersion%3Fmobile_system%3D2
+/system/ 1 -
+/wp-includes/Requests/Auth/ 1 -
+/wp-content/themes/seotheme/db.php 41 www.google.com
+/.well-known/pki-validation/fm.php 3 -
+/wp-mail.php 28 -
+/blog/index.php 2 http://immanuelmanohar.com/blog/index.php
+/mah.php 28 -
+/contact 4 http://immanuelmanohar.com/contact
+/csv.php 5 -
+/.well-known/pki-validation/flower.php 1 -
+/wp-admin/css/colors/blue/.well-known/pki-validation/xmrlpc.php 2 -
+/.well-known/themes.php 3 -
+/plugins/DaoZM.php 3 -
+/administrator.zip 1 -
+/wp-includes/PHPMailer/radio.php 1 -
+/special.php 2 -
+/wp-content/updraft/post.php 1 -
+/server/settings.py 1 -
+/.well-known/about.php 26 -
+/fw.php 30 -
+/ws.php7 39 -
+/flower.php 15 -
+/wp-content/plugins/autoload_classmap.php 1 -
+/hyIPpxWDQ.php 5 -
+/wp-includes/js/tinymce/plugins/compat3x/css/flower.php 1 -
+/_fragment 2 -
+/static/customer/js/xiaotian.cli.v2.js 2 https://immanuelmanohar.com/static/customer/js/xiaotian.cli.v2.js
+/license.txt 2 http://immanuelmanohar.com/license.txt
+/wp-content/plugins/seoo/wsoyanz.php 24 -
+/asset/plugins/jquery-file-upload/server/php/ 1 -
+/wp-includes/Requests/Utility/autoload_classmap.php 1 -
+/.well-known/pki-validation/jp.php 3 -
+/local/moodle_webshell/webshell.php 2 -
+/uploads/autoload_classmap.php 4 -
+/register 1 -
+/wp-admin/css/colors/ectoplasm/wp-login.php 3 -
+/wp-includes/images/wlw/ 1 -
+/wp-admin/includes/cong.php 21 -
+//wp-admin/js/index.php 1 -
+/admin/assets/plugins/elfinder/php/connector.php 1 -
+/biz/server/config 2 https://immanuelmanohar.com/biz/server/config
+/wp-includes/images/flower.php 1 -
+/.env.bak 3 -
+/OthioNDwMEK.php 5 -
+/wp-includes/SimplePie/wp-login.php 8 -
+/version.php 3 http://immanuelmanohar.com/version.php
+/wp-includes/SimplePie/Decode/ 1 -
+/wp-content/themes/travelscape/json.php 7 -
+/wp-content/plugins/Cache/ 1 -
+/immanuelmanohar/env 1 -
+/wp-includes/Text/wp-login.php 6 -
+/wp-includes/css/ 1 -
+/wp-admin/js/widgets/index.php 3 -
+/goods.php 15 -
+/install.php 39 -
+/wp-content/uploads/autoload_classmap.php 8 -
+/wp-content/themes/seotheme/post.php 1 -
+/mobile/v3/appSuperDownload.do 2 https://immanuelmanohar.com/mobile/v3/appSuperDownload.do
+/home/index 2 https://immanuelmanohar.com/home/index
+/wp-content/themes/wp-pridmag/classwithtostring.php 3 -
+/access.php 5 -
+/wp-content/plugins/view-more/ioxi.php 2 -
+/wp-admin/upgrade.php 3 -
+/wp-content/themes/twentythirteen/ 1 -
+/wp-includes/function.php 7 -
+/bitrix/admin/htmleditor2/simple.php 1 -
+/wp-content/plugins/erinyani/baxa1.php7 2 -
+/wp-admin/images/as.php 3 -
+/click.php 5 -
+/1p.php 5 -
+/.well-known/pki-validation/moon.php 2 http://immanuelmanohar.com/.well-known/pki-validation/moon.php
+/hshs.php 1 http://immanuelmanohar.com/hshs.php
+/wp-content/mu-plugins/gecko.php 21 -
+/ebs.php7 39 -
+/wp-tinymce.php 1 -
+/images/post.php 1 -
+/mariju.php 3 -
+/wp-content/x/post.php 1 -
+/wp-includes/fonts/autoload_classmap.php 1 -
+/temp.php 2 -
+/index/login/index 2 https://immanuelmanohar.com/index/login/index
+/wxo.php 11 -
+/appsettings.Production.json 1 -
+/templates/protostar/error.php 1 -
+/shop/lock.php 3 -
+/wp-includes/css/flower.php 1 -
+/simpla/ 1 -
+/wp-content/uploads/423_index.php 21 -
+/wp-includes/wso112233.php 2 -
+//wp-admin/maint/flower.php 1 -
+/network.php 7 -
+/wp-includes/js/tinymce/skins/lightgray/img/ 1 -
+/admin/uploads/lv.php 21 -
+/system.php 11 -
+/static/home/js/rooms.js 2 https://immanuelmanohar.com/static/home/js/rooms.js
+/.well-known/pki-validation/pwnd.php 3 -
+/_profiler/phpinfo.php 2 -
+/12wudscz.php 3 -
+/static/css/reset.css 2 https://immanuelmanohar.com/static/css/reset.css
+/include/ckeditor/images/addon.gif 1 http://immanuelmanohar.com
+/config.yaml 2 -
+/testing 4 -
+/admin/fckeditor/editor/filemanager/ 1 -
+/0.php 3 -
+/xleetshell.php 2 -
+/wp-links.php 26 -
+/wp-content/themes.php 10 -
+/manager.php 6 -
+/admin/atomlib.php 3 -
+/aQzODIgoBr.php 5 -
+/class-wp-cmd.php 2 -
+/wp-admin/includes/autoload_classmap.php 1 -
+/chosen.php 49 -
+/images/stories/ 1 -
+/lsvovmug.php 1 www.google.com
+/include/ 1 -
+/feed 2 -
+/wp-includes/assets/index.php 10 -
+/wp-content/themes/ 1 -
+/wp-includes/images/crystal/ 1 -
+/wp-admin/css/license.php 7 -
+/wp-includes/product.php 5 http://immanuelmanohar.com/wp-includes/product.php
+/wp-content/uploads/wpr-addons/forms/post.php 1 -
+/wp-content/plugins/seoo/flower.php 1 -
+/wp-admin/css/colors/blue/cloud.php 24 -
+/about/wp-conflg.php 3 -
+/disagraeed.php 5 -
+/index.php 40 -
+/wp-admin/css/colors/coffee/index.php 8 -
+/class-wp-cmd.php/wp-admin/css/colors/blue/post.php 1 -
+/wp-content/uploads/file.php 3 -
+/iR7SzrsOUEP.php 3 -
+/wp-admin/date.php 3 -
+/wp-includes/images/media/about.php 3 -
+/api/index/init 2 https://immanuelmanohar.com/api/index/init
+/assets/ 1 -
+/1h6j5.php 2 -
+/lala.php 1 http://immanuelmanohar.com/lala.php
+/cdn/zh-cn.json 2 https://immanuelmanohar.com/cdn/zh-cn.json
+/wp-content/upgrade-temp-backup/wp-login.php 3 -
+/wp-includes/pomo/wp-login.php 2 http://immanuelmanohar.com/wp-includes/pomo/wp-login.php
+/ggfi.php 3 -
+/wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php 1 -
+/rc.php 1 http://immanuelmanohar.com/rc.php
+/templates/beez/jsstrings.php 1 http://immanuelmanohar.com/templates/beez/jsstrings.php
+/config.js 2 http://immanuelmanohar.com/config.js
+/api/common/menus 2 https://immanuelmanohar.com/api/common/menus%3Flang%3Dzh-Hans
+/im/h5/ 2 https://immanuelmanohar.com/im/h5/
+/classsmtps.php 25 -
+/wp-includes/sodium_compat/wp-login.php 3 -
+/lv.php 7 -
+/wp-content/function.php 3 -
+//contact 3 -
+/sftp.json 1 -
+/wp-admin/packed.php 3 -
+/Web/js/v1/phone.js 2 https://immanuelmanohar.com/Web/js/v1/phone.js
+/admin/uploads/media.php 21 -
+/wp-includes/images/wlw/wp-login.php 3 -
+/wp-admin/images/users.php 3 -
+/4price.php 9 -
+/wp-includes.bak/html-api/autoload_classmap.php 1 -
+/wp-admin/css/colors/about.php 1 http://immanuelmanohar.com/wp-admin/css/colors/about.php
+/wp-includes/certificates/zmFM.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 6 http://immanuelmanohar.com/wp-content/plugins/pwnd/pwnd.php
+/sites/default/files/ 41 binance.com
+/wp-content/mu-plugins/index.php 21 -
+/wp-admin/js/flower.php 1 -
+/api/Event/basic 2 https://immanuelmanohar.com/api/Event/basic
+/wp-content/shell20211028.php 2 -
+/wp-content/uploads/2014/06/post.php 1 -
+/.env~ 2 -
+/old/.env 5 -
+/al.php 5 -
+/.well-known/dropdown.php 11 -
+/wp-includes/pomo/install.php 3 -
+/wp-admin/js/widgets/cloud.php 24 -
+/wp-content/db-cache.php 1 -
+/assets/admin.php 3 -
+//wp-content/install.php 1 -
+/aws.yml 2 -
+/.vscode/ftp-sync.json 1 -
+/wp-includes/fonts/post.php 1 -
+/beta/.env 1 -
+/wp-mail.php/wp-includes/ID3/info.php 3 -
+/wp-includes/images/post.php 1 -
+/cron/.env 2 -
+/wp-content/plugins/awesome-coming-soon/autoload_classmap.php 1 -
+/sidwsi.php 4 -
+/wp-admin/maint/sidebara.php 3 -
+/sim.php/wp-includes/certificates/plugins.php 5 -
+/e69ovfsr.php 5 -
+/wp-admin/css/network.php 1 http://immanuelmanohar.com/wp-admin/css/network.php
+/class-snoopye_wso.php 2 -
+/randkeyword.PhP7 3 http://immanuelmanohar.com/randkeyword.PhP7
+/wp-content/themes/hideo/network.php 2 http://immanuelmanohar.com/wp-content/themes/hideo/network.php
+/dev/.env 1 -
+/wp-content/classwithtostring.php 3 http://immanuelmanohar.com/wp-content/classwithtostring.php
+/wp-includes/css/thems.php 1 -
+/wp-content/plugins/not/includes/flower.php 1 -
+//website/wp-includes/wlwmanifest.xml 61 -
+/images/autoload_classmap.php 4 -
+/css/main.css 1 http://immanuelmanohar.com/css/main.css
+/wp-includes/Requests/Exception/HTTP/ 1 -
+/wp-admin/network/post.php 1 -
+/wp-admin/css/colors/blue/atomlib.php 22 -
+/ab1ux1ft.php 5 -
+/static/images/jymx.png 1 http://immanuelmanohar.com/static/images/jymx.png
+/index.php/Wap/Api/getBanner 2 https://immanuelmanohar.com/index.php/Wap/Api/getBanner
+/wp-admin/network/flower.php 1 -
+/config.php 38 -
+//wp-includes/assets/index.php 1 -
+/wp-includes/customize/wp-login.php 3 -
+/static/home/css/feiqi-ee5401a8e6.css 1 http://immanuelmanohar.com/static/home/css/feiqi-ee5401a8e6.css
+/admin/images/slider/CUfcfoH.php 3 -
+/wp-content/upgrade/autoload_classmap.php 4 -
+/wp-includes/IXR/flower.php 1 -
+/used: 2 -
+/wp-includes/SimplePie/about.php 29 -
+/wp-content/about.php 29 -
+/admin/env 2 -
+/goat.php 1 http://immanuelmanohar.com/goat.php
+/gif.php 3 -
+/admin-post.php 39 -
+/wp-content/languages/autoload_classmap.php 1 -
+/ans.php 2 http://immanuelmanohar.com/ans.php
+/static/js/common.js 2 https://immanuelmanohar.com/static/js/common.js
+/files/ 1 -
+/dropdown.php 54 -
+/wp-content/uploads/2016/03/autoload_classmap.php 1 -
+/static/mobile/user.html 2 https://immanuelmanohar.com/static/mobile/user.html
+/public/static/admin/images/ok.png 1 http://immanuelmanohar.com
+/wp-admin/images/wp-login.php 26 -
+/wp-content/termps.php 1 http://immanuelmanohar.com/wp-content/termps.php
+/css/flower.php 1 -
+//blog/wp-includes/wlwmanifest.xml 94 -
+/about.php525 5 -
+/wp-admin/images/index.php 43 -
+/wp-content/upgrade/function.php 7 -
+/wp-includes/theme-compat/index.php 21 -
+/wp-includes/Requests/Text/flower.php 1 -
+/wp-includes/style-engine/autoload_classmap.php 4 -
+/item.php 9 -
+/inc.php 7 -
+/wp-content/blogs.dir/flower.php 1 -
+///wordpress/wp-admin/setup-config.php 1 www.google.com
+/white.php 2 -
+/static/lib/jquery-file-upload/server/php/ 1 -
+/phpinfo.php 10 -
+/crack_self_restore.php 4 -
+/wp-includes/html-api/chosen.php 21 -
+/index/user/register 2 https://immanuelmanohar.com/index/user/register
+/wp-content/plugins/ninja-forms/ 1 -
+/infos/ 5 -
+/source/20220119/static/wap/js/order.js 1 http://immanuelmanohar.com/source/20220119/static/wap/js/order.js
+/wp-includes/sitemaps/alfa-rex.php 3 -
+//admin.php 1 -
+/randkeyword.PhP8 1 -
+/images/plugins.php 3 -
+/wp-content/plugins/flower.php 1 -
+/xmrlpc.php 62 -
+//test/wp-includes/wlwmanifest.xml 94 -
+/alfanew.PHP7 1 -
+/eNtnKM.php 5 -
+/hehehehe.php 5 -
+/log.php 30 -
+/wp-plain.php 11 www.google.com
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 1 -
+/M1.php 7 -
+/wp-hoard.php 2 -
+/wp-admin/user/plugins.php 6 -
+/wp-includes/makeasmtp.php 8 -
+/wp-admin/css/colors/cloud.php 24 -
+/assets/js/elfinder/php/connector.php 1 -
+/wp-includes/images/autoload_classmap.php 22 -
+/th/plugins/phpThumb/404.php 3 -
+/wp-admin/css/post.php 1 -
+/about/function.php 15 -
+/short/116903 2 -
+/images/options.php 3 -
+/js/nsc/main.js 2 https://immanuelmanohar.com/js/nsc/main.js
+/wp-content/style.php 2 -
+//site/wp-includes/wlwmanifest.xml 94 -
+/wp-content/plugins/wp-theme-editor/flower.php 1 -
+/Public/css/errorCss.css 2 https://immanuelmanohar.com/Public/css/errorCss.css
+/wp-content/plugins/style.php 1 -
+/wp-includes/Text/Diff/Engine/flower.php 1 -
+/.well-known/wp-2019.php 3 -
+/wp-content/plugins/simple/post.php 1 -
+/wp-content/plugins/dummyyummy/ 1 -
+/OLD-UP-ova.php 1 http://immanuelmanohar.com/OLD-UP-ova.php
+/.well-known/pki-validation/index.php 9 -
+/wp-includes/block-supports/variations.php 3 -
+/templates/beez3/1.php 1 -
+/js/jquery-file-upload/server/php/ 1 -
+/raf.php 2 -
+/wp-admin/js/ 3 -
+//2019/wp-includes/wlwmanifest.xml 92 -
+/wp-content/themes/deeto/login.php 1 http://immanuelmanohar.com/wp-content/themes/deeto/login.php
+/defaul1.php 1 http://immanuelmanohar.com/defaul1.php
+/wp-content/ice.php 1 http://immanuelmanohar.com/wp-content/ice.php
+/app/.env 10 -
+/wp-content/themes/classic/inc/json.php 3 -
+/wp-config-sample.php 8 -
+/symfony/public 1 -
+/wp-content/languages/chosen.php 3 -
+/sim.php 2 -
+/wp-admin/css/colors/autoload_classmap.php 1 -
+/wp-content/upgrade/about.php 11 -
+/admin/ty.php 3 -
+/km.asmx/getPlatParam 2 https://immanuelmanohar.com/km.asmx/getPlatParam
+/Public/Mobile/ecshe_css/wapmain.css 2 https://immanuelmanohar.com/Public/Mobile/ecshe_css/wapmain.css%3Fv%3D1545408652
+/common/template/lottery/lecai/css/style.css 2 https://immanuelmanohar.com/common/template/lottery/lecai/css/style.css
+/alfacgiapi/perl.alfa 11 www.google.com
+/wp-content/plugins/wp-help/admin/wp-fclass.php 6 -
+/js/home.js 1 http://immanuelmanohar.com/js/home.js
+/.env.base-distante 2 -
+/wp-sigunq.php 23 -
+/wp-includes/Requests/flower.php 1 -
+/wp-content/uploads/index.php 24 -
+/ALFA_DATA/ 1 -
+/wp-includes/random_compat/plugins.php 2 -
+/cgi-bin/index.php 8 -
+/C.php 5 -
+/ty.php 4 -
+/favicon.png 4 -
+/wp-includes/Text/alfa-rex.php 3 -
+/index/aurl 2 https://immanuelmanohar.com/index/aurl
+/getConfig/listPopFrame.do 2 https://immanuelmanohar.com/getConfig/listPopFrame.do%3Fcode%3D1%26position%3Dindex%26_%3D1601489645097
+/wp-includes/SimplePie/Content/Type/index.php 3 -
+/config/app.php 1 -
+/mobile/film/css/index.css 1 http://immanuelmanohar.com/mobile/film/css/index.css
+/config.json 5 -
+/wp-admin/css/wp-login.php 8 -
+/wp-includes/Requests/Utility/ 1 -
+/admin-ajax.php 2 -
+/about.php7 41 -
+/public/scripts/filemanager/dialog.php 1 -
+/wp-content/upgrade-temp-backup/about.php 41 -
+/admin 4 https://immanuelmanohar.com/admin
+/wp-content/themes/file.php 3 -
+/.well-known/wp-login.php 8 -
+/telescope/requests 2 -
+/.ssh/id_rsa 2 -
+/m.html 2 https://immanuelmanohar.com/m.html
+/wp-admin/includes/ 1 -
+//moon.php 1 -
+/config/environments/database.rb 1 -
+/wp-admin/css/admin.php 2 -
+/wp-includes/images/crystal//index.php 3 -
+/haiterus.php 5 -
+/index/login/register 2 https://immanuelmanohar.com/index/login/register
+/wp-includes/blocks/about.php 25 -
+/function.php 14 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/wp-includes/block-supports/ 1 -
+/wp_wrong_datlib.php 5 -
+/wp-content/plugins/WordPressCore/include.php 26 -
+/dbtoolkit_import.php 2 -
+/admin/jquery-file-upload/server/php/ 1 -
+/wp-mail.php/wp-includes/ID3/rnEPv9.php 21 -
+/.well-known/radio.php 9 -
+/css/skin/ymPrompt.css 2 https://immanuelmanohar.com/css/skin/ymPrompt.css
+/wp-content/mah.php 9 -
+/wp-content/upgrade/wp-sigunq.php 3 -
+/.well-known/wso112233.php 2 -
+/wp-includes/wp-class.php 4 -
+/modules/mod_simplefileuploadv1.3/elements/ 1 -
+/js/style.php 3 -
+//wp-admin/images/install.php 1 -
+/wp-includes/html-api/about.php 21 -
+/alfa-rex.php8 1 http://immanuelmanohar.com/alfa-rex.php8
+/wp-includes/js/autoload_classmap.php 1 -
+/wp-content/themes/autoload_classmap.php 1 -
+/gecko-new.php 15 -
+/wp-includes/SimplePie/system.php 3 -
+/local/ 1 -
+/fm2.php 2 -
+/$web/index.html 2 https://immanuelmanohar.com/%24web/index.html
+/wp-includes/SimplePie/wp-conflg.php 3 -
+//2021/wp-includes/wlwmanifest.xml 33 -
+/hoot.php 25 -
+/api/config.env 1 -
+/wp-includes/assets/autoload_classmap.php 1 -
+/wp-includes/Text/Diff/Engine/Engine/ 1 -
+/wp-admin/wso112233.php 2 -
+/admin/galerie/server/php/ 1 -
+/engines.php 1 https://immanuelmanohar.com/engines.php
+/css/index.php 14 -
+//user.php 3 -
+/zb_users/avatar/0.png 1 http://immanuelmanohar.com
+/Assets/ 1 -
+/wp-content/plugins/ubh/up.php 2 http://immanuelmanohar.com/wp-content/plugins/ubh/up.php
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/wp-includes/php-compat/content.php 21 -
+/wp-admin/user/xmrlpc.php 24 -
+//1.php 1 -
+/class.php 6 -
+/wp-admin/images/file.php 8 -
+/plugins/phpThumb/404.php 3 -
+/wp-includes/css/dist/components/flower.php 1 -
+/wp-includes/pomo/zmFM.php 2 -
+/abe.php 4 -
+/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/css/colors/index.php 43 -
+/ads.txt 5 -
+/wp-includes/wp-includes/alfa-rex.php 21 -
+/.well-known/pki-validation/bb.php 3 -
+/wp-includes/fonts/install.php/filemanager.php 2 -
+/wp-admin/chosen.php 3 -
+/wp-includes/Requests/Utility/post.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/autoload_classmap.php 1 -
+/.git/config 22 -
+//env 1 -
+/wp-admin/click.php 1 -
+/wp-content/themes/wp-pridmag/init.php 8 -
+/wp-content/uploads/wp-conflg.php 21 -
+/admin/elfinder/php/connector.php 1 -
+/common/member/js/user.util.js 2 https://immanuelmanohar.com/common/member/js/user.util.js
+/link.php 28 -
+/.axiom/accounts/do.json 1 -
+/wp-content/themes/twenty/ 1 -
+/wp-content/themes/newsfeed-theme/bbh.php 1 http://immanuelmanohar.com/wp-content/themes/newsfeed-theme/bbh.php
+/wp-login.php 48 -
+/wp-admin/network/admin.php 4 -
+/local/.env 2 -
+/wp-content/themes/oceanwp/ 1 -
+/wp-includes/Cez57/post.php 1 -
+/Assets/admin.php 3 -
+/temp/ 2 -
+/images/about.php 41 -
+/wp-includes/SimplePie/HdGGN/flower.php 1 -
+/resources/js/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-content/batm.php 4 -
+/admin/content/sitetree/ 1 -
+/01.php 5 -
+//wp-content/plugins/fix/up.php 1 -
+/admin/controller/extension/extension/blue.php 21 -
+/.well-known/text.php 2 -
+/good.php 5 -
+/wp-includes/html-api/wp-conflg.php 3 -
+/wp-content/plugins/wp-theme-editor/post.php 1 -
+/admin/assets/plugins/server/php/ 1 -
+/wp-content/plugins/seoplugins/mar.php 42 -
+/wp-content/item.php 2 http://immanuelmanohar.com/wp-content/item.php
+/readme.php 12 -
+/files/autoload_classmap.php 1 -
+/.env.dist 1 -
+/wp-includes/PHPMailer/ 1 -
+/3m/wp-admin/css/colors/blue/ 2 http://immanuelmanohar.com/3m/wp-admin/css/colors/blue/
+/wp-includes/ID3/ 1 -
+/client/static/icon/hangqingicon.png 2 https://immanuelmanohar.com/client/static/icon/hangqingicon.png
+/.env.sample 1 -
+/OK.php 5 -
+/wp-l0gin.php 2 http://immanuelmanohar.com/wp-l0gin.php
+/wp-content/upgrade-temp-backup/ 1 -
+/th/plugins/phpThumb/ 1 -
+/vendor/laravel-filemanager/js/script.js 1 -
+//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js 15 -
+/wp-admin/user/admin.php 21 -
+/wp-admin/maint/maint/post.php 1 -
+/wp-content/plugins/linkpreview/index.php 2 -
+/sad/about.php 3 http://immanuelmanohar.com/sad/about.php
+/wp-content/plugin.php 3 -
+/mytio/config/base 2 https://immanuelmanohar.com/mytio/config/base
+/tiny.php 6 -
+/options.php 4 -
+/wp-content/plugins/aioseoextensions/file.php 3 -
+/static/common/js/common.js 1 http://immanuelmanohar.com/static/common/js/common.js
+/wp-admin/js/network.php 1 http://immanuelmanohar.com/wp-admin/js/network.php
+/wp-content/themes/seotheme/mar.php 27 -
+/wp-admin/index.php 26 -
+/api/system/systemConfigs/getCustomerServiceLink 2 https://immanuelmanohar.com/api/system/systemConfigs/getCustomerServiceLink
+/wp-includes/html-api/index.php 3 -
+/kyc/.env 1 -
+/database.zip 1 -
+/wp-content/themes/twentytwentytwo/ 1 -
+/static/css/mobile.css 1 http://immanuelmanohar.com/static/css/mobile.css
+/static/css/index.css 1 http://immanuelmanohar.com/static/css/index.css
+/wp-admin/css/colors/ectoplasm/zmFM.php 2 -
+/wp-includes/room.php 1 http://immanuelmanohar.com/wp-includes/room.php
+/wp-includes/SimplePie/network.php 4 -
+/wp-content/plugins/wp-theme-editor/autoload_classmap.php 1 -
+/wp-content/plugins/seoplugins/db.php 18 -
+/booyah.php 2 -
+/wp-content/plugins/core-plugin/include.php 7 http://immanuelmanohar.com/wp-content/plugins/core-plugin/include.php
+/files/pub_rem.js 1 http://immanuelmanohar.com/files/pub_rem.js
+/wp-includes/images/crystal/flower.php 1 -
+/wp-includes/IXR/alfa-rex.php 21 -
+/aspera/faspex/ 1 -
+/wp-includes/ID3/index.php 26 -
+/wp-admin/network/gzak2w.php 1 http://immanuelmanohar.com/wp-admin/network/gzak2w.php
+/wp-includes/images/wp-login.php 2 http://immanuelmanohar.com/wp-includes/images/wp-login.php
+/:8080/.env 1 -
+/index/index/ajaxindexpro 2 https://immanuelmanohar.com/index/index/ajaxindexpro
+/wp-content/upgrade-temp-backup/autoload_classmap.php 1 -
+/wp-content/plugins/wp-conflg.php 21 -
+/wp-content/themes/seotheme/flower.php 1 -
+/Simple.php 2 -
+/wp-content/blogs.dir/about.php 24 -
+/blueimp-jQuery-File-Upload/server/php/ 1 -
+/api/stock/getSingleStock.do 2 https://immanuelmanohar.com/api/stock/getSingleStock.do%3Fcode%3D002405
+/wp-admin/includes/plugins.php 3 -
+/admin/tools/assets/jquery-file-upload/server/php/ 1 -
+/templates/beez_20/index.php 1 -
+/js/fm.php 3 -
+/help.php 5 -
+/wp-includes/block-patterns/about.php 41 -
+/wp-includes/Requests/Text/admin.php 24 -
+/wp-includes/rest-api/index.php 2 http://immanuelmanohar.com/wp-includes/rest-api/index.php
+/en/index.php 2 http://immanuelmanohar.com/en/index.php
+/cache-base.php 5 -
+/wp-admin/wso.php 1 http://immanuelmanohar.com/wp-admin/wso.php
+//wp-mail.php 1 -
+/wp-content/plugins/Core-EconX/up.php 1 http://immanuelmanohar.com/wp-content/plugins/Core-EconX/up.php
+/nyyh/chkjs.js 2 https://immanuelmanohar.com/nyyh/chkjs.js
+/wp-class.php 2 -
+/wp-admin/css/flower.php 1 -
+/wp-seo.php 2 -
+/plugins/phpThumb/ 1 -
+/api/v1/config 2 https://immanuelmanohar.com/api/v1/config
+/nf.php 2 -
+/wp-content/admin.php 12 -
+/wp-includes/Text/Diff/Engine//index.php 3 -
+/wp-content/plugins/content-management/content.php 2 -
+/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 4 -
+/wp-content/.env 1 -
+/wp-includes/SimplePie/Decode/wp-login.php 3 -
+/.envs/.production/.django 1 -
+/otc/ 2 https://immanuelmanohar.com/otc/
+/old/ 2 -
+/radio-fm.php 1 https://immanuelmanohar.com/radio-fm.php
+/assets/library.php 2 http://immanuelmanohar.com/assets/library.php
+/wp-content/plugins/pwnd/gecko.php 3 -
+/wp-admin/js/about.php 56 -
+/api 4 https://immanuelmanohar.com/api
+/wp-content/plugins/wp-login.php 3 -
+/wp-includes/php-compat/ 1 -
+/sitemap.ashx 2 -
+/.well-known/.well-known/ 1 -
+/wp-content/themes/pridmag/db.php 22 -
+/wp-includes/widgets/flower.php 1 -
+/install/index.php 1 -
+/wp-content/uploads/2024/index.php 21 -
+/888/ 2 https://immanuelmanohar.com/888/
+//shop/wp-includes/wlwmanifest.xml 92 -
+/wp-content/themes/alera/alpha.php 2 -
+/http://thontrius.space/ 1 -
+//wp-configs.php 1 -
+/wp-content/uploads/2018/03/autoload_classmap.php 1 -
+/wp-includes/block-patterns/vuln.php 3 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://immanuelmanohar.com/wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-content/plugins/simple/flower.php 1 -
+/resources/webuploader/fileupload.php 1 -
+/wp-includes/ID3/autoload_classmap.php 4 -
+/wordpress/wp-admin/includeswp-conflg.php 3 -
+/admin/assets/server/php/ 1 -
+/wp-content/configs.php 3 -
+/wp-includes/block-supports/index.php 1 -
+/administrator/templates/bluestork/error.php 2 -
+/admin/fckeditor/editor/filemanager/updates.php 3 -
+/lock.php 11 -
+/homes/ 2 https://immanuelmanohar.com/homes/
+/wp-content/upgrade/index.php 8 -
+/v2/.env 2 -
+/wp-includes/Text/ 1 -
+/wp-admin/404.php 8 -
+/config/actuator/env 1 -
+/wp-admin/user/cloud.php 25 -
+/wp-includes/IXR/themes.php 2 -
+/fi2.php 5 -
+/plug/comment/comment.html 1 http://immanuelmanohar.com/plug/comment/comment.html
+/.tmb/wp-login.php 1 http://immanuelmanohar.com/.tmb/wp-login.php
+/.well-known/pki-validation/classwithtostring.php 4 -
+/database.sql 2 -
+/wp-admin/includes/m.php 21 -
+/wp-includes/fonts/item.php 3 -
+/.well-known/security.txt 2 -
+/static/wap/css/trade-history.css 2 https://immanuelmanohar.com/static/wap/css/trade-history.css
+/web.config 2 -
+/etc/ssl/private/server.key 2 -
+/wp-admin/css/colors/blue/wp-login.php 3 -
+/wp-content/uploads/link.php 3 -
+/backup 55 http://immanuelmanohar.com/backup
+/heh.php 2 -
+/wp-content/themes/too.php 2 -
+/wp-includes/style-engine/flower.php 1 -
+/assets/elfinder/connectors/php/connector.php 1 -
+/static/voice/default.wav 2 https://immanuelmanohar.com/static/voice/default.wav
+/content/.env 1 -
+/modules/ 1 -
+/wp-includes/customize/Dj1Gk/post.php 1 -
+/public/static/common/images/file.png 1 http://immanuelmanohar.com
+/Public/H5/js/h5.js 2 https://immanuelmanohar.com/Public/H5/js/h5.js
+/api/predict-whole-panel.do 2 https://immanuelmanohar.com/api/predict-whole-panel.do
+//wp-content/plugins/dummyyummy/wp-signup.php 1 -
+/wp-includes/sitemaps/ 1 -
+/wp-includes/sitemaps/about.php 4 -
+/GOD.php 5 -
+/admin/server_info.php 1 -
+/immanuelmanohar/actuator/env 1 -
+/media/system/js/core.js 22 http://immanuelmanohar.com/media/system/js/core.js
+/license.php 6 -
+/debug/default/view 3 -
+/wp-content/plugins/erinyani/baxa1.php 3 -
+/baidu.html 2 https://immanuelmanohar.com/baidu.html
+/wp-content/plugins/pwnd/classwithtostring.php 21 -
+/wp-content/plugins/xt/index.php 2 -
+///wp-admin/install.php 2 www.google.com
+/library/.env 1 -
+/wp-includes/php-compat/chosen.php 21 -
+/libraries/vendor/updates.php 24 -
+/.well-known/pkivalidation/ 1 -
+/alfa-rex1.php 11 -
+/api/apps/config 2 https://immanuelmanohar.com/api/apps/config
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/info/ 5 -
+/php-info.php 1 -
+/wsoyanz.php 39 -
+/Public/home/wap/css/qdgame.css 2 https://immanuelmanohar.com/Public/home/wap/css/qdgame.css
+/infos.php 1 -
+/wp-content/uploads/json.php 21 -
+/ay-1.html 2 https://immanuelmanohar.com/ay-1.html
+/wp-content/plugins/revslider/public/assets/assets/sources/ 1 -
+/img/cloud.php 25 -
+/wp-admin/priv8.php 5 -
+/wp-content/themes/plugins.php 3 -
+/static/images/nopic.png 1 -
+/img/about.php 24 -
+/wp-admin/includes/mar.php 3 -
+/images/404.php 3 -
+/wp-includes/assets/flower.php 1 -
+/wp-includes/js/tinymce/autoload_classmap.php 1 -
+/alumni_reg.php 5 -
+/wp-content/plugins/wp-file-upload/xl2024.php 1 -
+/wp-includes/customize/about.php 27 -
+/ajax/allcoin_a/id/0 2 https://immanuelmanohar.com/ajax/allcoin_a/id/0%3Ft%3D0.3782499195965951
+/.tmb/about.php 1 http://immanuelmanohar.com/.tmb/about.php
+/wp-includes/images/media/wp-login.php 3 -
+/wp-activate.php 25 -
+/app/static/js/download.js 2 https://immanuelmanohar.com/app/static/js/download.js
+/wp-content/themes/twenty/twenty.php 24 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 2 -
+/wp-content/plugins/wpsml-sys.php 3 -
+/hello.php 5 -
+/wp-content/themes/wp-pridmag/ 1 -
+/client/api/findConfigByKey 2 https://immanuelmanohar.com/client/api/findConfigByKey%3FconfigKey%3Dlevel_config
+/wp-content/plugins/background-image-cropper/ups.php 2 -
+/misc/ajax.js 1 -
+/.well-known/pki-validation/cifcxgxm.php 3 -
+/Home/GetInitSource 2 https://immanuelmanohar.com/Home/GetInitSource
+/wp-includes/sitemaps/providers/zmFM.php 2 -
+/wp-content/uploads/cache.php 3 -
+/2.php 16 -
+/wp-content/uploads/2022/ 1 -
+/wp-admin/css/colors/blue/lock.php 21 -
+/ova.php 5 -
+/cgi-bin/wp-login.php 10 -
+/WordPress/wp-admin/includes/ 1 -
+/assets/app-assets/data/jquery-file-upload/server/php/ 1 -
+/administrator/templates/isis/index.php 1 -
+/wp-includes/pomo/plugins.php 3 -
+/wp-includes/js/tinymce/skins/lightgray/about.php7 1 -
+/wp-content/1.php 1 -
+/files.php 15 -
+/assets/checkout/payOrderSimpfilied.min.js 2 https://immanuelmanohar.com/assets/checkout/payOrderSimpfilied.min.js
+/admin/js/jquery-file-upload/server/php/ 1 -
+/wp-includes/sitemaps/providers/about.php 3 -
+/api/index/webconfig 2 https://immanuelmanohar.com/api/index/webconfig
+/wp-cron.php 24 -
+/wp-admin/images/plugins.php 3 -
+/.well-known/classwithtostring.php 1 -
+/wp-content/x/index.php 4 -
+/mobile/ 2 https://immanuelmanohar.com/mobile/
+/apps/.env 1 -
+/catuploadcsv.php 5 -
+/wp-admin/cloud.php 39 -
+/ioxi-rex3.php7 1 http://immanuelmanohar.com/ioxi-rex3.php7
+/configs.php 11 -
+/home/login.jpg 2 https://immanuelmanohar.com/home/login.jpg
+/wp-admin/network/autoload_classmap.php 1 -
+/wp-admin/js/wp-conflg.php 21 -
+/qs/ 2 https://immanuelmanohar.com/qs/
+//media/wp-includes/wlwmanifest.xml 46 -
+/addslashes.php 5 -
+/eeksbpgp.php 1 www.google.com
+/api/shared/config/.env 1 -
+/wp-content/wp-configs.php 3 -
+/admin/uploads/images/ 1 -
+/data/json/config.json 2 https://immanuelmanohar.com/data/json/config.json
+/wp-includes/customize/post.php 1 -
+/input.php 11 -
+/plugins/filemanager/dialog.php 1 -
+/admin/blueimp-jQuery-File-Upload/server/php/ 1 -
+/wp-content/ 5 -
+/avaa.php 39 -
+/wp-admin/network/wp-conflg.php 21 -
+/fck.php 1 http://immanuelmanohar.com/fck.php
+/.kube/config 2 -
+/web.php 6 -
+/static/mobile/yunbi/css/style.css 1 http://immanuelmanohar.com/static/mobile/yunbi/css/style.css
+/wp-content/uploads/2024/ 1 -
+///wp-admin/setup-config.php 2 www.google.com
+/wp-includes/assets/winnner.php 2 -
+/wp-admin/js/admin.php 21 -
+/wp-admin/images/admin.php 4 -
+/wordpress 64 http://immanuelmanohar.com/wordpress
+/wp-includes/js/tinymce/flower.php 1 -
+/rcc.php 1 http://immanuelmanohar.com/rcc.php
+/apis/globals 2 https://immanuelmanohar.com/apis/globals
+/wp/ 2 -
+/wp-includes/id3/license.txt/feed/ 4 -
+/phpinfo 6 -
+/pwp-admin/network/login.php 1 http://immanuelmanohar.com/pwp-admin/network/login.php
+/spip.php 10 -
+/.well-known/acme-challenge/ 1 -
+/wp-content/gallery/autoload_classmap.php 1 -
+/wp-content/themes/seotheme/autoload_classmap.php 1 -
+/disagraep.php 5 -
+/wp-content/themes/astra/inc/fm.php 21 -
+/admin/filemanager/dialog.php 1 -
+/wp-content/themes/index.php 11 -
+/wp-content/themes/aahana/json.php 35 -
+/.env.docker.dev 1 -
+/4d.php 1 https://immanuelmanohar.com/4d.php
+/text.php 23 -
+/wp-content/uploads/2020/ 1 -
+/admin/assets/plugins/js/server/php/ 1 -
+/siteheads.php 3 -
+/public/wap/js/basis.js 2 https://immanuelmanohar.com/public/wap/js/basis.js
+/js/server/php/ 1 -
+/blog/ 2 -
+/wp-includes/fonts/ 1 -
+/wp-content/themes/404.php 7 -
+/wp-includes/images/ 1 -
+/elp.php 1 http://immanuelmanohar.com/elp.php
+/index/ 1 -
+/wp-includes/SimplePie/HdGGN/post.php 1 -
+/forerest/user/custSrv/findOne 2 https://immanuelmanohar.com/forerest/user/custSrv/findOne
+/wp-content/themes/sketch/ 1 -
+/friendGroup/list 2 https://immanuelmanohar.com/friendGroup/list
+/wp-includes/Requests/Transport/ 1 -
+/class.api.php 8 -
+/assets/res/mods/room.js 2 https://immanuelmanohar.com/assets/res/mods/room.js
+/app/ 4 https://immanuelmanohar.com/app/
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php 1 -
+/wp-content/plugins/wp.php 3 -
+/server 2 -
+/up.php 8 -
+/api/im/v2/app/config 2 https://immanuelmanohar.com/api/im/v2/app/config
+/min.php 2 -
+/Res/font/font.css 2 https://immanuelmanohar.com/Res/font/font.css
+//themes/zMousse/otuz1.php 1 -
+/wp//wp-admin/autoload_classmap.php 1 -
+/alfa-rex.php56 1 http://immanuelmanohar.com/alfa-rex.php56
+/css/xmrlpc.php 24 -
+/wordpress/ 3 -
+/actuator/env 4 -
+/unSecurity/app/config 2 https://immanuelmanohar.com/unSecurity/app/config
+/depotcv.php 5 -
+/wp-content/plugins/elementor/ 1 -
+/tool/view/phpinfo.view.php 1 -
+/wp-includes/SimplePie/HdGGN/autoload_classmap.php 1 -
+/Public/ 1 -
+/go.php 5 -
+/wp-admin/includes/xmrlpc.php 28 -
+/zb_system/image/common/user_1.png 1 http://immanuelmanohar.com
+/phone/images/icon_01.png 1 http://immanuelmanohar.com/phone/images/icon_01.png
+/ccx/index.php 2 -
+/ini.php 30 -
+/e/data/js/jscolor/hs.png 1 http://immanuelmanohar.com
+/include/mail.php 3 -
+/MYK4TJEfFvO.php 5 -
+/wp-includes/shell20211028.php 2 -
+/wp-includes/network.php 3 -
+/.well-known/pki-validation/file.php 1 http://immanuelmanohar.com/.well-known/pki-validation/file.php
+/js/xz.js 2 https://immanuelmanohar.com/js/xz.js
+/assets/js/frontend/jquery-file-upload/server/php/ 1 -
+/ok.php 21 -
+/wp-includes/css/dist/preferences/ 1 -
+/aksinet.php 5 -
+/wp/post.php 1 -
+/file/function.php 2 -
+/doc/function.php 2 -
+/.well-known/pki-validation/dropdown.php 3 -
+/wp-content/defaults.php 1 -
+/gzak2w.php 2 http://immanuelmanohar.com/gzak2w.php
+/css/post.php 1 -
+/wp-admin/includes/post.php 1 -
+/wp-admin/css/index.php 28 -
+/blocks/rce/lang/en/block_rce.php 2 -
+/wp-content/themes/about.php 27 -
+/wp-content/themes/optimizepress/lib/admin/media-upload.php 1 -
+/wp-includes/images/include.php 4 -
+/wp-content/themes/aahana/ 1 -
+/.well-known//index.php 3 -
+/wp-content/themes/themes.php 7 -
+/uploader 1 -
+/env.example 2 -
+/_all_dbs 2 -
+/shell4.php 2 -
+/themes.php 30 -
+/wp-includes/css/autoload_classmap.php 1 -
+/admin/asset/server/php/ 1 -
+/.env.production 11 -
+/laravel/.env 6 -
+/tinyfilemanager.php 3 -
+/mail.php 22 -
+/assets/plugins/jquery-file-upload/server/php 1 -
+/wp-admin/maint/wp-login.php 5 -
+/wp-admin/js/chosen.php 21 -
+/wp-includes/rest-api/alfa-rex.php 3 -
+/wp-content/plugins/wp-help/ 1 -
+/wp-tymanage.php 1 https://immanuelmanohar.com/wp-tymanage.php
+/style.php 18 www.google.com
+///wp-content/themes/about.php 1 -
+/wp//wp-admin/flower.php 1 -
+/wp-includes/SimplePie/post.php 1 -
+/file_browser.php 2 -
+/wp-includes/random_compat/post.php 1 -
+/security.txt 2 -
+/wp-files.php 4 -
+/wp-content/plugins/xmrlpc.php 3 -
+/.ftpconfig 1 -
+/phpinfo.php5 1 -
+/x/index.php 3 http://immanuelmanohar.com/x/index.php
+/administrator/templates/isis/error.php 1 -
+/plugins/jQuery-File-Upload/server/php/ 1 -
+/assets/images/wp-login.php 3 -
+/WSOEnigma.php 1 http://immanuelmanohar.com/WSOEnigma.php
+/wp-includes/images/media/wp-configs.php 2 -
+/1.html 2 https://immanuelmanohar.com/1.html
+/static/new/css/style.css 1 http://immanuelmanohar.com/static/new/css/style.css
+//s.php 1 -
+/wp/autoload_classmap.php 1 -
+/static/index/css/trade-history.css 1 http://immanuelmanohar.com/static/index/css/trade-history.css
+/wp-admin/about.php 10 -
+//wp-admin/css/wp-login.php 1 -
+/wp-content/plugins/Cache/autoload_classmap.php 1 -
+/y.php 3 -
+/fileupload/server/php/ 1 -
+/AnMjSjfe87/policy/getVersion 2 https://immanuelmanohar.com/AnMjSjfe87/policy/getVersion
+/api/system/notice/find 2 https://immanuelmanohar.com/api/system/notice/find
+/wp-includes/customize/chosen.php 2 -
+/.tmb/cloud.php 2 http://immanuelmanohar.com/.tmb/cloud.php
+/.well-known/file.php 7 -
+/aleXus.php 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 3 -
+/:432/.env 1 -
+/assets/plugins/jquery-file-upload/server/php/ 2 -
+/admin/server/php/ 1 -
+/gel4y.php 3 -
+/wp-includes/images/media/ 1 -
+/wp-includes/rest-api/about.php 27 -
+/wp-content/uploads/wp-login.php 4 -
+/cgi-bin/radio.php 7 -
+/admin/assets/plugins/js/jquery-file-upload/server/php/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/Clean.php 1 -
+/wp-admin/css/colors/blue/about.php 4 -
+/wp-admin/xleet-shell.php 2 -
+/admin/asset/global/plugins/jquery-file-upload/server/php/ 1 -
+/jym-wn/ 2 https://immanuelmanohar.com/jym-wn/
+/wp 64 http://immanuelmanohar.com/wp
+/wp-logout.php 2 -
+/wp-includes/themes.php 7 -
+/wp-includes/js/tinymce/skins/wordpress/images/ 1 -
+/wp-includes/about.php 27 -
+/xprkwrzf.php 1 www.google.com
+/wp-content/plugins/sphinx/randkeyword.php 1 -
+/wp-includes/ID3/options.php 3 -
+/wikindex.php 5 -
+/wp-admin/css/colors/blue/ 3 http://immanuelmanohar.com/wp-admin/css/colors/blue/
+/config/aws.yml 1 -
+/wp-content/plugins/seoplugins/flower.php 1 -
+/admin/asset/global/plugins/server/php/ 1 -
+/wp-content/plugins/sid/sidwso.php 1 -
+/wp-includes/gCdfg/flower.php 1 -
+/old 59 http://immanuelmanohar.com/old
+/checkout-dashboard 2 https://immanuelmanohar.com/checkout-dashboard
+/wp-admin/css/colors/blue/blue.php 2 -
+/ioxi002.PhP7 1 http://immanuelmanohar.com/ioxi002.PhP7
+/wp-content/gallery/post.php 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/about.php 3 -
+/xleet.php 17 -
+/ds.php 5 -
+/wp-content/plugins/post.php 1 -
+/js/base1.js 2 https://immanuelmanohar.com/js/base1.js
+/wp-content/plugins/Core-Econ/1.php 1 -
+/wp-includes/js/ 1 -
+/alfanew2.php7 39 -
+/register/ 2 -
+/credits.php 4 -
+/.well-known/ 45 binance.com
+/config/env 1 -
+/uploader.php 1 http://immanuelmanohar.com/uploader.php
+/wp-admin/css/colors/coffee/autoload_classmap.php 1 -
+/wp-includes/Requests/Cookie/wp-login.php 3 -
+/update.php 12 -
+/ae.php 24 -
+/wp-content/blogs.dir/post.php 1 -
+/zwso.php 2 -
+/wp-includes/SimplePie/Content/Type/wp-login.php 3 -
+/dump.sql 3 -
+/.well-known/wp-load.php 7 -
+/wp-includes/wp-includes/about.php 21 -
+/wp-includes/php-compat/flower.php 1 -
+/img/style.css 2 https://immanuelmanohar.com/img/style.css
+/wp-content/themes/twentytwenty/functions.php 1 -
+/public/css/style.css 2 https://immanuelmanohar.com/public/css/style.css
+/IDhrIlrLb.php 5 -
+/administrator 1 -
+/wso.PHP 1 http://immanuelmanohar.com/wso.PHP
+/jquery.php 4 -
+/wordpress/wp-admin/setup-config.php 2 http://immanuelmanohar.com/wordpress/wp-admin/setup-config.php
+/wp-includes/assets/about.php 3 -
+/shop/ 1 -
+/wp-includes/blocks/post.php 1 -
+/colors.php 15 -
+/contact_tpl.php 5 -
+/wp-includes/system_log.php 7 -
+/wp-admin/admin.php 2 -
+/wp-admin/css/wp-conflg.php 21 -
+/wp-includes/certificates/index.php 21 -
+/wp-includes/Cez57/flower.php 1 -
+/wp-includes/SimplePie/Cache/ 1 -
+/wp-includes/pomo/autoload_classmap.php 1 -
+/.env.save 5 -
+/wp-includes/block-patterns/ 1 -
+/ova-tools.php 10 -
+/vendor/bin/loader.php 2 http://immanuelmanohar.com/vendor/bin/loader.php
+/wp-from.php 1 https://immanuelmanohar.com/wp-from.php
+/dav.php 2 -
+/wp-includes/SimplePie/index.php 8 -
+/wp-content/uploads/flower.php 1 -
+/1index.php 10 -
+/wp-content/plugins/helloapx/wp-apxupx.php 1 http://immanuelmanohar.com/wp-content/plugins/helloapx/wp-apxupx.php
+/autoload_classmap.php 26 -
+/application/.env 4 -
+/wp-includes/js/codemirror/about.php 3 -
+/login.html 2 https://immanuelmanohar.com/login.html
+/css/scanner.css 2 https://immanuelmanohar.com/css/scanner.css
+/admin/appsettings.json 1 -
+/wp-admin/css/ 42 binance.com
+/colour.php 15 -
+/wp-content/post.php 1 -
+/ab.php 1 -
+/wp-includes/block-supports/about.php 3 -
+/cgi-bin/404.php 7 -
+/wp-includes/images/chosen.php 3 -
+/wp-content/plugins/Cache/post.php 1 -
+/xleet-shell.php 2 -
+/aged.php 2 -
+/admin/plugins/js/jquery-file-upload/server/php/ 1 -
+/code1.html 2 https://immanuelmanohar.com/code1.html
+/.env.travis 1 -
+/wp-admin/network/upfile.php 3 -
+/wp-admin/cong.php 4 -
+/wp-content/plugins/pwnd-1/as.php 3 -
+/wp-includes/fonts/admin.php 21 -
+/admin.zip 1 -
+/wp-content/flower.php 1 -
+/wp-content/plugins/super-forms/uploads/php/index.php 1 -
+/app/.git/config 1 -
+/ccgojdan.php 1 www.google.com
+/root.php 11 -
+/admin/.env 11 -
+/file.php 42 -
+/components/ 1 -
+/ftp-sync.json 1 -
+/wp-admin/ajax-actions.php 24 -
+/wp-includes/theme-compat/wp-conflg.php 2 -
+/wp-includes/sodium_compat/src/index.php 21 -
+/bg.png 1 http://immanuelmanohar.com/bg.png
+/wp-admin/css/colors/xmrlpc.php 24 -
+/wp-includes/js/themes.php 1 http://immanuelmanohar.com/wp-includes/js/themes.php
+/wp-content/x/flower.php 1 -
+/.well-known/pki-validation/class_api.php 1 -
+/wp-includes/IXR/index.php 4 -
+//sito/wp-includes/wlwmanifest.xml 61 -
+/wp-content/plugins/google-seo-rank/siteindex.php 2 -
+/wp-admin/user/index.php 12 -
+/bless.php 5 -
+/cd.php 2 -
+/essexec.php 5 -
+/wp-includes/pomo/rk2.php 21 -
+/dsxs/ 2 https://immanuelmanohar.com/dsxs/
+/option.png 2 https://immanuelmanohar.com/option.png
+/wp-includes/sitemaps/providers/ 1 -
+/bk/index.php 1 http://immanuelmanohar.com/bk/index.php
+/wp-includes/gCdfg/autoload_classmap.php 1 -
+/wp-includes/Requests/Utility/cc.php 21 -
+/admin/ 2 -
+/wp-links-opml.php 7 -
+/Public/Home/ecshe_css/main.css 2 https://immanuelmanohar.com/Public/Home/ecshe_css/main.css%3Fv%3D1543997196
+/wp-configs.php 23 -
+/wp-admin/css/about.php 28 -
+/xmlrpc.php 20 -
+/wp-includes/rest-api/fields/radio.php 3 -
+/wp-admin/alfa.php 2 -
+/wp-includes/css/dist/block-library/post.php 1 -
+/wp-includes/agTOMuSfW6r.php 1 -
+/static/css/public.css 2 https://immanuelmanohar.com/static/css/public.css
+/upload/image/ 1 -
+/wp-content/plugins/item.php 4 -
+/wp-includes/PHPMailer/autoload_classmap.php 1 -
+/.well-known/pki-validation/about.php 28 -
+/wp-content/themes/cay-van-phong/filemanager.php 3 -
+/editor.php 2 http://immanuelmanohar.com/editor.php
+/.well-known/link.php 3 -
+/1337.php 2 http://immanuelmanohar.com/1337.php
+/.envrc 1 -
+/mobile/index/home 2 https://immanuelmanohar.com/mobile/index/home
+/wp-admin/meta/ 1 -
+/info.php 17 -
+/bypass.php7 5 -
+/wp-admin/images/cloud.php 25 -
+/admin/assets/jquery-file-upload/server/php/ 1 -
+/wp-includes/theme-compat/wp-conflg.php/wp-content/plugins/google-seo-rank/index.php 20 -
+/12.php 5 -
+//403.php 1 -
+//radio.php 1 -
+/wp-admin/user/flower.php 1 -
+//wsa.php 1 -
+/admin/plugin/server/php/ 1 -
+/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 4 -
+/7/js/common.js 1 http://immanuelmanohar.com/7/js/common.js
+/ws.php 27 -
+/static/guide/ab.css 2 https://immanuelmanohar.com/static/guide/ab.css
+/cp/server/php/ 1 -
+/wp-includes/theme-compat/zmFM.php 2 -
+/admin-header.php 2 -
+/.well-known/content.php 22 -
+/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 4 -
+/manager/ 1 -
+/symfony/public/_profiler/phpinfo 1 -
+/wp-includes/admin.php 10 -
+/wp-content/themes/twentytwentytwo/alfa-rex.php 21 -
+/hbkeufwo.php 1 www.google.com
+/.well-known/flower.php 1 -
+/storage/logs/laravel.log 1 -
+/api/shared/.env 1 -
+/libraries/phpmailer/updates.php 24 -
+/wp-includes/fonts/index.php 27 -
+/wp-includes/Requests/about.php 26 -
+/wp-content/plugins/dropdown.php 7 -
+/alfanew.php 43 -
+/class-IXR-encryption.php 5 -
+/web/.env 5 -
+/wp-includes/js/crop/shell.php 21 -
+/copypaths.php 1 http://immanuelmanohar.com/copypaths.php
+/wp-content/languages/post.php 1 -
+/wp-admin/network/xleet.php 1 -
+/.well-known/pki-validation/plugins.php 2 -
+/wp-includes/blocks/autoload_classmap.php 1 -
+/wp-content/languages/link.php 3 -
+/wp-includes/sodium_compat/link.php 3 -
+/room.php 11 -
+/buy.php 11 -
+/wp-content/plugins/dummyyummy/wp-signup.php 14 -
+/functions.php 15 -
+/laravel-filemanager 2 -
+/wp-content/plugins/Cache.php 3 -
+/wp-content/plugins/revslider/public/assets/assets/sources/wp-login.php 3 -
+/wp-includes/images/crystal/about.php 3 -
+/wp-admin/maint/upfile.php 2 http://immanuelmanohar.com/wp-admin/maint/upfile.php
+/wp-admin/network/MdFvb.php 1 http://immanuelmanohar.com/wp-admin/network/MdFvb.php
+/wp-content/plugins/awesome-coming-soon/come.php 19 -
+/luuf.php 2 -
+/wp-mail.php/wp-includes/ID3/.info.php 3 -
+/wp-cXjq2.php 1 http://immanuelmanohar.com/wp-cXjq2.php
+/api/notice 2 https://immanuelmanohar.com/api/notice
+/kkv.php 1 https://immanuelmanohar.com/kkv.php
+/035/index.html 2 https://immanuelmanohar.com/035/index.html
+/platform 2 https://immanuelmanohar.com/platform
+/.env.docker 1 -
+/api/product/getPointStore 2 https://immanuelmanohar.com/api/product/getPointStore
+/wp-admin/mah.php 3 -
+/wp-includes/wp-activate.php 7 -
+/wp-includes/ID3/about.php 28 -
+/wp-includes/packed.php 3 -
+/blog.php 24 -
+/lemot.php 1 https://immanuelmanohar.com/lemot.php
+/static/home/imgs/pico.png 2 https://immanuelmanohar.com/static/home/imgs/pico.png
+/wp-admin/admin-post.php 21 -
+/js/plupload/plupload.js 1 -
+/.docker/.env 1 -
+/wp-content/upgrade-temp-backup/post.php 1 -
+/ucms/img/loading.gif 1 http://immanuelmanohar.com/ucms/img/loading.gif
+/webdb.php 1 -
+/upload/server/php/files/ 1 -
+/wp-includes/css/dist/block-library/autoload_classmap.php 1 -
+/.well-known/class.api.php 3 -
+/wp-includes/cloud.php 8 -
+/wp-includes/block-patterns/index.php 3 -
+/504.php 3 http://immanuelmanohar.com/504.php
+/admin/asset/plugins/server/php/ 1 -
+/libraries/vendor/flower.php 1 -
+/adminfuns.php7 39 -
+/b.php 2 http://immanuelmanohar.com/b.php
+/wp-content/themes/pridmag/1.php 1 -
+/libraries/phpmailer//index.php 3 -
+/laravel/core/.env 1 -
+/.env.development 2 -
+/public/admin.php 1 -
+/wp-content/themes/wp-pridmag/lock.php 21 -
+/static/wap/js/order.js 2 https://immanuelmanohar.com/static/wap/js/order.js
+/mall/toget/banner 2 https://immanuelmanohar.com/mall/toget/banner
+/404.php 31 -
+/gebase.php 2 -
+/wp-content/updraft/about.php 24 -
+/room/getRoomBangFans 2 https://immanuelmanohar.com/room/getRoomBangFans
+/.well-known/pki-validation/post.php 1 -
+/wp-content/wso112233.php 2 -
+/wp-admin/js/widgets/xmrlpc.php 28 -
+/wp-admin/xmrlpc.php 24 -
+/wp-admin/user/content.php 3 -
+/thriveGame.css 2 https://immanuelmanohar.com/thriveGame.css
+/wp-admin/css/colors/blue/index.php/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-content/plugins/ccx/index.php 2 -
+/admin.php1 5 -
+/wp-includes/block-patterns/themes.php 1 -
+/wp-content/languages/wp-login.php 4 -
+/upload.php 9 -
+/wp-includes/js/index.php 1 http://immanuelmanohar.com/wp-includes/js/index.php
+/login.action 2 -
+/wp-includes/block-supports/post.php 1 -
+/wp-includes/sitemaps/providers/index.php 3 -
+/Public/home/common/js/index.js 1 http://immanuelmanohar.com/Public/home/common/js/index.js
+/bala.php 1 -
+/wp-content/uploads/2014/06/autoload_classmap.php 1 -
+/wp-content/themes/kadence/functions.php 1 -
+/disagrsod.php 5 -
+/conf_upload.php 5 -
+/wp-content/uploads/BbUMY/flower.php 4 -
+/wp-content/plugins/press/wp-class.php 3 -
+/wp-admin/user/chosen.php 21 -
+/wp-admin/css/colors/ectoplasm/ 1 -
+/alfa-rex2.php7 39 -
+/wp-add.php 8 www.google.com
+/wp-includes/js/tinymce/skins/lightgray/img/flower.php 1 -
+/wp-admin/plugin.php 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 24 -
+/wp-includes/certificates/autoload_classmap.php 1 -
+/wp-content/json.php 24 -
+/etc/shadow 2 -
+/wp-content/languages/flower.php 1 -
+/wp-includes/widgets/autoload_classmap.php 1 -
+/wp-includes/blocks/edit.php 3 -
+/contentloader1.php 5 -
+/upload/wp-info.php 3 -
+/WordPress/wp-admin/includes/zmFM.php 3 -
+/wp-content/upgrade/wp-login.php 2 -
+/wp-content/plugins/simple/simple.php 21 -
+/wp-admin/includes/xleet-shell.php 2 -
+//wp-includes/Text/autoload_classmap.php 1 -
+/assets/filemanager/dialog.php 1 -
+/.git/HEAD 2 -
+/wp-admin/network/back.php 1 http://immanuelmanohar.com/wp-admin/network/back.php
+/Public/Qts/Home/js/appAlert.js 1 http://immanuelmanohar.com/Public/Qts/Home/js/appAlert.js
+/resource/home/js/common.js 2 https://immanuelmanohar.com/resource/home/js/common.js
+/cgi-bin/wp-2019.php 4 -
+/.DS_Store 2 -
+/backup.sql 2 -
+/plugins/function.php 2 -
+/wp-includes/wp-login.php 10 -
+/backup.php 5 -
+/wp-admin/includes/install.php 3 -
+/embed.php 5 -
+/sck.php 1 http://immanuelmanohar.com/sck.php
+/.well-known/makeasmtp.php 7 -
+/index4.php 1 http://immanuelmanohar.com/index4.php
+/wp-includes/css/index.php 2 http://immanuelmanohar.com/wp-includes/css/index.php
+//themes.php 3 -
+/wp-admin/file.php 9 -
+/wp-content/themes/digital-download/new.php 5 -
+/index.php/phpinfo 1 -
+/wp-content/plugins/wp-file-manager/lib/files/ 1 -
+/123.php 3 -
+/sx.php 1 -
+/wp-includes/mah.php 7 -
+/m.php 5 -
+/wp-content/themes/xmrlpc.php 3 -
+/xlt.php 2 -
+/static/images/config/common/cpjy.png 1 http://immanuelmanohar.com/static/images/config/common/cpjy.png
+/user.php 34 -
+/wp-includes/rest-api/admin.php 3 -
+/bs1.php 7 -
+/backup/ 2 -
+/lib.php 2 -
+/wp-admin/dropdown.php 26 -
+/wp-includes/repeater.php 24 -
+/_vti_pvt/administrators.pwd 2 -
+/wp-content/uploads/2014/06/flower.php 1 -
+/API/Web/chat.ashx 2 https://immanuelmanohar.com/API/Web/chat.ashx
+/wp-content/tmpls.php 2 http://immanuelmanohar.com/wp-content/tmpls.php
+/wp-admin/maint/maint/autoload_classmap.php 1 -
+/wp-content/plugins/core/include.php 3 -
+/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 4 -
+/Nexus.php 1 http://immanuelmanohar.com/Nexus.php
+/libraries/legacy/ 1 -
+/defaul.php 1 http://immanuelmanohar.com/defaul.php
+/ispeconline.com/css/index.php 3 -
+/static/picture/gz.png 2 https://immanuelmanohar.com/static/picture/gz.png
+//wp/wp-includes/wlwmanifest.xml 94 -
+/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/img/xxing.png 2 https://immanuelmanohar.com/img/xxing.png
+/sitemap_index.xml 6 -
+/wp-content/plugins/include.php 14 -
+/Templates/user/js/global.js 2 https://immanuelmanohar.com/Templates/user/js/global.js
+/options-discussion.php 3 -
+/sftp-config.json 12 -
+/wp-HbJxZ2.php 1 http://immanuelmanohar.com/wp-HbJxZ2.php
+/disagraeosc.php 5 -
+/api/vue/transaction/config 2 https://immanuelmanohar.com/api/vue/transaction/config
+/wp-content/click.php 1 -
+/.env.config 1 -
+/wp-includes/css//index.php 3 -
+/index/lock.php 21 -
+/wp-includes/SimplePie/Cache/post.php 1 -
+/.well-known/991176.php 3 -
+/admin/upload/css.php 9 -
+/wp-includes/js/post.php 1 -
+/static/index/js/lk/order.js 1 http://immanuelmanohar.com/static/index/js/lk/order.js
+/admin/elfinder/connectors/php/connector.php 1 -
+/wp-admin/wp-login.php 11 -
+/upload/ 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/wp-login.php 3 -
+/api/banner 2 https://immanuelmanohar.com/api/banner%3FappKey%3Dbxefdn
+/wp-content/cong.php 10 -
+/admin/actuator/env 2 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/static/staticccs/tengxunlogo.png 1 http://immanuelmanohar.com/static/staticccs/tengxunlogo.png
+/mobile/get_item_list 2 https://immanuelmanohar.com/mobile/get_item_list
+/static/css/style.css 2 https://immanuelmanohar.com/static/css/style.css
+/php/ 1 -
+//wp-includes/js/jcrop/Jcrop.php 1 -
+/assets/plugins/js/jquery-file-upload/server/php/ 1 -
+/sitemap.xml.gz 1 -
+/wp-admin/images/Mhbgf.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 26 -
+/cgi-bin/file.php 8 -
+/wp-includes/ID3/rk2.php 3 -
+/wp-admin/includes/wp-conflg.php 21 -
+/wp-includes/sodium_compat/autoload_classmap.php/wp-includes/images/smilies/about.php 18 -
+/static/data/thirdgames.json 2 https://immanuelmanohar.com/static/data/thirdgames.json
+/admin/webadmin.php 2 https://immanuelmanohar.com/admin/webadmin.php%3Fmod%3Ddo%26act%3Dlogin
+/small.php 2 http://immanuelmanohar.com/small.php
+/wp-content/wp-login.php 22 -
+/h5/img/icon/rj.png 1 http://immanuelmanohar.com/h5/img/icon/rj.png
+/files/home.php 2 -
+/wp-includes/images/smilies/ 1 -
+/admin/editor/engine.php 21 -
+/plugins.php 24 -
+/bihnmimh.php 5 -
+/.qiodetme.php 1 http://immanuelmanohar.com/.qiodetme.php
+/ewywe1dg.php 5 -
+/wp-admin/network/xmrlpc.php 24 -
+/assets/plugins/filemanager/dialog.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/wcg9LbOHD14.php 1 -
+/wp-admin/repeater.php 24 -
+//webadmin.php 1 -
+/market/market-ws/iframe.html 2 https://immanuelmanohar.com/market/market-ws/iframe.html
+/admin/asset/plugins/jquery-file-upload/server/php/ 1 -
+/static/js/chat-config.js 2 https://immanuelmanohar.com/static/js/chat-config.js
+/wp-includes/SimplePie/Content/ 1 -
+/wp-json/litespeed/v1/cdn_status 1 https://immanuelmanohar.com
+/vendor/ 1 -
+/resources/main/common.js 1 http://immanuelmanohar.com/resources/main/common.js
+/wp-22.php 6 -
+/templates/atomic/error.php 1 -
+/x.php 14 -
+/wp-includes/random_compat/chosen.php 21 -
+/wp-content/plugins/pwnd/a.php 3 -
+/wp/abe.php 4 -
+/1.php7 5 -
+/wp-mail.php/wp-includes/ID3/Core32.php 3 -
+/syn/ 2 https://immanuelmanohar.com/syn/
+/wp-content/plugins/WordPressCore/alfa-rex.php 3 -
+/static/index/js/common.js 2 https://immanuelmanohar.com/static/index/js/common.js
+/wp-ver.php 4 www.google.com
+/about/ 1 -
+/wp-includes/Text/Diff/Engine/wp-login.php 22 -
+/NewFile.php 8 -
+/dwcc/configxLxn/inxfx 2 https://immanuelmanohar.com/dwcc/configxLxn/inxfx
+/class-wp-lock.php 1 -
+/new/ 2 -
+/wp-content/upgrade-temp-backup/alfa-rex.php 3 -
+/wp-content/plugins/revslider/includes/external/page/ 1 -
+/xt/index.php 4 -
+/wp-includes/css/dist/preferences/wp-login.php 4 -
+/my/zijin.png 1 http://immanuelmanohar.com/my/zijin.png
+/mobile 2 https://immanuelmanohar.com/mobile
+/server.key 2 -
+//wp-includes/wlwmanifest.xml 61 -
+/wp-includes/css/about.php 6 -
+/wp-content/plugins/duplicator/assets/ 1 -
+/public/assets/js/lib/my-help.js 2 https://immanuelmanohar.com/public/assets/js/lib/my-help.js
+/wp-content/content.php 23 -
+/5173e.php 5 -
+/assets/app-manifest.json 2 https://immanuelmanohar.com/assets/app-manifest.json
+/wp-includes/js/tinymce/post.php 1 -
+/wp-signup.php 28 -
+/fr/priv8.php 1 http://immanuelmanohar.com/fr/priv8.php
+/index/police/index.html 2 https://immanuelmanohar.com/index/police/index.html%3Fagent%3D1000
+/wp-admin/js/widgets/xleet.php 1 -
+//about.php 1 -
+/wp-includes/css/core.php 3 -
+/wp-content/themes/OptimizePress/lib/admin/media-upload.php 1 -
+/iexchange/webtrader/ 2 https://immanuelmanohar.com/iexchange/webtrader/
+/wp-admin/css/colors/ 1 -
+/ecoraiderusa.com/cong.php 2 -
+/wp-includes/css.php 2 -
+/cgi-bin/post.php 1 -
+/wp-content/uploads/2016/03/flower.php 1 -
+/wp-content/uploads/wpr-addons/forms/autoload_classmap.php 1 -
+/install.inc/vipsignInstall.css 1 http://immanuelmanohar.com/install.inc/vipsignInstall.css
+/api/uploads/apimap 2 https://immanuelmanohar.com/api/uploads/apimap
+/assets/images/doc.php 3 -
+/wp-content/plugins/WordPressCore/index.php 1 http://immanuelmanohar.com/wp-content/plugins/WordPressCore/index.php
+/wp-admin.php 17 -
+/wp-includes/SimplePie/Cache/about.php 3 -
+/templates/protostar/index.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 9 -
+/img/post.php 1 -
+/index1.php 1 -
+/used 2 -
+//2018/wp-includes/wlwmanifest.xml 46 -
+/wp-includes/js/tinymce/skins/lightgray/img/post.php 1 -
+/corn.php 1 -
+/static/home/css/css.css 2 https://immanuelmanohar.com/static/home/css/css.css
+/BIBIL_0DAY.php 5 -
+/assets/plugins/elfinder/php/connector.minimal.php 1 -
+/wp-content/plugins/seoplugins/wso112233.php 3 -
+/wp-includes/images/media/text.php 21 -
+/api/index/productshow 2 https://immanuelmanohar.com/api/index/productshow
+/wp-includes/Requests/Response/siteindex.php 3 -
+/CHANGELOG.txt 1 -
+/berlin.php 34 -
+/getConfig/getArticle.do 2 https://immanuelmanohar.com/getConfig/getArticle.do%3Fcode%3D1
+/wp-admin/user/ 1 -
+/class/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/0x.php 9 -
+/wp-includes/style-engine/index.php 3 -
+/Pay_Index.html 2 https://immanuelmanohar.com/Pay_Index.html
+/a/ 2 https://immanuelmanohar.com/a/
+/wp-content/uploads/wp.php 4 -
+/secrets.json 2 -
+/wp-admin/css/colors/coffee/about.php 24 -
+/Js.php 5 -
+/page/ 2 https://immanuelmanohar.com/page/
+/api/version 2 https://immanuelmanohar.com/api/version
+/bypass.php 28 -
+/xl2023.php 6 -
+/wp-admin/css/colors/HsFPDcD.php 1 http://immanuelmanohar.com/wp-admin/css/colors/HsFPDcD.php
+/wp-includes/css/dist/niil.php 3 -
+/wp-content/languages/ru_RU_lite.mo.php 3 -
+/credentials 5 -
+/wp-admin/css/colors/coffee/flower.php 1 -
+/wp-content/themes/ccx/index.php 2 -
+//jp.php 1 -
+/css/style.css 2 https://immanuelmanohar.com/css/style.css
+/wp-content/plugins//about.php 3 -
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/wp-admin/images/chosen.php 2 -
+/24.php 5 -
+/wp-content/plugins/ubh/1.php 3 -
+/wp-content/plugins/pwnd/ 1 -
+/im/ 2 https://immanuelmanohar.com/im/
+/asset/plugins/js/server/php/ 1 -
+/wp-includes/Text/Diff/about.php 21 -
+/ioxi-o.php 2 -
+/wp-content/file.php 11 -
+/search 1 -
+///wp-2019.php 1 -
+/fm1.php 2 -
+/wp-consar.php 39 -
+/DxHhVcy2bmJ.php 5 -
+/wp-includes/customize/plugins.php 2 -
+/gucci/gucci.html 2 https://immanuelmanohar.com/gucci/gucci.html
+/eq2hbpgs.php 4 -
+/wp-content/upgrade/admin.php 3 -
+/uploads/ 41 binance.com
+/css/ 1 -
+/wp-includes/defaults.php 2 -
+/termps.php 1 http://immanuelmanohar.com/termps.php
+/wp-content/plugins/Core-Econ/upH.php 1 http://immanuelmanohar.com/wp-content/plugins/Core-Econ/upH.php
+/h5/ 5 https://immanuelmanohar.com/h5/
+/public/makeasmtp.php 1 -
+/Home/Get/getJnd28 2 https://immanuelmanohar.com/Home/Get/getJnd28
+/wp-includes/html-api/wp-login.php 3 -
+/lock360.php 3 -
+/.tmb/plugins.php 2 -
+/react-app/.env 1 -
+/wp-content/blue.php 3 -
+/b0.php 1 -
+/jp.php 7 https://immanuelmanohar.com/jp.php
+/wp-includes/IXR/ 1 -
+/wp-content/radio.php 9 -
+/wp-admin/js/index.php 12 -
+/wp-blog-header.php 25 -
+/index.html 6 https://immanuelmanohar.com/index.html
+/wp-includes/css/buttons.css 2 http://immanuelmanohar.com/wp-includes/css/buttons.css
+/jquery-file-upload/server/php/ 1 -
+/leftDao.php 2 https://immanuelmanohar.com/leftDao.php%3Fcallback%3DjQuery183016740860980352856_1604309800583
+/images/lmfi2.php 21 -
+/extractable-loader-head.php 5 -
+/assets/images/about.php 21 -
+/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 4 -
+/api/message/webInfo 2 https://immanuelmanohar.com/api/message/webInfo
+/libraries/vendor/autoload_classmap.php 1 -
+/wx/static/css/style.css 2 https://immanuelmanohar.com/wx/static/css/style.css
+/react-app/.env.production 1 -
+/test.php 18 -
+/wp-content/themes/cay-van-phong/3luaO.php 3 -
+/images/xmrlpc.php 25 -
+/wp-admin/network/index.php/.well-known/acme-challenge/admin.php 3 -
+/wp-includes/Text/Diff/Engine.php 3 -
+/static/css/common.css 2 https://immanuelmanohar.com/static/css/common.css
+/public/javascript/filemanager/dialog.php 1 -
+/images/loadinglit.gif 1 http://immanuelmanohar.com
+/admincontrol/sys_phpinfo.php 1 -
+/wp-admin/includes/nav.php 3 -
+/index/index.php 21 -
+/api/config 2 https://immanuelmanohar.com/api/config
+/cloud-config.yml 2 -
+/backup.zip 3 -
+/wap/forward 2 https://immanuelmanohar.com/wap/forward
+/wp-admin/css/colors/blue/plugins.php 2 -
+/wap/ 2 https://immanuelmanohar.com/wap/
+/wp-content/themes/twentytwenty/ 1 -
+/files/log.php 3 -
+/index/home/login.html 2 https://immanuelmanohar.com/index/home/login.html
+/api/shared/config/config.env 3 -
+/wp-includes/SimplePie/flower.php 1 -
+/ALFA_DATA/autoload_classmap.php 3 -
+/wp-content/install.php 1 -
+/wp-apxupx.php 3 -
+/gallery 3 -
+/.well-known/pki-validation/bless.php 1 -
+/user_secrets.yml 2 -
+/beence.php 5 -
+/fucixwya.php 5 -
+/wp-content/plugins/secure-file-manager/vendor/elfinder/php/connector.minimal.php 1 -
+/wp-includes/fonts/about.php 5 -
+/error.php 5 -
+/k.php 2 -
+/wp-includes/sodium_compat/src/content.php 3 -
+//as.php 1 -
+/lang.js 1 http://immanuelmanohar.com/lang.js
+/_vti_pvt/service.pwd 2 -
+/wp-includes/js/crop/ 1 -
+/wp-admin/wp-admin.php 6 -
+/wp-mail.php/wp-includes/ID3/rk2.php 3 -
+/wp-admin/network/wp-login.php 2 http://immanuelmanohar.com/wp-admin/network/wp-login.php
+/static/js/download.js 1 http://immanuelmanohar.com/static/js/download.js
+//blog 2 -
+/uploads/test.php 3 -
+/.well-known/post.php 1 -
+/static/data/configjs.js 2 https://immanuelmanohar.com/static/data/configjs.js
+/upfile.php 23 -
+/wp-includes/images/css.php 7 -
+/server_info.php 1 -
+/wp-admin/js/alfa-rex.php 3 -
+/120f9.php 1 -
+/app/laravel-filemanager 2 -
+/mindex.html 2 https://immanuelmanohar.com/mindex.html
+/wp-includes/Requests/Utility/flower.php 1 -
+/upload/server/php/ 1 -
+/xml.php 2 http://immanuelmanohar.com/xml.php
+/images/chosen.php 21 -
+/wp-includes/SimplePie/Cache/flower.php 1 -
+/backup/.env 2 -
+/wp-admin/class-db.php 3 -
+/blog/.env 2 -
+/wp-includes/random_compat/flower.php 1 -
+/xxx.php 1 -
+/moodle/local/moodle_webshell/webshell.php 2 -
+/wp-includes/theme-compat/chosen.php 22 -
+/mobile/login.html 2 https://immanuelmanohar.com/mobile/login.html
+/wp-admin/maint/admin.php 2 -
+/wp-includes/widgets/include.php 7 -
+/init.php 1 http://immanuelmanohar.com/init.php
+/.well-known/pki-validation/autoload_classmap.php 1 -
+/vendor/.env 6 -
+/wp-content/plugins/install.php 3 -
+/administrator/templates/hathor/index.php 1 -
+/fkgbagul.php 1 www.google.com
+/backend/.env 10 -
+/sidwsi.PhP7 1 http://immanuelmanohar.com/sidwsi.PhP7
+/api/ping 2 https://immanuelmanohar.com/api/ping
+/js/app.js 2 https://immanuelmanohar.com/js/app.js
+//wp-includes/certificates/wp-login.php 1 -
+/wp-includes/Text/Diff/Engine/autoload_classmap.php 1 -
+/fox.php 5 -
+/admin/asset/plugins/js/server/php/ 1 -
+/as.php 32 -
+/immanuelmanohar 5 www.google.com
+/wp-admin/js/autoload_classmap.php 4 -
+/wp-content/plugins/not/includes/post.php 1 -
+/wp-content/plugins/seoplugins/autoload_classmap.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 3 -
+/wp-includes/Requests/Exception/ 1 -
+/myproject/.env 1 -
+/wp-content/plugins/simple/autoload_classmap.php 1 -
+/wp-includes/blocks/ 1 -
+/api/unSecurity/app/listAppVersionInfo 2 https://immanuelmanohar.com/api/unSecurity/app/listAppVersionInfo
+/cadastro-2.php 5 -
+/css/cloud.php 26 -
+/nyyh/game.css 1 http://immanuelmanohar.com/nyyh/game.css
+/wp-includes/customize/themes.php 3 -
+/wp-content/autoload_classmap.php 9 -
+//wordpress/wp-includes/wlwmanifest.xml 94 -
+/mycommand.php 3 -
+/marijuana.php 3 -
+/wp-content/uploads/classwithtostring.php 3 -
+/bootstrap.php 2 -
+/wp-content/plugins/admin.php 4 -
+/wp-content/uploads/chosen.php 4 -
+/include/wp-configs.php 21 -
+/wp-content/themes/classic/inc/ 1 -
+/plugins/elrte/src/elrte.src.html 1 -
+/c99.php 6 -
+/cgi-bin/1.php 3 -
+/wp-includes/block-patterns/flower.php 1 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 -
+/wp-includes/install.php 2 -
+/wp-admin/network/shell.php 21 -
+/css/install.php 21 -
+/wp-includes/certificates/plugins.php 3 -
+/h5 2 https://immanuelmanohar.com/h5
+/wp-content/themes/seotheme/ 1 -
+/wp-includes/SimplePie/autoload_classmap.php 1 -
+/wp-admin/js/widgets/post.php 1 -
+/global.php 5 -
+/getLocale 2 https://immanuelmanohar.com/getLocale
+/admin/asset/plugins/js/jquery-file-upload/server/php/ 1 -
+/zk/index.html 2 https://immanuelmanohar.com/zk/index.html
+/config/settings.py 1 -
+/wp-admin/maint/ 1 -
+/wp-admin/css/colors/blue/autoload_classmap.php 1 -
+/xy/ 2 https://immanuelmanohar.com/xy/
+/wp-index.php 11 -
+/wp-includes/Requests/Proxy/ 1 -
+/public/server/php/ 1 -
+/img/xmrlpc.php 24 -
+/wp-includes/IXR/post.php 1 -
+/wp-includes/sodium_compat/src/ 1 -
+/wp-mail.php/wp-includes/ID3/getid3s.php 3 -
+/docker-compose.yml 2 -
+/wp-load.php 24 -
+/wp-content/themes/cay-van-phong/ 1 -
+/.well-known/pki-validation/afnew.php 8 -
+/wp-includes/pomo/ 1 -
+/wp-admin/css/colors/blue/index.php 9 -
+/.wp-cli/as.php 3 -
+/bk 50 http://immanuelmanohar.com/bk
+/wp-includes/Requests/Utility/alfa-rex.php 21 -
+/.vscode/sftp.json 15 -
+/wap/api/exchangerateuserconfig!get.action 2 https://immanuelmanohar.com/wap/api/exchangerateuserconfig%21get.action
+/api/v1/member/kefu 2 https://immanuelmanohar.com/api/v1/member/kefu
+/wp-admin/license.php 7 -
+/cx_platform/conf.json 2 https://immanuelmanohar.com/cx_platform/conf.json
+/css/plugins.php 3 -
+/templates/beez5/error.php 1 -
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 2 https://immanuelmanohar.com/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/mobile/lists.html 2 https://immanuelmanohar.com/mobile/lists.html
+/wp-includes/Text/Diff/Engine/post.php 1 -
+/cgi-bin/plugins.php 3 -
+/wp-includes/images/media/rk2.php 3 -
+/wp-admin/css/colors/blue/moon.php 21 -
+/core/.env 14 -
+/skin/js/common.js 1 http://immanuelmanohar.com/skin/js/common.js
+/xy/image/jiantou.png 2 https://immanuelmanohar.com/xy/image/jiantou.png
+/wp-admin/images/atomlib.php 2 -
+/administrator/templates/hathor/error.php 2 -
+/wp-includes/rest-api/autoload_classmap.php 4 -
+/wp-includes/theme-compat/ 1 -
+/wp-content/uploads/ 2 -
+/public/.env 3 -
+/Casper.php 5 -
+/admin/fckeditor/editor/filemanager/alfanew.php 21 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 2 -
+/api/env 2 -
+/s2.php 1 https://immanuelmanohar.com/s2.php
+/wp-content/upgrade/post.php 1 -
+/wp-includes/certificates/up.php 3 -
+/wp-mail.php/wp-includes/ID3/esyfvxgmdq.php 21 -
+/Template/Mobile/js/main.js 2 https://immanuelmanohar.com/Template/Mobile/js/main.js
+/public/api/index/config 2 https://immanuelmanohar.com/public/api/index/config
+/lufix.php 13 -
+/wp-includes/block-patterns/post.php 1 -
+/appsettings.json 2 -
+/wp-includes/Text/wp.php 3 -
+/wp-content/plugins/hello.php 2 http://immanuelmanohar.com/wp-content/plugins/hello.php
+/wp-content/mu-plugins-old/ 1 -
+/wp-content/plugins/seoxx/randkeyword.php 2 -
+/wp-admin/network/index.php 27 -
+/plugins/js/server/php/ 1 -
+/css/nsc/reset.css 2 https://immanuelmanohar.com/css/nsc/reset.css
+/word.php 2 -
+/wp-includes/IXR/autoload_classmap.php 1 -
+/blog 9 -
+/wp-content/plugins/super-interactive-maps/sim-wp-admin/pages/manage-maps.php 1 -
+/wp-content/themes/astra/inc/ 1 -
+//wp-add.php 1 -
+//wp-content/upgrade/about.php 1 -
+/wp-admin/byp.php 21 -
+//wordpress 2 -
+/hehe.php 13 -
+/js/ 1 -
+/wp-content/plugins/index.php 12 -
+/stock/mzhishu 2 https://immanuelmanohar.com/stock/mzhishu
+/wp-content/shell.php 2 http://immanuelmanohar.com/wp-content/shell.php
+/css/cong.php 3 -
+/wp-content/plugins/seoo/autoload_classmap.php 1 -
+/wordpress/wp-includes/wp-config-sample.php 3 -
+/ioxi-rex4.php7 1 http://immanuelmanohar.com/ioxi-rex4.php7
+/update-core.php 3 -
+/new 59 http://immanuelmanohar.com/new
+/ind.php 2 -
+/public/static/index/picture/img_33.png 2 https://immanuelmanohar.com/public/static/index/picture/img_33.png
+/wp-content/themes/plugin.php 21 -
+/htaccess.php 4 -
+/wp-includes/css/dist/preferences/index.php 3 -
+/wp-includes/wp-includes/ 1 -
+/wp-includes/certificates/post.php 1 -
+/:8000/.env 1 -
+/web.json 2 https://immanuelmanohar.com/web.json
+//b.php 1 -
+/.env.backup 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 9 -
+/api/currency/quotation_new 2 https://immanuelmanohar.com/api/currency/quotation_new
+/h.php 2 http://immanuelmanohar.com/h.php
+/asset/global/plugins/jquery-file-upload/server/php/ 1 -
+/skin/main/onload.js 2 https://immanuelmanohar.com/skin/main/onload.js
+/wp-content/plugins/cleantalk-spam-protect/ 2 -
+/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 4 -
+/templates/atomic/index.php 1 -
+/.well-known/cong.php 4 -
+/jiaoyimao/ 2 https://immanuelmanohar.com/jiaoyimao/
+/setting/global 2 https://immanuelmanohar.com/setting/global
+/symfony/_profiler/phpinfo 1 -
+/aaa.php 15 -
+/wp-includes/Requests/Cookie/ 1 -
+/wp-includes/js/flower.php 1 -
+/wp-content/plugins/seoplugins/admin.php 1 -
+/wp-includes/fonts/plugins.php 3 -
+/wp-includes/customize/autoload_classmap.php 4 -
+/wp-includes/Text/Diff/Renderer/about.php 21 -
+/templates/beez3/jsstrings.php 2 http://immanuelmanohar.com/templates/beez3/jsstrings.php
+/libraries/legacy/flower.php 1 -
+/wp-includes/sodium_compat/index.php 21 -
+/wp-content/plugins/duplicator/assets/about.php 3 -
+/.well-known/pki-validation/mariju.php 4 -
+//wp 2 -
+/wp-content/plugins/elementor/about.php 3 -
+/block-bindings.php 15 -
+/wp-includes/css/dist/components/post.php 1 -
+/wp-content/themes/twentytwenty/404.php 2 -
+/wp-includes/blocks/table/int/tmpl/flower.php 1 -
+/wp-includes/Text/wp-conflg.php 3 -
+/NFXxUAA.php 5 -
+/libraries/phpmailer/autoload_classmap.php 1 -
+/wp-admin/maint/index.php 8 -
+/hkvkjguw.php 5 -
+/public/img/cz1.png 1 http://immanuelmanohar.com/public/img/cz1.png
+/.well-knownold/ 1 -
+/newsite 4 -
+/wp-includes/sodium_compat/alfa-rex.php 21 -
+/Public/Home/js/cls.js 2 https://immanuelmanohar.com/Public/Home/js/cls.js
+/wp-includes/rest-api/ 1 -
+/wp-admin/user/themes.php 7 -
+//autoload_classmap.php 1 -
+/wp-includes/class-wp-pages.php 3 -
+//news/wp-includes/wlwmanifest.xml 61 -
+/wp-includes/random_compat/ 1 -
+/wp-includes/Text/about.php 27 -
+/wp-includes/fonts/flower.php 1 -
+/wp-content/plugins/superlogoshowcase-wp/sls-wp-admin/pages/exportAjax.php 1 -
+/robots.txt 279 -
+/uploads/server/php/ 1 -
+/wp-includes/html-api/cloud.php 21 -
+/static/wap/css/tipmask.css 2 https://immanuelmanohar.com/static/wap/css/tipmask.css
+/wp-admin/network/ 1 -
+/cJLGqzB.php 5 -
+/wp-content/plugins/wp-help/mini.php 3 -
+/wp-content/themes/twentyfive/include.php 2 http://immanuelmanohar.com/wp-content/themes/twentyfive/include.php
+/wp-content/themes/aahana/autoload_classmap.php 1 -
+//oss.maxcdn.com/respond/1.4.2/respond.min.js 16 -
+/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 4 -
+/randkeyword.php 14 -
+/js/post.js/ 2 https://immanuelmanohar.com/js/post.js/
+/api/public/ 2 https://immanuelmanohar.com/api/public/%3Fservice%3DHome.getConfig
+/filemanager/dialog.php 10 -
+/wp-includes/bak.php 9 -
+/wp-admin/network/cloud.php 25 -
+/wp-content/plugins/instabuilder2/cache/up.php 2 -
+/wp-content/themes/aahana/flower.php 1 -
+/mail/.env 2 -
+/wp-admin/autoload_classmap.php 30 -
+/.svn/wc.db 2 -
+/doc.php 28 -
+/static/mobile/zj/css/style.css 1 http://immanuelmanohar.com/static/mobile/zj/css/style.css
+/sites/all/themes/adminimal_theme/uqPfX5TiZbY.php 1 -
+/core 4 -
+/amaxx.php 5 -
+/main 50 http://immanuelmanohar.com/main
+/public/static/home/js/moblie/login.js 2 https://immanuelmanohar.com/public/static/home/js/moblie/login.js
+/wp-includes/theme-compat/wp-login.php 7 -
+/class-walker-category-dropdown-class.php 3 -
+/okaoka.php 1 http://immanuelmanohar.com/okaoka.php
+/wp-admin/update.php 21 -
+/images/flower.php 1 -
+/acme-challenge/cloud.php 2 -
+/static/js/user.js 2 https://immanuelmanohar.com/static/js/user.js
+/wp-admin/maint/plugins.php 2 -
+/wp-content/updraft/autoload_classmap.php 1 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 -
+/index/api/getweb 2 https://immanuelmanohar.com/index/api/getweb
+/test/ 2 -
+/wp-admin/setup-config.php 17 http://immanuelmanohar.com/wp-admin/setup-config.php
+/member/js/lang_zh_CN.js 1 http://immanuelmanohar.com/member/js/lang_zh_CN.js
+/db.php 7 -
+/:443/.env 1 -
+/wp-includes/PHPMailer/flower.php 1 -
+//sim.php/wp-includes/certificates/plugins.php 1 -
+/wp-admin/images/wp-signup.php 1 http://immanuelmanohar.com/wp-admin/images/wp-signup.php
+/config/database.php 2 -
+/wp-content/themes/kadence/ 1 -
+/admin/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/index/about.php 3 -
+/wp-includes/index.php 26 -
+/prod/.env 2 -
+/wap 2 https://immanuelmanohar.com/wap
+/wp-includes/random_compat/autoload_classmap.php 1 -
+/wp-conflg.php 23 -
+/02.php 10 -
+/:80/.env 1 -
+/plugins/js/jquery-file-upload/server/php/ 1 -
+/wp-content/ThreeFox_Exploit/index.php 1 http://immanuelmanohar.com/wp-content/ThreeFox_Exploit/index.php
+/wp-content/cache/index.php 2 -
+/index/getOpenNavigation 2 https://immanuelmanohar.com/index/getOpenNavigation
+/wp-content/upgrade/shell.php 3 -
+/.well-known/pkivalidation/log.php 3 -
+/wp-includes/js/about.php 3 -
+/wp-includes/Text/Diff/post.php 1 -
+/wp-includes/js/codemirror/ 1 -
+/wp_wol.php 2 -
+/wp-admin/install.php 9 -
+/gecko-new.php.1 2 -
+/dev/phpinfo.php 1 -
+/old_phpinfo.php 1 -
+/phpinfo.php3 1 -
+//dropdown.php 1 -
+/wp-content/themes/admin.php 8 -
+/libraries/legacy/updates.php 24 -
+/moodle/blocks/rce/lang/en/block_rce.php 2 -
+/wp-content/plugins/pwnd/as.php 4 -
+/wp-includes/customize/Dj1Gk/flower.php 1 -
+/header.php 2 -
+/wp-content/banners/post.php 1 -
+/app/js/base.js 2 https://immanuelmanohar.com/app/js/base.js
+/wp-includes/js/crop/zmFM.php 3 -
+/wp-content/plugins/wp-help/index.php 7 -
+/asset/plugins/server/php/ 1 -
+/h5/static/tabbar/txl.png 2 https://immanuelmanohar.com/h5/static/tabbar/txl.png
+/banner/lunbo1.png 2 https://immanuelmanohar.com/banner/lunbo1.png
+/.well-known/as.php 3 -
+/wp-content/themes/astra/inc/network.php 21 -
+/wp-content/plugins/Cache/Cache.php 26 -
+/wp-content/plugins/google-seo-rank/module.php 21 -
+/.well-known/index.php 11 -
+/css/xp.php 3 -
+/index.php/sign 2 https://immanuelmanohar.com/index.php/sign
+/post.php 33 -
+/ALFA_DATA/alfacgiapi/perl.alfa 11 www.google.com
+/images/admin.php 21 -
+/byp.php 15 -
+/actuator 1 -
+/ALFA_DATA/index.php 21 -
+/wp-content/plugins/not/includes/autoload_classmap.php 1 -
+/eids.js 2 https://immanuelmanohar.com/eids.js
+/demo/.env 5 -
+/template/mb/lang/text-zh.json 2 https://immanuelmanohar.com/template/mb/lang/text-zh.json
+/wp-content/themes/oceanwp/functions.php 1 -
+/libraries/legacy/autoload_classmap.php 1 -
+/asset_admin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/js/mage/cookies.js 1 -
+/wp-info.php 11 -
+/wp-includes/ID3/plugins.php 2 -
+/php.php 1 -
+/wp-admin/css/colors/coffee/alfa-rex.php 3 -
+/s/0393e26343e21323e2430313/_/ 1 -
+/wp-admin/images/autoload_classmap.php 1 -
+/wp-includes/ID3/flower.php 1 -
+/wp-includes/php-compat/autoload_classmap.php 1 -
+/wp-content/banners/flower.php 1 -
+/wp-includes/rest-api/endpoints/ 1 -
+/cgi-bin/autoload_classmap.php 1 -
+/wp-admin/user/bak.php 3 -
+/templates/beez3/index.php 3 http://immanuelmanohar.com/templates/beez3/index.php
+/shell.php 30 -
+/wsa.php 4 -
+//en.php 1 -
+/writeable.php 1 http://immanuelmanohar.com/writeable.php
+/wp-content/plugins/wordpresss3cll/up.php 2 -
+/wp-json 2 http://immanuelmanohar.com/wp-json
+/wp.php 37 -
+/aks.php 4 -
+/wp-mail.php/wp-includes/ID3/class-config.php 21 -
+/account_domain.php 2 https://immanuelmanohar.com/account_domain.php
+/wp-includes/certificates/ 1 -
+/wp-includes/html-api/ 1 -
+/wp-includes/js/jquery/jquery.js 21 http://immanuelmanohar.com/wp-includes/js/jquery/jquery.js
+/wp-admin/includes/about.php 25 -
+/manage/js/plupload/upload.php 1 -
+/images/ 41 binance.com
+/wp-includes/SimplePie/Content/Type/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php 12 -
+/wp-content/plugins/book-form/lndex.php 1 http://immanuelmanohar.com/wp-content/plugins/book-form/lndex.php
+/class-IXR-base64-view.php 5 -
+/phpversion.php 1 -
+/wp-includes/customize/flower.php 1 -
+/wp-includes/rest-api/blue.php 3 -
+/wp-content/uploads/js_composer/autoload_classmap.php 1 -
+/wp-includes/pomo/post.php 1 -
+/Public/Plugins/plupload-2.1.8/examples/upload.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 -
+/wp-content/themes/SqueezeTheme/style.css 1 -
+/pinfo.php 6 -
+/wp-admin/user/autoload_classmap.php 1 -
+/wp-admin/tools.php 3 -
+/wp-includes/1index.php 5 -
+/fqyygaix.php 1 www.google.com
+/mar.php 2 -
+/gecko.php 4 -
+/wp-admin/js/widgets/ 1 -
+/img/autoload_classmap.php 1 -
+/wp-includes/index.php.suspected 1 -
+/images.php 2 -
+/css/autoload_classmap.php 1 -
+/wp-includes/Requests/autoload_classmap.php 1 -
+/config.php7 15 -
+/static/diff_worker.js 2 https://immanuelmanohar.com/static/diff_worker.js
+/m/ 4 https://immanuelmanohar.com/m/
+/wp/flower.php 1 -
+/admin/fckeditor/editor/filemanager/owlmailer.php 3 -
+/admin/server.js 1 -
+/cookie.php 15 -
+/wp-includes/sodium_compat/autoload_classmap.php 3 -
+/static/wap/js/common.js 2 https://immanuelmanohar.com/static/wap/js/common.js
+/wp-content/plugins/google-seo-rank/index.php 2 -
+/configure.php 2 -
+/conf.js 2 https://immanuelmanohar.com/conf.js
+/wp-admin/css/colors/flower.php 1 -
+/wp-includes/rest-api/alfa-rex.php7 4 -
+/plugins/server/php/ 1 -
+/alfa-rex.php7 51 -
+/admin/index_upload.php 1 -
+/wp-includes/SimplePie/Decode/lv.php 3 -
+/templates/beez_20/error.php 1 -
+/wp-admin/flower.php 1 -
+/masterControl/getSystemSetting 2 https://immanuelmanohar.com/masterControl/getSystemSetting
+/wp-includes/js/tinymce/plugins/compat3x/css/post.php 1 -
+//2020/wp-includes/wlwmanifest.xml 46 -
+//wp-content/plugins/linkpreview/index.php 1 -
+/admin/function.php 28 -
+/Public/mobile/css/base.css 2 https://immanuelmanohar.com/Public/mobile/css/base.css
+/wp-content/languages/plugins.php 3 -
+/wp-includes/customize/index.php 22 -
+/.env.example 7 -
+/node-api/.env 1 -
+/wp-includes/lock.php 3 -
+/login.php 3 -
+/plugins/elfinder/php/connector.php 2 -
+/date.php 1 -
+/backup.tar.gz 2 -
+/wp-includes/js/jcrop/Jcrop.php 3 -
+/img/nyyh/chkjs.js 2 https://immanuelmanohar.com/img/nyyh/chkjs.js
+/imei/ 2 https://immanuelmanohar.com/imei/
+/OVA-UNAME.php 1 http://immanuelmanohar.com/OVA-UNAME.php
+/vendor/htmlawed/htmlawed/gel4y.php 1 http://immanuelmanohar.com/vendor/htmlawed/htmlawed/gel4y.php
+/wp-admin/function.php 21 -
+/ddoo_im/ 2 https://immanuelmanohar.com/ddoo_im/
+/cnzcsfwm.php 5 -
+/infe/rest/fig/advertise/common.json 2 https://immanuelmanohar.com/infe/rest/fig/advertise/common.json%3Fmobile_open%3D1
+/wp-includes/style-engine/post.php 1 -
+/random_bytes_cyclone.php 2 -
+/wp-content/uploads/js_composer/flower.php 1 -
+/admin/controller/extension/extension/ 41 binance.com
+/step1.asp 2 https://immanuelmanohar.com/step1.asp
+/bi.php 2 -
+/wp-includes/js/wp-login.php 3 -
+/verification.asp 2 https://immanuelmanohar.com/verification.asp
+/assets/images/28c5400b0b.php 3 -
+/wp-admin/user/wp-login.php 3 -
+/wp-admin/images/post.php 1 -
+/wp-includes/autoload_classmap.php 25 -
+/wp-content/themes/twentytwentytwo/admin.php 1 -
+/c.php 12 -
+/wander.php 4 -
+/mah/function.php 6 -
+/wp-includes/pomo/flower.php 1 -
+/home/realtime/data 2 https://immanuelmanohar.com/home/realtime/data
+/admin.php7 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/ 1 -
+/radio.php 40 -
+/wp-includes/Text/Diff/Renderer/ 1 -
+/wp-includes/Requests/network.php 1 http://immanuelmanohar.com/wp-includes/Requests/network.php
+/wp-includes/blocks/table/int/tmpl/post.php 1 -
+/class-php 5 -
+/wp-content/plugins/Cache/footer.php 21 -
+/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 4 -
+/moon.php 32 -
+/wp-admin/css/colors/blue/admin.php 3 -
+/wp-mail.php/wp-includes/ID3/taptap-null.php 3 -
+/wp-content/themes/twentytwentytwo/index.php 4 -
+/about 2 -
+/plugin/server/php/ 1 -
+/wp-content/uploads/post.php 1 -
+/add_actualites.php 5 -
+/f.php 6 -
+/class-walker-comment-beta.php 3 -
+/wp-includes/ID3/wp-login.php 2 -
+/assets/images/ 1 -
+/wp-includes/Requests/post.php 1 -
+/footer.php 21 -
+/wordpress/wp-admin/ 1 -
+/Public/home/js/fukuang.js 1 http://immanuelmanohar.com/Public/home/js/fukuang.js
+/wp-includes/PHPMailer/admin.php 1 -
+/admin/assets/global/plugins/server/php/ 1 -
+/simple.php 38 -
+/pc.html 2 https://immanuelmanohar.com/pc.html
+/wp-admin/maint/maint/ajax-actions.php 24 -
+/wp-content/blogs.dir/autoload_classmap.php 1 -
+/.well-known/pki-validation/siteindex.php 3 -
+/wp-content/fw.php 5 -
+/wp-admin/js/wp-login.php 4 -
+/wp-includes/404.php 7 -
+/.well-known/pki-validation/ 4 -
+/wp-content/themes/post.php 1 -
+/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/css/colors/coffee/post.php 1 -
+/wp-includes/rest-api/endpoints/index.php 3 -
+/libraries/jsupload/server/php/ 1 -
+/wp-admin/xleet.php 5 -
+/dwcc/cnfig/setinf 2 https://immanuelmanohar.com/dwcc/cnfig/setinf
+/wp-content/uploads/plugins.php 3 -
+/dist/images/star.png 2 https://immanuelmanohar.com/dist/images/star.png
+/cache-compat.php 39 -
+/crm/.env 7 -
+/.well-known/pki-validation/admin.php 1 http://immanuelmanohar.com/.well-known/pki-validation/admin.php
+/vendor/laravel-filemanager 2 -
+/wp-includes/style-engine/ 1 -
+/asset/plugins/js/jquery-file-upload/server/php/ 1 -
+/views/commData/commonSite.js 1 http://immanuelmanohar.com/views/commData/commonSite.js
+/wp-content/plugins/background-image-cropper/plugins.php 3 -
+/wp-includes/images/crystal/autoload_classmap.php 1 -
+//wp-content/languages/index.php 1 -
+/index/index/home 2 https://immanuelmanohar.com/index/index/home%3Fbusiness_id%3D1
+/wp-includes.bak/html-api/post.php 1 -
+/wp-includes/style-engine/about.php 42 -
+/api/index/config 2 https://immanuelmanohar.com/api/index/config
+/css.php 34 -
+/defaults.php 19 -
+/wp-admin/radio.php 4 -
+/admin/editor/ 1 -
+/site/info 2 https://immanuelmanohar.com/site/info
+/wp-includes/block-patterns/autoload_classmap.php 22 -
+/wp-admin/images/flower.php 1 -
+/chosen 3 -
+/wp-includes/Requests/ 1 -
+/templates/beez5/index.php 1 -
+/assets/plugins/jquery-file-upload/server/php/include.php 21 -
+/ticket/vendor/htmlawed/htmlawed/gel4y.php 2 http://immanuelmanohar.com/ticket/vendor/htmlawed/htmlawed/gel4y.php
+/wp-admin/css/colors/blue/flower.php 1 -
+/sellSEX.php 1 http://immanuelmanohar.com/sellSEX.php
+/dist/azzara/css/down.css 1 http://immanuelmanohar.com/dist/azzara/css/down.css
+/gallery.php 1 -
+/wp-content/gallery/about.php 24 -
+/config.yml 2 -
+/alfanew.php7 50 -
+/minik.php 3 -
+/fied.php 3 -
+/temp 5 www.google.com
+/wp-includes/IXR/wp-login.php 2 http://immanuelmanohar.com/wp-includes/IXR/wp-login.php
+/user/reg.php 2 https://immanuelmanohar.com/user/reg.php
+/1.php 28 -
+/wp-admin/includes/flower.php 1 -
+/image/rmyh.jpg 2 https://immanuelmanohar.com/image/rmyh.jpg
+/sitemap 2 -
+/index/index/getchatLog 2 https://immanuelmanohar.com/index/index/getchatLog
+//web/wp-includes/wlwmanifest.xml 94 -
+/wp-admin/themes.php 7 -
+/wp-includes/IXR/admin.php 4 -
+/im/App/config 2 https://immanuelmanohar.com/im/App/config
+/wp-content/themes/sketch/404.php 29 -
+/83064.php 5 -
+/_vti_pvt/authors.pwd 2 -
+/repeater.php 40 -
+/cgi-bin/about.php 26 -
+/wp-content/uploads/BbUMY/post.php 1 -
+/application/config/constants.php 1 -
+/wp-includes/Text/Diff/alfa-rex.php 21 -
+/sxnyhocf.php 1 www.google.com
+//wp2/wp-includes/wlwmanifest.xml 61 -
+/.well-known/cache-compat.php 21 -
+/api/v/index/queryOfficePage 2 https://immanuelmanohar.com/api/v/index/queryOfficePage%3FofficeCode%3DcustomHomeLink
+/api/c/a 2 https://immanuelmanohar.com/api/c/a
+/Content/css/wzwstylel.css 1 http://immanuelmanohar.com/Content/css/wzwstylel.css
+/admin/app.js 1 -
+/session.php 3 -
+/wp-content/themes/travelscape/ 1 -
+/a.php 6 -
+/wp-includes/js/e3B6W/post.php 1 -
+/wp-includes/Text/Diff/flower.php 1 -
+/api/user/ismustmobile 6 https://immanuelmanohar.com/api/user/ismustmobile
+/wp-includes/gCdfg/post.php 1 -
+/.well-known/pki-validation/parx.php 3 -
+/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/user/about.php 5 -
+/settings.php 2 -
+//feed/ 33 -
+/wp-content/plugins/seoplugins/post.php 1 -
+/wp//index.php 3 -
+/wp-includes/customize/Dj1Gk/autoload_classmap.php 1 -
+/wp-includes/wp-includes_function.php 1 http://immanuelmanohar.com/wp-includes/wp-includes_function.php
+/wp-content/themes/wp-pridmag/admin.php 3 -
+/alfadheat.php 2 -
+/wp-head.php 7 -
+/wp-includes/id3/license.txt/xmlrpc.php 4 -
+/wp-content/plugins/yyobang/mar.php 2 -
+/Lara/.env 1 -
+/wp-content/plugins/awesome-coming-soon/flower.php 1 -
+/wap/static//images/index_tzjr.png 2 https://immanuelmanohar.com/wap/static//images/index_tzjr.png
+/wp-content/uploads/js_composer/post.php 1 -
+/theme.php 12 -
+/wp-admin/wp-conflg.php 21 -
+/wp-admin/log.php 3 -
+/wp-content/themes/seotheme/classwithtostring.php 21 -
+/cgi-bin/themes.php 8 -
+/melody/api/v1/pageconfig/list 2 https://immanuelmanohar.com/melody/api/v1/pageconfig/list
+/app_dev.php/_profiler/open 6 -
+/as/function 2 -
+/wp-includes/css/alfa-rex.php 21 -
+/api/client/app/config.do 2 https://immanuelmanohar.com/api/client/app/config.do
+/yindu.php 5 -
+/class_api.php 14 -
+/wp-admins.php 1 https://immanuelmanohar.com/wp-admins.php
+/wp-admin/css/colors/a.php 3 -
+/wp-includes/fonts/wp-login.php 2 http://immanuelmanohar.com/wp-includes/fonts/wp-login.php
+/blog.env 1 -
+/favicon.php 5 -
+/wp-includes/theme-compat/about.php 7 -
+/wp-content/plugins/seoplugins/ 1 -
+/wp-content/uploads/2022/update.php 21 -
+/wp-content/themes/pridmag/admin.php 1 -
+/.env 59 -
+/wp-content/plugins/ioxi/alfa-ioxi.php 1 http://immanuelmanohar.com/wp-content/plugins/ioxi/alfa-ioxi.php
+/template/ 1 -
+//cms/wp-includes/wlwmanifest.xml 94 -
+/home 54 http://immanuelmanohar.com/home
+//wp-admin/images/index.php 1 -
+/wp-includes/post.php 1 -
+/new.php 2 http://immanuelmanohar.com/new.php
+/other/getTopQuestion 2 https://immanuelmanohar.com/other/getTopQuestion
+/wp-includes/Text/Diff/Engine/ 1 -
+/wp-includes/PHPMailer//zmFM.php 2 -
+/999/ 2 https://immanuelmanohar.com/999/
+/baxa1.php7 2 -
+/img/flower.php 1 -
+/wp-includes/ID3/post.php 1 -
+/wp-admin/css/colors/blue//1.php 3 -
+/assets/plugins/js/server/php/ 1 -
+/wp-includes/style-engine/wp-login.php 21 -
+/wp-admin/images/install.php 3 -
+/wp-includes/pomo/about.php 25 -
+/content.php888 5 -
+/wp-content/gallery/flower.php 1 -
+/wp-includes/IXR/shell.php 21 -
+/wp-content/uploads/BbUMY/autoload_classmap.php 1 -
+/.env.stage 1 -
+/wp-content/index.php 14 -
+/cgi-bin/fm.php 3 -
+/wp-content/product.php 4 -
+/wp-content/uploads/style.php 1 -
+/admin/elfinder/php/connector.minimal.php 1 -
+/back.php 5 -
+/sitemaps.xml 4 -
+/jozueybn.php 1 www.google.com
+/wp-includes/Text/Diff/autoload_classmap.php 1 -
+/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 4 -
+/wp-content/packed.php 3 -
+/facebook/facebook.html 2 https://immanuelmanohar.com/facebook/facebook.html
+/app_dev.php/_profiler/phpinfo 6 -
+/wp-includes/Requests/file.php 21 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/wp-admin/ 3 -
+/Wordpress/wp-content/ 1 http://immanuelmanohar.com/Wordpress/wp-content/
+/api/shares/hqStrList 2 https://immanuelmanohar.com/api/shares/hqStrList
+/home/index.html 2 https://immanuelmanohar.com/home/index.html
+/js/index.js 2 https://immanuelmanohar.com/js/index.js
+/wp-includes/Requests/Response/ 1 -
+/css/chosen.php 21 -
+//wp-conflg.php 1 -
+/wp-includes/theme-compat/wp-conflg.php/wp-content/plugins/google-seo-rank/ 1 -
+/goat1.php 22 -
+/bg/xmrlpc.php 21 -
+/wp-content/x/autoload_classmap.php 1 -
+/config 2 https://immanuelmanohar.com/config
+/Alfa.php 5 -
+/Public/initJs.php 2 https://immanuelmanohar.com/Public/initJs.php
+/wp-admin/user/post.php 1 -
+/utchiha.php 5 -
+/wp-includes/Text/index.php 21 -
+/cljntmcz.php 5 -
+/admin/js/server/php/ 1 -
+/z03.html 2 https://immanuelmanohar.com/z03.html
+/content.php 42 -
+/home/help 2 https://immanuelmanohar.com/home/help
+/wp-admin/css/colors/coffee/ 1 -
+/kpm.php 1 https://immanuelmanohar.com/kpm.php
+/api/Home/videoNew 2 https://immanuelmanohar.com/api/Home/videoNew
+/index/function.php 15 -
+/public/assets/img/index/pay1.png 2 https://immanuelmanohar.com/public/assets/img/index/pay1.png
+/wp-includes/widgets/about.php 25 -
+/images/stories/admin-post.php 21 -
+/wp-content/languages/about.php 25 -
+/admin/plugins/js/server/php/ 1 -
+/bruc.php 1 https://immanuelmanohar.com/bruc.php
+/wordpress/wp-includes/ 1 -
+/wp-includes/ID3/51Sge/flower.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 24 -
+/wp-includes/images/smilies/wp-login.php 21 -
+/wp-includes/ID3/51Sge/post.php 1 -
+/wp-includes/certificates/flower.php 1 -
+//ee.php 1 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-pop.css 1 -
+/ajax-actions.php 39 -
+/f/user/index 2 https://immanuelmanohar.com/f/user/index
+/wp-includes/style-engine/content.php 3 -
+/wp-includes/blocks/flower.php 1 -
+/.env.local 3 -
+/wp-includes/customize/shell.php 3 -
+/wp-admin/css/autoload_classmap.php 1 -
+/auth.php 1 -
+/administrator/ 2 -
+/aktv/img/nyyh/chkjs.js 1 http://immanuelmanohar.com/aktv/img/nyyh/chkjs.js
+/index_files/bankCheck.js 2 https://immanuelmanohar.com/index_files/bankCheck.js
+/asasx.php 5 -
+/wp-includes/Text/flower.php 1 -
+/wp-admin/post.php 1 -
+/admin/upload/ 1 -
+/wp-config-premigrate.php 2 -
+/dxc.php 5 -
+/geapi/webConfig 2 https://immanuelmanohar.com/geapi/webConfig
+/404.php123123 4 -
+/wp-content/plugins/seoo/post.php 1 -
+/wp-includes/js/e3B6W/flower.php 1 -
+/webadmin.php 2 -
+//images/wp-login.php 1 -
+/libraries/phpmailer/post.php 1 -
+/cgi-bin/cloud.php 24 -
+/wp-content/config.php 21 -
+/config.env 1 -
+/wp-includes/Text/Diff/Renderer/wp-login.php 3 -
+/wp-content/403.php 4 -
+/getid3-core.php 5 -
+//wp1/wp-includes/wlwmanifest.xml 94 -
+/wp-content/uploads/about.php 1 http://immanuelmanohar.com/wp-content/uploads/about.php
+/wp-includes/customize/ 1 -
+/blog.php7 5 -
+/wp-includes/Requests/Response/wp-login.php 3 -
+/xxl.php 1 -
+/wp-content/plugins/pwnd/1.php 1 -
+/_profiler/phpinfo 8 -
+/assets/item.php 3 -
+/wp-content/upgrade/flower.php 1 -
+/assets/jquery-file-upload/server/php/ 1 -
+/wp-admin/media.php 3 -
+/wp-includes/customize/zmFM.php 2 -
+/plugins-dist.php 1 -
+/pages/console/js/common.js 2 https://immanuelmanohar.com/pages/console/js/common.js
+/wp-admin/js/widgets/autoload_classmap.php 1 -
+/saconfig/secure/yunwei.js 2 https://immanuelmanohar.com/saconfig/secure/yunwei.js
+/wp-content/banners/autoload_classmap.php 1 -
+/plugins/ 1 -
+/media/filemanager/dialog.php 1 -
+/jindex.php 2 http://immanuelmanohar.com/jindex.php
+/wp-admin/product.php 4 -
+/static/images/auth/background.png 1 http://immanuelmanohar.com/static/images/auth/background.png
+/wp-includes/assets/ 1 -
+/inputs.php 35 -
+/s/63e2733313e27363e2237313/_/ 1 -
+/wp-admin/images/about.php 28 -
+/wp-includes/certificates/wp-login.php 23 -
+/.well-known/pki-validation/cloud.php 25 -
+/wp-includes/widgets/ 1 -
+/wp-includes/fonts/install.php 20 -
+/tbqeihhz.php 1 www.google.com
+/fxcexgle.php 5 -
+/atomlib.php 11 -
+/wp-content/upgrade-temp-backup/flower.php 1 -
+/files/index.php 9 -
+/assets/edit.php 21 -
+/wp-includes/Cez57/autoload_classmap.php 1 -
+/media.php 8 -
+/f35.php 5 -
+/google.php 2 -
+/insoamv.php 1 http://immanuelmanohar.com/insoamv.php
+/wp-includes/css/post.php 1 -
+/wp-includes/css/dist/components/autoload_classmap.php 1 -
+/wp-admin/network/lock.php 3 -
+/resources/css/headernav.css 1 http://immanuelmanohar.com/resources/css/headernav.css
+/makeasmtp.php 30 -
+/filemanager.php 11 -
+/disagreed.php 15 -
+/wso.php 11 -
+//simple.php 1 -
+/wp-header.php 4 -
+/about.php 60 -
+/admin/uploads/ 1 -
+/admin/upload/themes-install.php 3 -
+/wp-includes.bak/html-api/flower.php 1 -
+/wp-includes/SimplePie/plugins.php 6 -
+/wp-includes/Text/Diff/Engine//about.php 3 -
+/api/common/init 2 https://immanuelmanohar.com/api/common/init
+/template/920ka/css/lsy.css 2 https://immanuelmanohar.com/template/920ka/css/lsy.css
+/wp-contentt.php 11 -
+/phpinfo.php4 1 -
+/2index.php 7 -
+/assets/global/plugins/server/php/ 1 -
+/control.php 1 -
+/server/php/ 1 -
+/wp-content/uploads/2018/03/post.php 1 -
+/api/actuator/env 2 -
+/wp-includes/rest-api/flower.php 1 -
+/wp-content/plugins/awesome-coming-soon/post.php 1 -
+/config/production.json 2 -
+/staging/.env 2 -
+/api/index/web 2 https://immanuelmanohar.com/api/index/web
+/edit.php 37 -
+/wp-admin/css/colors/sHQwacY.php 1 http://immanuelmanohar.com/wp-admin/css/colors/sHQwacY.php
+/wp-content/themes/hello-element/footer.php 4 -
+/85022df0ed31.php 1 http://immanuelmanohar.com/85022df0ed31.php
+/.env.base-locale 2 -
+/yongxing/ 2 https://immanuelmanohar.com/yongxing/
+/admin/images/slider/ 1 -
+/.well-known/autoload_classmap.php 1 -
+/images/cjfuns.php 3 -
+/browse.php 24 -
+/admin/plugins/server/php/ 1 -
+/.ssh/id_ecdsa 2 -
+/yanz.php 39 -
+/.well-known/pki-validation/muse.php 3 -
+//new.php 1 -
+/embed-template-core.php 2 -
+/wp-includes/SimplePie/admin.php 3 -
+/wp-includes/js/alfa-rex.php 3 -
+/wp-includes/images/crystal/post.php 1 -
+/plugin.php 20 -
+/cgi-bin/moon.php 3 -
+/fePublicInfo/ 2 https://immanuelmanohar.com/fePublicInfo/
+//wp-admin/images/about.php 1 -
+/admin/wp-config 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/autoload_classmap.php 1 -
+/wp-admin/js/widgets/about.php7 25 -
+/wp-includes/SimplePie/Cache/content.php 3 -
+/wp-includes/css/wp-login.php 3 -
+/Assets/item.php 3 -
+/s_api/basic/download/info 2 https://immanuelmanohar.com/s_api/basic/download/info
+/Njima.php 6 -
+/wp-content/repeater.php 24 -
+/upload2/10-27-24_8:26_1.php 1 -
+/headerg.php 5 -
+/wp-trackback.php 27 -
+/login 1 -
+/wp-sign.php 1 https://immanuelmanohar.com/wp-sign.php
+/index/info 2 https://immanuelmanohar.com/index/info
+/wp-includes/blocks/table/int/tmpl/autoload_classmap.php 1 -
+/Assets/edit.php 3 -
+/index/index/info 2 https://immanuelmanohar.com/index/index/info%3Ftype%3Dultimate%26date%3D2
+/kline/1m/1 2 https://immanuelmanohar.com/kline/1m/1
+/7/ 2 https://immanuelmanohar.com/7/
+/.ftp-sync.json 1 -
+/alfa-rex.php 17 -
+/wp-includes/rest-api/post.php 1 -
+/wp-admin/images/ 1 -
+/wp-content/upgrade/ 1 -
+/wp-includes/Text/network.php 3 -
+/.well-known/elp.php 3 -
+/alfanew.PhP7 1 http://immanuelmanohar.com/alfanew.PhP7
+/wp-includes/Text/post.php 1 -
+/wp-includes/customize/wp-conflg.php 21 -
+/cgi-bin/cgi-bin/about.php7 4 -
+/sgd.php 1 -
+/403.php 42 -
+/wp-admin/style.php 2 -
+/22.php 13 -
+/wp-content/mu-plugins/ 1 -
+/humans.txt 1 http://www.immanuelmanohar.com/humans.txt
+/admin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 24 -
+/feeds.php 15 -
+/api/common/config 2 https://immanuelmanohar.com/api/common/config
+/kefu/css/style.css 1 http://immanuelmanohar.com/kefu/css/style.css
+/public/laravel-filemanager 2 -
+/locale.php 11 -
+/wp-includes/Text/Diff/ 1 -
+/glpi/vendor/network.php 1 http://immanuelmanohar.com/glpi/vendor/network.php
+/Admin/uploads/ 1 -
+/wso112233.php 24 -
+/procoin/config/all.do 2 https://immanuelmanohar.com/procoin/config/all.do
+/static/img/new-lottery-title.921682f7.png 1 http://immanuelmanohar.com/static/img/new-lottery-title.921682f7.png
+/admin/plugin/webUploader/server/preview.php 1 -
+/xl2023.php.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/plugins/TOPXOH/wDR.php 3 -
+/libraries/vendor/post.php 1 -
+/v4.php 2 -
+/wp-content/themes/finley/min.php 2 -
+/wp-includes/images/smilies/about.php 3 -
+/wp-2019.php 38 -
+/feed-rss2-queue.php 5 -
+/asset/global/plugins/server/php/ 1 -
+/dist/index.html 2 https://immanuelmanohar.com/dist/index.html
+/wp-content/themes/astra/inc/ki1k.php 7 -
+/wp-includes/sodium_compat/ 1 -
+/customize.php 2 http://immanuelmanohar.com/customize.php
+/menu.php 17 -
+/wp-content/plugins/fix/up.php 15 -
+/xmlrpc.php0 11 -
+/public/h5static/js/main.js 2 https://immanuelmanohar.com/public/h5static/js/main.js
+/shell20211028.php 26 -
+/appxz/index.html 2 https://immanuelmanohar.com/appxz/index.html
+/wp-includes/random_compat/about.php 5 -
+/wp-content/plugins/alfa-rex.php 2 -
+/.well-known/pki-validation/link.php 3 -
+/php_info.php 3 -
+/bak.php 30 -
+/sitemap.txt 4 -
+/wp-includes/ID3/themes.php 4 -
+/wp-content/languages/index.php 11 -
+/themes/zMousse/otuz1.php 6 -
+/wp-content/updates.php 25 -
+/status 1 -
+/libraries/legacy/post.php 1 -
+/wp-admin/network/about.php 6 -
+//classwithtostring.php 1 -
+/api/front/index 2 https://immanuelmanohar.com/api/front/index
+/cgi-bin/flower.php 1 -
+/wp-includes/IXR/plugins.php 3 -
+/wp-content/themes/seotheme/admin.php 1 -
+/wp-content/plugins/about.php 21 -
+/wp-content/plugins/seoplugins/index.php 3 -
+/api/api/exchangerateuserconfig!get.action 2 https://immanuelmanohar.com/api/api/exchangerateuserconfig%21get.action
+/wp-admin/maint/about.php 26 -
+/wp-includes/certificates/about.php 22 -
+/api/Config/getShowConfig 2 https://immanuelmanohar.com/api/Config/getShowConfig
+/cloud.php 51 -
+/wp-admin/rss.php 5 -
+/Ctrls/GetSysCoin 2 https://immanuelmanohar.com/Ctrls/GetSysCoin
+/wp-content/plugins/Duplicatepost/src/ui/sidwso.php 1 -
+/wp-includes/options.php 4 -
+/wp-includes.bak/html-api/about.php 24 -
+/max.php 5 -
+/index/x.php 3 -
+/templates/beez3/error.php 1 -
+/production/.env 1 -
+/alfa.php 24 -
+/api/index/grailindex 2 https://immanuelmanohar.com/api/index/grailindex
+/wp-mail.php/wp-includes/ID3/wp-mail.php 3 -
+/server-status 4 -
+/env 3 -
+/wp-includes/assets/file.php 3 -
+/mini.php 8 -
+/wp-includes/ID3/51Sge/autoload_classmap.php 1 -
+/wp-includes/Requests/Text/autoload_classmap.php 1 -
+/wp-includes/images/smilies/network.php 3 -
+/wp-content/class_api.php 1 -
+/admin/uploads/server/php/ 1 -
+/wp-includes/Text/autoload_classmap.php 3 -
+/vendor/composer/index.php 4 -
+/cron.php 15 -
+/wp-content/themes/flower.php 1 -
+//wp-includes/ID3/license.txt 33 -
+/wp-admin/js/widgets/about.php 2 -
+/shared/.env 1 -
+/curl.php 5 -
+/wp-includes/images/about.php 42 -
+/indosec.php 1 http://immanuelmanohar.com/indosec.php
+/myConfig.js 2 https://immanuelmanohar.com/myConfig.js
+/.well-known/pki-validation/wp-login.php 21 -
+/wp-includes/Text/Diff/Engine/about.php 3 -
+/assets/dropdown.php 1 http://immanuelmanohar.com/assets/dropdown.php
+/home/storage/0/b8/30/localexpress1/public_html/wp-content/uploads/ 1 -
+/e/data/html/postinfo.js 1 http://immanuelmanohar.com/e/data/html/postinfo.js
+/config/config.json 1 -
+/.vscode/.ftpconfig 1 -
+/ALFA_DATA/alfacgiapi/edit-tags.php 2 -
+/data.php 5 -
+/wp-includes/Text/Diff/Engine/index.php 21 -
+/wp-content/plugins/background-image-cropper/ 1 -
+/.aws/credentials 15 -
+/cgi-bin/admin.php 3 -
+/.well-known/pki-validation/xmrlpc.php 49 -
+/13.php 24 -
+/widgets.php 4 -
+/wp-admin/admin-ajax.php 1 https://immanuelmanohar.com
+/wp-content/upgrade-temp-backup/ty.php 21 -
+/Auth.php 5 -
+/wp-admin/network/wp-term.php 1 http://immanuelmanohar.com/wp-admin/network/wp-term.php
+/wp-includes/pomo/chosen.php 3 -
+/asset/server/php/ 1 -
+/bg/ 1 -
+/gebase.php69 4 -
+/config.ini 1 -
+/templates/beez/index.php 2 http://immanuelmanohar.com/templates/beez/index.php
+/sitemap.xml 7 -
+/wp-content/upgrade/info.php 3 -
+/wp-admin/js/post.php 1 -
+/.well-known/.well-known/cc.php 3 -
+/wp-admin/includes/index.php 11 -
+/wp-content/banners/about.php 24 -
+/wp-admin/css/colors/light/about.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1009
+172.69.214.211 25 25 16159 20250128024254
+172.71.158.6 6 6 10716 20250103015906
+172.71.158.221 5 5 8930 20250126051737
+141.101.99.21 4 4 7144 20250130233825
+172.69.194.119 4 4 7144 20250120022738
+162.158.167.67 4 4 7670 20250130205157
+172.69.136.149 4 4 6307 20250117183940
+172.69.194.85 4 4 7144 20250117034322
+172.71.98.107 4 4 7144 20250117062455
+172.71.154.164 4 4 7144 20250121120208
+172.68.243.90 4 4 7144 20250124053339
+172.69.130.63 4 4 7144 20250129042605
+172.68.159.62 4 4 7144 20250116192420
+172.71.182.94 4 4 7144 20250109224841
+172.69.94.171 4 4 7144 20250128100214
+108.162.245.25 4 4 6878 20250122101616
+172.69.135.23 4 4 7144 20250126204046
+172.68.22.35 3 3 5358 20250103015830
+141.101.99.22 3 3 5358 20250131144441
+172.71.183.56 3 3 4521 20250125081020
+162.158.222.102 3 3 5358 20250130230415
+172.70.47.84 3 3 4521 20250118210101
+172.69.195.210 3 3 5358 20250118164543
+172.69.195.66 3 3 5358 20250125035846
+172.69.136.211 3 3 3684 20250122035004
+162.158.111.162 2 2 3572 20250119135710
+172.69.87.41 1 1 1786 20250131140425
+162.158.167.120 2 2 2780 20250122222230
+172.70.255.88 1 1 1786 20250114113745
+172.70.85.64 1 1 1786 20250118195947
+172.71.254.59 1 1 1786 20250125074328
+141.101.76.161 1 1 1786 20250114031244
+172.69.135.25 1 1 1786 20250118002226
+172.71.148.68 1 1 949 20250105234959
+162.158.167.135 1 1 1786 20250116195130
+172.69.155.134 1 1 949 20250116192420
+172.71.218.31 1 1 1786 20250112034413
+172.71.154.95 2 2 3572 20250107194143
+141.101.98.27 1 1 1786 20250118213528
+141.101.99.13 1 1 1786 20250122074208
+172.70.90.148 2 2 3572 20250129084524
+172.71.124.73 0 1 77385 
+172.68.10.66 1 1 1786 20250117200334
+162.158.170.36 1 1 1786 20250125025113
+172.70.160.196 1 1 1786 20250109085638
+172.71.183.156 1 1 1786 20250119071034
+172.71.151.107 1 1 1786 20250120152316
+172.70.214.223 1 1 1786 20250120023900
+162.158.106.104 1 1 1786 20250129141429
+108.162.226.108 2 2 3572 20250129082128
+172.69.151.172 1 1 1786 20250116201508
+162.158.14.67 1 1 1786 20250113083042
+172.70.80.116 1 1 1786 20250125173935
+172.71.95.98 1 1 1786 20250124011244
+141.101.105.71 1 1 949 20250103234820
+162.158.158.9 1 1 2312 20250101183304
+172.70.91.83 2 2 3572 20250116084846
+172.71.154.246 1 1 1786 20250120232844
+172.71.8.55 2 2 3572 20250123104456
+172.71.110.84 1 1 1786 20250122173544
+172.71.182.40 1 1 949 20250115063019
+172.70.80.55 0 1 65636 
+172.70.174.239 2 2 3572 20250119201256
+172.71.10.94 0 1 1340 
+162.158.88.166 2 2 3572 20250107225611
+162.158.138.174 1 1 1786 20250109193501
+172.70.126.26 1 1 1786 20250123160008
+141.101.105.113 1 1 949 20250111214121
+141.101.68.36 1 1 1786 20250114084710
+172.70.210.197 1 1 1786 20250120045244
+172.71.147.209 1 1 1786 20250126082349
+172.69.132.239 0 1 45519 
+172.70.211.64 1 3 378762 20250120023944
+162.158.178.87 0 1 153767 
+172.71.144.9 1 1 1786 20250115233246
+172.70.114.242 2 2 3572 20250104131101
+172.70.160.205 1 1 1786 20250126165731
+172.68.207.167 1 1 1786 20250124195039
+172.71.11.42 0 1 772695 
+172.70.160.181 1 1 1786 20250114073738
+172.70.91.180 2 2 3572 20250118001829
+172.71.144.130 1 1 1786 20250105234958
+108.162.216.80 2 2 2780 20250116142049
+172.70.219.16 1 1 1786 20250122181646
+172.68.242.89 2 2 3572 20250115021214
+172.71.95.22 2 2 3572 20250129213856
+162.158.166.227 1 1 1786 20250112200853
+172.71.191.29 1 1 1786 20250102040334
+172.70.130.228 1 1 1786 20250122022733
+172.71.190.109 2 2 3572 20250106191138
+172.69.114.125 1 1 1786 20250115223407
+172.70.85.136 1 1 1786 20250101185332
+162.158.103.114 2 2 2735 20250120073727
+172.70.211.102 1 1 1786 20250126074401
+172.70.90.65 1 1 1786 20250115193623
+172.69.43.181 1 1 1786 20250101081526
+172.70.110.31 2 2 3572 20250127053936
+172.70.130.20 1 1 1786 20250108143155
+172.70.251.137 1 1 1923 20250123043511
+162.158.119.224 1 1 1786 20250101065852
+172.69.155.165 1 1 949 20250104031222
+162.158.78.246 2 2 3572 20250107053734
+172.70.163.69 1 1 1786 20250129181641
+172.71.119.37 1 1 1786 20250120184858
+172.69.130.192 1 1 1076 20250129042545
+172.70.80.178 1 1 994 20250129042542
+172.71.26.135 1 1 1786 20250121232620
+108.162.242.33 1 1 949 20250129042540
+172.68.175.49 1 1 1786 20250125043517
+172.68.207.170 0 1 772695 
+162.158.154.199 0 1 77385 
+172.68.15.219 0 1 1340 
+172.71.164.166 0 1 188488 
+172.70.160.239 1 1 1786 20250131230855
+172.71.154.200 1 1 1786 20250105032856
+162.158.155.34 0 1 45519 
+172.71.210.28 1 1 1786 20250105104033
+162.158.91.25 1 1 994 20250125004328
+162.158.172.242 2 2 2735 20250112113143
+162.158.166.234 1 1 1786 20250106115844
+108.162.216.121 1 1 1786 20250104124304
+162.158.187.28 1 1 1786 20250106193922
+172.71.99.175 1 1 1786 20250111090525
+172.69.132.233 0 1 65636 
+172.71.95.92 1 1 1786 20250118003650
+172.70.127.161 1 1 1786 20250104124305
+162.158.154.29 1 1 1786 20250110193417
+162.158.126.165 2 2 3572 20250114162158
+172.71.123.166 1 1 1786 20250113180801
+172.68.23.108 0 1 1340 
+172.71.31.36 1 1 1786 20250124135059
+172.71.161.132 1 1 1786 20250102034338
+162.158.172.243 1 1 1786 20250121042513
+172.70.80.208 0 2 188488 
+162.158.90.132 1 1 1786 20250126045001
+172.71.134.153 1 1 1786 20250122184223
+172.71.147.113 0 1 188488 
+141.101.99.100 1 1 1786 20250124225628
+172.70.208.167 1 1 1786 20250124171839
+172.71.160.93 1 1 1786 20250129003703
+162.158.94.111 1 1 1786 20250112123411
+172.70.174.172 1 1 1786 20250128164037
+172.70.162.155 1 1 1786 20250103220657
+172.71.255.114 1 1 1786 20250125162428
+172.71.24.103 1 1 1786 20250119122803
+172.70.131.72 1 1 1786 20250113234720
+172.70.127.76 1 1 1786 20250108225306
+172.71.95.23 2 2 3572 20250131034740
+172.70.163.11 1 1 1786 20250129201124
+172.70.207.206 1 1 1786 20250118163612
+172.68.185.171 1 1 1786 20250105070421
+172.71.154.17 1 1 1786 20250111114218
+172.70.231.56 1 1 1786 20250103134955
+172.70.127.213 1 1 1786 20250123064022
+162.158.111.149 1 1 1786 20250114135652
+162.158.167.32 1 1 1786 20250120065026
+172.70.94.42 1 1 1786 20250120023540
+172.71.164.200 0 1 77385 
+172.69.135.47 2 2 3572 20250115192548
+172.71.215.203 0 1 188488 
+162.158.90.170 1 1 1786 20250123143727
+172.69.87.5 1 1 1786 20250131140423
+172.68.192.147 1 1 1786 20250122213138
+172.70.90.124 1 1 1786 20250124065719
+141.101.98.177 1 1 1786 20250104165338
+172.69.134.137 1 1 1786 20250122085810
+172.70.80.228 0 1 772695 
+172.68.18.171 0 1 45519 
+172.71.119.60 0 1 772695 
+162.158.159.228 1 1 1786 20250110002605
+172.69.43.228 2 2 2780 20250121010355
+172.70.162.181 1 1 1786 20250127120107
+172.70.174.231 2 2 3572 20250120212417
+172.71.146.47 1 1 1786 20250125081504
+172.71.202.40 1 1 1786 20250104144354
+172.69.22.79 2 2 3572 20250124085601
+172.70.255.29 1 1 1786 20250122012113
+141.101.98.13 1 1 1786 20250130183743
+172.71.98.175 2 2 3572 20250122222524
+172.70.175.106 1 1 1786 20250102224123
+108.162.226.91 1 1 1786 20250130155626
+172.69.194.230 1 1 1786 20250117132050
+172.69.134.163 1 1 949 20250123101227
+162.158.62.210 1 1 2479 20250101183308
+162.158.167.160 2 2 3572 20250114161846
+172.71.103.34 2 2 3572 20250115212754
+172.71.111.14 1 1 1786 20250117034529
+172.69.130.123 1 1 1786 20250115163902
+162.158.103.216 1 1 949 20250119071035
+172.69.22.154 1 1 1786 20250115184843
+172.71.98.248 1 1 949 20250120200726
+162.158.39.217 2 2 3572 20250128180143
+172.70.90.142 1 1 1786 20250125204643
+172.68.26.123 0 2 1545390 
+162.158.223.12 1 1 1786 20250127193629
+172.71.148.107 1 1 1053 20250117083258
+172.71.10.161 1 1 2312 20250105042529
+172.68.225.23 1 1 1786 20250129010342
+172.69.86.124 1 1 1786 20250119100101
+162.158.167.168 1 1 1786 20250106193539
+172.71.183.87 1 1 1786 20250122230159
+141.101.105.83 1 1 1786 20250120201808
+162.158.202.130 1 1 949 20250127235805
+172.70.82.140 0 1 1340 
+162.158.175.105 1 1 1786 20250118221248
+172.69.67.115 1 1 1786 20250119143003
+172.71.26.56 1 1 1786 20250127165128
+172.68.186.33 1 1 1786 20250122110713
+172.70.214.222 1 1 1786 20250126074401
+172.71.158.240 1 1 949 20250124135100
+162.158.19.192 1 1 949 20250112010821
+162.158.186.207 1 1 949 20250125004323
+162.158.18.172 1 1 1786 20250121180203
+172.71.154.106 1 1 1786 20250131090047
+172.69.132.238 0 1 45519 
+172.70.131.176 0 1 45519 
+162.158.154.163 2 2 3572 20250106001410
+172.71.170.12 0 2 2680 
+172.69.132.232 0 1 65636 
+172.68.175.35 2 2 3572 20250125043517
+172.71.164.102 1 1 1786 20250126102808
+162.158.87.117 1 1 1923 20250120043530
+172.70.91.28 2 2 3572 20250119121927
+172.71.222.63 1 1 1786 20250123090841
+172.69.151.122 1 1 1786 20250130024413
+162.158.223.11 1 1 1786 20250124125502
+162.158.193.85 0 1 962398 
+172.71.134.152 1 1 1 20250112222939
+172.71.155.16 1 1 1786 20250109080920
+172.70.246.50 1 1 1786 20250103203406
+141.101.105.21 1 1 1786 20250120201806
+172.69.135.147 1 1 1923 20250123102546
+172.70.160.157 1 1 1786 20250108232149
+172.69.195.209 2 2 3572 20250122024607
+172.70.134.90 1 1 1786 20250118202645
+172.69.23.72 1 1 1786 20250105040651
+172.71.144.124 1 1 1786 20250118175413
+162.158.187.15 1 1 2312 20250118163615
+172.70.130.217 1 1 1786 20250113053112
+172.70.90.125 1 1 1786 20250121105752
+172.68.19.174 0 1 188488 
+172.70.126.139 1 1 1786 20250105234434
+141.101.99.114 2 2 3709 20250119104857
+172.71.254.105 1 1 1786 20250113125536
+172.68.245.151 1 1 1786 20250106105455
+172.70.55.144 0 2 1545390 
+172.70.254.30 0 2 154770 
+172.71.182.254 1 1 1786 20250104020858
+172.68.186.104 1 1 1786 20250127133705
+172.70.214.221 2 2 2862 20250125004334
+172.70.100.97 1 1 1786 20250113163720
+172.69.166.116 1 1 1786 20250106032738
+172.69.135.173 1 1 1786 20250127074112
+172.70.134.209 1 1 949 20250121115816
+172.71.160.130 2 2 3572 20250120223512
+172.70.115.205 1 1 1786 20250101183254
+172.70.86.143 1 1 1786 20250114221724
+162.158.107.13 2 2 3572 20250126154258
+172.69.101.133 1 1 1786 20250113162852
+172.70.134.114 1 1 1786 20250102040336
+172.71.148.69 1 1 1786 20250103154638
+172.69.194.132 1 1 1786 20250108170327
+172.68.211.10 1 1 1786 20250126032332
+162.158.167.31 2 2 3572 20250123211211
+172.69.34.154 1 1 949 20250118163614
+172.71.103.35 1 1 1076 20250123043501
+172.69.134.40 1 1 1786 20250105200716
+198.41.227.105 2 2 3572 20250119004440
+141.101.98.56 1 1 1786 20250123095439
+141.101.104.104 2 2 3572 20250106213639
+141.101.98.144 1 1 1786 20250120055041
+162.158.183.186 1 1 1786 20250131014212
+162.158.186.66 1 1 2479 20250118163615
+172.71.111.57 1 1 2479 20250101215802
+172.70.162.171 1 1 1786 20250106204433
+172.70.214.120 0 1 77385 
+172.71.127.140 1 1 1786 20250115175638
+172.71.146.48 0 1 1340 
+172.71.124.97 0 1 65636 
+162.158.171.23 1 1 1786 20250127191533
+141.101.98.22 0 1 188488 
+162.158.222.103 1 1 1786 20250130220638
+172.71.158.250 1 1 1786 20250105193050
+172.70.211.213 1 1 994 20250118163615
+172.69.34.140 2 2 2839 20250118163615
+172.71.148.15 0 1 45519 
+172.71.214.52 1 1 1786 20250125232241
+162.158.166.233 1 1 1786 20250114083234
+172.70.230.144 1 1 1786 20250109211540
+172.68.22.34 2 2 3572 20250103015759
+172.70.127.111 1 1 1786 20250111062518
+172.70.86.78 1 1 1786 20250114140318
+172.71.154.50 1 1 1786 20250130001438
+172.69.134.22 1 1 1786 20250105112800
+172.71.98.12 2 2 3572 20250122201202
+172.71.154.75 1 1 1786 20250123031338
+172.68.186.89 1 1 1786 20250122060833
+172.70.207.83 1 1 1786 20250130204849
+172.70.46.54 1 1 1053 20250123043506
+172.71.131.134 1 1 1 20250119024116
+172.69.109.101 3 3 5358 20250120131713
+172.71.172.201 2 2 3388 20250123043510
+172.71.98.176 2 2 3572 20250131034741
+108.162.221.130 1 1 1786 20250101064543
+172.68.192.226 1 1 1786 20250122213137
+172.70.126.47 1 1 1786 20250101165817
+172.71.102.47 1 1 1786 20250123043500
+172.69.135.136 1 1 1786 20250109040957
+172.69.95.130 1 1 1786 20250120115447
+172.70.46.246 3 3 5358 20250127235804
+172.70.160.139 0 1 45519 
+172.70.127.118 1 1 1786 20250110130810
+108.162.221.168 1 1 1786 20250129041935
+172.69.195.249 2 2 3572 20250125070332
+172.70.179.155 0 1 1340 
+162.158.158.232 1 1 2312 20250101183312
+172.71.118.242 1 1 1 20250113070452
+172.71.144.7 1 1 1786 20250123180425
+172.69.222.231 1 1 949 20250117134739
+172.70.90.219 1 1 1786 20250117100844
+172.71.131.43 1 1 1 20250123041148
+172.70.100.72 1 1 1786 20250101163633
+172.71.195.56 2 2 3572 20250119093036
+172.69.132.136 0 1 188488 
+172.71.254.48 1 1 1786 20250112235448
+172.70.47.25 1 1 1786 20250124015128
+162.158.166.235 2 2 3572 20250121152624
+172.70.214.79 1 1 1786 20250120023903
+172.71.95.91 1 1 1786 20250130165406
+141.101.99.110 1 1 1786 20250111112920
+172.69.65.60 1 1 1786 20250118144813
+172.69.134.75 2 2 3572 20250121180908
+172.70.178.93 1 1 1786 20250119190928
+172.71.124.199 1 1 1786 20250129191039
+172.68.23.24 1 1 1786 20250127144334
+162.158.158.11 1 1 1786 20250113170411
+172.69.150.10 1 1 1786 20250114135615
+172.69.223.69 1 1 1786 20250116053025
+141.101.84.44 1 1 1786 20250123023528
+172.71.210.109 1 1 1786 20250114165415
+172.71.99.75 2 2 3572 20250103072423
+162.158.186.77 0 1 78596 
+172.70.210.219 1 1 1786 20250121084405
+172.70.130.173 1 1 1923 20250116142049
+172.70.47.74 1 1 1786 20250106041902
+172.70.127.146 1 1 1786 20250110215603
+172.71.159.40 1 1 1786 20250109113202
+172.71.246.135 1 1 1786 20250123231701
+141.101.98.135 1 1 1786 20250116002635
+172.69.22.189 1 1 1786 20250123102953
+172.71.184.68 1 1 949 20250103005035
+172.71.178.124 2 2 3572 20250129070928
+172.68.195.167 1 1 1786 20250104075924
+172.70.163.117 1 1 1786 20250125165430
+172.71.26.35 1 1 1786 20250128181239
+172.71.135.72 1 1 1786 20250104140447
+172.70.131.133 2 2 2839 20250120023605
+172.71.158.211 1 1 1786 20250131093620
+172.70.90.93 1 1 1786 20250125022829
+172.69.181.142 2 2 3572 20250125145445
+172.70.162.98 1 1 1786 20250120215853
+172.69.195.65 2 2 3572 20250131094633
+172.71.119.83 1 1 1786 20250114060205
+172.71.103.62 1 1 1786 20250116184053
+172.70.80.20 0 1 77385 
+172.71.144.131 1 1 1786 20250120052731
+172.69.178.167 1 1 1786 20250116135432
+162.158.62.109 1 1 1923 20250101183300
+172.70.208.123 1 1 1786 20250101145731
+162.158.166.218 2 2 3572 20250104052854
+141.101.98.17 2 2 3572 20250128230327
+172.69.22.138 1 1 1786 20250116031909
+162.158.78.44 1 1 949 20250121115425
+162.158.167.187 0 1 22624 
+172.71.155.15 1 1 1786 20250113044006
+162.158.167.216 1 1 1786 20250113121231
+172.71.146.57 1 1 1786 20250120164104
+162.158.62.140 2 2 3572 20250125015439
+172.71.154.143 1 1 1786 20250121063001
+162.158.102.208 2 2 3572 20250117191327
+172.71.241.62 2 2 3572 20250129022429
+172.68.242.64 1 1 1076 20250101205352
+162.158.222.176 1 1 1786 20250108100424
+172.71.144.67 1 1 1786 20250105041059
+172.69.134.74 2 2 3572 20250128072114
+172.68.175.36 3 3 5358 20250121010454
+172.70.85.81 1 1 1786 20250121154029
+172.71.158.200 1 1 1786 20250111203007
+172.71.164.60 0 1 65636 
+162.158.167.96 1 1 1786 20250108193758
+141.101.98.106 1 1 1786 20250123175504
+172.70.130.53 1 1 1786 20250125013133
+172.71.95.21 1 1 1786 20250124121915
+172.70.91.65 1 1 1786 20250117043308
+172.70.127.202 1 1 1786 20250103143012
+162.158.102.239 1 1 1786 20250127001443
+172.70.91.147 1 1 1786 20250119073025
+172.68.234.141 1 1 1786 20250107004119
+172.70.251.90 1 1 1786 20250103115118
+162.158.106.143 1 1 1786 20250111122436
+172.69.151.36 1 1 1786 20250108212551
+172.71.26.8 1 1 1786 20250131194642
+172.70.100.205 1 1 1786 20250111142329
+172.71.160.131 1 1 1786 20250129003708
+172.68.245.106 2 2 3572 20250120100253
+172.71.99.76 1 1 949 20250122074528
+108.162.245.239 0 1 22624 
+162.158.88.22 1 1 1786 20250123213340
+172.69.195.248 1 1 1786 20250121023806
+162.158.170.253 1 1 1786 20250117134738
+172.70.110.68 2 2 3572 20250102163849
+172.71.26.98 2 2 3572 20250118220530
+172.71.159.3 1 1 949 20250120231351
+162.158.222.112 2 2 3572 20250107073719
+172.71.126.234 1 1 1786 20250104031221
+172.71.183.2 2 2 1898 20250107070254
+162.158.102.44 3 3 4521 20250131230434
+172.69.194.77 1 1 1786 20250108090114
+172.69.109.104 2 2 3572 20250129171744
+172.70.126.63 1 1 1786 20250107063415
+172.71.127.127 1 1 1786 20250127111950
+172.70.43.193 1 1 1923 20250102040338
+198.41.227.85 0 1 188488 
+162.158.167.184 1 1 1786 20250113170413
+172.69.136.210 1 1 1786 20250108180151
+172.68.50.17 1 1 949 20250104030915
+172.70.91.179 1 1 1786 20250121060219
+172.69.23.93 1 1 1786 20250115012746
+172.70.162.226 2 2 3572 20250108035743
+162.158.222.113 1 1 1786 20250109060903
+172.71.158.251 3 3 5358 20250119044611
+172.69.23.71 2 2 3572 20250103043300
+172.70.80.100 1 1 1786 20250116001405
+172.71.184.139 1 1 949 20250119200545
+162.158.111.118 1 1 1786 20250129213334
+172.70.142.208 2 2 3572 20250110002719
+172.71.210.108 1 1 1786 20250125035527
+172.69.136.185 1 1 949 20250131144041
+172.68.245.55 1 1 1786 20250120193932
+198.41.227.42 2 2 3572 20250120023559
+172.70.90.82 1 1 1786 20250119010029
+172.71.194.228 1 1 1786 20250119203208
+172.71.99.103 1 1 1786 20250119185401
+172.69.130.229 1 1 2312 20250129042543
+162.158.154.138 1 1 994 20250101183312
+172.69.134.41 1 1 1786 20250111234041
+172.71.24.175 1 1 1786 20250101070957
+172.70.215.40 0 1 22624 
+172.71.210.218 0 1 65636 
+172.69.195.225 1 1 1786 20250101185145
+172.68.22.110 0 1 65636 
+172.69.195.252 1 1 1786 20250115094130
+172.71.178.53 1 1 1786 20250130070704
+172.71.124.191 0 1 772695 
+172.70.208.145 2 2 3572 20250127163614
+172.68.192.222 1 1 1786 20250119135710
+162.158.88.44 1 1 1786 20250129065146
+162.158.88.100 1 1 1786 20250123120344
+172.70.214.220 2 2 3572 20250112131526
+141.101.98.64 2 2 3572 20250130021722
+162.158.91.59 0 1 65636 
+162.158.111.110 1 1 1786 20250126105417
+172.68.245.150 1 1 1786 20250104114100
+172.70.90.22 1 1 1786 20250120105034
+172.71.154.148 1 1 1786 20250125125519
+172.69.194.231 1 1 1786 20250122155657
+172.71.155.67 1 1 1786 20250125024044
+162.158.203.37 1 1 1786 20250120231350
+172.69.109.106 1 1 1786 20250116150825
+172.71.154.27 2 2 3572 20250126211641
+172.71.124.145 0 1 45519 
+162.158.102.152 1 1 1786 20250117191326
+172.71.124.176 1 1 1786 20250121070510
+172.70.160.221 1 1 1786 20250123013916
+172.69.135.138 1 1 1786 20250110032832
+172.70.85.65 2 2 3572 20250125071753
+172.69.222.181 1 1 949 20250106213640
+162.158.186.116 1 1 1786 20250120024201
+172.71.134.150 1 1 1786 20250119023931
+172.71.99.176 2 2 2735 20250111075301
+172.70.39.58 0 1 772695 
+172.70.42.195 2 2 3572 20250107053734
+172.68.186.158 1 1 1786 20250129213537
+172.71.155.59 2 2 3572 20250110121443
+172.69.23.9 1 1 1786 20250120105402
+172.70.111.79 0 1 188488 
+162.158.158.126 2 2 3572 20250124000210
+172.70.111.188 2 2 3572 20250111013218
+172.71.158.8 1 1 1786 20250119205659
+172.69.43.218 2 2 3572 20250112075131
+162.158.103.107 1 1 1786 20250123233934
+172.69.23.83 1 1 1786 20250124073213
+198.41.227.84 0 1 188488 
+172.71.178.147 1 1 1786 20250129164415
+172.70.82.95 1 1 2312 20250107173011
+172.70.90.158 1 1 1786 20250122221910
+172.69.166.91 1 1 1786 20250104122414
+172.71.183.104 2 2 2735 20250118003650
+172.70.126.196 0 1 188488 
+172.71.154.235 1 1 1786 20250130080235
+172.69.134.206 1 1 1786 20250105120856
+108.162.226.131 1 1 1786 20250130155627
+172.71.158.241 2 2 3572 20250107204735
+162.158.158.42 1 1 1786 20250123203006
+172.71.123.89 0 1 65636 
+172.69.194.157 1 1 1786 20250116150412
+162.158.111.206 1 1 1786 20250130201645
+141.101.84.27 1 1 1786 20250108033544
+172.69.138.214 1 1 1786 20250126191101
+162.158.134.113 2 2 3572 20250120014943
+172.68.50.23 1 1 1786 20250129041936
+172.69.22.141 1 1 1786 20250121231903
+172.68.243.89 2 2 3572 20250119145229
+172.71.255.65 1 1 1786 20250124003948
+172.70.82.141 0 1 1340 
+172.69.150.84 1 1 1786 20250107164952
+172.68.207.173 0 1 188488 
+141.101.99.70 1 1 1786 20250102060906
+108.162.245.223 0 1 153767 
+172.70.206.30 1 1 1786 20250120023945
+172.70.91.202 1 1 1786 20250106154912
+162.158.203.63 1 1 949 20250127074937
+172.70.162.215 1 1 1786 20250123113735
+108.162.245.222 0 1 772695 
+141.101.98.65 1 1 1786 20250114091010
+172.71.26.136 2 2 3572 20250107083119
+172.71.154.203 1 1 1786 20250112204407
+172.70.163.34 1 1 1786 20250110211042
+172.71.102.31 1 1 1786 20250125085413
+172.70.90.28 1 1 1786 20250113195815
+172.71.182.123 2 2 3572 20250118203304
+162.158.167.200 1 1 1786 20250107113030
+172.71.154.16 1 1 1786 20250124065619
+162.158.170.13 1 1 1786 20250115092622
+172.70.115.101 1 1 2312 20250101183259
+172.69.134.121 1 1 1786 20250104042730
+172.71.170.24 1 1 1786 20250121013032
+172.71.167.160 0 1 65636 
+172.70.85.196 1 1 1786 20250121202804
+172.69.223.163 1 1 1786 20250103005034
+172.70.163.113 1 1 1786 20250114185226
+172.71.158.80 1 1 1786 20250130072330
+108.162.245.142 0 1 65636 
+172.71.146.18 1 1 1786 20250128215038
+172.70.247.163 1 1 1786 20250115212859
+172.71.241.163 2 2 3572 20250126022835
+162.158.167.174 2 2 3572 20250129072507
+172.70.126.146 1 1 1786 20250110101233
+141.101.69.82 1 1 1786 20250113070400
+162.158.223.4 1 1 1786 20250107010335
+172.70.110.18 1 1 1053 20250101183309
+172.70.160.251 1 1 1786 20250113213053
+162.158.154.211 1 1 1786 20250101183301
+172.71.182.126 1 1 949 20250124011244
+172.70.247.33 1 1 1786 20250117135134
+172.69.151.55 1 1 1053 20250120045933
+172.70.162.246 1 1 1786 20250103123810
+172.71.123.199 1 1 1786 20250123041057
+162.158.108.101 2 2 3572 20250115061834
+162.158.183.141 1 1 1786 20250131230433
+172.69.22.78 1 1 1786 20250131220558
+162.158.90.149 1 1 1786 20250120023841
+172.70.100.206 1 1 1786 20250121132834
+172.71.98.106 1 1 1786 20250119175735
+172.70.135.125 0 2 188488 
+172.69.23.18 1 1 1786 20250131225704
+172.71.155.54 2 2 3572 20250102200802
+172.70.179.112 1 1 1786 20250107151148
+172.71.158.230 1 1 1786 20250126000047
+172.70.163.71 1 1 1786 20250121003439
+198.41.227.100 0 1 77385 
+162.158.114.208 1 1 1786 20250127001528
+141.101.99.26 1 1 1786 20250113072830
+172.70.115.200 2 2 3572 20250112234606
+172.71.103.55 1 1 1786 20250127030119
+172.68.22.95 0 1 45519 
+172.69.23.154 1 1 1786 20250126000450
+172.68.225.236 0 1 65636 
+172.71.103.33 2 2 3572 20250130061436
+162.158.167.51 1 1 1786 20250125133030
+172.69.43.195 1 1 1786 20250117224729
+172.71.134.228 1 1 1786 20250115043820
+172.69.134.189 1 1 1786 20250110040958
+172.71.146.241 0 1 77385 
+172.70.47.184 2 2 3572 20250128075108
+172.69.135.91 1 1 949 20250117094204
+172.69.136.178 2 2 3572 20250131144040
+172.71.167.159 0 1 65636 
+162.158.120.218 1 1 1786 20250123151251
+172.71.146.70 0 1 65636 
+172.71.255.43 0 1 772695 
+162.158.203.148 2 2 2780 20250120054224
+172.70.47.73 1 1 1786 20250115202017
+172.71.82.148 1 1 1786 20250117042740
+162.158.170.27 1 1 1786 20250109115233
+172.70.86.99 1 1 1786 20250103045048
+108.162.216.52 1 1 1786 20250126003514
+172.71.135.71 1 1 1786 20250121025517
+162.158.63.128 1 1 1786 20250106054545
+172.69.59.165 1 1 1786 20250105205112
+172.69.194.203 1 1 1786 20250113164956
+172.71.95.25 1 1 1786 20250113205358
+172.71.254.112 1 1 1786 20250109155743
+172.71.222.249 2 2 3572 20250118144335
+162.158.203.38 1 1 1786 20250120073726
+141.101.95.83 1 1 1786 20250114165147
+172.70.242.88 1 1 949 20250120033108
+172.68.174.145 1 1 1786 20250111233728
+162.158.167.52 2 2 3572 20250107201826
+108.162.242.58 1 1 1923 20250129042544
+172.71.161.143 1 1 1786 20250103114759
+172.70.162.249 1 1 1786 20250118151655
+141.101.84.191 1 1 1786 20250103123321
+172.71.195.122 1 1 1786 20250120173142
+172.69.136.171 3 3 3684 20250118105007
+172.70.90.27 1 1 1786 20250112030417
+172.70.86.51 2 2 3572 20250116034348
+141.101.98.43 2 2 3572 20250116181152
+172.71.182.193 3 3 5358 20250126090423
+162.158.179.31 1 1 1786 20250111023650
+162.158.91.8 1 1 1786 20250126045001
+172.68.23.2 0 1 188488 
+172.70.35.174 1 1 994 20250102040337
+172.69.132.137 0 1 188488 
+141.101.98.139 1 1 1786 20250128035422
+162.158.167.159 2 2 3572 20250128192959
+172.68.19.36 0 2 131272 
+162.158.108.100 3 3 5358 20250124025459
+172.71.158.68 1 1 1786 20250114074412
+172.68.186.130 2 2 3572 20250118120636
+172.68.23.71 0 1 772695 
+172.70.86.175 1 1 1786 20250131131047
+172.71.254.159 1 1 1786 20250106215612
+172.70.230.35 2 2 3572 20250108213240
+172.70.39.57 0 1 0 
+172.69.43.194 1 1 1786 20250105105144
+162.158.14.202 1 1 949 20250121180204
+172.71.98.92 1 1 1786 20250120200725
+141.101.98.134 1 1 1786 20250110115126
+172.69.135.135 1 1 1786 20250107040524
+172.71.182.31 1 1 949 20250129213857
+172.71.102.44 2 2 3572 20250131040517
+172.71.254.29 1 1 1786 20250112153008
+172.71.172.179 1 1 1786 20250109134934
+172.69.43.220 1 1 1786 20250116132832
+172.71.241.109 1 1 1786 20250126085115
+172.69.195.59 1 1 1786 20250125182759
+172.69.179.94 1 1 1786 20250121003502
+172.70.218.248 1 1 1786 20250120020318
+172.70.86.144 3 3 5358 20250123095431
+162.158.186.76 0 1 78596 
+172.69.194.118 1 1 1786 20250110034556
+162.158.222.200 2 2 3572 20250128120631
+108.162.241.6 1 1 1786 20250128011835
+172.70.38.49 2 2 3572 20250118144335
+172.69.195.107 1 1 1786 20250109072059
+172.71.183.57 1 1 1786 20250107124933
+172.70.126.116 0 1 65636 
+172.71.144.8 1 1 1786 20250127225054
+172.71.124.177 1 1 1923 20250101211010
+172.69.166.99 1 1 1786 20250116035456
+108.162.245.182 0 1 188488 
+172.71.194.168 0 2 65636 
+172.69.109.107 2 2 3572 20250106153756
+172.71.123.198 1 1 1786 20250107125202
+172.69.214.110 1 1 1786 20250129042541
+172.70.85.51 1 1 1786 20250114011037
+172.68.244.154 2 2 2735 20250120024901
+172.71.26.117 1 1 1786 20250113151745
+172.69.58.165 1 1 1786 20250111221854
+172.70.115.109 0 1 65636 
+172.70.208.144 1 1 1786 20250115195027
+172.69.130.252 0 1 188488 
+162.158.79.53 1 1 1786 20250120053624
+162.158.155.3 1 1 1786 20250129175415
+162.158.190.115 1 1 1786 20250122093744
+172.70.85.107 1 1 1786 20250101055455
+141.101.99.14 2 2 3572 20250130134056
+172.71.158.223 1 1 1786 20250117124648
+162.158.172.180 1 1 1786 20250102023801
+172.68.159.125 2 2 2735 20250127074936
+172.68.186.85 0 1 65636 
+172.69.136.184 1 1 1786 20250130144754
+172.71.159.4 1 1 1786 20250130001432
+172.71.98.45 1 1 949 20250109130949
+172.70.163.37 1 1 1786 20250130220012
+172.69.194.156 2 2 3572 20250122011133
+141.101.98.26 3 3 5358 20250131043837
+172.69.130.91 1 1 1053 20250129042546
+172.68.207.159 0 1 65636 
+162.158.167.136 1 1 1786 20250112042758
+172.70.160.212 1 1 1786 20250119201306
+172.70.130.32 1 1 1786 20250109072943
+172.70.85.96 1 1 1786 20250106021902
+172.69.101.148 1 1 949 20250113162853
+172.71.182.122 2 2 2735 20250118220135
+172.69.109.105 2 2 3572 20250130151730
+172.70.46.226 1 1 1786 20250122074528
+172.71.126.235 1 1 1786 20250114173605
+172.69.194.44 1 1 1786 20250113011007
+162.158.111.218 1 1 1786 20250101212845
+108.162.216.153 1 1 1786 20250103230353
+172.70.211.63 0 2 188488 
+162.158.178.145 1 1 994 20250101204720
+162.158.163.57 1 1 1786 20250107121033
+172.69.22.81 0 1 153767 
+172.70.80.117 1 1 1786 20250131233529
+172.71.95.96 1 1 1786 20250104225047
+162.158.90.41 1 1 1923 20250118163614
+172.71.241.162 1 1 1786 20250124115413
+172.70.115.40 1 1 1786 20250102155619
+172.71.120.4 0 2 962398 
+108.162.216.166 1 1 1786 20250102013958
+162.158.62.190 1 1 994 20250101183257
+172.70.231.59 1 1 1786 20250101183250
+172.70.39.35 2 2 3572 20250117195047
+172.71.164.198 1 1 1786 20250101212846
+172.70.162.17 1 1 1786 20250107230356
+172.70.163.45 1 1 1786 20250124163605
+172.70.211.126 0 1 772695 
+172.71.124.37 0 1 188488 
+172.71.172.188 1 1 1786 20250101030548
+172.69.178.246 1 1 1786 20250123133223
+172.71.98.111 1 1 1786 20250111063539
+172.69.136.130 2 2 3572 20250112162206
+172.71.120.11 0 1 65636 
+172.69.95.13 2 2 3572 20250126191115
+172.69.194.37 3 3 5358 20250120170350
+162.158.91.83 0 1 1340 
+172.70.100.149 1 1 1786 20250113081646
+162.158.193.148 2 2 3572 20250131124619
+172.71.94.223 1 1 1786 20250124002851
+172.69.194.29 1 1 1786 20250120201911
+172.71.190.47 1 1 1786 20250120173147
+172.69.178.94 1 1 1786 20250119162633
+172.71.95.29 1 1 1786 20250103154206
+162.158.167.219 1 1 1786 20250127195425
+172.71.159.26 1 1 1786 20250120150730
+172.71.250.134 1 1 1786 20250113063912
+172.70.127.84 1 1 1786 20250121112648
+172.70.86.160 1 1 1786 20250103024002
+162.158.167.157 1 1 1786 20250103042732
+162.158.222.249 1 1 1786 20250103045412
+172.71.103.64 1 1 1786 20250117234301
+172.69.178.161 2 2 3572 20250109073227
+172.68.186.84 0 1 65636 
+162.158.158.113 1 1 949 20250126152804
+141.101.99.69 1 1 1786 20250115030824
+172.70.85.253 1 1 1786 20250125231215
+172.68.207.149 0 1 77385 
+172.71.99.106 1 1 1786 20250113091719
+162.158.108.167 2 2 3572 20250108102255
+172.70.80.140 0 1 772695 
+172.71.99.199 2 2 2735 20250129201124
+141.101.98.97 1 1 1786 20250130170302
+172.71.124.156 0 1 1340 
+162.158.155.219 2 2 3572 20250126010939
+172.70.162.91 2 2 3572 20250122124157
+108.162.226.9 1 1 1786 20250122182113
+172.70.143.139 1 1 1786 20250110194453
+172.71.191.105 0 2 45519 
+172.71.152.95 1 1 1786 20250102042803
+172.69.43.236 1 1 1786 20250131030447
+172.71.159.20 1 1 1786 20250115020450
+172.71.210.131 1 1 1786 20250129163537
+162.158.108.22 1 1 1786 20250117203048
+172.70.86.132 1 1 1786 20250111221503
+141.101.98.138 1 1 1786 20250123031416
+172.69.43.154 1 1 1786 20250107014732
+108.162.246.78 0 1 45519 
+172.71.182.192 2 2 3572 20250126152803
+172.70.162.225 2 2 3572 20250111125934
+172.71.123.34 1 1 1786 20250126205000
+172.70.246.97 1 1 1786 20250122184224
+162.158.222.201 1 1 1786 20250118040012
+172.71.102.32 1 1 949 20250104235002
+108.162.221.50 3 3 4521 20250107001203
+108.162.245.29 1 1 1786 20250127113520
+172.71.124.118 2 2 3572 20250103042114
+108.162.227.84 1 1 1786 20250108041313
+172.70.91.43 1 1 1786 20250116051910
+172.69.234.162 1 1 1786 20250123001525
+162.158.91.60 0 2 131272 
+172.70.242.166 1 1 1786 20250108212550
+162.158.167.220 1 1 1786 20250103035128
+172.70.100.104 1 1 1786 20250124080359
+172.68.23.238 0 1 77385 
+172.71.134.155 1 1 1786 20250114073217
+172.71.154.59 1 1 1053 20250122185335
+141.101.109.184 1 1 1786 20250107131754
+141.101.76.26 1 1 949 20250108083641
+172.70.90.32 1 1 1786 20250128070830
+172.69.23.43 2 2 3572 20250104034943
+172.68.245.128 1 1 1076 20250102040339
+172.68.186.131 1 1 1786 20250110021104
+172.70.134.186 1 1 1786 20250120185321
+162.158.202.106 1 1 949 20250128075109
+172.71.164.167 0 1 0 
+172.69.134.131 1 1 1786 20250125031654
+172.70.255.171 1 1 1786 20250104113305
+162.158.222.61 1 1 949 20250112154848
+172.71.148.161 0 1 1340 
+172.69.194.76 2 2 3572 20250128115339
+172.70.130.246 0 1 77385 
+172.70.134.179 1 1 1786 20250120024901
+172.70.214.213 0 1 45519 
+172.70.91.84 1 1 1786 20250126072235
+172.71.183.34 1 1 1786 20250130165407
+172.69.43.221 1 1 1786 20250126182322
+172.69.135.142 2 2 3572 20250127082203
+172.70.211.228 1 1 1786 20250120023902
+162.158.193.100 1 1 1786 20250115213204
+172.70.247.141 1 1 1786 20250113063919
+162.158.95.103 0 1 772695 
+162.158.166.226 1 1 1786 20250102192911
+172.71.164.136 1 1 1786 20250116182637
+172.71.26.99 1 1 1786 20250112202705
+172.70.163.169 1 1 1786 20250110162953
+172.70.39.101 3 3 5884 20250103175837
+172.70.50.20 1 1 2479 20250129042548
+172.71.103.28 2 2 3572 20250112082154
+172.70.83.102 1 1 1786 20250123135343
+172.68.10.43 1 1 949 20250120035216
+172.71.158.220 2 2 2735 20250128215038
+172.71.99.104 2 2 3572 20250114031235
+172.71.215.174 0 1 65636 
+172.70.242.137 1 1 1786 20250115212900
+172.70.85.50 1 1 1786 20250112013309
+172.71.146.113 1 1 1786 20250124115107
+162.158.193.108 0 1 188488 
+141.101.76.20 1 1 1786 20250112130856
+172.69.136.170 2 2 1898 20250108180152
+172.71.154.131 2 2 3572 20250129194722
+172.71.178.169 1 1 1786 20250128212847
+162.158.162.12 1 1 1786 20250120225155
+162.158.79.99 0 2 77385 
+198.41.227.101 0 1 77385 
+172.71.167.64 1 1 949 20250127001444
+172.71.124.242 1 1 1786 20250103094755
+162.158.167.175 1 1 1786 20250111041854
+141.101.98.79 2 2 3572 20250115143439
+162.158.170.218 1 1 949 20250119145231
+172.68.192.203 1 1 1786 20250109134858
+172.69.135.141 1 1 1786 20250113124949
+172.71.222.29 2 2 3572 20250116233424
+162.158.110.210 1 1 1786 20250113093022
+172.69.22.197 1 1 1053 20250101213626
+141.101.98.42 1 1 1786 20250110070405
+108.162.241.107 0 1 1340 
+172.70.250.10 1 1 949 20250105041100
+172.70.34.55 1 1 1786 20250124195039
+172.70.215.10 1 1 1786 20250126093023
+172.71.146.32 1 1 1786 20250125081501
+172.70.100.213 1 1 1786 20250122102031
+162.158.175.52 0 2 91038 
+172.70.46.224 1 1 1786 20250104235002
+172.71.194.125 2 2 3572 20250107230842
+172.69.138.155 0 1 77385 
+172.71.166.97 1 1 1786 20250108075918
+172.71.222.143 2 2 2839 20250103010620
+172.69.86.42 2 2 3572 20250112024545
+141.101.105.159 1 1 1786 20250128085019
+172.68.225.167 1 1 1786 20250129124937
+172.69.135.96 1 1 1786 20250103015725
+172.70.208.104 1 1 1786 20250123152848
+162.158.87.56 1 1 1786 20250129213335
+172.68.50.196 1 1 1786 20250128085020
+172.69.6.54 1 1 1786 20250107213509
+162.158.222.248 1 1 1786 20250111191002
+172.70.91.164 1 1 1786 20250117115848
+162.158.111.75 1 1 1786 20250124195151
+172.70.49.233 1 1 1786 20250128184839
+198.41.242.214 2 2 3572 20250129171909
+172.69.134.120 1 1 1786 20250109121209
+172.70.100.150 1 1 1786 20250110011121
+172.71.164.69 1 1 949 20250128173044
+172.68.164.149 1 1 1786 20250127055644
+172.70.39.73 1 1 1786 20250105214337
+172.70.163.166 1 1 1786 20250108214743
+172.70.160.250 1 1 1786 20250105192259
+172.71.155.60 1 1 1786 20250104002943
+172.71.154.20 1 1 1076 20250117123851
+172.68.164.118 2 2 3572 20250123221957
+172.71.98.15 1 1 949 20250113205359
+172.71.26.137 1 1 1786 20250105212104
+172.70.85.103 1 1 1786 20250109023251
+172.70.207.176 1 1 1786 20250120045223
+172.70.90.26 1 1 1786 20250124132356
+172.70.207.184 1 1 1786 20250124075955
+172.69.195.173 1 1 1786 20250117113623
+141.101.76.80 1 1 1786 20250123095457
+172.68.207.163 0 2 46859 
+162.158.167.68 3 3 5358 20250117070034
+172.71.119.85 1 1 1786 20250116170622
+172.71.95.97 1 1 949 20250123043502
+141.101.99.25 1 1 1786 20250104071843
+172.68.70.78 1 1 1786 20250126191100
+172.70.215.63 0 1 153767 
+172.71.103.56 2 2 2735 20250131014212
+108.162.246.5 0 1 1340 
+172.70.174.202 1 1 1786 20250113202101
+162.158.179.23 1 1 1786 20250125035528
+172.69.22.36 1 1 1786 20250103015723
+172.70.85.97 1 1 2312 20250117122645
+172.69.134.223 1 1 1076 20250123100940
+108.162.216.171 1 1 1786 20250124170107
+172.71.103.111 1 1 1786 20250120191759
+141.101.95.60 1 1 1786 20250112222823
+172.71.103.38 1 1 1786 20250129170823
+172.69.194.162 1 1 1786 20250129035046
+172.68.245.172 1 1 1786 20250113192733
+172.68.242.79 1 1 1786 20250116112936
+172.69.134.57 1 1 1786 20250104194829
+172.70.46.247 3 3 4566 20250127025703
+172.71.255.9 1 1 1786 20250114220305
+172.68.186.15 1 1 1786 20250128083850
+108.162.237.216 1 1 949 20250123233935
+172.68.245.129 2 2 3572 20250114103803
+162.158.166.252 2 2 4098 20250106004931
+172.71.102.46 1 1 1786 20250104202645
+172.69.22.192 1 1 1786 20250128064548
+162.158.118.199 1 1 1786 20250124234142
+162.158.14.242 1 1 1786 20250112010820
+172.69.136.131 2 2 2735 20250104161852
+172.70.242.246 1 1 2312 20250120045724
+172.69.234.163 1 1 1786 20250101130421
+172.70.211.107 1 1 1786 20250125004317
+172.71.222.28 1 1 1786 20250101213351
+172.69.234.150 1 1 1786 20250106091939
+172.71.183.42 1 1 1786 20250129201504
+172.70.86.214 1 1 1786 20250109212523
+172.69.23.145 1 1 1786 20250109201441
+172.71.99.172 2 2 3572 20250106194246
+172.70.147.121 2 2 3572 20250105184829
+172.69.214.82 0 1 45519 
+172.70.46.113 2 2 3572 20250123095446
+172.69.178.160 2 2 3572 20250119204116
+108.162.245.4 0 1 77385 
+172.71.182.68 2 2 3572 20250108083641
+172.69.23.174 2 2 3572 20250108201211
+162.158.178.134 1 1 1786 20250127175340
+141.101.76.180 1 1 949 20250119185402
+172.71.159.10 1 1 1786 20250124163859
+141.101.98.157 2 2 3572 20250121171614
+172.70.255.81 1 1 1786 20250111215051
+162.158.154.166 1 1 1076 20250101183255
+172.70.127.14 1 1 1786 20250103211619
+172.70.46.150 2 2 3572 20250128173043
+172.71.246.34 1 1 1786 20250102232508
+172.70.86.176 1 1 1786 20250111015449
+162.158.222.175 1 1 1786 20250114111959
+172.71.154.167 2 2 3572 20250123100005
+172.69.222.135 1 1 949 20250116053026
+162.158.154.232 1 1 1923 20250101183306
+172.69.214.210 1 1 949 20250117175101
+172.71.146.100 0 1 772695 
+162.158.193.176 1 1 1786 20250123112704
+172.71.95.52 1 1 1786 20250115130554
+172.71.250.129 1 1 1786 20250119135710
+141.101.98.189 1 1 1786 20250125214141
+172.71.103.37 1 1 949 20250117200335
+172.71.127.36 1 1 1 20250114084755
+172.70.92.157 1 1 1786 20250103114900
+141.101.98.16 1 1 1786 20250107181145
+172.71.99.56 1 1 1786 20250124214248
+172.71.146.75 0 1 45519 
+162.158.167.158 1 1 1786 20250110113332
+172.71.95.94 1 1 1786 20250115063018
+162.158.222.50 1 1 1786 20250120172730
+172.69.195.117 0 2 1545390 
+172.68.186.14 3 3 5358 20250127070823
+172.70.34.142 1 1 949 20250102040335
+172.70.218.45 1 1 1786 20250123034839
+172.70.131.175 1 1 1786 20250106131230
+141.101.98.145 2 2 3572 20250123162540
+172.70.46.96 2 2 3572 20250113193743
+172.69.150.54 1 1 1786 20250119135710
+141.101.98.176 1 1 1786 20250123210946
+172.71.144.125 1 1 1786 20250106210036
+172.68.164.119 1 1 1786 20250116203031
+172.71.124.243 1 1 1786 20250101201152
+172.70.86.117 2 2 3572 20250130120505
+172.71.154.165 1 1 1786 20250120061439
+172.69.23.96 1 1 1786 20250112115216
+172.71.219.27 0 1 22624 
+172.71.154.58 2 2 3572 20250103042732
+141.101.68.254 1 1 1786 20250116053110
+172.71.124.246 2 2 3572 20250126095341
+172.68.186.105 1 1 1786 20250126040209
+172.70.160.177 1 1 1786 20250105035408
+172.71.155.38 1 1 1786 20250102112753
+172.70.214.168 1 1 1786 20250120024158
+172.68.22.112 2 2 2839 20250108235200
+162.158.167.9 1 1 1786 20250119035713
+172.70.246.10 1 1 1786 20250104234237
+172.71.148.2 1 1 1786 20250120004518
+108.162.216.170 1 1 1786 20250125160908
+172.68.159.61 1 1 1786 20250104030914
+172.70.114.120 1 1 1786 20250102002936
+172.70.47.83 1 1 949 20250127030120
+172.71.255.10 1 1 1786 20250120120802
+172.70.210.77 1 1 1786 20250117084541
+172.71.8.9 1 1 1786 20250122031147
+172.70.147.47 1 1 1786 20250123143902
+141.101.76.69 1 1 1786 20250102231108
+172.70.143.117 1 1 1786 20250120193543
+172.71.123.190 1 1 1786 20250122140627
+172.70.86.170 1 1 1786 20250122204355
+172.70.86.206 1 1 1786 20250108072518
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250101 45 45 77335 45
+20250102 33 33 54018 32
+20250103 53 59 1243210 42
+20250104 33 39 1206653 30
+20250105 26 26 44451 25
+20250106 35 35 60836 31
+20250107 44 44 78273 39
+20250108 34 46 2360443 31
+20250109 30 30 51906 28
+20250110 24 24 42864 23
+20250111 30 34 428934 29
+20250112 36 36 59163 32
+20250113 37 41 1134961 37
+20250114 31 31 53581 30
+20250115 35 41 1212736 33
+20250116 34 34 58395 32
+20250117 42 42 69255 38
+20250118 38 44 1214704 33
+20250119 44 52 3089487 40
+20250120 75 98 4286491 69
+20250121 34 34 58213 31
+20250122 40 54 2546492 34
+20250123 53 63 1670321 51
+20250124 36 53 2176260 32
+20250125 37 43 1214679 35
+20250126 35 35 61673 32
+20250127 32 36 1159219 30
+20250128 52 56 304734 26
+20250129 46 52 1230666 42
+20250130 25 25 44650 25
+20250131 24 24 40353 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 1057
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 994 1775284 916 907
+/contact.php 77 71177 70 74
+/reshist.php 17 34682 13 13
+/publications.php 16 13918 11 12
+/personal.php 14 12638 9 10
+/teaching.php 14 23078 11 11
+/default.php 14 21434 9 11
+/ResumeCV.php 12 10762 9 9
+/sigsys.php 6 12396 4 5
+/test 5 5 5 5
+/contact.php/ 2 1898 2 2
+/home.html 2 3572 2 2
+END_SIDER

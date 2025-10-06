@@ -1,0 +1,855 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2685                
+POS_VISITOR 18231               
+POS_DAY 26667               
+POS_DOMAIN 3473                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4463                
+POS_EMAILSENDER 4594                
+POS_EMAILRECEIVER 4737                
+POS_SESSION 27412               
+POS_SIDER 27582               
+POS_FILETYPES 4872                
+POS_DOWNLOADS 5031                
+POS_OS 5079                
+POS_BROWSER 5398                
+POS_SCREENSIZE 6763                
+POS_UNKNOWNREFERER 6837                
+POS_UNKNOWNREFERERBROWSER 7533                
+POS_ORIGIN 7687                
+POS_SEREFERRALS 7828                
+POS_PAGEREFS 8025                
+POS_SEARCHWORDS 8371                
+POS_KEYWORDS 8554                
+POS_MISC 2349                
+POS_ERRORS 8646                
+POS_CLUSTER 3574                
+POS_SIDER_404 8732                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001000416 23 4718 10319380686278
+FirstTime 0
+LastTime 20190930113358
+LastUpdate 20191001052532 23 0 22 0 0
+TotalVisits 248                 
+TotalUnique 168                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 242                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 24 1180185 40 65 426006
+1 7 14 1020637 13 29 1141675
+2 15 21 1110579 28 49 270481
+3 11 35 3473657 20 47 357950
+4 13 20 1173342 20 34 58136
+5 26 27 45141 53 63 7144
+6 18 26 1355574 34 48 282632
+7 16 26 1357154 8 19 56623
+8 3 9 1156462 22 40 165642
+9 13 13 22704 124 141 84832
+10 3 3 5358 20 26 261254
+11 9 16 1214600 43 53 4751
+12 12 18 1170742 29 44 853723
+13 8 9 15669 31 43 388084
+14 48 81 5383229 28 45 968442
+15 14 27 2424505 42 57 86315
+16 13 19 795235 32 49 281542
+17 19 20 32954 37 44 7941
+18 16 38 3832358 19 41 1350347
+19 2 2 3572 16 24 87112
+20 19 19 32255 13 28 311024
+21 5 5 8930 48 59 781625
+22 3 3 5358 9 23 78230
+23 10 11 19241 43 60 144805
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 314 478 26055938
+eu 6 8 783503
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 94 172211 20190930164655 0
+bot[\s_+:,\.\;\/\\-] 73 5751048 20190930023434 0
+(firefox/)([0-9]\.|[0-1][0]\.) 24 1346625 20190929122222 0
+Sogou[\x20]web[\x20]spider/ 23 41078 20190929052749 0
+AhrefsBot/ 13 21052 20190929162601 0
+bingpreview 10 1091397 20190922230800 0
+bingbot/ 9 13074 20190923184636 0
+DotBot/ 6 9157 20190927232753 0
+MJ12bot/ 4 5316 20190928104702 0
+DomainSONOCrawler/ 2 3572 20190926061421 0
+no_user_agent 1 1786 20190923190537 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 193 338792 0 0
+png 64 22356569 0 0
+jpg 70 3907357 0 0
+php 127 192531 0 0
+css 32 44192 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx6 1 0
+macosx8 6 3
+macosx12 5 5
+macosx10 5 5
+macosx9 3 3
+win7 71 33
+winnt 1 1
+win10 99 52
+linuxandroid 1 1
+linux 30 20
+macosx11 4 4
+ios_ipad 3 3
+winxp 21 13
+Unknown 118 79
+winlong 9 8
+macosx 44 29
+win2003 27 24
+win8.1 4 3
+win8 32 32
+ios_iphone 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 68
+opera36.0.2130.32 1 1
+chrome72.0.3626.109 2 2
+firefox25.0 2 2
+mozilla 24 17
+msie7.0 27 24
+chrome74.0.3729.131 4 4
+firefox42.0 1 1
+opera62.0.3331.99 4 4
+firefox24.0 1 0
+safari6.0.5 1 0
+chrome76.0.3809.87 1 1
+firefox59.0 1 1
+edge18 7 1
+chrome31.0.1650.63 5 1
+chrome5.0.375.99 2 2
+safari11.1.2 13 7
+chrome71.0.3578.80 5 5
+safari7.0 1 1
+chrome46.0.2490.80 1 1
+chrome22.0.1207.1 1 1
+chrome67.0.3396.87 2 2
+firefox63.0 2 2
+chrome34.0.1847.116 8 8
+chrome35.0.1916.47 2 2
+chrome69.0.3497.100 2 2
+firefox62.0 3 3
+chrome74.0.3694.0 1 1
+chrome63.0.3239.132 1 1
+firefox29.0 1 1
+chrome73.0.3683.86 2 1
+firefox52.0 13 5
+firefox65.0 2 2
+chrome76.0.3809.100 9 3
+firefox68.0 2 2
+msie8.0 4 3
+cloudflare 68 36
+chrome69.0.3494.0 4 2
+chrome76.0.3809.132 41 14
+chrome66.0.3359.181 10 10
+firefox64.0 1 1
+safari12.1.1 8 8
+chrome39.0.2171.95 2 2
+chrome26.0.1410.65 3 3
+chrome74.0.3729.169 50 14
+safari12.1.2 1 1
+chrome49.0.2623.75 1 1
+chrome58.0.3029.110 5 5
+chrome77.0.3865.90 10 3
+firefox27.0 1 1
+safari11.0 4 4
+firefox60.0 5 5
+firefox61.0 3 3
+firefox47.0 4 4
+chrome74.0.3729.157 8 2
+chrome40.0.2214.115 2 2
+chrome45.0.2454.94 1 1
+safari13.0 17 9
+firefox26.0 3 3
+chrome75.0.3770.142 5 4
+safari13.0.1 1 0
+chrome67.0.3396.99 1 1
+opera12.18 11 11
+msie11.0 1 1
+firefox33.0 1 1
+msie10.0 24 24
+chrome31.0.1650.57 1 0
+msie9.0 4 3
+Unknown 27 27
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190925165821
+Go-http-client/1.1 20190930012303
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190914083834
+Mozilla/6.0_(compatible) 20190907071317
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20190927144227
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20190927144232
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190906112850
+python-requests/2.22.0 20190907141208
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20190930012303
+python-requests/2.22.0 20190907141208
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 222 245
+From1 3 3
+From2 15 17
+From3 16 16
+From4 64 205
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com 3 3
+bing 2 4
+sogou 6 6
+google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://idr-stat.com 6 6
+http://datadepths.com/profile.php 2 2
+http://idr-stat.com// 2 2
+https://www.facebook.com 2 2
+https://brandnewblogs.com 2 2
+http://www.idr-stat.com 1 1
+https://sucuri.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+site+www.idr-stat.com 6
+bing 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+site 6
+www.idr-stat.com 6
+bing 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 824 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 221
+/mmoou.php 1 http://immanuelmanohar.com/mmoou.php
+/sirlg.php 1 http://immanuelmanohar.com/sirlg.php
+/RRcRZ/WRWYZ/ZjOhZ/OfifZ/publications.php 1 -
+/vb/ 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+/cms/wp-login.php 1 -
+/backup/wp-login.php 1 -
+/e/DoInfo/ecms.php 13 http://www.immanuelmanohar.com/e/DoInfo/ecms.php
+/www 1 -
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/test/ 2 -
+/cmigt.php 1 http://www.immanuelmanohar.com/cmigt.php
+/ersae.php 1 http://immanuelmanohar.com/ersae.php
+/wp-admin 1 -
+/xmlrpc.php 8 -
+/joomla/robots.txt 2 -
+/blog/ 8 -
+/portal/ 3 -
+/ayxqq.php 1 http://immanuelmanohar.com/ayxqq.php
+/tmp/ 2 -
+/imdex.php 2 http://immanuelmanohar.com/imdex.php
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/blog/wp-includes/wlwmanifest.xml 6 -
+/2017/wp-includes/wlwmanifest.xml 4 -
+/SmlSf/personal.php 1 -
+/administrator/index.php 3 -
+/ysyqq.php 12 http://www.immanuelmanohar.com/ysyqq.php
+/test/wp-includes/wlwmanifest.xml 5 -
+/KhdeZ/YdRUZ/VSZRZ/LgLMZ/publications.php 1 -
+/blog/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/LaLKZ/XpadZ/ZkenZ/LgLMZ/publications.php 1 -
+/qgywy.php 1 http://immanuelmanohar.com/qgywy.php
+/fyxzh.php 1 http://www.immanuelmanohar.com/fyxzh.php
+/user/register/ 1 -
+/vbulletin/ 2 -
+/sitemap.xml 1 -
+/wp-login.php 23 -
+/test/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/demo/wp-login.php 1 -
+/glpka.php 1 http://immanuelmanohar.com/glpka.php
+/kirdo.php 1 http://immanuelmanohar.com/kirdo.php
+/immanuelmanohar.sql 1 -
+/photo.zip 2 http://idr-stat.com/photo.zip
+/wp-json/wp/v2/users 1 -
+/wp/wp-admin/ 2 -
+/wordpress/wp-login.php 4 -
+/user/wp-login.php 1 -
+/lbeux.php 1 http://immanuelmanohar.com/lbeux.php
+/wp1/wp-login.php 2 -
+/news 1 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/press 1 -
+/SnOZZ/ZigSZ/LedlZ/OfifZ/publications.php 1 -
+/NgdUZ/ZYkkZ/LedlZ/OfifZ/publications.php 1 -
+/PZpNZ/TaZdZ/ZkenZ/LgLMZ/publications.php 1 -
+/demo/ 2 -
+/lib/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/XlkjZ/VSZRZ/LgLMZ/publications.php 1 -
+/YaLMZ/WRWYZ/ZjOhZ/OfifZ/publications.php 1 -
+/wp3/wp-login.php 1 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 2 -
+/old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/LedlZ/OfifZ/publications.php 1 -
+/nobody.php 2 http://immanuelmanohar.com/nobody.php
+/ZigSZ/LedlZ/OfifZ/publications.php 1 -
+/phpunit/Util/PHP/eval-stdin.php 2 -
+/wp 1 -
+/VSZRZ/LgLMZ/publications.php 1 -
+/ThaVZ/ZigSZ/LedlZ/OfifZ/publications.php 1 -
+/forums/ 2 -
+/OepdZ/XlkjZ/VSZRZ/LgLMZ/publications.php 1 -
+/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/dev/ 2 -
+/swent.php 1 http://www.immanuelmanohar.com/swent.php
+/site 1 -
+/PVPLX/publications.php 1 -
+/forum/ 2 -
+/js/ajax.js 1 immanuelmanohar.com
+/home/ 3 -
+/jegjl.php 1 http://immanuelmanohar.com/jegjl.php
+/vb/js/ajax.js 1 immanuelmanohar.com
+/blog/wp-login.php 3 -
+/ZYkkZ/LedlZ/OfifZ/publications.php 1 -
+/main/ 3 -
+/new 1 -
+/cms/ 3 -
+/2019/wp-login.php 2 -
+/YOTVZ/YdRUZ/VSZRZ/LgLMZ/publications.php 1 -
+/test/wp-login.php 2 -
+/QTNUL/default.php 1 -
+/vbulletin5/ 2 -
+/rwekw.php 1 http://immanuelmanohar.com/rwekw.php
+/backup/ 3 -
+/test/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/images/signals.jpg 6 http://immanuelmanohar.com/teaching.php
+/wypla.php 1 http://immanuelmanohar.com/wypla.php
+/plus/moon.php 12 http://www.immanuelmanohar.com/plus/moon.php
+/wp/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/temp/ 3 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+//wp-login.php 1 -
+/ 12 -
+//wso.php 1 -
+/index2.php 2 http://immanuelmanohar.com/index2.php
+/wordpress/ 7 -
+// 1 -
+/wp/wp-includes/wlwmanifest.xml 6 -
+/user.php 24 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/plgqg.php 1 http://www.immanuelmanohar.com/plgqg.php
+/en 1 -
+/blog 1 -
+/wordpress 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 2 -
+/forum/js/ajax.js 1 immanuelmanohar.com
+/shop/wp-login.php 1 -
+/website 1 -
+/joomla/administrator/index.php 2 -
+/lib/phpunit/Util/PHP/eval-stdin.php 2 -
+/ZkenZ/LgLMZ/publications.php 1 -
+/test 1 -
+/wp-login.php/wp-login.php 2 -
+/wp/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/index.php/api/Uploadify/preview 12 http://www.immanuelmanohar.com/index.php/api/Uploadify/preview
+/YdRUZ/VSZRZ/LgLMZ/publications.php 1 -
+/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/vb5/ 2 -
+/old/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ads.txt 1 -
+/wordpress/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/plus/mytag_js.php 12 http://www.immanuelmanohar.com/plus/mytag_js.php
+/vbforum/js/ajax.js 1 immanuelmanohar.com
+/fdgq.php 12 http://www.immanuelmanohar.com/fdgq.php
+/wp/wp-login.php 4 -
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/fopPP/publications.php 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/.zip 1 -
+/news/wp-login.php 1 -
+/bitrix/admin/ 1 -
+/test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/test/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cbhag.php 1 http://www.immanuelmanohar.com/cbhag.php
+/vendor/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/website/wp-login.php 1 -
+/plus/download.php 12 http://www.immanuelmanohar.com/plus/download.php
+/admin/ 1 -
+/idr-stat.sql 1 http://idr-stat.com/idr-stat.sql
+/old/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cqjvs.php 1 http://immanuelmanohar.com/cqjvs.php
+/MaWZZ/ZjOhZ/OfifZ/publications.php 1 -
+/cms 1 -
+/new/ 2 -
+/errors.php 1 idr-stat.com
+/components/com_b2jcontact/b2jcontact.php 1 -
+/biTYT/reshist.php 1 -
+/forums/js/ajax.js 1 immanuelmanohar.com
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/utility/convert/data/config.inc.php 12 http://www.immanuelmanohar.com/utility/convert/data/config.inc.php
+/license.php 2 -
+/site/wp-login.php 1 -
+/2015/wp-includes/wlwmanifest.xml 4 -
+/WRWYZ/ZjOhZ/OfifZ/publications.php 1 -
+/TaZdZ/ZkenZ/LgLMZ/publications.php 1 -
+/sypgm.php 1 http://www.immanuelmanohar.com/sypgm.php
+/OTTLZ/XpadZ/ZkenZ/LgLMZ/publications.php 1 -
+/blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/LgLMZ/publications.php 1 -
+/blog/administrator/index.php 2 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wordpress/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/OfifZ/publications.php 1 -
+/components/com_foxcontact/foxcontact.php 1 -
+/wp/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/uwuwf.php 1 http://immanuelmanohar.com/uwuwf.php
+/demo 1 -
+/KLmgZ/ZYkkZ/LedlZ/OfifZ/publications.php 1 -
+/wordpress/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp2/wp-login.php 1 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 12 http://www.immanuelmanohar.com/FCKeditor/editor/filemanager/connectors/asp/connector.asp
+/ekeob.php 1 http://www.immanuelmanohar.com/ekeob.php
+/KcTLZ/XlkjZ/VSZRZ/LgLMZ/publications.php 1 -
+//up.php 1 -
+/yuylf.php 1 http://immanuelmanohar.com/yuylf.php
+/index.php 16 -
+/qafwi.php 1 http://immanuelmanohar.com/qafwi.php
+/wordpress/wp-includes/wlwmanifest.xml 5 -
+/pqpqk.php 1 http://immanuelmanohar.com/pqpqk.php
+/site/ 2 -
+/no.php 2 http://immanuelmanohar.com/no.php
+/vBulletin/js/ajax.js 1 immanuelmanohar.com
+/wp/ 8 -
+/utility/convert/index.php 12 http://www.immanuelmanohar.com/utility/convert/index.php
+/immanuelmanohar.com.sql 1 -
+/web/ 2 -
+/404testpage4525d2fdc 1 https://sucuri.net
+/shop/wp-includes/wlwmanifest.xml 5 -
+/main 1 -
+/404javascript.js 2 https://www.google.com/url/
+/KYiPZ/MaWZZ/ZjOhZ/OfifZ/publications.php 1 -
+/old/ 3 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/uploads/dede/sys_verifies.php 24 http://www.immanuelmanohar.com/uploads/dede/sys_verifies.php
+/home 1 -
+/idr-stat.com.sql 1 http://idr-stat.com/idr-stat.com.sql
+/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/XpadZ/ZkenZ/LgLMZ/publications.php 1 -
+/zylvr.php 1 http://www.immanuelmanohar.com/zylvr.php
+/robots.txt 222 -
+/cms/wp-includes/wlwmanifest.xml 6 -
+/ZjOhZ/OfifZ/publications.php 1 -
+/blog/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/blog/robots.txt 3 -
+/plus/90sec.php 12 http://www.immanuelmanohar.com/plus/90sec.php
+/ZZZdZ/XpadZ/ZkenZ/LgLMZ/publications.php 1 -
+/admin_aspcms/_system/AspCms_SiteSetting.asp 24 http://www.immanuelmanohar.com/admin_aspcms/_system/AspCms_SiteSetting.asp
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/QkjiZ/WRWYZ/ZjOhZ/OfifZ/publications.php 1 -
+/components/com_jdownloads/jdownloads.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 242
+172.69.22.122 9 9 14395 20190916130245
+172.69.68.207 9 9 13369 20190924065338
+172.68.182.34 8 8 12629 20190916201923
+162.158.79.29 8 8 12609 20190913004614
+172.68.65.156 8 8 12609 20190913170208
+172.68.58.23 6 6 8922 20190901121608
+108.162.245.172 5 5 8067 20190926081940
+162.158.79.221 5 5 9957 20190927144206
+108.162.245.64 5 5 8930 20190918202511
+108.162.246.35 5 6 86315 20190930072108
+172.68.141.10 5 5 8930 20190925123602
+108.162.245.136 4 4 7144 20190919015333
+172.69.130.34 4 4 6510 20190907071308
+162.158.107.97 4 4 7144 20190921202507
+172.68.182.64 4 4 6021 20190916201916
+172.68.182.88 4 4 7259 20190913163555
+162.158.166.103 4 4 6874 20190915184638
+172.69.63.31 4 4 6038 20190927144230
+172.69.62.250 4 4 6113 20190907155408
+172.69.63.95 4 4 4752 20190927144229
+172.68.142.137 3 3 3572 20190916142118
+172.69.130.94 3 3 5602 20190907071309
+172.68.142.125 3 3 5358 20190930033401
+162.158.93.207 3 3 5358 20190925165821
+172.69.62.142 3 3 4144 20190927144232
+172.68.65.132 0 3 196908 
+172.68.189.175 1 1 1786 20190916094349
+172.68.206.88 0 1 188488 
+172.68.10.4 1 1 1786 20190928015719
+172.68.150.58 1 1 1786 20190908090839
+162.158.59.82 1 1 1786 20190904215922
+162.158.123.97 1 1 1104 20190928173638
+162.158.155.176 1 1 1247 20190909052918
+162.158.78.10 0 6 529173 
+108.162.216.232 0 2 2762 
+162.158.111.67 2 2 3572 20190924053118
+162.158.92.8 1 1 1786 20190901134943
+172.69.130.82 0 2 68143 
+172.68.206.4 0 2 2762 
+172.69.63.37 2 2 2358 20190927144207
+108.162.246.17 1 1 1786 20190906202148
+108.162.210.236 1 1 1786 20190912071803
+162.158.106.66 0 1 45519 
+172.68.51.130 1 1 1786 20190918093505
+172.68.132.35 1 1 1786 20190914045748
+172.68.174.94 2 2 3572 20190927151700
+172.69.22.194 1 1 1786 20190916054257
+172.69.135.88 0 1 65636 
+172.68.143.48 0 1 1381 
+172.69.55.4 1 1 1786 20190921154209
+172.69.130.88 0 2 189869 
+108.162.241.250 1 1 1786 20190926053820
+162.158.158.189 1 1 1772 20190909052915
+141.101.69.57 0 1 772695 
+172.69.68.215 1 1 1786 20190928013533
+108.162.216.172 1 1 1786 20190927141328
+172.69.63.89 1 1 1786 20190906074139
+172.68.245.121 1 1 1786 20190922173527
+172.69.62.46 1 1 1786 20190917231955
+172.68.65.84 0 5 3863475 
+172.68.182.28 1 1 1666 20190916201920
+162.158.79.107 2 2 2494 20190927144204
+172.69.63.141 0 3 565464 
+162.158.166.35 2 2 3572 20190919120223
+141.101.69.33 1 1 1786 20190914083834
+162.158.187.19 1 1 1272 20190918092106
+172.68.144.37 2 2 3572 20190915184446
+172.69.10.94 1 1 1786 20190901100356
+108.162.246.47 1 1 1786 20190907030914
+162.158.142.58 1 1 1786 20190919141022
+162.158.118.30 1 1 1786 20190927143413
+172.69.68.171 0 2 2762 
+162.158.122.198 1 1 1786 20190928173637
+172.68.244.114 1 1 1786 20190926235549
+108.162.245.16 1 1 1786 20190921214448
+172.68.74.112 0 1 188488 
+172.69.63.109 2 2 2544 20190927144230
+162.158.166.139 0 1 77385 
+162.158.19.23 2 2 3572 20190911171722
+172.69.62.214 1 1 1772 20190913050500
+172.68.65.168 0 3 136557 
+162.158.142.112 1 1 1786 20190919214132
+162.158.106.174 1 1 1786 20190925005909
+172.68.141.70 1 1 1786 20190902201417
+172.68.141.244 0 6 386925 
+172.68.226.64 1 1 1786 20190916035331
+172.69.63.105 2 2 3332 20190927144206
+162.158.75.76 2 2 2890 20190922152417
+172.68.144.19 0 1 772695 
+172.69.70.41 1 1 1786 20190912011005
+172.69.70.101 0 2 188488 
+172.69.63.33 1 1 1786 20190913050507
+172.68.182.94 2 2 2358 20190913163558
+108.162.250.35 1 1 1786 20190918180105
+172.68.74.94 0 1 77385 
+172.68.244.228 1 1 1786 20190924152304
+162.158.255.28 0 6 942440 
+162.158.106.156 1 1 1786 20190909162923
+108.162.246.53 2 2 1786 20190928195236
+172.69.69.196 0 1 153767 
+162.158.103.23 1 1 1786 20190901100355
+162.158.79.59 2 2 3572 20190927144228
+162.158.78.16 1 1 2583 20190913050503
+172.69.63.143 1 1 1786 20190914232028
+172.68.132.203 2 2 3572 20190918033745
+172.68.206.28 0 1 77385 
+172.68.245.199 1 1 1786 20190922173528
+172.69.62.94 1 4 462573 20190913050501
+172.68.211.94 1 1 1786 20190927092624
+172.69.62.118 1 1 1786 20190913050454
+172.69.63.111 1 1 1786 20190927060931
+108.162.246.251 0 1 772695 
+162.158.106.228 0 1 1381 
+162.158.178.21 0 1 45519 
+173.245.52.157 1 1 1786 20190924041708
+172.69.62.246 0 3 2318085 
+162.158.183.109 2 2 2519 20190912163220
+172.68.51.124 2 2 3572 20190918213420
+162.158.79.191 1 1 1247 20190913050504
+172.69.130.22 0 1 772695 
+172.69.69.112 1 1 1786 20190930054846
+172.68.132.101 3 3 5358 20190927152446
+172.69.135.52 0 1 45519 
+108.162.246.65 0 1 188488 
+172.68.59.96 1 1 1786 20190907141208
+172.69.63.97 0 5 196908 
+172.68.206.58 0 1 772695 
+108.162.229.210 0 1 1381 
+162.158.91.251 2 2 3572 20190903190936
+162.158.107.55 2 2 3452 20190926105534
+172.68.10.202 1 1 1786 20190916035318
+108.162.229.194 0 1 65636 
+172.68.50.28 2 2 3572 20190918160923
+172.68.74.10 0 1 45519 
+172.68.254.253 2 2 2890 20190929061253
+162.158.78.118 3 3 5118 20190927144230
+172.69.130.58 0 1 153767 
+108.162.241.22 0 1 1381 
+162.158.79.227 1 1 1104 20190913050458
+162.158.93.105 1 1 1104 20190917034740
+172.68.90.10 1 1 1786 20190915073656
+172.68.182.10 3 3 4237 20190916201921
+172.69.135.40 0 1 188488 
+172.69.54.105 1 1 1786 20190902094053
+162.158.78.184 0 5 182076 
+141.101.99.53 2 2 2965 20190909052916
+172.68.74.28 0 2 838331 
+172.68.206.76 0 1 45519 
+172.68.206.112 1 1 1786 20190930113347
+172.69.63.47 1 1 1786 20190907160345
+172.69.3.176 1 1 1786 20190905085908
+162.158.39.11 1 1 1786 20190913135541
+162.158.158.215 1 1 1786 20190903233206
+172.69.22.254 1 1 1786 20190916093018
+108.162.216.10 0 1 772695 
+172.69.22.242 2 2 1786 20190927144202
+108.162.229.170 1 1 1786 20190915112850
+172.69.63.91 0 5 6905 
+162.158.118.92 1 1 1786 20190927142507
+172.69.62.254 2 2 3544 20190927144232
+172.69.166.88 1 1 1786 20190903120509
+172.69.63.127 1 1 1786 20190913050457
+172.69.247.4 1 1 1786 20190911224425
+162.158.183.119 1 1 1272 20190913020941
+162.158.155.188 1 1 2583 20190909052916
+172.69.130.16 2 2 2283 20190907071309
+162.158.107.163 1 1 1786 20190911055454
+172.68.74.4 1 1 1786 20190923152534
+172.68.65.198 1 1 1786 20190905125421
+162.158.89.43 2 2 3572 20190920042449
+108.162.246.107 1 1 1786 20190927171002
+172.69.23.63 3 3 5358 20190916115738
+162.158.79.113 0 3 67872 
+141.101.77.26 1 1 1104 20190924065137
+162.158.79.65 1 1 1666 20190913050459
+162.158.142.130 2 2 3572 20190921032545
+173.245.54.7 1 1 1786 20190926185351
+108.162.229.204 0 1 77385 
+172.68.74.34 0 1 1381 
+162.158.107.85 2 2 3572 20190915202240
+172.69.194.28 1 1 1786 20190928062519
+172.68.206.10 0 1 65636 
+172.68.59.30 0 1 45519 
+162.158.167.210 0 1 153767 
+172.68.143.204 0 6 328180 
+172.68.141.22 0 6 227595 
+172.68.58.107 0 1 65636 
+108.162.229.162 0 1 45519 
+162.158.78.88 1 6 311326 20190917231955
+172.68.141.106 3 3 5358 20190916142117
+162.158.75.154 0 1 77385 
+162.158.93.51 1 1 1104 20190917044707
+172.68.90.40 0 1 1381 
+162.158.90.252 1 1 1786 20190924234512
+172.68.59.210 0 1 188488 
+141.101.69.15 0 1 1381 
+172.69.70.173 0 1 22624 
+172.68.133.18 0 1 45519 
+172.68.65.120 0 5 753952 
+172.68.58.161 1 1 1786 20190901234008
+162.158.78.250 1 1 1272 20190907160348
+172.68.226.22 1 1 1786 20190916073124
+162.158.107.37 3 3 5358 20190910220430
+172.68.58.95 1 1 1786 20190927141328
+162.158.255.16 1 1 1786 20190916172014
+172.68.141.148 2 2 1786 20190916130245
+172.68.51.82 1 1 1786 20190918213417
+157.245.13.212 1 1 4810 20190906112850
+162.158.78.82 1 1 1179 20190913050502
+108.162.246.119 0 1 65636 
+172.69.70.89 0 2 131272 
+162.158.79.89 1 1 1786 20190917231955
+108.162.229.30 0 1 188488 
+162.158.155.122 1 1 1666 20190909052917
+172.68.211.76 1 1 1786 20190929180220
+172.69.70.65 1 1 1786 20190930111530
+172.69.22.8 0 6 8286 
+172.68.246.56 2 2 3572 20190914091120
+141.101.77.140 2 2 3572 20190924065044
+162.158.79.245 0 6 8286 
+172.68.206.64 3 3 4237 20190930113358
+172.69.63.17 2 2 3572 20190927144203
+172.69.68.211 0 2 154770 
+162.158.255.46 1 1 1786 20190916054254
+172.69.62.160 2 2 2519 20190926185515
+172.69.63.39 1 1 1786 20190910233358
+172.68.65.228 0 2 154770 
+172.68.143.24 1 1 1786 20190922182506
+108.162.216.64 1 1 1786 20190927141328
+172.69.130.100 0 1 77385 
+172.69.68.243 0 2 1545390 
+162.158.167.222 0 1 1381 
+162.158.107.79 1 1 1786 20190927021522
+162.158.158.93 1 1 1272 20190909052918
+172.69.68.147 0 2 91038 
+172.69.130.46 0 1 65636 
+162.158.79.161 2 2 5166 20190927144231
+162.158.106.114 3 3 5358 20190918171618
+108.162.246.233 3 3 5358 20190929171131
+172.68.133.72 2 8 3867047 20190915184447
+108.162.229.96 2 2 3572 20190930075055
+172.69.135.46 0 1 22624 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 10 16 1167170 5
+20190902 3 9 1090826 3
+20190903 4 4 7144 4
+20190904 2 2 1786 2
+20190905 6 6 10716 6
+20190906 6 12 1164844 6
+20190907 18 39 3380605 9
+20190908 2 2 3572 2
+20190909 10 10 16863 9
+20190910 6 6 10716 6
+20190911 4 4 7144 4
+20190912 16 17 26543 8
+20190913 61 79 2753242 41
+20190914 5 17 2311138 5
+20190915 12 22 1351419 9
+20190916 30 30 51901 25
+20190917 9 16 1167195 9
+20190918 11 17 1170236 10
+20190919 4 4 7144 4
+20190920 3 3 5358 3
+20190921 4 4 7144 4
+20190922 5 11 1159352 4
+20190923 1 7 1152890 1
+20190924 15 23 1350898 7
+20190925 13 13 22235 9
+20190926 9 18 1344694 8
+20190927 31 48 2704807 27
+20190928 6 13 1018169 6
+20190929 4 4 6462 3
+20190930 10 30 2367228 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 6
+15mn-30mn 1
+0s-30s 241
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 192 337006 187 176
+/ResumeCV.php 21 26712 9 13
+/personal.php 20 24940 8 10
+/contact.php 20 22080 10 11
+/publications.php 19 22401 10 8
+/reshist.php 18 46494 8 12
+/default.php 15 26580 7 8
+/teaching.php 14 23324 8 9
+// 1 1786 1 1
+END_SIDER

@@ -1,0 +1,728 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202111 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/ssl/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2698                
+POS_VISITOR 15641               
+POS_DAY 19374               
+POS_DOMAIN 3389                
+POS_LOGIN 3634                
+POS_ROBOT 3789                
+POS_WORMS 4188                
+POS_EMAILSENDER 4319                
+POS_EMAILRECEIVER 4462                
+POS_SESSION 20089               
+POS_SIDER 20258               
+POS_FILETYPES 4597                
+POS_DOWNLOADS 4749                
+POS_OS 4797                
+POS_BROWSER 5000                
+POS_SCREENSIZE 5720                
+POS_UNKNOWNREFERER 5794                
+POS_UNKNOWNREFERERBROWSER 6290                
+POS_ORIGIN 6696                
+POS_SEREFERRALS 6832                
+POS_PAGEREFS 7018                
+POS_SEARCHWORDS 7190                
+POS_KEYWORDS 7342                
+POS_MISC 2362                
+POS_ERRORS 7401                
+POS_CLUSTER 3490                
+POS_SIDER_404 7496                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211201004553 3 368 10333942258585
+FirstTime 20211101002516
+LastTime 20211130001128
+LastUpdate 20211201052116 3 0 2 0 0
+TotalVisits 116                 
+TotalUnique 67                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 54 55 1073152 2 34 4852
+1 4 4 8204 1 7 2051
+2 1 3 1926847 7 11 3323
+3 2 2 4102 1 5 2051
+4 7 9 1942651 2 10 2051
+5 3 5 1930949 4 13 8310
+6 0 3 2887194 4 15 44263
+7 3 5 1930949 7 15 5441
+8 2 4 1928898 2 7 4102
+9 0 0 0 6 17 10412
+10 1 3 1926847 4 8 2519
+11 1 2 964449 7 16 12059
+12 2 10 3080088 4 10 5281
+13 3 4 968551 3 6 4262
+14 7 9 1939153 157 295 2211
+15 4 5 970602 4 11 5281
+16 6 18 3198912 7 14 5374
+17 6 7 974704 3 7 1104
+18 1 3 1926847 3 7 2583
+19 1 2 964449 3 9 8847
+20 6 7 974704 2 5 2086
+21 7 7 14357 3 9 4102
+22 1 1 2051 9 18 15639
+23 1 1 2051 4 6 4102
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 119 164 30570109
+eu 4 5 970602
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+AhrefsBot/ 39 76191 20211129152615 0
+SemrushBot/ 9 17249 20211129102236 0
+no_user_agent 5 49812 20211128234813 0
+Applebot/ 4 6713 20211127084748 0
+bot[\s_+:,\.\;\/\\-] 3 6153 20211120022327 0
+nutch 2 4102 20211121065232 0
+[\s_+:,\.\;\/\\-]bot 1 2051 20211123214335 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 2 3315 0 0
+jpg 37 28397777 0 0
+css 3 4401 0 0
+html 121 251669 0 0
+png 6 2883549 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win8.1 1 1
+Unknown 30 30
+macosx10 1 1
+macosx 11 9
+unix 2 0
+linux 70 70
+linuxandroid 15 3
+win7 5 1
+win10 30 7
+ios_iphone 3 0
+macosx11 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 32
+firefox94.0 17 3
+chrome83.0.4103.97 58 58
+safari 2 0
+chrome47.0.2526.111 1 1
+chrome59.0.3071.115 1 1
+chrome91.0.4472.164 1 1
+chrome88.0.4324.190 1 1
+chrome81.0.4044.129 6 6
+chrome88.0.4324.192 1 1
+chrome94.0.4606.124 1 0
+chrome94.0.4606.85 1 0
+safari9.0.2 1 1
+opera80.0.4170.63 1 0
+Unknown 25 25
+chrome77.0.3865.90 1 1
+chrome92.0.4515.131 1 1
+chrome85.0.4183.121 4 4
+chrome95.0.4638.69 5 0
+safari14.1.2 1 0
+chrome75.0.3765.0 7 1
+chrome96.0.4664.45 9 0
+firefox84.0 6 6
+chrome45.0.2454.85 1 1
+android 2 2
+chrome94.0.4606.114 1 0
+opera79.0.4143.50 1 0
+chrome95.0.4638.50 2 0
+safari15.1 1 0
+mozilla 5 5
+chrome94.0.4606.81 2 2
+chrome92.0.4515.107 1 1
+chrome95.0.4638.54 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20211104044946
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128204222
+quic-go-HTTP/3 20211119175542
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211126085210
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211126085210
+quic-go-HTTP/3 20211119175542
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128204222
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 119 119
+From1 0 0
+From2 2 30
+From3 1 1
+From4 1 19
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 29
+www_google_com_au 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://lab.onsec.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 457 0
+401 1 35
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 299
+/Home/GetInitSource 1 -
+/infe/rest/fig/advertise/common.json 1 -
+/verification.asp 1 -
+/manager/js/left.js 1 -
+/Public/css/errorCss.css 1 -
+/api/link/platform 1 -
+/s_api/basic/config_js 1 -
+/api/index 1 -
+/images/no.jpg 1 -
+/JS/loginstatus.js 1 -
+/client/api/findConfigByKey 1 -
+/Res/font/font.css 1 -
+/api/v1/about 1 -
+/api/contactWay 1 -
+/Public/home/js/check.js 1 -
+/api/linkPF 1 -
+/index/police/index.html 1 -
+/img/close.png 1 -
+/Content/Wap/base.css 1 -
+/login/kefuxian.mvc 1 -
+//.env 3 -
+/gaga/city.php 1 -
+/static/admincp/js/common.js 1 -
+/leftDao.php 1 -
+/nyyh/game.css 1 -
+/portal/index/protocol.html 1 -
+/common/template/lottery/lecai/css/style.css 1 -
+/js/basic.js 1 -
+/homes/ 2 -
+/api/Index/getLottery 1 -
+/api/stock/getSingleStock.do 1 -
+/static/js/user.js 1 -
+/api/content_bottom 1 -
+/public/h5static/js/main.js 1 -
+/index/api/config 1 -
+/app/js/base.js 1 -
+/static/wap/js/common.js 1 -
+/m/ticker/usdtqc 1 -
+/data/json/config.json 1 -
+/index/Mobile/fenshi 1 -
+/kkrp/site/info 1 -
+/assets/images/bg.jpg 1 -
+/index/index/purchase.html 1 -
+/api/common/getConfig 1 -
+/static/common/js/global.js 1 -
+/Css/Hm.css 1 -
+/api/getconfig.aspx 1 -
+/202110/images/public.css 1 -
+/views/commData/commonSite.js 1 -
+/Home/Get/getJnd28 1 -
+/web/api/getBanner 1 -
+/room/getRoomBangFans 1 -
+/Template/Mobile/js/main.js 1 -
+/stock/search.html 1 -
+/appxz/index.html 1 -
+/skin/main/onload.js 1 -
+/guess/list.php 1 -
+/js/base1.js 1 -
+/static/tabBar/home_cur.png 1 -
+/api/system/system/config/get 1 -
+/data/ticker_24hr 1 -
+/m/allticker/1 1 -
+/resources/main/common.js 1 -
+/site.js 1 -
+/style.css 1 -
+/im/ 1 -
+/index/index/js/api.js 1 -
+/css/main.css 1 -
+/mh/phone.do 1 -
+/Public/mobile/js/config.js 1 -
+/im/h5/ 1 -
+/api/mobile/checkStrategyHistory 1 -
+/kefu.php 1 -
+/views/home/home.js 1 -
+/auth/oauth/token 1 -
+/assets/dist/static/js/vendor_prod.js 1 -
+/skin/js/common.js 1 -
+/getConfig/getArticle.do 2 -
+/xy/image/jiantou.png 1 -
+/wp-includes/upload_index.php 1 -
+/Pc/Lang/index.html 1 -
+/zz2/address.php 1 -
+/static/config.js 1 -
+/static/data/gamedatas.js 1 -
+/app/common/getRegisterSet 1 -
+/api/v/index/queryOfficePage 1 -
+/api/default/login-page 1 -
+/login/img/nyyh/chkjs.js 1 -
+/assets/extension/market/css/mt4.css 1 -
+/api/user/get_user_group 1 -
+/market/market-ws/iframe.html 1 -
+/wp-login.php 1 https://www.immanuelmanohar.com/wp-login.php
+/getConfig/listPopFrame.do 2 -
+/api/index/index 1 -
+/home/help 1 -
+/public/static/home/js/moblie/login.js 1 -
+/static/css/mobile.css 1 -
+/api/apps/config 1 -
+/api/user/mobilelogin 1 -
+/im/in/GetUuid 1 -
+/Public/Home/js/common.js 1 -
+/template/920ka/js/woodyapp.js 1 -
+/security.txt 1 -
+/Public/Home/js/cls.js 1 -
+/mobile/v3/appSuperDownload.do 1 -
+/Public/uploads/web/step1.png 1 -
+/images/pay.png 1 -
+/template/tmp1/js/common.js 1 -
+/index.php/sign 1 -
+/js/bankCheck.js 1 -
+/assets/res/mods/room.js 1 -
+/legal/currency/set 1 -
+/Home/GetAllGameCategory 1 -
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 -
+/public/static/css/public.css 1 -
+/static/css/public.css 1 -
+/Public/home/common/js/index.js 1 -
+/nyyh/chkjs.js 1 -
+/assets/app-manifest.json 1 -
+/common/member/js/user.util.js 1 -
+/static/data/configjs.js 1 -
+/pages/console/js/common.js 1 -
+/base/exchange_article/index/classid/1/id/1 1 -
+/index.php/Wap/Api/getBanner 1 -
+/common/download.js 1 -
+/static/icon/my.png 1 -
+/css/style.css 1 -
+/.well-known/security.txt 1 -
+/proxy/games 1 -
+/Public/initJs.php 1 -
+/static/guide/ab.css 1 -
+/assets/js/dmshub.js 1 -
+/api/config-init 1 -
+/admin_user/m_tixian.php 1 -
+/Content/css/wzwstylel.css 1 -
+/user/Login 1 -
+/statics/js/API.js 1 -
+/site/info 1 -
+/Home/Index/ajaxTJ 1 -
+/Public/home/wap/css/qdgame.css 1 -
+/Public/Home/ecshe_css/main.css 1 -
+/lanren/css/global.css 1 -
+/service 2 -
+/client/api/findFreeTrade 1 -
+/static/home/css/css.css 1 -
+/static/home/js/rooms.js 1 -
+/n/news/banner 1 -
+/friendGroup/list 1 -
+/xianyu/index/setp1.html 1 -
+/banner.do 1 -
+/static/diff_worker.js 1 -
+/api/index/webconfig 1 -
+/wp-includes/css/wp-config.php 2 anonymousfox.co
+/api/uploads/apimap 1 -
+/api/index/loansList 1 -
+/cscpLoginWeb/app/home 1 -
+/js/home.js 1 -
+/assets/room/css/room_mobile.css 1 -
+/login.html 1 -
+/files/pub_reset.css 1 -
+/.env 12 -
+/thriveGame.css 1 -
+/app/.env 2 -
+/Public/css/hall.css 1 -
+/Templates/user/finance/css/userPay.css 1 -
+/resources/css/headernav.css 1 -
+/anquan/qgga.asp 1 -
+/ajax/allcoin_a/id/0 1 -
+/m/ 1 -
+/api/web/user/getIndexData.php 1 -
+/sys/setting/app 1 -
+/zz/address.php 1 -
+/im/App/config 1 -
+/room/script/face.js 1 -
+/h5/ 1 -
+/Scripts/common.js 1 -
+/admin 1 -
+/km.asmx/getPlatParam 1 -
+/wap/api/exchangerateuserconfig!get.action 1 -
+/public/admin.php/api/index/loansList 1 -
+/Public/js/common.js 1 -
+/Templates/user/js/global.js 1 -
+/api/v1/member/kefu 1 -
+/proxy/settings 1 -
+/otc/ 1 -
+/template/920ka/css/lsy.css 1 -
+/lib/client/etc/hometu.jpg 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/base/exchange_index/changepwdfirst 1 -
+/wap/trading/get_newallorder_ajax 1 -
+/static/css/index.css 1 -
+/Content/common/web/CommonActivity.css 1 -
+/public/img/cz1.png 1 -
+/api/message/webInfo 1 -
+/s_api/basic/download/info 1 -
+/apis/api/index 1 -
+/langConfig.js 1 -
+/static/download/style.css 1 -
+/img/login.png 1 -
+/static/wap/css/index.css 1 -
+/home/main/login 1 -
+/user/login.html 1 -
+/h5/static/cert/icon_yanzhengma.png 1 -
+/index.php/Wap/Api/getSystemNotice 1 -
+/static/mobile/user.html 1 -
+/static/image/chicang.png 1 -
+/market/getStockBaseInfo 1 -
+/js/common.js 1 -
+/Content/m_1/js/m_1_Jquery.js 1 -
+/Public/Wchat/css/index.css 1 -
+/static/index/js/lk/order.js 1 -
+/home/GetQrCodeInfo 1 -
+/static/xianyu/js/bankCheck.js 1 -
+/css/info.css 1 -
+/public/wap/js/basis.js 1 -
+/user/userlist 1 -
+/api/public/ 1 -
+/csjs/bankCheck.js 1 -
+/h5/static/tabbar/txl.png 1 -
+/api/lottery/color 1 -
+/Recruit/download_url 1 -
+/robots.txt 135 -
+/ajax 1 -
+/static/img/bitbeb-logo.png 1 -
+/images/src_images_but_dianz_s.png 1 -
+/static/local/img/userCenter/hourlyPrivilege.svg 1 -
+/img/zllqdk.png 1 -
+/css/dafa.css 1 -
+/other/codepay/js/codepay_util.js 1 -
+/api/currency/quotation_new 1 -
+/xy/ 1 -
+/css/app.css 1 -
+/api/product/info/1 1 -
+/member/js/lang_zh_CN.js 1 -
+/api/user/ismustmobile 1 -
+/getLocale 1 -
+/Public/css/_pk10.css 1 -
+/css/skin/ymPrompt.css 1 -
+/js/dianzan.js 1 -
+/loan 1 -
+/public/appapi/images/error.jpg 1 -
+/Promotions/list.mvc 1 -
+/wap/trading/lastKlineParameter 1 -
+/static/index/css/iindex.css 1 -
+/public/static/css/denglu.css 1 -
+/static/data/thirdgames.json 1 -
+/api/customerServiceLink 1 -
+/admin/webadmin.php 1 -
+/Public/Mobile/ecshe_css/wapmain.css 1 -
+/api/product/topRank 1 -
+/css/all.css 1 -
+/css/nsc/reset.css 1 -
+/dist/images/mask/bg1.jpg 1 -
+/api/app/config_new 1 -
+/static/home/csjs/bankCheck.js 1 -
+/public/css/style.css 1 -
+/wap/banner/details 1 -
+/douyinpay.php 1 -
+/ws/index/getTheLotteryInitList 1 -
+/js/tvConfig.js 1 -
+/index.php/api/other/appSetting 1 -
+/api/wallet/redDetail 1 -
+/kkrps/im_group/show_members 1 -
+/js/app.ling.js 1 -
+/jiaoyimao/default.css 1 -
+/user/getAllNicknames 1 -
+/public/web/css/add//index.css 1 -
+/js/pups.js 1 -
+/info.php 1 -
+/site/get-hq 1 -
+/api/site/getInfo.do 1 -
+/Public/home/js/fukuang.js 1 -
+/biz/server/config 1 -
+/Home/Bind/binding 1 -
+/index.php 1 -
+/api/ApiHub/fetchJinse 1 -
+/1index.php 1 www.google.com
+/index/index/andiro 1 -
+/config.js 1 -
+/melody/api/v1/pageconfig/list 1 -
+/home/login/login_index.html 1 -
+/v1/management/tenant/getSpeedDomain 1 -
+/template/js/comm/Confrim.js 1 -
+/index/getNews 1 -
+/index/login/register 1 -
+/api/apps 1 -
+/myConfig.js 1 -
+/mytio/config/base 1 -
+/.git/config 4 -
+/api/index/grailindex 1 -
+/fePublicInfo/ 1 -
+/cscpLoginWeb/scripts/public.js 1 -
+/public/web/js/add/com.js 1 -
+/index/Mobile/kline_week 1 -
+/Public/Wchat/js/cvphp.js 1 -
+/index_files/bankCheck.js 1 -
+/api/config/info 1 -
+/template/css/login.css 1 -
+/api/exclude/siteConfig/webSiteConfig 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+108.162.245.207 10 10 20510 20211128001216
+108.162.245.55 8 9 61927 20211130001128
+108.162.245.61 7 7 14357 20211121002306
+108.162.245.169 6 6 12306 20211119011738
+108.162.245.13 6 6 12306 20211126005444
+108.162.245.237 5 5 10255 20211125005405
+108.162.245.37 5 5 10255 20211130001119
+162.158.106.239 3 3 6153 20211116002604
+108.162.246.16 3 3 6153 20211129002517
+162.158.179.7 3 3 6153 20211124141906
+108.162.221.175 2 2 4102 20211122033813
+172.70.34.117 2 2 4102 20211123172623
+108.162.221.153 2 2 4102 20211114183805
+172.68.110.152 2 2 4102 20211117212716
+172.69.62.197 2 2 4102 20211126085210
+108.162.246.124 2 2 4102 20211109003544
+162.158.107.233 2 2 3315 20211128163534
+162.158.107.152 2 2 4102 20211112002112
+172.70.114.91 2 2 4102 20211110175544
+108.162.245.249 2 2 4102 20211126005504
+162.158.50.10 1 1 2051 20211108212532
+172.70.98.99 1 1 2051 20211109121801
+172.70.85.179 1 1 2051 20211104215139
+141.101.68.67 1 1 2051 20211118151435
+172.70.90.9 1 1 2051 20211108153147
+162.158.187.126 0 1 962398 
+172.68.63.214 0 1 962398 
+172.68.144.68 1 1 2051 20211102040507
+172.68.26.15 1 1 2051 20211128041101
+172.68.110.120 1 1 2051 20211103203253
+162.158.255.43 1 1 2051 20211111051859
+172.70.188.153 1 1 2051 20211125124322
+108.162.219.111 0 1 962398 
+172.69.55.29 0 1 962398 
+108.162.246.39 0 1 45519 
+172.69.34.118 1 1 2051 20211109054958
+64.225.24.22 1 1 5549 20211104043613
+172.70.142.229 1 1 2051 20211124141918
+162.158.89.181 1 1 2051 20211117212715
+162.158.159.77 0 1 962398 
+172.70.206.83 1 1 2051 20211126210916
+162.158.111.116 0 1 962398 
+162.158.107.170 0 1 77385 
+172.68.126.131 0 1 962398 
+162.158.107.187 0 1 188488 
+173.245.52.212 1 1 2051 20211104044946
+172.70.98.153 0 1 772695 
+172.69.63.90 1 1 2051 20211119104346
+141.101.99.26 1 1 2051 20211111133211
+172.69.34.121 0 2 1924796 
+108.162.221.125 1 1 2051 20211128174437
+172.69.34.95 1 1 2051 20211107214407
+172.70.110.92 1 1 2051 20211104044255
+172.70.82.121 0 2 1924796 
+162.158.88.71 1 1 2051 20211112134052
+141.101.68.163 1 1 2051 20211104193832
+162.158.255.243 1 1 2051 20211117053510
+172.68.234.233 0 1 962398 
+172.69.71.55 1 1 2051 20211121071946
+172.69.62.203 1 1 2051 20211111214617
+172.68.110.165 0 1 962398 
+172.69.34.247 0 1 77385 
+162.158.106.75 0 1 65636 
+172.70.90.129 1 1 2051 20211123112205
+172.69.162.137 0 1 962398 
+172.70.98.83 0 1 1467 
+172.70.35.32 0 1 962398 
+162.158.126.125 1 1 2051 20211115075731
+172.69.71.65 1 1 2051 20211105221911
+172.70.147.105 0 2 1924796 
+172.68.118.3 0 1 962398 
+172.69.68.27 1 1 2051 20211128204222
+172.68.94.209 0 1 962398 
+188.114.103.198 0 1 962398 
+172.69.35.248 0 1 45519 
+162.158.91.44 0 2 1924796 
+108.162.246.237 0 1 772695 
+172.70.42.181 1 1 2051 20211129070055
+162.158.167.151 0 1 962398 
+162.158.107.28 0 1 772695 
+172.68.253.250 1 1 2051 20211124141906
+108.162.215.33 1 1 2051 20211111164555
+172.68.10.205 1 1 2051 20211105150815
+172.70.162.145 1 1 2051 20211119033337
+108.162.246.48 0 1 1467 
+108.162.245.106 0 1 962398 
+172.68.154.137 0 1 962398 
+162.158.106.104 0 1 1467 
+108.162.245.140 0 1 65636 
+198.41.242.95 0 1 962398 
+162.158.106.161 0 1 188488 
+172.70.98.57 1 1 2051 20211105162113
+108.162.241.39 0 1 962398 
+172.70.90.51 1 1 2051 20211126202412
+162.158.179.76 1 1 2051 20211116135125
+172.70.134.19 1 1 2051 20211127161410
+108.162.215.165 0 1 188488 
+172.70.110.44 1 1 2051 20211104044332
+172.70.134.59 1 1 2051 20211125234045
+162.158.92.79 1 1 2051 20211119175542
+172.68.110.150 1 1 2051 20211124203111
+162.158.179.134 1 1 2051 20211124141922
+162.158.91.212 1 1 2051 20211112154744
+162.158.179.86 0 2 1924796 
+172.68.110.138 1 1 2051 20211124203110
+141.101.76.149 1 1 2051 20211118173614
+172.69.35.168 0 1 65636 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20211101 3 4 968551 3
+20211102 3 3 6153 2
+20211103 4 8 3857796 4
+20211104 13 13 30161 12
+20211105 6 6 12306 5
+20211106 2 3 966500 2
+20211107 3 4 968551 3
+20211108 4 5 970602 4
+20211109 4 12 3084190 4
+20211110 1 1 2051 1
+20211111 4 5 970602 4
+20211112 4 6 1933000 4
+20211113 2 3 966500 2
+20211114 4 5 970602 4
+20211115 3 3 6153 3
+20211116 5 5 10255 5
+20211117 5 6 972653 5
+20211118 4 5 970602 4
+20211119 6 6 12306 6
+20211120 2 4 1928898 1
+20211121 3 4 968551 3
+20211122 1 2 964449 1
+20211123 4 5 970602 4
+20211124 8 11 2903602 6
+20211125 4 5 970602 4
+20211126 5 6 972653 5
+20211127 3 3 6153 3
+20211128 8 20 3203014 7
+20211129 3 4 968551 3
+20211130 2 2 4102 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+5mn-15mn 1
+0s-30s 114
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 121 251669 115 115
+/contact.php 1 1104 1 0
+/teaching.php 1 2211 0 1
+END_SIDER

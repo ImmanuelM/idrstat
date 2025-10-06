@@ -1,0 +1,6523 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202507 will be lost/reset.
+# Last config file used to build this data file was /home/wbtm8yn3zdm0/tmp/awstats/ssl/awstats.immanuelmanohar.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2058                
+POS_TIME 2744                
+POS_VISITOR 154507              
+POS_DAY 186760              
+POS_DOMAIN 3649                
+POS_LOGIN 4398                
+POS_ROBOT 4553                
+POS_WORMS 5715                
+POS_EMAILSENDER 5846                
+POS_EMAILRECEIVER 5989                
+POS_SESSION 187594              
+POS_FILESIZE 188283              
+POS_SIDER 187790              
+POS_FILETYPES 6124                
+POS_DOWNLOADS 6306                
+POS_OS 6354                
+POS_BROWSER 6827                
+POS_SCREENSIZE 10073               
+POS_UNKNOWNREFERER 10147               
+POS_UNKNOWNREFERERBROWSER 11370               
+POS_ORIGIN 11961               
+POS_SEREFERRALS 12103               
+POS_PAGEREFS 12442               
+POS_SEARCHWORDS 12621               
+POS_KEYWORDS 12773               
+POS_MISC 2408                
+POS_ERRORS 12832               
+POS_CLUSTER 4254                
+POS_SIDER_404 12939               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250801000144 1200 161759 13239363978685
+FirstTime 20250701005934
+LastTime 20250731234619
+LastUpdate 20250801050829 1200 0 1199 0 0
+TotalVisits 1570                
+TotalUnique 820                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 834                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 96 98 1158469 1204 1237 36963
+1 69 69 129631 2478 2507 21717
+2 61 67 106938 1164 1199 817035
+3 91 103 1306765 986 1020 1217253
+4 58 59 164136 2546 2580 59068
+5 100 100 212808 871 887 632412
+6 93 99 206887 1551 1581 1392116
+7 119 137 2135613 1482 1536 19942
+8 76 83 1326504 1672 1686 237511
+9 84 85 911248 1781 1838 32507
+10 93 94 341858 1858 1991 16874
+11 65 66 176453 1960 1984 51290
+12 72 78 1278625 786 815 817629
+13 68 89 3932486 1819 1853 32652
+14 74 74 127631 850 886 379697
+15 80 80 137250 850 867 979550
+16 84 90 364091 1436 1453 56373
+17 85 98 1310537 1277 1315 3513134
+18 77 83 1281154 2357 2388 102887
+19 91 97 187037 3262 3385 813825
+20 75 75 134919 2084 2292 140428
+21 73 79 1277256 2521 2552 31998
+22 61 61 105725 711 731 44738
+23 108 109 186581 1263 1321 22478
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+jp 445 459 3354170
+us 367 450 8804592
+cn 355 358 908260
+ru 280 287 1438107
+gb 113 114 210552
+za 50 50 86747
+ip 48 57 2393005
+in 30 30 51657
+ro 29 29 51794
+es 29 29 44261
+pt 24 24 42027
+ua 23 24 811262
+se 22 22 36883
+ca 17 17 40944
+nl 14 14 24875
+bg 14 14 22493
+de 12 12 21432
+it 12 12 21432
+at 10 10 15451
+be 8 8 14288
+zz 8 8 11879
+au 7 7 12502
+ir 6 6 10716
+hn 5 6 8596
+br 5 5 9982
+cl 2 2 3572
+my 2 2 1787
+tr 1 1 994
+rs 1 1 1786
+pl 0 1 22624
+vn 4 4 5597
+uz 1 1 1786
+sc 1 1 1786
+fr 2 2 2839
+no 1 1 1786
+lt 3 3 5358
+ch 1 1 994
+gr 1 1 1786
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 27
+no_user_agent 351 2262012 20250731221836 0
+AhrefsBot/ 56 1175258 20250731065150 0
+bot[\s_+:,\.\;\/\\-] 49 2770082 20250730141750 0
+Googlebot/ 48 836031 20250731023706 0
+PetalBot 46 2886011 20250729200939 0
+crawl 27 48222 20250730235908 0
+Barkrowler 24 33791 20250731123635 0
+Applebot/ 17 30274 20250730123436 5
+SemrushBot/ 17 84131 20250730210330 0
+Lightspeed 17 1168993 20250727030424 0
+bingbot/ 17 19828 20250730030442 0
+BLEXBot/ 12 19716 20250731210307 0
+MJ12bot/ 11 18854 20250730072314 0
+Go\-http\-client/ 10 17023 20250730135344 0
+netEstate[\x20]NE[\x20]Crawler 10 16981 20250713184935 0
+link 10 16144 20250729170824 0
+2345Explorer/ 8 11879 20250706172938 0
+yandex 8 11879 20250716205256 0
+curl 6 10716 20250728180048 0
+BW/ 4 5652 20250723053935 0
+scanner 3 5358 20250702040746 0
+CheckMarkNetwork/ 3 4912 20250706081312 0
+scrapy 3 5358 20250724182546 0
+checker 2 3572 20250725080744 0
+Sogou[\x20]web[\x20]spider/ 2 3572 20250716030252 0
+survey 1 1786 20250707165435 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 1786 20250701174913 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 20 26800 0 0
+jpg 58 4064372 0 0
+Unknown 10 63160 0 0
+php 366 505544 0 0
+html 1577 2914931 0 0
+png 42 10925795 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+win8.1 7 7
+android13 1 1
+macosx 3 3
+Unknown 96 67
+linux 94 64
+macosx9 1 1
+macosx8 3 3
+winlong 2 2
+macosx13 5 5
+win7 26 26
+androidpie 17 17
+win11 2 2
+androidjellybean 1 1
+macosx11 3 3
+win10 543 506
+macosx10 1 1
+androidnougat 2 2
+winxp 9 9
+macosx15 267 266
+androidoreo 9 9
+ios_iphone 930 909
+win8 1 1
+macos11 10 9
+macosx14 5 5
+linuxubuntu 15 14
+android 1 1
+unix 3 3
+android12 2 2
+macosx12 1 1
+android10 13 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 154
+firefox72.0 1 0
+chrome89.0.4389.72 1 1
+opera57.2.2830.52651 8 8
+chrome80.0.3987.119 2 2
+chrome83.0.4103.61 1 1
+chrome137.0.0.0 15 15
+firefox119.0 2 2
+chrome80.0.3987.162 1 1
+firefox38.0 2 2
+chrome125.0.0.0 20 19
+chrome72.0.3626.109 8 8
+chrome91.0.4472.114 7 7
+chrome79.0 6 6
+firefox139.0 2 2
+firefox126.0 10 10
+chrome109.0.0.0 1 1
+safari13.0.3 896 896
+firefox33.0 9 9
+chrome67.0.3396.87 3 3
+chrome72.0.3626.119 1 1
+chrome127.0.0 31 31
+chrome132.0.0.0 1 1
+safari17.1.4 1 1
+firefox111.0 4 4
+chrome66.0.3359.181 2 2
+chrome138.0.7204.50 2 2
+chrome27.0.1453.93 1 1
+chrome96.0.4664.45 5 5
+chrome103.0.5060.53 1 1
+safari15.1 1 1
+chrome100.0.4896.127 2 2
+safari18.5 16 7
+chrome134.0.0.0 1 1
+chrome72.0.3626.92 1 1
+chrome79.0.3945.88 2 2
+firefox31.0 1 1
+firefox40.0 2 2
+opera31.0.1889.174 2 2
+chrome87.0.4280.88 11 10
+chrome106.0.0.0 3 3
+chrome68.0.3440.106 2 2
+chrome137.0.7151.119 23 0
+chrome76.0.3809.100 4 4
+chrome92.0.4515.107 1 1
+chrome103.0.0.0 1 1
+chrome47.0.2526.111 1 1
+safari4.0 1 1
+chrome89.0.4389.114 35 35
+chrome86.0.4240.111 1 1
+chrome117.0.0.0 4 4
+firefox23.0 1 1
+firefox128.0 1 1
+safari17.5 2 2
+firefox127.0 4 4
+Unknown 26 26
+firefox124.0 4 4
+chrome125.0.6422.60 8 2
+chrome122.0.0.0 1 1
+chrome114.0.0.0 9 9
+chrome108.0.0.0 4 4
+chrome112.0.5615.136 1 1
+safari17.1.1 1 1
+chrome115.0.5790.102 1 1
+firefox135.0 2 2
+chrome84.0.4147.105 1 1
+safari17.3.1 2 2
+chrome26.0.1410.63 1 1
+mozilla 23 17
+msie7.0 8 8
+chrome78.0.3904.62 4 4
+chrome29.0.1547.57 1 1
+chrome114.0.5735.134 1 1
+chrome112.0.0.0 1 1
+chrome63.0.3239.84 1 1
+chrome129.0.0.0 14 14
+safari5.1 1 1
+chrome80.0.3987.149 18 18
+chrome131.0.0.0 31 30
+chrome88.0.4240.193 14 14
+chrome99.0.4844.51 1 1
+chrome133.0.0.0 203 203
+chrome84.0.4147.89 1 1
+chrome75.0.3770.90 1 1
+chrome126.0.0.0 3 3
+safari17.2.1 1 1
+chrome120.0.0.0 3 3
+chrome86.0.4240.198 1 1
+chrome112.0.5615.138 3 3
+firefox129.0 2 2
+chrome80.0.3987.132 1 1
+chrome96.0.4664.110 1 1
+safari9.0.2 1 1
+chrome105.0.0.0 9 9
+netscape5.0 26 26
+firefox136.0 1 1
+chrome119.0.0.0 2 2
+chrome93.0.4577.63 1 1
+safari 1 1
+chrome98.0.4758.109 1 1
+chrome66.0.3359.126 1 1
+chrome79.0.3945.79 7 1
+chrome81.0.4044.92 7 1
+chrome81.0.4044.138 8 8
+chrome60.0.3112.107 1 1
+android 1 1
+firefox89.0 1 1
+chrome138.0.7204.23 14 2
+chrome138.0.0.0 15 9
+chrome37.0.2049.0 1 1
+chrome76.0.3809.89 1 1
+chrome60.0.3112.113 5 5
+safari17.1.2 1 1
+chrome116.0.0.0 20 20
+chrome58.0.3029.110 20 20
+chrome110.0.0.0 4 2
+chrome81.0.4044.117 8 8
+firefox65.0 3 3
+chrome78.0.3904.108 130 130
+chrome113.0.0.0 2 2
+firefox35.0 1 1
+chrome74.0.3729.169 38 38
+chrome42.0.2311.90 1 1
+msie6.0 1 1
+chrome76.0.3809.87 1 1
+chrome91.0.4472.124 46 46
+chrome135.0.7049.115 1 1
+chrome41.0.2228.0 1 1
+safari17.4 1 1
+firefox83.0 1 1
+firefox47.0 1 1
+chrome107.0.0.0 3 1
+chrome50.0.2661.102 1 1
+chrome111.0.0.0 4 4
+firefox120.0 2 2
+chrome123.0.6312.86 6 0
+chrome113.0.5672.93 2 2
+chrome114.0.5735.110 2 2
+firefox137.0 14 14
+safari15.4 14 2
+chrome66.0.3359.117 14 14
+firefox134.0 3 3
+chrome104.0.0.0 1 0
+chrome118.0.0.0 1 1
+chrome117.0.5938.132 23 5
+chrome130.0.0.0 20 20
+firefox125.0.1 1 1
+chrome90.0.4430.85 3 3
+chrome136.0.0.0 1 0
+firefox118.0 1 1
+chrome86.0.4240.99 1 1
+firefox114.0 1 1
+chrome102.0.0.0 1 1
+chrome121.0.0.0 2 2
+firefox123 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 21
+Mozilla/5.0_Firefox/35.0 20250711004642
+Mozilla/5.0_zgrab/0.x 20250721155429
+Adobe_Application_Manager_2.0 20250710041955
+Chrome 20250713033709
+python-requests/2.32.4 20250708054622
+python-httpx/0.28.1 20250727133631
+Mozilla/5.0 20250719132552
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250729202656
+AppleWebKit/534.46_(KHTML,like_Gecko)_Version/5.1_Mobile_Safari/10600.6.3 20250703120132
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250719075246
+python-requests/2.27.1 20250717224026
+\ 20250731135127
+WPCheckBot 20250712065033
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20250730213217
+python-requests/2.26.0 20250728221930
+Mozila/5.0 20250725065352
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/137.0.7151.119_Safari/537.36 20250723162623
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250729040945
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250705111711
+Download_Demon/3.5.0.11 20250708161431
+okhttp/4.9.2 20250724073033
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+Chrome 20250713033709
+python-requests/2.32.4 20250708054622
+python-httpx/0.28.1 20250727133631
+Adobe_Application_Manager_2.0 20250710041955
+python-requests/2.27.1 20250717224026
+python-requests/2.26.0 20250728221930
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250729040945
+Mozila/5.0 20250725065352
+\ 20250731135127
+WPCheckBot 20250712065033
+Download_Demon/3.5.0.11 20250708161431
+okhttp/4.9.2 20250724073033
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 810 812
+From1 8 8
+From2 21 22
+From3 1 1
+From4 1113 1230
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 10
+www_google_com_hk 1 1
+www_google_de 1 1
+www_google_co_jp 1 1
+www_google_com_br 2 2
+www_google_com_au 1 1
+www_google_com 8 8
+www_google_co_kr 1 1
+yandexru 0 1
+www_google_co_in 2 2
+google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.baciakte.online 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 2 106
+404 39070 0
+400 1 44
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5105
+/wp-admin/css/go.php 13 -
+/wp-includeswp-includes_function.php 1 -
+/information.php 1 http://immanuelmanohar.com/information.php
+/session.php 1 -
+/admin/autoload_classmap.php 1 -
+/wp-includes/admin.php 24 -
+/site/site.sql 1 -
+/wp-includes/Text/about.php 43 -
+/tmp/db.sql 1 -
+/core/main.dev.js 2 -
+/wp-includes/Requests/Proxy/ 1 -
+/wp-includes/Text/Diff/Renderer/ 11 -
+/backup 46 http://immanuelmanohar.com/backup
+/iR7SzrsOUEP.php 8 -
+/wp-content/up 14 -
+/assets/autoload_classmap.php 1 -
+/wp-includes/Requests/library/wp-login.php 1 -
+/install/ 1 -
+/wp-content/radio.php 30 -
+/local-config.php 1 -
+/vhosts/ovaimzppa.php 1 -
+/lib.php 3 -
+/wp-includes/images/smilies/about.php 44 -
+/wp-includesfontsindex.php 1 -
+/wp-admin/user/chosen.php 40 -
+/cgi-bin/991176.php 1 -
+/wp-content/uploads/wp-login.php 10 -
+/wp-admin/js/sxo.php 1 -
+/wp-includes/block-patterns/autoload_classmap.php 6 -
+/source.rar 1 -
+/wp-includes/css/about.php 17 -
+/wp-adminadmin.php 1 -
+/pom.xml.old 1 -
+/add_class.php 5 -
+/site/.env.local 1 -
+/aws/sts/config.json 2 -
+/wp-admin/includes/admin.php 3 -
+/zb_users/avatar/0.png 1 http://immanuelmanohar.com
+/.well-known//.well-known/owlmailer.php 2 -
+/test_phpinfo3.php 2 -
+/wp-includes/css/dist/widgets/alfa-rex.php8 1 -
+/docs/ 1 -
+/tmp/.aws/keys.json 1 -
+/css/flower.php 1 -
+/1index.php 8 -
+/database/migrations/ 1 -
+/backup/config.php 2 -
+/app_dev.php/_profiler/phpinfo 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/about.php 6 -
+/wp-includes/js/tinymce/themes/alfa-rex.php 1 -
+/images/c99.php 5 -
+//wordpress/wp-includes/wlwmanifest.xml 112 -
+/backup.rar 1 -
+/wp-content/plugins//about.php 1 -
+/backup/adminer.php 2 -
+/wp-content/plugins/linkpreview/index.php 22 -
+/application.properties 10 -
+/ch6-mytodo/.env 2 -
+/mariju.php 11 -
+/perodua-malaysia//mail.php 1 -
+/tmp/.aws/secrets.json 1 -
+/gulpfile.js 2 -
+//current/phpinfo.php 2 -
+/.htpasswd 5 -
+/app_backup_old.zip 1 -
+/admin/wp-signup.php 11 -
+/manager.php 90 -
+/wp-content/languages/plugins.php 1 -
+/wp-admin/includes/index.php 76 -
+/wp-content/plugins/seoo/wsoyanz.php 55 -
+/.git/hooks/ 2 -
+/core/.env~ 2 -
+/admin/backup.sql 2 -
+/al.php 11 -
+/enviroments/.env 1 -
+/admin/adminer.php 2 -
+/wsman 1 -
+/data.mdb 1 -
+/homefunction.php 1 -
+/wp-includes/js/dist/development/ 10 -
+/export.php 5 -
+/composer_old.json 1 -
+/webpack.config_old.js 1 -
+/css/chosen.php 8 -
+/wp-mail.php/wp-includes/ID3/getid3s.php 31 -
+/wp-content/uploads/link.php 4 -
+/admin/ckeditor/plugins/fileman/php/upload.php 1 -
+/vendor/.aws/keys.json 1 -
+/wp-activat.php 1 -
+/wp-includes/Requests/chosen.php 6 -
+/vv.php 14 -
+/wp-content/themes/plugin.php 36 -
+/internal/api 1 -
+/wp-includes/images/media/alfa-rex.php8 1 -
+/admin_login.php 1 -
+/import-logs/ 1 -
+/map.php 5 -
+/bk.php 1 -
+/wp-includes/images/media/text.php 4 -
+/config/.env 15 -
+/Jenkinsfile 2 -
+/Go.id 3 -
+/api-gateway/config.yml 2 -
+/uploads/upload.php 13 -
+/.well-known/xin1.php 1 -
+/wp-content/themes/astra/inc/ki1k.php 79 -
+/.well-known/assetlinks.json 2 -
+/wp-content/upgrade/sx.php 2 -
+/lib/tinymce/plugins/filemanager/dialog.php 2 -
+/wp-content/BypassBest.php 2 -
+/web/index-dev.php 1 -
+/src/access.log 1 -
+/marijuana.php 19 -
+/wp-includes/assets/autoload_classmap.php 1 -
+/wp-includes/theme-compat/embed-core.php 3 -
+/local.xml 1 -
+/.my.cnf 2 -
+/wp-content/ccx/index.php 2 -
+/wp-includes/sodium_compat/src/ 11 -
+/backup/main.js 2 -
+/config.yaml.bak 1 -
+/.well-known/sx.php 2 -
+/wp-content/themes/wp-pridmag/init.php 39 -
+/xz.php 5 -
+/gulpfile_old.js 1 -
+/lock6.php 1 -
+/llms.txt 2 -
+/wp-content/upgrade/autoload_classmap.php 7 -
+//wp2/wp-includes/wlwmanifest.xml 102 -
+/web/app.js.bak 1 -
+/alfaajapet.php 1 -
+/https%3A/www.dropbox.com/s/t6gjtjdzk7owgyj/Immanuel%20CV-ElectricalandComputerEngineer.pdf%3Fdl%3D0 1 -
+/wp-includes/file.php 3 -
+/wp-content/themes/seotheme/custom-plugin.php 1 -
+/wp-content/upgrade-temp-backup/alfa-rex.php 4 -
+/backup/.env~ 2 -
+/code.rar 1 -
+/.git/objects/pack/ 1 -
+/filemanager.php 34 -
+/.well-knownadmin.php 1 -
+/api/config.env 8 -
+/class.api.php 11 -
+/s3/presigned-links 1 -
+/build.rar 1 -
+/admin/shell.php 2 -
+/passwords.txt 1 -
+/wp-theme.php 12 -
+/data/config.php 1 -
+/.ssh/id_rsa.bak 1 -
+/db.dump 2 -
+/metadata/instance/compute/subscriptionId 1 -
+/lab.php 5 -
+/wb.php 5 -
+/license.txt 3 http://immanuelmanohar.com/license.txt
+/wp-includes/class.api.php 1 -
+/appveyor.yml 2 -
+/wp-admin/network/lock.php 4 -
+/wp-content/alfa.php 2 -
+/computeMetadata/v1beta1 2 -
+/wp-content/plugins/WordPressCore/alfa-rex.php 5 -
+/web/main.js 1 -
+/c.php 3 -
+/index.php.bak 1 -
+/wp-content/themes/aahana/json.php/.well-known/pki-validation/xmrlpc.php/.well-known/pki-validation/xmrlpc.php 1 -
+/api/errors/ 1 -
+/media-new.php 6 -
+/wp-admin/maint/go.php 13 -
+/index.php.old 1 -
+/aws_smtp.json 2 -
+/gulpfile.js.old 1 -
+/aws/metadata 2 -
+/admin/panel 1 -
+/authorize.php 7 -
+/etc/config/ 1 -
+/0x.php 44 -
+/config/service.yml 1 -
+/wp-content/plugins/wp-theme-editor/include.php 13 -
+/server.xml 1 -
+/wp-admin/about.php 39 -
+/debug.old 1 -
+/wp-contentadmin.php 1 -
+/randkeyword.PhP7 17 -
+/wp-includes/images/about.php 35 -
+/basket 2 http://immanuelmanohar.com/basket
+/.env.js 3 -
+/config/settings.env 3 -
+/wp-content/themes/oceanwp/functions.php 10 -
+/cgi-bin/themes.php 2 -
+/wp-includes/fonts/wp-login.php 7 -
+/config/app.env 1 -
+/wxo.php 11 -
+/.well-known/dropdown.php 6 -
+/img/ 2 -
+/api-gateway/.env.dev 2 -
+/my.cnf.bak 1 -
+/wp-includes/js/tinymce/plugins/compat3x/ 10 -
+/wp-includes/Requests/library/ 22 -
+/wp-admin/css/colors/file.php 1 -
+/aws/cognito/config.json 2 -
+/ee.php 6 -
+/api/auth/ 1 -
+/.well-known/pki-validation/moon.php 1 -
+/wp-includes/images/media/rk2.php 3 -
+/.well-knownacme-challengeindex.php 1 -
+/wp-includes/Requests/dropdown.php 2 -
+/ini.php 101 -
+/ja.php 1 -
+/s3.js 2 -
+/.circleci/config.yml.bak 1 -
+/wp-admin/includes/class-wp-filesystem-base.php 1 -
+/wp-content/themes/twentytwentytwo/inc/alfa-rex.php 1 -
+/wp-admin/includes/media.php.INFECTED.php 16 -
+/etc/httpd/conf/httpd.conf 1 -
+/allez.php 5 -
+/mysql/.my.cnf 1 -
+/test.php 25 http://immanuelmanohar.com/test.php
+/wp-includes/xxl.php 1 -
+/Telerik.Web.UI.WebResource.axd 2 -
+/core/debug.js 2 -
+/etc/pki/tls/certs/ 1 -
+/aws/.env.ses 2 -
+/gzak2w.php 8 -
+/wp-admin/includes/class-wp-media-list-table-ezd.php 13 -
+/.gitignore.bak 1 -
+/alfa.php 135 -
+/s3/.aws/config.json 1 -
+/i3wfj.php 1 -
+/app_dev.php/_profiler/open 2 -
+/wp-adminnetworkindex.php 1 -
+/wp-includesautoloadclassmap.php 1 -
+/static/etc/passwd 1 -
+/local/.env 5 -
+/web/logs/error.log 1 -
+/storage/oauth-private.key 1 -
+/ecs/task-credentials 2 -
+/wp-includes/sodium_compat/ 2 -
+/config/smtp.php 2 -
+/auth/register 1 -
+/wp-admin/css/OK.php 13 -
+/.firebaserc 1 -
+/aws/s3/public-bucket.json 2 -
+/uploads/ALFA_DATA/alfacgiapi/ 1 -
+/wp-admin/user/plugins.php 6 -
+/web/adminer.php 1 -
+/wp-admin/css/colors/ectoplasm/str_shuffcle.php 13 -
+/wp-admin/users.php 20 -
+/ws.php7 28 -
+/wp-content/plugins/aioseoextensions/file.php 3 -
+/wp-admin/maint/wp-act.php 13 -
+/wp-includes/wso.php 1 -
+/wp-admin/css/colors/ectoplasm/wp-login.php 40 -
+/kn.php 5 -
+/wp-includes/SimplePie/plugins.php 1 -
+/wp-content/themes/twentytwenty/ 1 -
+/ans.php 1 https://immanuelmanohar.com/ans.php
+/logback.xml 1 -
+/js/elfinder/php/connector.php 1 -
+/FoxWSO.php 9 -
+/wp-contentpluginsrevsliderincludesexternalpageindex.php 1 -
+/testing 10 -
+/cssxmrlpc.php 1 -
+/aws/iam/temporary-credentials 2 -
+/core/access.log 2 -
+/storage/ 2 -
+/package-lock.json.bak 1 -
+/wp-includes/Text/index.php 12 -
+/wp-includes/sodium_compat/link.php 4 -
+/auth/bigquery 2 -
+/wp-add-admin.php 5 -
+/src/bundle.js 1 -
+/wp-admin/images/searchl.php 14 -
+/wp-content/themes/wp-pridmag/lock.php/install.php/wp-content/uploads/json.php 1 -
+/wp-includesblocksabout.php 1 -
+/download.php 5 -
+/wp-includes/Text/Diff/Renderer/last.php 13 -
+/wp-includes/js/crop/wp/about.php 1 -
+/wp-config.sublime-project 2 -
+/wp-includes/css/dist/components/alfa-rex.php 1 -
+/karma.conf.js 1 -
+/wp-admin/network/index.php 82 -
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 5 -
+/wp-uploads-config.php 1 -
+/config.php.old 1 -
+/wp-includes/sodium_compat/src/content.php 6 -
+/wordpress 48 http://immanuelmanohar.com/wordpress
+/wp-includes/blocks/autoload_classmap.php 2 -
+/admin/fckeditor/editor/filemanager/alfanew.php 4 -
+/wp-content/languages/ 1 -
+/wp-includes/block-supports/variations.php 4 -
+/1.php 125 -
+/xmlrpc.php0 5 -
+/proc/net/tcp 1 -
+/.github/CONTRIBUTING.md 1 -
+/wp-admin/js/autoload_classmap.php 18 -
+/jdimzmtaas.php 1 -
+/backup/site.conf 2 -
+/wp-includes/sitemaps/providers/wp-login.php 3 -
+/Jenkinsfile.old 1 -
+/config/.env.old 2 -
+/wp-admincsscolorsblueadmin.php 1 -
+/.history 3 -
+/wordpress/wp-admin/install.php 1 -
+/%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D0%B0 2 http://immanuelmanohar.com/%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D0%B0
+/wp-admin/maint/wp-login.php 5 -
+/app/config.php 1 -
+/.login 2 -
+/site/backup.sql 1 -
+/cgi-bin/radio.php 9 -
+/.well-known/wp-login.php 21 -
+/wp-mail.php/wp-includes/ID3/taptap-null.php 8 -
+/db/ 1 -
+/server.key 2 -
+/dist.zip 1 -
+/wp-includes/css/dist/editor/alfa-rex.php 2 -
+/wp-admin/css/colors/coffee/alfa-rex.php 6 -
+/mini.php 33 -
+/file.php 192 -
+/.kube/config 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/vpc-id 2 -
+/man.php7 1 -
+/aws/ecs/task-credentials 2 -
+/wp-content/themes/vantage/inc/alfa-rex.php8 1 -
+/admin/db.php 2 -
+/api/alerts/ 1 -
+/tests/ 1 -
+/config/local.yml 6 -
+/wp-includes/pomo/plugins.php 3 -
+/contacts.php 11 -
+/calendar/ 1 -
+/Wordpress 3 http://immanuelmanohar.com/Wordpress
+/libraries/legacy/info.php 6 -
+/169.254.169.254/latest/user-data 2 -
+/core/debug.log 2 -
+/sendgrid.key 1 -
+/p.php 15 -
+/admin/index_upload.php 8 -
+/msg.php 1 -
+/assets/built%2F..%2F..%2F/package.json 1 -
+/show_ser.php 1 -
+/admin/fckeditor/editor/filemanager/updates.php 6 -
+/wp-admin/images/index.php 111 -
+/wp-includes/assets/about.php7 1 -
+/wp-includes/blocks/wp-conflg.php 44 -
+/test_info2.php 2 -
+/wp-includes/wp-includes/about.php 4 -
+/120f9.php 5 -
+/wp-admin/css/colors/blue/blkabtfa.php 1 -
+/plugins/phpThumb/404.php 4 -
+/wp-content/themes/twentynineteen/sass/alfa-rex.php 1 -
+/wp-includes/sodium_compat/src/alfa-rex.php 6 -
+/public/tinymce/plugins/filemanager/dialog.php 2 -
+/package_old.json 1 -
+/wp-includes/sodium_compat/autoload_classmap.php 36 -
+/wp-includes/Text/wp-login.php 4 -
+/s3/presigned-url 1 -
+/Services/upload.ashx 1 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/privateIpAddress 1 -
+/wp-includes/css/dist/edit-widgets/about.php 1 -
+/wp-content/themes/twentytwentythree/patterns/about.php 1 -
+/wp-content/install.php 21 -
+/wp-content/themes/twentytwentythree/styles/about.php 2 -
+/circle.yml 1 -
+/.backup/mysql.sql 3 -
+/headerg.php 5 -
+/api/threads/ 1 -
+/admin/config.php.bak 2 -
+/wp-content/themes/wp-classic/inc/index.php 2 -
+/about.phphttp://www.copperjungle.marketsaurus.com/wp-admin/images/index.php 2 -
+/wp-includes/js/tinymce/langs/ 11 -
+/detail.php 1 -
+/wp-includes/css/dist/components/ 1 -
+/ok.php 51 -
+/wp-content/wp-conflg.php 5 -
+/wp-includes/block-template-utils.php 13 -
+/config/aws_keys.json 2 -
+/admin/img/loading.gif 1 https://immanuelmanohar.com/admin/img/loading.gif
+/simplefunction.php 1 -
+/docs/.env 2 -
+/modules/mod_simplefileuploadv1.3/elements/file.php 1 -
+/wp-admin/includes/ace.php 13 -
+/server/.env.local 2 -
+/outscout.php 1 https://immanuelmanohar.com/outscout.php
+/node_modules.tar.gz 1 -
+/.aws/ecs-task-credentials.json 3 -
+/wp-contentautoload_classmap.php 1 -
+/s3/presigned-urls 1 -
+/app_backup.zip 1 -
+/src/getSettings.rsb 1 -
+/fw.php 59 -
+/.well-known/pki-validation/afnew.php 12 -
+/wp-content/plugins/litespeed-cache/readme.txt 5 -
+/wp-includes/SimplePie/Cache/autoload_classmap.php 1 -
+/web/.gitignore 1 -
+/debug/default/view 3 -
+/login/files.php 6 -
+/wp-content/upgrade/index.php 47 -
+/classwithtostring.php 128 -
+/core/db.sql 2 -
+/wp-admin/css/about.php 52 -
+/ty.php 77 -
+/..%5c..%5c..%5c..%5c..%5c..%5cvar/log/apache2/access.log 1 -
+/wp-includes/ID3/index.php/wp-includes/Text/network.php 1 -
+/ae.php 16 -
+/w.php 27 -
+/wp-admin/date.php 4 -
+/.config/ 1 -
+/wp-hoard.php 6 -
+/cgi-bin/.env 1 -
+/files/ 3 -
+/templatesbeez3index.php 1 -
+/wp-admin/maint/about.php 100 -
+/wp-includes/ID3/wp-login.php 3 -
+/secrets.yml 7 -
+/wp-content/themes/twentytwentythree/patterns/alfa-rex.php 1 -
+/api/v1/aws/credentials 2 -
+/core/bundle.js.map 2 -
+/internal/admin 1 -
+/films/.env 2 -
+/vendor/aws/credentials 1 -
+/locales/locale.json 1 -
+/cgi-binindex.php 1 -
+/cgi-bin/autoload_classmap.php 1 -
+/upload/login.php 11 -
+/user-data/ 1 -
+/aws/api-gateway/tokens.json 2 -
+/wp-content/themes/file.php 62 -
+/wp-admin/fw.php 6 -
+/etc/nginx/sites-available/ 1 -
+/server.php 4 -
+/wp-includes/SimplePie/Net/about.php 1 -
+/gallery.php 4 -
+/169.254.169.254/latest/meta-data/placement/availability-zone 2 -
+/database_old.sql 1 -
+/wp-admin/css/colors/blue/wp-login.php 6 -
+//2021/wp-includes/wlwmanifest.xml 10 -
+/s3/.env.bak 1 -
+/wp-includes/css/wp-login.php 5 -
+/yoi.php 1 -
+/app/img/loading.gif 1 https://immanuelmanohar.com/app/img/loading.gif
+/configuracion.php 5 -
+/admin/rce.php 2 -
+/var/log/php_errors.log 1 -
+/backup/.git/HEAD 2 -
+/wp-admin/user/ 23 -
+/aws/s3/tokens.json 2 -
+/wp-content/plugins/xt 5 -
+/service/email_service.py 2 -
+/hidden/.aws/config 1 -
+/wp-includes/blocks/loginout/ 1 -
+/wp-admin/css/colors/blue/lock.php 5 -
+/wp-includes/rest-api/sx.php 2 -
+/forum.php 7 -
+/vendor/phpunit/phpunit/src/Util/PHP/astab.php 14 -
+/php.ini.old 1 -
+/hidden/.aws/credentials 1 -
+/wp-includes/autoloadclassmap.php 5 -
+/wp-includes/images/smaxx.php 2 -
+/wp-includes/rest-api/ 22 -
+/wp-admin/maint/wp-damin.php 13 -
+/wp-includes/css/dist/list-reusable-blocks/ 1 -
+/plugins/servlet/snjCustomDesignConfig 1 -
+/wp-admin/ 32 -
+/ckeditor/plugins/fileman/php/upload.php 1 -
+/wp-admin/admin-wolf.php 1 -
+/wp-includes/ID3/favicon.php 14 -
+/web 9 -
+/.wp-cache.php 5 -
+/wp-content/uploads/mmzmiqzf.php 1 -
+/latest/meta-data 3 -
+/wp-trackback.php 102 -
+/api/init.php 2 -
+/wp-admin/js/privacy-tools.min.php 1 -
+/uploads/k69834253_index.php 1 -
+/index/function.php-signup.php 1 -
+/s3/public/credentials 1 -
+/searchlabelPHP-Shells 1 -
+/settings/secrets.json 1 -
+/bk 37 http://immanuelmanohar.com/bk
+/install-logs/ 1 -
+/application.bak 1 -
+/cgi-bin/xmrlpc.php 53 -
+/wp-includes/js/tinymce/plugins/about.php 1 -
+/backup/site.sql 2 -
+/js/elfinder/php/connector.minimal.php 1 -
+/169.254.170.2/v2/credentials/container-role 2 -
+/.well-known/traffic-advice 1 -
+/admin/.git/logs/HEAD 2 -
+/sqldb.php 1 https://immanuelmanohar.com/sqldb.php
+/12.php 14 -
+/wp-includes/IXR/alfa-rex.php7 1 -
+/.github/CODEOWNERS 1 -
+/sendgrid.php 1 -
+/var/www/html/logs/ 1 -
+/smtp/keys.json 1 -
+/good.php 3 -
+/wp-includes/ID3/install.php 7 -
+/base/.env 1 -
+/aws/eks/config.json 2 -
+/error-reports/ 1 -
+/config/sendinblue.php 2 -
+/admin-heade.php 5 -
+/home/www/config.php 1 -
+/api/environment/ 1 -
+/wp-contentt.php 6 -
+/wp-core.php 11 -
+/wp-content/plugins/pwnd/pwnd.php 24 -
+/wp-content/plugins/core-plugin/include.php 35 -
+/error.php 8 -
+/websocket/.env 2 -
+/admin/login 2 -
+/content.php 66 -
+/wp-includes/block-patterns/index.php 48 -
+/cache-compat.php 27 -
+/wp-admin/images/Mhbgf.php 4 -
+/README.md.bak 1 -
+/.well-known/link.php 6 -
+/wp-content/plugins/TOPXOH/wDR.php 5 -
+/wp-includes/SimplePie/wp-login.php 26 -
+/.git/logs/refs/remotes/origin/HEAD 4 -
+/api/events/ 1 -
+/wp-content/product.php 28 -
+/xml.php 14 -
+/wp-content/plugins/ubh/1.php 11 -
+/wp-admin/plugin.php 4 -
+/wp-admin/priv8.php 3 -
+/.mysql_history 2 -
+/wp-includes/shell20211028.php 3 -
+/README.md.old 1 -
+/wp-content/themes/index.php 91 -
+/wp-admin/log.php 34 -
+/wp-includes/blocks/more/ 2 -
+/core/logs/error.log 2 -
+/raf.php 11 -
+/api/execute.php 2 -
+//2019/wp-includes/wlwmanifest.xml 109 -
+/.aws_secrets.js 3 -
+/config/config.ini 1 -
+/assets/images/1p.php 2 -
+/my_env/chakaash.py 4 -
+/k8s/.env 1 -
+/credentials_old.json 1 -
+/admin/editor/engine.php 4 -
+/docker/app/.env 6 -
+/CHANGELOG.txt 1 -
+/marketing/.env.production 2 -
+/wp-admin/shell20211028.php 1 -
+/wp-includes/html-api/alfa-rex.php 3 -
+/wp-includes/SimplePie/Cache/alfa-rex.php8 1 -
+/k8s/eks/token.json 1 -
+/ss.php 6 www.google.com
+/sim.php 13 -
+/portal/.env 4 -
+/archives.php 1 -
+/robots.txt 325 -
+/src/bundle.js.map 1 -
+/wp-content/languages/about.php 42 -
+/cgi-bin/admin.php 5 -
+/news.php 41 -
+/wp-content/plugins/autoload_classmap.php 1 -
+/cgi-binxmrlpc.php 1 -
+/php_version.php 3 http://immanuelmanohar.com/php_version.php
+/wp-includes/Requests/about.php7 1 -
+/upload/autoload_classmap.php 1 -
+/api/shared/.env 5 -
+/wp-includes/blocks/chosen.php 3 -
+/wp-content/plugins/linkpreview/db.php 34 -
+/alfa123.php 5 -
+/main_old.js 1 -
+//xmlrpc.php 113 -
+/wp-admin/js/alfa-rex.php 4 -
+/wp.zip 1 -
+/gif.php 6 -
+/uploads/phUploader.php 14 -
+/wp-admin/network/cloud.php 24 -
+/autoload_classmap.php 146 -
+/.travis.yml.bak 1 -
+/.cpanel/caches/config/.env 3 -
+/wp-admin/network/network.php 11 -
+/actuator/shutdown 1 -
+/wp-commentin.php 7 -
+/wp-includes/theme-compat/wp-login.php 12 -
+/wp-adminautoload_classmap.php 1 -
+/admin.php 185 -
+/config/api.yml 1 -
+/database.yml 2 -
+/wp-content/themes/twentytwentyone/template-parts/alfa-rex.php 1 -
+/mailer/.env 4 -
+/wp-content/uploads/2008/11/2index.php 1 -
+/wp-content/themes/twentytwenty/classes/alfa-rex.php8 2 -
+/password-logs/ 1 -
+/.env.prod 16 -
+/key-logs/ 1 -
+/mah.php 61 -
+/api/plain/ 1 -
+/database/database.sqlite 1 -
+/up.php 43 -
+/assets/plugins/jquery-file-upload/server/php/include.php 5 -
+/public/s3.json 1 -
+/wp-content/iu.php 1 -
+/wp-links.php/wp-content/plugins/wp-content/uploads/wp_live_chat/ 1 -
+/wp-content/plugins/admin.php 52 -
+/wp-includes/SimplePie/Content/about.php7 1 -
+/.smtp.json 2 -
+/multiColumnTemplate.css 1 -
+/var/www/html/info.php 1 -
+/login.php 14 -
+/wp-admincssindex.php 1 -
+/wp-content/plugins/WordPressCore/include.php 9 -
+/item.php 114 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/subnet-id 2 -
+/wp-admin/network/ 14 -
+/wp-includesSimplePieadmin.php 1 -
+/application/config/config.php 1 -
+/web/bundle.js.map 1 -
+/admin/db.sql 2 -
+/p/i/ 2 -
+/api/system/ 1 -
+/wp-config.backup.txt 2 -
+/xox.php 5 -
+/anonse/lock360.php 5 -
+/.git/config 77 http://immanuelmanohar.com/.git/config
+/api/text/ 1 -
+/wp-content/themes/twentynineteen/fonts/about.php 1 -
+/wp-admin/css/colors/blue/atomlib.php 40 -
+/login.bak.php 1 -
+/nf.php 8 -
+/wp-admin/wso.php 1 -
+/.env.mail 1 -
+/vhosts/index.php 1 -
+/wp-includes/class-wp-pages.php 3 -
+/Procfile 2 -
+/backend/config/settings.yml 3 -
+/oldsite/wp-admin/install.php 1 -
+/V5.php 5 -
+/wp-content/themes/twentytwelve/page-templates/alfa-rex.php8 1 -
+/siteheads.php 4 -
+/configs/development.yml 2 -
+/lufix.php 6 -
+/Sendemail.php 5 -
+/wp-includes/html-api/wp-conflg.php 39 -
+/169.254.169.254/latest/meta-data/iam/ 2 -
+/images/loadinglit.gif 1 http://immanuelmanohar.com
+/edu/show.php 1 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/.well-known/cihjbmjk.php 6 -
+/wp-admin/js/widgets/hYdXrMgTbH.php 13 -
+/wp-content/plugins/xt/php 2 -
+/wp-includes/IXR/shell.php 4 -
+/olu.php 5 -
+/wp-admin/js/widgets/cong.php 2 -
+/js/config.js 1 -
+/php_error_log 1 -
+/blog/ALFA_DATA/alfacgiapi/ 1 -
+/wp-admin/user/about.php 38 -
+/latest/meta-data/iam/info 1 -
+/.well-known/ALFA_DATA/alfacgiapi/ 1 -
+/wp-admin/css/colors/modern/alfa-rex.php8 1 -
+/db_config.php 1 -
+/core/.git/logs/HEAD 2 -
+/wp-includes/blocks/calendar/index.php 2 -
+/wp-includes/js/codemirror/wp-login.php 2 -
+/wp-includesjstinymcepluginscompat3xcss 1 -
+/aws-admin 2 -
+/Test 2 http://immanuelmanohar.com/Test
+/config/error.log 2 -
+/fm.php/admin.php 1 -
+/go.php 16 -
+/api/responses/ 1 -
+/vhosts/ovaizmsld.php 1 -
+/imagesvuln.php 5 -
+/e/data/images/arrow.gif 1 http://immanuelmanohar.com
+/rindex.php 1 -
+/account-logs/ 1 -
+/wp-admin/install.php 42 -
+/config.php.save 1 -
+/faculty/show.php 1 -
+/admin/terminal.php 2 -
+/vhosts/makeasmtp.php 1 -
+/www 2 http://immanuelmanohar.com/www
+/wp-content/plugins/elementor-pro/modules/woocommerce/skins/ 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/.ssh/authorized_keys.old 1 -
+/App_Web/ueditor/net/controller.ashx 1 -
+/audit_old.log 1 -
+/shell 1 -
+/wp-content/.env 3 -
+/k8s/secrets/aws 1 -
+/special.php 11 -
+/phpinfo.php3 2 -
+/restapi/.env 2 -
+/wow/ 4 -
+/7.php 6 -
+/cgi-bin/1.php 4 -
+/libraries/vendor/updates.php 22 -
+/wp_wrong_datlib.php 1 -
+/wp-content/alfacgiapi/ 1 -
+/wp-includestheme-compatabout.php 1 -
+/wp-includes/js/crop/wp/alfa-rex.php8 1 -
+/wp-includes/sodium_compat/namespaced/ 1 -
+/backup/backup.tar.gz 2 -
+/wp-content/plugins/wpsml-sys.php 3 -
+/*.tmp 1 -
+/api/token 2 -
+/config/settings.json 4 -
+/ynz.PhP7 4 -
+/email.json 2 -
+/checkout 2 http://immanuelmanohar.com/checkout
+/wp-content/themes/twentytwentytwo/about.php 2 -
+/admin/logs/error.log 2 -
+/secrets/ 1 -
+/portfolio/ 1 -
+/wp-content/plugins/seoplugins/mar.phphttps://soundfusestudio.com/wp-links.php 2 -
+/app.php 18 -
+/wp-admin/css/colors/midnight/alfa-rex.php8 2 -
+/wp-includes/Text/Diff/index.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php 58 -
+/config/app.js.bak 2 -
+/settings.bak 1 -
+/admin/uploads/media.php 4 -
+/.well-known/pki-validation/jp.php 4 -
+/manifest.json 1 -
+/new/.env.staging 4 -
+/protected/.env 3 -
+/.git.bak 1 -
+/header.php 13 -
+/templates/beez5/mar.php 1 -
+/.aws/s3/keys 3 -
+/core/database.php 2 -
+/sad/about.php 1 -
+/wp-includes/Text/Diff/Engine//index.php 1 -
+/s_e.php 5 -
+/tokens/ 1 -
+/vendor.rar 1 -
+/wp-includes/Requests/Utility/cc.php 3 -
+/assets/images/doc.php 37 -
+/signin 1 -
+/wp-content/uploads/2014/03/smile.php 3 -
+/actuator/prometheus 1 -
+/wp-content/themes/twentytwentytwo/styles/ 1 -
+/backend/config.yaml 1 -
+/wp-includes/Requests/library/about.php7 1 -
+/about.php525 5 -
+/updates.php 46 -
+/wp-content/plugins/fix/sxo.php 1 -
+/kibana/ 1 -
+/elmah.axd 1 -
+/ova-tools.php 14 -
+/terraform/.env 1 -
+/vendor/.aws/credentials 1 -
+/h0110w4y.php 1 -
+/New 3 http://immanuelmanohar.com/New
+/cp/.env 2 -
+/config/dump.sql.gz 2 -
+/wp-admin/ben.php 1 -
+/config/auth.json 1 -
+/core/dump.sql 2 -
+/vendor/.aws/config 1 -
+/static2.php 1 https://immanuelmanohar.com/static2.php
+/aws/metadata/iam 2 -
+/.well-known/caches.php 5 -
+/wp-content/x/ 1 -
+/wp-admin/user/index.php 45 -
+/wp-contentuploads 1 -
+/wp-includes/css/dist/widgets/index.php 1 -
+/console/ 1 -
+/wp-admin/network/wp-conflg.php 21 -
+/old/wp-admin/install.php 1 -
+/randkeyword.PhP8 10 -
+/console 4 -
+/wp-json/wp/v2/users 1 -
+/assets/upload/ALFA_DATA/alfacgiapi/ 1 -
+/aws/s3/.env 2 -
+/api/xml/ 1 -
+/mycommand.php 3 -
+/qa/.env.staging 2 -
+/wp-contentdropdown.php 1 -
+/wp-content/plugins/seoplugins/db.php 28 -
+/7index.php 5 -
+/404.php 131 -
+/wp-admin/images/as.php 4 -
+/WEB-INF/classes/ 1 -
+/admin/dump.sql.gz 2 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/mac/ 2 -
+/Gruntfile.js.bak 1 -
+/169.254.169.254/latest/meta-data/instance-type 2 -
+/pom.xml 3 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/api-gateway/keys.json 2 -
+/usr/local/php/php.ini 1 -
+/.well-known/pki-validation/link.php 3 -
+/metadata/instance/compute/location 1 -
+/app.js.bak 3 -
+/karma.conf_old.js 1 -
+/api/execute 2 -
+/plugins/DaoZM.php 4 -
+/index/function.php/wp-includes/Text/network.php 1 -
+/gecko-new.php 22 -
+/wp-includes/sodium_compat/namespaced/Core/ 11 -
+/src/.gitignore 1 -
+/admin/flower.php 1 -
+/.classpath 1 -
+/wp-includes/SimplePie/HTTP/ 1 -
+/wp-contentthemesindex.php 1 -
+/secrets/secret.key 1 -
+/.json 1 -
+/cgi-binwp-login.php 1 -
+/wp-admin/maint/file.php 1 -
+/wander.php 9 -
+/wp-includes/customize/wp-conflg.php 4 -
+/next/.env 2 -
+/wp-includes/js/tinymce/skins/about.php 1 -
+/wp-includes/js/codemirror/about.php 52 -
+/BIBIL_0DAY.php 6 -
+/webpack.config.js.old 1 -
+/wp-comments-post.php 24 -
+/wp-includes/js/ 11 -
+/.git/COMMIT_EDITMSG 7 -
+/wp-admin/css/colors/index.php 107 -
+//blog/wp-includes/wlwmanifest.xml 112 -
+/backup/wp-admin/install.php 1 -
+/img/wp-login.php 14 -
+/test/bdd/fixtures/couchdb/.env 2 -
+/old.zip 1 -
+/welcome.php 5 -
+/wp-content/plugins/fix/sx.php 2 -
+/components/ALFA_DATA/alfacgiapi/ 1 -
+/aws-config.json 2 -
+/wp-includes/css/index.php 19 -
+/static/..%5c..%5c..%5c..%5cetc/passwd 1 -
+//wordpress/ 1 immanuelbloch.net/blog//wp-login.php
+/aws/keys_backup.json 2 -
+/wp-content/updraft/ 1 -
+/main.yml 4 -
+/.git/config.old 3 -
+/ 16 -
+/v1/api-docs 1 -
+/.aws/credentials 26 http://immanuelmanohar.com/.aws/credentials
+/wp-admin/images/profile.php 11 -
+/file-manager/content 1 -
+/filebrowser.php 6 -
+/wp-content/plugins/awesome-coming-soon/come.php 13 -
+/asfunction.php 1 -
+/.db_backup.tar.gz 3 -
+/error-logs/ 1 -
+/wp-adminimagesindex.php 1 -
+/backup-logs/ 1 -
+/wp-logs.php 1 -
+/.pypirc 1 -
+/.well-knownpki-validationxmrlpc.php 1 -
+/modules/file.php 2 -
+/admin/.gitignore 2 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/ 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/small.php 14 -
+/wp-includes/php-compat/ 11 -
+/wp-includes/theme-compat/about.php 18 -
+/adminer.php 16 -
+/wp-content/wp-22.php%20/as.php 1 -
+/.github/PULL_REQUEST_TEMPLATE.md 2 -
+/security.txt.bak 1 -
+/g.php 17 -
+/forms/doLogin 1 -
+/admin-logs/ 1 -
+/fix.php 14 -
+/env_old.json 1 -
+/wp-content/plugins/woocommerce/i18n/alfa-rex.php 1 -
+/.git/objects/ 6 -
+/ssl/private.key 1 -
+/requirements_old.txt 1 -
+/wp-includes/Requests/Exception/ 1 -
+/wp-admin/css/admin.php 19 -
+/wp-includes/images/chosen.php 7 -
+/cah.php 6 -
+/images/ALFA_DATA/alfacgiapi/ 1 -
+/config/params.json 1 -
+/.gitlab/ 2 -
+/.env.old 15 -
+/wp-includes/css/dist/preferences/wp-login.php 16 -
+/wp-includes/rest-api/wp-login.php 6 -
+/admin/log.txt 2 -
+/wp-admin/network/chosen.php 71 -
+/index/about.php 6 -
+/djfksr4.php 1 -
+/aws_config.js 2 -
+/config/debug.php 2 -
+/testphpinfo 2 -
+/rest-api/about.php 1 -
+/wp-includes/Text/Diff/autoload_classmap.php 1 -
+/.npmrc.bak 1 -
+/wp-admin/includes/go.php 13 -
+/wp-admininstall.php 1 -
+/settings_old.py 1 -
+/wp-includes/css/dist/widgets/about.php 2 -
+/wp-content/function.php 24 -
+/config.yml 8 -
+/r.php 11 -
+/wp-admin/css/colors/modern/ 2 -
+/alfadheat.php 1 -
+/fm.php 84 -
+/input.php 22 -
+/.well-known/pki-validation/fm.php 4 -
+/.git/execute.php 2 -
+/.git/hooks/post-commit 5 -
+/cms 9 -
+/database/seeders/ 1 -
+/wp-includes/rest-api/endpoints/index.php 7 -
+/fucixwya.php 5 -
+/wp-includes/images/media/about.php 4 -
+/wp-content/plugins/elementor/ 1 -
+/wp-includesplugins.php 1 -
+/.well-known/pki-validation/admin.php 15 -
+/id_ecdsa 1 -
+/backup/config.json 2 -
+/query.php 5 -
+/wp-content/themes/seotheme/classwithtostring.php 5 -
+/wp-adminimagesabout.php 1 -
+/wp-content/languages/asus.php 6 -
+/wp-includes/block-supports/sx.php 2 -
+/core/phpinfo.php 2 -
+/%c0 1 -
+/wp-admin/user/xmrlpc.php 29 -
+/wp-includes/class-json-ajax-session.php 13 -
+/redis-*.conf 2 -
+/wp-includes/css/dist/format-library/alfa-rex.php8 2 -
+/about/ 1 -
+/proc/cpuinfo 1 -
+/ovaallxgr.php 1 -
+/wp-adminuserwp-login.php 1 -
+/css/cloud.php 29 -
+/public/plugins/ckeditor/images/spacer.gif 2 http://immanuelmanohar.com/public/plugins/ckeditor/images/spacer.gif
+/*.old 1 -
+/wp-admincssadmin.php 1 -
+/wp-includes/SimplePie/Net/about.php7 1 -
+/wp-adminincludesabout.php 1 -
+/widgets.php 14 -
+/utchiha.php 3 -
+/wp-content/plugins/pwnd/classwithtostring.php 6 -
+/CONTRIBUTING.md.bak 1 -
+/api/proxy 4 -
+/tmp/errors.log 1 -
+/wp-includes/SimplePie/autoload_classmap.php 1 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/ecsTaskExecutionRole/ 2 -
+/web/bundle.js 1 -
+/admin/bundle.js 2 -
+/token/ 1 -
+/.git/hooks/pre-commit 5 -
+/.env.project 2 -
+/wp-1ogin.php 1 -
+/wp-admin/css/colors/ocean/Module.php 1 -
+/headers.php 19 -
+/api/v1/aws/keys 2 -
+/admin/settings 1 -
+/wp-content/themes/seotheme/db.php 26 -
+/wp-admin/wso112233.php 2 -
+/xindex.php 5 -
+/core/site.conf 2 -
+/wp-includes/Text/alfa-rex.php 5 -
+/wp-includes/js/tinymce/skins/wordpress/images/index.php 13 -
+/.editorconfig 1 -
+/wp-admin/includes/admin-ajax.php 13 -
+/wp-admin/css/colors/midnight/alfa-rex.php 1 -
+/proc/self/fd/ 1 -
+/M1.php 1 -
+/httpd.conf 2 -
+/metadata/instance 1 -
+//blog/ 1 immanuelbloch.net/blog//wp-login.php
+/sitemap_index.xml 2 -
+/swm.php 5 -
+/license.php 15 -
+/.env.json 4 -
+/.backup.tar 3 -
+/modules/mod_simplefileuploadv1.3/elements/ 10 -
+/wp-includes/0.php 14 -
+/wp-admin/images/cloud.php 37 -
+/_logs.php 1 https://immanuelmanohar.com/_logs.php
+/link.php/wp-includes/Text/network.php 1 -
+/tmp/.aws/config 1 -
+/wp-admin/atomlib.php 2 -
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/.env.stage 10 -
+/dist/ 1 -
+/wp-content/plugins/pwnd/a.php 3 -
+/gitlab-ci.yml 3 -
+/wp-content/themes/news-portal/error.php 1 -
+/.well-known/pki-validation/muse.php 5 -
+/f35.php 36 -
+/wp-content/gallery/about.php 33 -
+/cgi-bin/wp-2019.php 10 -
+/sshd_config.old 1 -
+/information 2 -
+/wp-includes/blocks/post-author/ 1 -
+/api/v1/users 3 -
+/wp-includes/certificates/plugins.php 15 -
+/sql.log 1 -
+/wp-admin/fucku.php 2 -
+/.backup.sql 3 -
+/wp-includes/product.php 2 -
+/wp-includes/js/dist/vendor/about.php 1 -
+/.well-known/ 44 -
+/develop/.env 2 -
+/wp-includes/sitemaps/about.php 6 -
+/wp-includes/sitemaps/autoload_classmap.php 1 -
+/wp-includes/certificates/up.php 4 -
+/admin/admin.php 16 -
+/disagraep.php 5 -
+/config/config.yml 2 -
+/wp-includes/rest-api/about.php 31 -
+/update.php 16 -
+/wp-admin/includes/class-wp-pagebuilders-5tgxav.php 13 -
+/wp-content/plugins/woocommerce/lib/alfa-rex.php8 1 -
+/wp-config.swp 2 -
+/.well-known/pki-validation/sx.php 2 -
+/wp-includescssindex.php 1 -
+/3301.php 5 -
+/sites/default/files/ 37 -
+/wp-content/themes/twentytwentytwo/inc/alfa-rex.php8 2 -
+/main.dev.js 1 -
+/wp-admin/includes/class-wp-pagebuilders-BDsjLk.php 13 -
+/wp-includes/IXR/index.php 52 -
+/wp-content/plugins/ 14 -
+/wp-content/plugins/shell/ 1 -
+/wp-admin/css/colors/blue/ 17 -
+/mcs.php 8 -
+/admin/controllers/partner.js 3 -
+/images/admin.php 34 -
+/public/uploads/.s3cfg 1 -
+/wp-admin/css/colors/ 10 -
+/docker-compose.yml 13 -
+/composer.json.old 1 -
+/admin/.git/config 2 -
+/wp-content/themes/kadence/functions.php 10 -
+/contents.php/lv.php 11 -
+/wp-content/cong.php 42 -
+/wp-pano.php 4 -
+/.env.bak 13 -
+/wp-includes/rest-api/alfa-rex.php 4 -
+/aws/api-gateway/swagger.json 2 -
+/wp-includesIXRallez.php 1 -
+/.backup/ 1 -
+/vhosts/simple.php 1 -
+/src/main.js 1 -
+/debug/ 1 -
+/file2.php 7 -
+/wp-includes/css/dist/block-library/alfa-rex.php8 1 -
+/register.php 1 -
+/.ssh/id_ecdsa 1 -
+/css/nqfvanbd.php 1 -
+/.github/workflows/build.yml 2 -
+/readme.php 57 -
+/wp-content/uploads/2022/07/ 2 -
+/autoloadclassmap.php 7 -
+/wp-includes/block-supports/index.php 8 -
+/wp-includes/ID3/rk2.php 7 -
+/nano.php 1 -
+/css/sxo.php 1 -
+/kindex.php 5 -
+/wp-content/themes/pridmag/admin.php 10 -
+/engine.php 11 -
+/production_old.log 1 -
+/wp-admin/doc.php 3 -
+/backup_site.zip 1 -
+/.well-knownpki-validationindex.php 1 -
+/swagger.json 3 -
+/wp-admin/images/edit-tags.php 13 -
+/wp-admin/options.php 6 -
+/admin/proxy 4 -
+/webdav/ 1 -
+/wp-includes/wso112233.php 1 -
+/src/logs/error.log 1 -
+/pms 3 -
+/gdftps.php 5 www.google.com
+/CHANGELOG.md 1 -
+/src/adminer.php 1 -
+/users.php 10 -
+/wp-includescssabout.php 1 -
+/wp-includes/random_compat/post.php 1 -
+/wp-includes/davoeqyv.php 13 -
+/wp-includes/SimplePie/gzdecodes.php 5 -
+/signup.php 1 -
+/metadata/instance/compute/vmId 1 -
+/wp-includes/js/swfupload/about.php7 1 -
+/.well-knownindex.php 1 -
+//etc/passwd 1 -
+/iu.php 1 -
+/wp-includes/Text/Diff/ 11 -
+/wp-includes/pomo/fgertreyersd.php.suspected 2 -
+/ioxi02.php 5 -
+/.well-known/fm.php 2 -
+/plugins/pwnd/as.php 3 -
+/chosen 24 -
+/sitemap.xml.gz 3 -
+/wp-includes/customize/wp-login.php 8 -
+/config/services.php 2 -
+/wp-admin/yindu.php 30 -
+/cssindex.php 1 -
+/.git/MERGE_HEAD 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/.git/index 6 -
+/config/config.env 6 -
+/wp-admin/maint/cong.php 13 -
+/h.php 5 -
+/wp-includes/about.php 55 -
+/wp-content/themes/vantage/images/about.php 1 -
+/access_log 1 -
+/vault/.env 1 -
+/etc/issue 1 -
+/wp-includes/Text/network.php 40 -
+/doc/function.php 11 -
+/WEB-INF/lib/ 1 -
+/comfunctions.php 8 -
+/config/smtp.json 2 -
+/js/env.js 1 -
+/.well-known/wso112233.php 2 -
+/config.phpinfo 3 http://immanuelmanohar.com/config.phpinfo
+/wp-content/themes/twentynineteen/images/alfa-rex.php8 1 -
+/dev/.env 5 -
+/blurbs.php 9 -
+/graphql/console 2 -
+/wp-includes/customize/chosen.php 28 -
+/sockjs-node/ 1 -
+/Alfa.php 4 -
+/wp-includes/SimplePie/XML/alfa-rex.php8 1 -
+/css/colors/coffee/index.php 4 -
+/wp-content/plugins/classic-editor/ 1 -
+/wp-admin/css/wp-login.php 23 -
+/k.php 46 -
+/application.ini 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 8 -
+/restore-logs/ 1 -
+/wp-content/themes/twentytwenty/assets/alfa-rex.php 1 -
+/wp-includes/SimplePie/Content/Type/wp-login.php 7 -
+/wp-includes/images/crystal/about.php 4 -
+/api/data/ 1 -
+/assets/images/wp-login.php 4 -
+/wp-file.php 26 -
+/new 48 http://immanuelmanohar.com/new
+/env.php 4 http://immanuelmanohar.com/env.php
+/test/.env 3 -
+/bc 37 http://immanuelmanohar.com/bc
+/aged.php 6 -
+/sshd_config 1 -
+/api 2 -
+/userfuns.php 1 www.google.com
+/terms/ 1 -
+/wp-content/plugins/dropdown.php 1 -
+/wp-admin/xl2023.php 1 -
+/execute.php 2 -
+/config_old.xml 1 -
+/src/app.js.bak 1 -
+/wp-includeswidgetsabout.php 1 -
+/wp-sigunq.php 31 -
+/m.php 68 -
+/adama/adama/downloadService 1 -
+/graphql/test 2 -
+/Thumbs.db 1 -
+/.backup 7 -
+/wp-content/plugins/seoplugins/wso112233.php 6 -
+/wp-includesautoload_classmap.php 1 -
+/css/admin.php 13 -
+/config/settings.yml 1 -
+/wp-contentthemespridmagdb.php 1 -
+/sql_old.sql 1 -
+/wp-includes/css/dist/preferences/index.php 41 -
+/src/index-dev.php 1 -
+/web/access.log 1 -
+/api-gateway/.env.bak 2 -
+/wp-content/plugins/woocommerce/lib/about.php7 1 -
+/config/config.php.bak 2 -
+/mysqldump.sql 1 -
+/wp-admin/css/colors/coffee/ 2 -
+/.well-knowngecko-litespeed.php 1 -
+/wp-includes/SimplePie/system.php 4 -
+/account/ 1 -
+/wp-includes/css//index.php 1 -
+/aws/metadata.json 2 -
+/wp-contentuploadsindex.php 1 -
+/wp-includesSimplePieabout.php 1 -
+/wp-admin/images/install.php 18 -
+/.vscode/settings.json 5 -
+/index.js.bak 1 -
+/mango.php 1 -
+/uploader.php 1 -
+/wp-content/plugins/xt/ 4 -
+//web/wp-includes/wlwmanifest.xml 112 -
+/x.php 69 -
+/WWW 2 http://immanuelmanohar.com/WWW
+/.git/refs/ 5 -
+/ads.txt 5 http://immanuelmanohar.com/ads.txt
+/wp-content/themes/twentynineteen/js/about.php 1 -
+/backup/main.dev.js 2 -
+/config.php7 13 -
+/wp-content/upgrade/wp-sigunq.php 7 -
+/manage.py 1 -
+/.ssh/authorized_keys 2 -
+/index.old 1 -
+/cookie.php 12 -
+/var/www/html/uploads/ 1 -
+/e/data/ecmseditor/infoeditor/plugins/smiley/images/angel_smile.png 1 http://immanuelmanohar.com
+//wp-includes/ID3/license.txt 10 -
+/mongodb/config/dev/.env 2 -
+/api/aws/cloudfront 2 -
+/wp-includes/block-bindings.php 13 -
+/inventory.ini 1 -
+/wp-contentupgradeabout.php 1 -
+/Www 2 http://immanuelmanohar.com/Www
+/node-api/.env 2 -
+/wp-includespomofgertreyersd.php 1 -
+/wp-includes/fonts/plugins.php 1 -
+/wp-adminclasswithtostring.php 1 -
+/gebase.php69 10 -
+/upload.php 5 -
+/.well-known/pki-validation/mariju.php 5 -
+/wp-adminmaintindex.php 1 -
+/radio.php 128 -
+/tests/drupal-test/.env 2 -
+/version.php 3 http://immanuelmanohar.com/version.php
+/wp-includes/SimplePie/Cache/about.php 6 -
+/worm0.PhP7 4 -
+/php.ini 4 -
+/requirements.txt.old 1 -
+/wp-includes/customize/autoload_classmap.php 4 -
+/api/tools/ 1 -
+/.well-known/info.php 1 -
+/wp-includes/l10n/ 1 -
+//info.php 2 -
+/brand.php 15 -
+/wp-includes/wlwmanifest.xml 1 -
+/.circleci/ 1 -
+/09-managing-state/begin/vue-heroes/.env 2 -
+/41.php 5 -
+/locale.php 10 -
+/1bwqtre/admin.php 8 -
+/src/main/resources/application-dev.yml 2 -
+/syslog 1 -
+/wp-admin/css/colors/classwithtostring.php 3 -
+/wp-back.php 8 -
+/wp-includes/css/dist/block-editor/alfa-rex.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 22 -
+/wp-mail.php/wp-includes/ID3/rk2.php 6 -
+/news/ 1 -
+/aws/api-gateway/config.json 2 -
+/wp-content/mah.php 5 -
+/wp-admincssabout.php 1 -
+/_vti_pvt/service.pwd 1 -
+/http%3A/www.sciencedirect.com/science/article/pii/S0165168416300809 2 -
+/wp-content/themes/themes.php 1 -
+/passwords/ 1 -
+/sites/default/settings.php 1 -
+/wp-includes/item.php 8 -
+/actuator/loggers 1 -
+/wp-admin/edit.php 1 -
+/settings.php 19 -
+/wp-includes/images/smilies/dVSRAByORS.php 1 -
+/.bash_history.bak 1 -
+/var/log/nginx/error.log 4 -
+/app.yaml 2 -
+/clientaccesspolicy.xml 1 -
+/backup/.git/logs/HEAD 2 -
+/config/db.sql 2 -
+/env.zip 2 -
+/thesmartestx.php 1 -
+/etc/secrets/ 1 -
+/info_old.log 1 -
+/dashboard/admin/phpinfo.php 2 -
+/api/v1/credentials 2 -
+/api/auth 2 -
+/.well-known/cong.php 19 -
+/goods.php 32 -
+/token-logs/ 1 -
+/test/backup.zip 1 -
+/sendgrid.json 1 -
+/wp-ad.php 5 -
+/wp-admin/6myKRCf7pkL.php 1 -
+/wp-includes/images/ 13 -
+/wp-adminindex.php 1 -
+/uploaded_script.php 4 www.google.com
+/wp-includes/images/psh.php 3 -
+/info.php 128 -
+/downloader.php 1 -
+/wp-content/content.php 4 -
+/api/BetterImageGallery/imagehandler 1 -
+/geju.php 10 -
+/muie_db.sql 1 -
+/actuator/beans 1 -
+/wp-contentthemesseothememar.php 1 -
+/wp-admin/css/lock.php 1 -
+/test/execute.php 1 -
+/wp-content/plugins/akismet/alfa-rex.php8 1 -
+/wp-admin/css/colors/sunrise/alfa-rex.php8 2 -
+/setup.cgi 1 -
+/disagreed.php 10 -
+/nginx.conf 2 -
+/wp-admin/js/widgets/ 3 -
+/build/ 1 -
+/.config/.env 2 -
+/s3-credentials.json 1 -
+/cgi-bin/ 3 -
+/api/aws/api-gateway 2 -
+/Google.php 1 https://immanuelmanohar.com/Google.php
+/.eslintrc.js 1 -
+/proc/meminfo 1 -
+/cgi-binabout.php 1 -
+/phpmyadmin/ 1 -
+/vhosts/item.php 1 -
+/wp-includes/js/jquery/ 11 -
+/wp-admin/css/colors/coffee/index.php 47 -
+/v1/graphql 1 -
+/password/ 1 -
+/config/env.yml 1 -
+/admin/phpinfo 2 -
+/.github/stale.yml 1 -
+/cron.php 14 -
+/app/config.json 1 -
+/index.php 82 -
+/scripts/nodemailer.js 2 -
+/backup/bundle.js 2 -
+/wp-includes/php-compat/content.php 3 -
+/var/log/httpd/error_log 1 -
+/wp-content/themes/aahana/json.php/wp-admin/user/admin.php/.well-known/pki-validation/xmrlpc.php 1 -
+/tmp 9 -
+/wp-includes/css/tj.php 8 -
+/warenkorb 2 http://immanuelmanohar.com/warenkorb
+/controller/api/post.js 3 -
+/admin/site.conf 2 -
+/BACKUP 2 http://immanuelmanohar.com/BACKUP
+/database.old 1 -
+/tools/phpinfo.php 2 -
+/wp-contentuploads202503themes.php 1 -
+/data/.env 3 -
+/tinyfilemanager.php 9 -
+/k8s/eks/secrets/aws 1 -
+/contact/ 2 -
+/sftp-config.json 7 -
+/web/site.conf 1 -
+/wp-includes/css/alfa-rex.php 4 -
+/careers/ 1 -
+/13k.php 15 -
+/houtai/img/loading.gif 1 https://immanuelmanohar.com/houtai/img/loading.gif
+/wp-content/upgrade/function.php 2 -
+/controller.php 1 -
+/export-logs/ 1 -
+/config/bundle.js.map 2 -
+/.well-known/security.txt.old 1 -
+/wp-old 3 http://immanuelmanohar.com/wp-old
+/auth.php 1 -
+/.git/refs/remotes/ 4 -
+/wp-content/themes/wp-pridmag/classwithtostring.php 5 -
+/server.old 1 -
+/kubernetes/metadata 1 -
+/wp-includes/php-compat/autoload_classmap.php 1 -
+/auth_old.log 1 -
+/alfa-rex1.php 5 -
+/wp-admin/chosen.php 36 -
+/actuator/flyway 1 -
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/buy.php 7 -
+/kk.php 11 -
+/wp-content/themes/sketch/404.php 15 -
+/wp-includes/rest-api/fields/ 10 -
+/config/app.yml 1 -
+/aks.php 5 -
+/admin/graphql 2 -
+/reset.php 1 -
+/wp-includes/PHPMailer/alfa-rex.php7 1 -
+/backup/settings.php 2 -
+/.backup/pgsql.dump 3 -
+/169.254.169.254/latest/meta-data/public-hostname 2 -
+/indeex.php 11 -
+/wp-includes/plugins.php 7 -
+/debug-logs/ 1 -
+/controller/admin/post.js 3 -
+/wp-content/themes/vantage/inc/alfa-rex.php 1 -
+/dropdown.php 81 -
+/x/index.php 12 -
+/s3-bucket-list.json 1 -
+/wp-includes/fonts/install.php 3 -
+/1234.php 2 -
+/wp-admin/rss.php 3 -
+/internal/169.254.169.254/latest/meta-data/iam/security-credentials/ 1 -
+/wp-blog.php 10 -
+/wp-content/uploads/index.php/wp-includes/Text/network.php 6 -
+/wp-includes/Requests/library/alfa-rex.php7 1 -
+/backup/backup.sql 2 -
+/wp-includes/SimplePie/alfa-rex.php7 2 -
+/wp-includesTextabout.php 1 -
+/bless.php 61 -
+/nginx/.env 2 -
+/sitemap.txt 2 -
+/wp-includes/SimplePie/about.php7 1 -
+/forgot.php 1 -
+/bak.php 50 -
+/beta/shell.php 2 -
+/config/phpinfo.php 2 -
+/wp-content/themes.php 28 -
+/wp-content/themes/twentytwenty/classes/about.php 1 -
+/src/.env.bak 1 -
+/.env.development.local 1 -
+/yox.php 11 -
+/latest/meta-data/iam/security-credentials/ 3 -
+/policy/ 1 -
+/shell.cgi 1 -
+/wp-includes/style-engine/index.php 32 -
+/wp-l0gin.php 11 -
+/wp-includes/style-engine/ 1 -
+/wp-content/uploads/ 36 -
+/twilio.env 3 -
+/mail.php 92 -
+/.git 1 -
+/.git/ 6 -
+/wp/ALFA_DATA/alfacgiapi/ 1 -
+/network.php 34 -
+/.git/info/ 1 -
+/docker-compose.override.yml 6 -
+/wp-content/uploads/index.php 76 -
+/wp-admin/wp-login.php 16 -
+/wp-contentuploads2024index.php 1 -
+/site/phpinfo.php 1 -
+/wp-includes/install.php 11 -
+/api/config.js 3 -
+/requirements.txt.bak 1 -
+/wp-content/themes/vantage/snippets/alfa-rex.php 1 -
+/.git/config.bak 3 -
+//media/wp-includes/wlwmanifest.xml 75 -
+/wp-adminjsautoload_classmap.php 1 -
+/wp-content/themes/404.php 1 -
+/wp-includes/style-engine/wp-login.php 5 -
+/wp//index.php 1 -
+/image_data/.env 2 -
+/in.php 1 -
+/api/libraries/ 1 -
+/wp-includes/fonts/class-wp-font-collection.php 13 -
+/api/v1/token 2 -
+/web/log.txt 1 -
+/wp-apxupx.php 5 -
+/.well-known/pki-validation/install.php 11 -
+/key/ 1 -
+/php_errors.log 1 -
+/.htpasswd.bak 1 -
+/bootstrap/cache/config.php 2 -
+/product/.env.staging 2 -
+/ayk.php 1 -
+/images/anjay.php 14 -
+/wp-config-sample.php 16 -
+/assets/images/images.php 1 -
+/.git/refs/remotes/origin/main 2 -
+/edit.php 100 -
+/post-data.php 1 -
+/wp-admin/css/acces.php 13 -
+/he.php 13 -
+/wp-includes/SimplePie/Decode/HTML/wp-login.php 2 -
+/.env~ 5 -
+/wp-includesblock-patternsabout.php 1 -
+/var/log/secure 1 -
+/admin/controller/extension/extension/blue.php 4 -
+/sendinblue.json 1 -
+/.cloudfront/keys.json 3 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/admin.php 2 -
+/.htpasswd.old 1 -
+/manifest.json.bak 1 -
+/size.php 1 https://immanuelmanohar.com/size.php
+/wp-mail.php/wp-includes/ID3/rnEPv9.php 4 -
+/.gitignore.old 1 -
+/admin-header.php 11 -
+/.git/logs/refs/remotes/origin/main 1 -
+/wp-admincsscolorsblueindex.php 2 -
+/graphql 6 -
+/5index.php 7 -
+/cgi-bin/cgi-bin/about.php7 35 -
+/admin/uploads/lv.php 4 -
+/wp-includes/js/tinymce/utils/ 12 -
+/sx.php 45 -
+/docker-compose.prod.yml 4 -
+/wp-content/class.api.php 1 -
+/.env.development.sample 1 -
+/var/www/html/data/ 1 -
+/text.php 59 -
+/gg.php 1 https://immanuelmanohar.com/gg.php
+/.env.backup 8 -
+/node/.env 2 -
+/up/fierzashell.html 1 -
+/api/secrets/ 1 -
+/1.php7 8 -
+/k8s/secrets/iam 1 -
+/wq.php7 7 -
+/wp-content/cloud.php 1 -
+/aws/iam/credentials.json 2 -
+/shared/config/config.js 2 -
+/wp-admin/css/fw.php 8 -
+/site/.git/logs/HEAD 1 -
+/wp-includesjsjcropJcrop.php 1 -
+/webpack.config.js 2 -
+/application/config/database.php 1 -
+/wp-includes/images//about.php 1 -
+/api-key/ 1 -
+/crash-reports/ 1 -
+/old/config.json 1 -
+/wp-json 3 http://immanuelmanohar.com/wp-json
+/credits.php 11 -
+/user/ 1 -
+/my_env/palash.py 4 -
+/site/database.php 1 -
+/wp-includes/wp-login.php 3 -
+/usersfiles/ 10 -
+/contact 1 http://immanuelmanohar.com/contact
+/wp-content/themes/xss/alfa-rex.php8 2 -
+/wp-includes/block-supports/ 3 -
+/ups.php 5 -
+/wp-content/xl2023.php 1 -
+/configs/s3_config.json 3 -
+/api/server/ 1 -
+/wp-includes/prayer_intentions.php 13 -
+/169.254.170.2/v2/credentials/ 2 -
+/config/.env.save 2 -
+/product/.env 2 -
+/wp-content/themes/tripod/languages/alfa-rex.php8 1 -
+/config.php.bak 3 -
+/xleet-shell.php 9 -
+/defaults.php 44 -
+/etc/shadow 1 -
+/wp-content/fw.php 1 -
+/api/keys/ 1 -
+/baxa1.php 8 -
+/wp-contentthemestwentytwenty.php 1 -
+/footer.php 4 -
+/.viminfo 1 -
+/wp-content/plugins/pwnd-1/as.php 3 -
+/wp-admin/maint/autoload_classmap.php 1 -
+/.well-known/change-password 1 -
+/root.php 6 -
+/var/www/html/admin/config.php 1 -
+/bu5.php 1 -
+/wp-content/plugins/seoo/ulc2.php 8 -
+/js/fm.php 19 -
+/wp-content/themes/info.php 2 -
+/wp-content/ 43 -
+/var/log/apache2/error.log 2 -
+/wp-content/themes/twentynineteen/fonts/alfa-rex.php 2 -
+/config/secrets.php 1 -
+/profiles/ 1 -
+/config/environments/development.rb 1 -
+/.well-known/pki-validation/cifcxgxm.php 3 -
+/wp-includes/Text/wp-conflg.php 40 -
+/helper.js 2 -
+/wp-includes.bak/html-api/about.php 21 -
+/baja.php 11 -
+/berlin.php 6 -
+/wp-admin/js/ 8 -
+/site/dump.sql 1 -
+/wp-includes/blocks/shortcode/ 1 -
+/database_old.yml 1 -
+/wp-content/plugins/about.php 53 -
+/proc/version 1 -
+/.env.dev.json 3 -
+/wp-includes/1index.php 3 -
+/wp-content/plugins/revslider/includes/external/page/index.php 55 -
+/node/.env_example 4 -
+/wp-mail.php/wp-includes/ID3/wp-mail.php 5 -
+/kubernetes/.env 1 -
+/cong.phphttps://protectthekids-co.fireyourpestcompany.com/wp-includes/Text/about.php 2 -
+/OLD 3 http://immanuelmanohar.com/OLD
+/wp-includes/bmccxior.php 5 -
+/wp-content/themes/twentytwentythree/patterns/alfa-rex.php8 1 -
+/wp-content/plugins/rsquaaj/index4.php 1 -
+/privacy.php 6 -
+/api/stream/ 1 -
+/wp-contentupgrade-temp-backupabout.php 1 -
+/wp-includes/ID3/module.tag.id3v3.php 8 -
+/logs/ 2 -
+/wp-content/uploads/wpr-addons/forms/RxRzhwix.php 11 -
+/etc/ssh/sshd_config 1 -
+/.tmb/autoload_classmap.php 1 -
+/api-docs 1 -
+/wp-admin/includes/plugins.php 1 -
+/.git-credentials 5 -
+/aws_lambda/config.json 2 -
+/artisan 3 -
+/api/test.php 2 -
+/.env.smtp_server 2 -
+/wp-content/themes/include.php 38 -
+/leaf.php 1 -
+/wp-includes/js/jcrop/Jcrop.php 18 -
+/wp-admincsscolorsmidnightcolors.php 1 -
+/wp-content/themes/plugins.php 2 -
+/api/path/ 1 -
+/v4.php 8 -
+/web/debug.php 1 -
+/wp-content/themes/twentytwentytwo/index.php 50 -
+/wp-admin/network/plugins.php 30 -
+/legal/ 1 -
+/README.md 2 -
+/wp-includes/manager.php 3 -
+/api/failure/ 1 -
+/404.shtml 7 -
+/alfanew.php 73 -
+/auth_old.json 1 -
+/wp-content/themes/twentynineteen/inc/alfa-rex.php8 2 -
+/public/.aws/secrets.json 1 -
+/.aws_keys.json 3 -
+/sshd_config.bak 1 -
+/wp-content/smaxx.php 2 -
+/assets/admin.php 4 -
+/wp-includes/sodium_compat/wp-login.php 6 -
+/xxl.php 8 -
+/templates/beez3/ 10 -
+/aws/config.ini 2 -
+/data/ 1 -
+/wp-link.php/wp-content/plugins/wp-content/uploads/wp_live_chat/ 1 -
+/wp-includescustomizeabout.php 1 -
+/dodoswap-client/.env 2 -
+/wp-includes/rest-api/autoload_classmap.php 5 -
+/wp-includes/css/autoload_classmap.php 1 -
+/wp-includes/SimplePie/alfa-rex.php8 1 -
+/ge.php 15 -
+/beta/db.sql 2 -
+/src/.env~ 1 -
+/wp-admin/x.php 19 -
+/.gitconfig 1 -
+/.ssh/ 1 -
+/wp-content/themes/jaida/lang.php 1 -
+/xl.php 16 -
+/wp-admin/includes/class-wp-pagebuilders-yJCbp3.php 1 -
+/wp-content/file.php 42 -
+/vhosts/wp-pano.php 1 -
+/lab/.env 2 -
+/aws/s3/credentials.json 2 -
+/k8s/eks/credentials 1 -
+/C.php 1 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 16 -
+/.well-known/themes.php 4 -
+/admin/tinymce/license.txt 1 -
+/images.php 11 -
+/batm.php 6 -
+/gebase.php 6 -
+/wp-content/themes/travel-lite/alfa-rex.php 1 -
+/wp-includes/block-support.php 9 -
+/laravel-file-manager/tinymce 1 -
+/wp-content/themes/twentynineteen/inc/about.php 1 -
+/.bash_history 2 -
+/aws_keys.js 2 -
+/.env.smtp.local 2 -
+/wp-includes/css/dist/alfa-rex.php 1 -
+/src/site.sql 1 -
+/images/class-config.php 16 -
+/wp-adminpages.php 1 -
+/assets/js/env.js 2 -
+/hoot.php 21 -
+/wp-includes/SimplePie/Content/Type/alfa-rex.php 4 -
+/api/env/ 1 -
+/ml.php 1 -
+/notification-logs/ 1 -
+/lock.php 26 -
+/wp-admin/block-support.php 9 -
+/wp-mail.php/wp-includes/ID3/admin.php 1 -
+/block-bindings.php 5 -
+/var/log/dmesg 1 -
+/config/aws.yml 7 -
+/config/debug.log 2 -
+/prometheus/ 1 -
+/wp-includes/SimplePie/Canonical.php 1 -
+/showproduct.php 1 -
+/update/admin.php 1 -
+/.well-known/pki-validation/sim.php 1 -
+/Shop 2 http://immanuelmanohar.com/Shop
+/wp-admin/index.php 29 -
+/wp-includes/php-compat/about.php7 1 -
+/wp-api.php 11 -
+/wp-includes/repeater.php 22 -
+/cloudfront/secrets.json 2 -
+/wp-content/upgrade/admin.php 32 -
+/db.old 1 -
+/private.key 1 -
+/wp-content/uploads/de_fb_uploads/b.phpde_fb_uploads&upload=gaskan 6 -
+/web/db.sql 1 -
+/wp-admin/maint/edit.php 11 -
+/img/about.php 23 -
+/admin/controller/extension/extension/ultra.php 32 -
+/wp-includes/blocks/comment-template/ 1 -
+/config/database.php 4 -
+/wp-includes/block-supports/autoload_classmap.php 7 -
+/elementor-84/ 1 -
+/var/www/html/dump/ 1 -
+/alfa-rexhp1.php 4 -
+/.well-known/pki-validation/dropdown.php 26 -
+/root/img/loading.gif 1 https://immanuelmanohar.com/root/img/loading.gif
+/wp-content/uploads/autoload_classmap.php 37 -
+/cc.php 63 -
+/wp-includes/ID3/ 24 -
+/wp-includes/wp-includes/alfa-rex.php 4 -
+/.git/.env 3 -
+/search/label/PHP-Shells 5 -
+/.env 110 -
+/wp-content/uploads/2023/08/admin.php 6 -
+/main_user/.env 2 -
+/.well-known/wp-load.php 3 -
+/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/admin/.env 18 -
+/alonepage.php 1 -
+/wp-includes/alfacgiapi/ 1 -
+/.git.tar 1 -
+/server-logs/ 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/wp-admin/sxo.php 1 -
+/wp-content/themes/travel-lite/js/alfa-rex.php 1 -
+/images//////////etc/passwd 1 -
+/files.php 25 -
+/IDhrIlrLb.php 5 -
+/apps/admin/view/default/layui/css/layui.css 1 http://immanuelmanohar.com
+/wp-config.b 2 -
+/wp-content/plugins/shell//text.php 1 -
+/wp-includes/theme-compat/chosen.php 19 -
+/169.254.170.2/latest/meta-data/iam/security-credentials/ 2 -
+/View_55555.php 1 -
+/.DS_Store 7 -
+/api/key.json 2 -
+/img/xmrlpc.php 20 -
+/web/.git/ 1 -
+/env.development.local 2 -
+/login/.env 2 -
+/actuator/metrics 1 -
+/opt/weblogic/user_projects/domains/base_domain/config/config.xml 1 -
+/wp-singin.php 5 -
+/config/aws.js 2 -
+/01.php 31 -
+/wp-includes/js/codemirror/autoload_classmap.php 1 -
+/wp-includes/blocks/archives/ 1 -
+/storage/.env 3 -
+/wp-includes/Text/autoload_classmap.php 17 -
+/colour.php 5 -
+/wp-config.staging 2 -
+/editor/filemanager/upload/php/upload.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/ 1 -
+/wp-includesIXRindex.php 1 -
+/source.zip 1 -
+/wp-admin/css/wp-damin.php 14 -
+/wordpress/ 1 http://immanuelmanohar.com/wordpress/
+/public/shell.php 1 -
+/helper/EmailHelper.js 2 -
+/.vscode/.env 5 -
+/.well-known/change-password.bak 1 -
+/gawean.PhP7 7 -
+/email/credentials.json 2 -
+/wordpress/wp-admin/includeswp-conflg.php 4 -
+/api/body/ 1 -
+/.git~ 1 -
+/wp-admin/images/atomlib.php 3 -
+/cong.php 115 -
+/wp-admin/cloud.php 22 -
+/wp-plain.php 1 www.google.com
+/update/f35.php 21 -
+/SITE 2 http://immanuelmanohar.com/SITE
+/latest/user-data 3 -
+/wp-content/upgrade/about.php 38 -
+/api/query/ 1 -
+/wp-includes/js/swfupload/ 11 -
+/system_log.php 53 -
+/site/site.conf 1 -
+/eks/secrets/iam 2 -
+/backup/logs/error.log 2 -
+/blog.php 26 -
+/wp-content/plugins/root-file-manager/wp-file.php 1 -
+/auth/login 1 -
+/admin/error.log 2 -
+/cart 2 http://immanuelmanohar.com/cart
+/wp-content/plugins/woocommerce/src/alfa-rex.php 1 -
+/it.php 5 -
+/internal/aws/credentials 1 -
+/_profiler/phpinfo/info.php 5 -
+/.well-known/esjmskva.php 1 -
+/wp-admin/maint/maint.php 31 -
+/CONTRIBUTING.md.old 1 -
+/symlink.php 5 -
+/.database.tar.gz 3 -
+/actuator/auditevents 1 -
+/public/db_dump.sql 1 -
+/wp-login.php 81 -
+/aws.json 2 -
+/public/static/common/images/file.png 1 http://immanuelmanohar.com
+/temp/ 1 -
+/byp.php 37 -
+/wp-includes/blocks/site-logo/ 1 -
+/backup.zip 10 -
+/css/install.php 3 -
+/Dockerfile 3 -
+/api/notifications/ 1 -
+/upload/ALFA_DATA/alfacgiapi/ 1 -
+//service/phpinfo.php 2 -
+/wp-admin/css/colors/midnight/admin.php 8 -
+/legal/.env 2 -
+/images/test.php 13 -
+/y.php 8 -
+/js/api.js 1 -
+/api/plugins/ 1 -
+/results/.env 2 -
+/wp-content/themes/twentytwentyone/about.php 1 -
+/wp-p.php7 23 -
+/bg/xmrlpc.php 3 -
+/test/wp-admin/install.php 1 -
+/.env.development 13 -
+/wp-includes/Text/Diff/alfa-rex.php 3 -
+/filefuns.php 2 -
+/wp-content/plugins/clara/clara.php 10 -
+/libraries/phpmailer/updates.php 22 -
+/wp-admin/wp-apxupx.php 1 -
+/hex.php 1 -
+/wp-content/themes/customizr/assets/about.php 1 -
+/s3/public/keys 1 -
+/wp-content/themes/twentythirteen/alfa-rex.php8 1 -
+/aws_credentials.txt 2 -
+/fck.php 1 https://immanuelmanohar.com/fck.php
+/api/modules/ 1 -
+/help/ 1 -
+/wp-includes/wp-activate.php 1 -
+/wp-admin/css/colors/blue/moon.php 4 -
+/wp-includes/css/dir/alfa-rex.php7 1 -
+/smtp/private.json 1 -
+/api/env 1 -
+/error/ 1 -
+/metrics 2 -
+/ebs.php7 21 -
+/laravael/core/.env 4 -
+/ssl/cert.pem 1 -
+/config/ 1 -
+/wp-content/db-cache.php 18 -
+/project.tar.gz 1 -
+/wp-content/plugins/pwnd/block-support.php 9 -
+/.config.js 3 -
+/phpinfo3.php 2 -
+/web/.env.save 1 -
+/chosen.php 120 -
+/vendor/aws/secrets.json 1 -
+/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php 1 -
+/metadata/instance/compute/tags 1 -
+/admin/ 10 -
+/cgi-bin/index.php 48 -
+/download/.env 2 -
+/Gemfile.bak 1 -
+/wp-consar.php 22 -
+/wp-includes/rest-api/admin.php 6 -
+/templates/ 1 -
+/config_old.json 1 -
+/cgi-bin/about.php 49 -
+/well-known/admin.php 2 -
+/wp-admin/maint/smile.php 14 -
+/delete5.php 1 -
+/wp-content/themes/alfa-rex.php 2 -
+/priv8.php 5 -
+/examples/with-dotenv/.env 2 -
+/wp-content/mu-plugins/gecko.php 4 -
+/kb/ 1 -
+/css/ALFA_DATA/alfacgiapi/ 1 -
+/info1.php 2 -
+/.env.mail_keys 2 -
+/wp-includesTextautoload_classmap.php 1 -
+/wp-includes/css/dist/block-library/ 11 -
+/wp-admin/css/ 41 -
+/wp-includes/Requests/ 14 -
+/vhosts/wander.php 1 -
+/.settings/ 1 -
+/etc/nginx/nginx.conf 1 -
+/wp-admin 1 -
+/git.tar.gz 1 -
+/login/ 2 -
+/js/ckeditor/fileman/php/upload.php 1 -
+/home/user/.ssh/id_rsa 1 -
+/wso.php 21 -
+/wp-content/themes/twentynineteen/inc/alfa-rex.php 1 -
+/index/fucku.php 3 -
+/vhosts/nf_tracking.php 1 -
+/opt/tomcat/conf/server.xml 1 -
+/webadmin.php 37 -
+/client/.env 1 -
+/wp-class.php 25 -
+/public/s3-bucket.json 1 -
+/aws/lambda/secrets.json 2 -
+/build.gradle.old 1 -
+/wp-includes/css/alfa-rex.php7 1 -
+/knowledgebase/ 1 -
+/cronlab/.env 2 -
+/.git/ORIG_HEAD 5 -
+/.dockerenv 3 -
+/wp-contentpluginsadmin.php 1 -
+/web/backup.tar.gz 1 -
+/config/production.json 1 -
+/V3.php 5 -
+/admin/server_info.php 5 -
+/wp-contentpluginsabout.php 1 -
+/secrets/aws.json 1 -
+/nextjs-app/.env 2 -
+/.docker/config.json 2 -
+/1337.php 1 -
+/.git/logs/HEAD 6 -
+/file-manager/initialize 1 -
+/.well-known/acme-challenge/ 12 -
+/*.bak 1 -
+/zb_system/login.php 1 http://immanuelmanohar.com
+/mailer_config.php 1 -
+/delete3.php 1 -
+/hinfofuns.php 11 -
+/admin/settings.php 2 -
+/cloud-config.yml 1 -
+/.stylelintrc 1 -
+/serverconfig.xml 1 -
+/wp-content/themes/about.php7 1 -
+/migration-logs/ 1 -
+/.idea/ 1 -
+/.well-known/ktlldmmx.php 1 -
+/wp-content/themes/pridmag//ioxi-o.php 1 -
+/.well-known/autoload_classmap.php 3 -
+/wp-content/uploads/2023/03/ 1 -
+/system/img/loading.gif 1 https://immanuelmanohar.com/system/img/loading.gif
+/wp-includes/images/smilies/wp-login.php 4 -
+/elfinder/elfinder.html 1 -
+/alfa-rexhp1.p 7 -
+/l/index.php 1 -
+/wp-header.php 1 -
+/wp-config.cfg 2 -
+/log.txt 3 -
+/repo/.env 2 -
+/wp-content/plugins/init-help/init.php 10 -
+/firebase.json 1 -
+/xc.php 1 -
+/library.php 1 -
+/karma.conf.js.bak 1 -
+/api/aws/lambda 2 -
+/uploads/2014/03/smile.php 4 -
+/shell20211028.phphttps://aasthainwanderland.in/wp-admin/images/index.php 1 -
+/src/.env.save 1 -
+/form.php 5 -
+/wzy.php 1 -
+/project.zip 1 -
+/wp-head.php 12 -
+/wp-content/languages/link.php 4 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/ec2-instance-role 2 -
+/config/.git/config 2 -
+/Assets/admin.php 6 -
+/test/fixtures/app_types/node/.env 2 -
+/admin/db_dump.php 2 -
+/vendor/aws/config 1 -
+/src/backup.tar.gz 1 -
+/wp-content/packed.php 74 -
+/wp-admin/images/users.php 8 -
+/wp-includes/index.php 60 -
+/wp-content/themes/seotheme/classwithtostring.php/install.php/wp-content/uploads/json.php 1 -
+/config.json 14 -
+/wp-content/shell20211028.php 11 -
+/WSOEnigma.php 10 -
+/now.json 1 -
+/.well-known/pki-validation/classwithtostring.php 5 -
+/eetuxgqqgn.php 1 -
+/classsmtps.php 36 -
+/apps/admin/view/default/images/logo.png 2 -
+/info 4 -
+/alwso.php 5 -
+/.dump 3 -
+/staging/.env 2 -
+/graphql/query 2 -
+/NewFile.php 21 -
+/site/debug.js 1 -
+/LICENSE 1 -
+/wp-includes/Requests/file.php 5 -
+/wp-includes/packed.php 5 -
+/dev/shell.php 2 -
+/wp-content/xxl.php 1 -
+/tmp/execute.php 1 -
+/wp-includes/sitemaps/providers/index.php 5 -
+/.dump.sql 3 -
+/.git-secret/ 1 -
+/.aws/policies 2 -
+/.well-known/gecko-litespeed.php 68 -
+/wp-admin/item.php 6 -
+/services/traefik/.env 2 -
+/wp-content/uploads/js.php 14 -
+/ucms/img/loading.gif 1 https://immanuelmanohar.com/ucms/img/loading.gif
+//helper/phpinfo.php 2 -
+/vendor/composer/index.php 6 -
+/.github/SECURITY.md 1 -
+/wp-includes/SimplePie/index.php 57 -
+/wp-includes/fonts/themes.php 14 -
+/list.php 1 -
+/TEST 2 http://immanuelmanohar.com/TEST
+/phpinfo.php 22 http://immanuelmanohar.com/phpinfo.php
+/public/.aws/config 1 -
+/wp-includes/pomo/wp-login.php 2 -
+/web.xml.bak 1 -
+//2020/wp-includes/wlwmanifest.xml 34 -
+/xampp/info.php 2 -
+/wp-includes/js/tinymce/alfa-rex.php8 1 -
+/wp2.php 13 -
+/wp-includes/css/dist/customize-widgets/ 1 -
+/buildspec.yml 1 -
+/po8sa.php 1 -
+/.well-known//index.php 1 -
+/public/backup.zip 1 -
+/vendor/.aws 1 -
+/wp-content/wp-login.php 9 -
+/themesindex.php 1 -
+/wp-includes/Requests/wp-login.php 1 -
+/.ssh/id_rsa.old 1 -
+/wp-admin/user/admin.php 44 -
+/wp-content/upgrade/plugins.php 1 -
+/includes/ 1 -
+/.well-known/makeasmtp.php 3 -
+/users.db 1 -
+/bb.php 11 -
+/wp-includes/images/alfa-rex.php8 2 -
+/wp-includes/js/jcrop/ 11 -
+/wp-admin/css/colors/blue/blue.php 4 -
+/api/shared/config.env 5 -
+/site/access.log 1 -
+/myadmin/ 1 -
+/w0.php 1 -
+/cgi-bin/moon.php 5 -
+/Sanskrit.php 16 -
+/CONTRIBUTING.md 1 -
+/wp-includes/block-supports/about.php 35 -
+/backup.sql 6 -
+/public/.aws/credentials 1 -
+/cgi-bin/sx.php 2 -
+/migrate.php 5 -
+/.aws_lambda/handler.js 3 -
+/wp-includes/js/crop/about.php 2 -
+/system.inc 1 -
+/.git/refs/stash 4 -
+/css/colors/blue/atomlib.php 31 -
+/wp-content/style-css.php 4 -
+/backend/.env 17 -
+/js/main.js 2 -
+/auth 2 -
+/auth/ 1 -
+/wp-signin.php 11 -
+/class-t.api.php 3 -
+/wp-includes/network.php 5 -
+/fx.php 11 -
+/logs/error.log 1 -
+/core/backup.sql 2 -
+/wp-admin/images/plugins.php 1 -
+/actuator/caches 1 -
+/ovajnhgdr.php 1 -
+/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/.tmp/ 1 -
+/config/debug.js 2 -
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/rahma.php 5 -
+/scripts/config.js 1 -
+/.env.mail_settings.local 2 -
+/getid3-core.php 3 -
+/proc/self/root/ 1 -
+/actuator/health 3 -
+/var/log/auth.log 1 -
+/web.config 4 -
+/aws/.env.prod 2 -
+/wp-content/plugins/pwnd-1/dropdown.php 8 -
+/alfashell.php 11 -
+/up/ 4 -
+/settings.json 1 -
+/test4.php 2 -
+/pki-validation/about.php 2 -
+/config/settings.local 3 -
+/wp-admin/images/about.php 65 -
+/src/db.sql 1 -
+/core/.env.local 2 -
+/wp-admin/css/colors/ectoplasm/admin.php 8 -
+/build.gradle 3 -
+/wp-includes/SimplePie/Parse/alfa-rex.php7 1 -
+/wp-includes/Requests/index.php 2 -
+/wp-includes/css.php 8 -
+/root/infophp 2 -
+/wp-adminimagesadmin.php 1 -
+/api/get-browser-snapshot 3 -
+/include/ckeditor/images/addon.gif 2 http://immanuelmanohar.com
+/wp-includes/IXR/about.php 70 -
+/phpinfo/php-details.php 2 -
+/.ssh/authorized_keys.bak 1 -
+/backup/dump.sql 2 -
+/credentials.xml 1 -
+/.env.sendgrid 3 -
+/backup_*.sql 1 -
+/wp-content/uploads/suit5y.php 13 -
+/wp-includes/Text/Diff/about.php7 2 -
+/api/config/.env 1 -
+/wp-content/uploads/wp.php 33 -
+/wp-includes/Requests/src/ 11 -
+/wp-content/themes/twentynineteen/about.php 1 -
+/.s3cfg.bak 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 199 -
+/man.php 1 -
+/wp-admin/user/file.php 1 -
+/wp-includescustomizechosen.php 1 -
+/room.php 10 -
+/site/main.dev.js 1 -
+/xmrlpc.php 79 -
+/wp-cron.php 58 -
+/var/log/messages 1 -
+/source.php 11 -
+/wp-admin/js/widgets/about.php 2 -
+/wp-includes/widgets/class-wp-widget-media-audio-module.php 14 -
+/static/js/main.141b0494.js 1 -
+/web/site.sql 1 -
+/wp-includes/widgets/include.php 5 -
+/storage/framework/sessions/ 1 -
+/wp-atom.php 4 -
+/aws/cognito/secrets.json 2 -
+/wp-includesassetsindex.php 1 -
+/wp-content/themes/hello_dolly_v2.php 1 www.google.com
+/wp-includes/SimplePie/gzdecodes.php.suspected 1 -
+/public/admin.php 13 -
+/development_old.log 1 -
+/core/site.sql 2 -
+/guide/ 1 -
+/wp-contentuploadscong.php 1 -
+/api/socket/ 1 -
+/wp-includes/certificates/ 13 -
+/blog/.env 3 -
+/.gitlab/issue_templates/ 2 -
+/root/.ssh/id_rsa 1 -
+/config.js 5 -
+/wp-includes/IXR/sx.php 2 -
+/src/.git/ 1 -
+/wp-includes/js/codemirror/index.php 57 -
+/site/.env~ 1 -
+/secret/.env 1 -
+/wp-includes/html-api/about.php 5 -
+/linusadmin-phpinfo.php 2 -
+/7yn.php 5 -
+/wp-content/uploads/error_log.php 2 -
+/api/binary/ 1 -
+/config.bak 3 -
+/wp-includes/images/crystal//index.php 1 -
+/wso1337.php 5 -
+/dump.sql 9 -
+/wp-content/themes/twentytwentyone/alfa-rex.php 2 -
+/wp-includescertificateswp-login.php 1 -
+/credentials.json 6 -
+/we.php 8 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/a.php 27 -
+/.svn/ 1 -
+/error_log 3 -
+/app/env.json 1 -
+/wp-includes/customize/ 15 -
+/wp-includes/theme-compat/wp-conflg.php/wp-content/plugins/google-seo-rank/install.php 3 -
+/.env.zip 3 -
+/var/log/ 1 -
+/wp-content/mu-plugins-old/flower.php 1 -
+/fm1.php 2 -
+/config/parameters.yml 5 -
+/.git/refs/heads/main 4 -
+/site.tar.gz 1 -
+/backup.php 22 -
+/Makefile 1 -
+/169.254.170.2/v2/metadata/ 2 -
+/gulpfile.js.bak 1 -
+/xhell.php 5 -
+/4price.php 5 -
+/vendor/phpunit/phpunit/src/Util/PHP/ffl82xdf59.php 1 -
+/wp-includes/widgets/hehe.php 13 -
+/xampp/.env 2 -
+/graphql/api 2 -
+/sitio 2 http://immanuelmanohar.com/sitio
+/169.254.169.254/latest/meta-data/instance-id 2 -
+/wp-admincsscolorscoffeeabout.php 1 -
+/aws/iam/secrets.json 2 -
+/db_backup.dump 2 -
+/wp-includes/Requests/Cookie/wp-login.php 5 -
+/images/chosen.php 4 -
+/admin-app/.env 3 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 22 -
+/.idea/workspace.xml 4 -
+/config.inc.php 3 -
+/aaa.php/getid3-core.php 8 -
+/wp-includes/css/wp-conflg.php 3 -
+/hehe.php 21 -
+/past.php 1 -
+/env/.env 5 -
+/db_backup.sql 3 -
+//flower.php 3 -
+/about.php 165 -
+/composer.lock.old 1 -
+/images/lmfi2.php 3 -
+/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7 1 http://immanuelmanohar.com/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7
+/aws/cloudfront/secrets.json 2 -
+/sidekiq/ 1 -
+/plugins.php 103 -
+/docker-compose/platform/.env 2 -
+/.well-known/oduexytv.php 1 -
+/api/v1/keys 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 21 -
+/upel.php 5 -
+/.gitlab/merge_request_templates/ 2 -
+/wp-content/config.php 5 -
+/actuator/trace 1 -
+/dev.php 3 -
+/backup/access.log 2 -
+/hotpot-app-frontend/.env 2 -
+/bin/ 2 -
+/wp-includes/js/crop/zmFM.php 9 -
+/.env.dist 3 -
+/storage/oauth-public.key 1 -
+/oldsite 3 http://immanuelmanohar.com/oldsite
+/Jenkinsfile.bak 1 -
+/wp-content/plugins/atomlib.php 8 -
+/src/debug.php 1 -
+/config/.env.bak 2 -
+/wp-includes/SimplePie/ 24 -
+/wp-includes/css/modules.php 1 -
+/metadata/instance/compute/resourceGroupName 1 -
+/backup/.env.local 2 -
+/settings/.env 1 -
+/wp-content/themes/6322062q/about.php 1 -
+/user.php 41 -
+/wiki/ 1 -
+/yanz.php 40 -
+/wiki 1 -
+/etc/passwd- 1 -
+/wp-admin/css/colors/blue/admin.php 39 -
+/SHOP 2 http://immanuelmanohar.com/SHOP
+/server/config/database.js 2 -
+/o.php 11 -
+/api/config/config.yml 5 -
+/wp-content/index.php/wp-includes/Text/network.php 1 -
+/wp-admin/radio.php 25 -
+/config.yaml 8 -
+/makeasmtp.php 110 -
+/api/bash 2 -
+/wp-admin/images/ 12 -
+/wp-content/plugins/google-seo-rank/module.php 13 -
+/rendixd.php 2 -
+/index/admin.php 20 -
+/403.php 118 -
+/wp-content/classwithtostring.php 1 -
+/utils.php 1 -
+/.bitbucket/ 1 -
+/actuator/heapdump 1 -
+/blog/blog.php 1 -
+/blog.env 2 -
+/.ssh/id_rsa 2 -
+/83064.php 5 -
+/v2/.env 3 -
+/css/dist/ 5 -
+/web/.env~ 1 -
+/wp-includes/dkmjxfdu.php 1 -
+/root/ 1 -
+/wp-admin/includes/users.php 10 -
+/CHANGELOG.txt.bak 1 -
+/wp-admin/css/colors/sunrise/about.php 1 -
+/data.php 11 -
+/desc.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/wp-login.php 4 -
+/wp-contentfile.php 1 -
+/app/.env 14 -
+/wp-includes/sodium_compat/alfa-rex.php 3 -
+/downloads/.env 2 -
+/87.php 5 -
+/wp-json/wp/v2/users/1 1 -
+/favicon.php 9 -
+/ses.json 1 -
+/wp-includes/css/dist/edit-post/alfa-rex.php8 1 -
+/.github/workflows/main.yml 1 -
+/wp-content/themes/twentytwentytwo/parts/alfa-rex.php 2 -
+/admin/database.php 2 -
+/.aws/metadata 3 -
+/wp-content/themes/wp-pridmag/lock.php 6 -
+/cron/.env 3 -
+/.env_sample 6 -
+/.github/workflows/ 6 -
+/temanr9/.env 2 -
+/admin-ajax.php 1 -
+/gc.php 11 -
+/wp-admin/maint/doc.php 13 -
+/images/images/cache.php 1 -
+/aws/lambda/config.json 2 -
+/wp-content/languages/themes/ 1 -
+/deploy/.env 2 -
+/wp-includes/PHPMailer/alfa-rex.php 2 -
+/config/php.ini 1 -
+/db_backup/ 1 -
+/bs2.php 2 -
+/avaa.php 30 -
+/wp-content/updates.php 30 -
+/wp-crom.php 1 -
+/.aws_lambda/config.json 3 -
+/ccx/index.php 5 -
+/wp-admin/css/colors/light/qwas.php 13 -
+/theme.php 17 -
+/wp-includes/customize/muse.php 4 -
+/public/static/admin/images/ok.png 1 http://immanuelmanohar.com
+/vendor/aws/keys.json 1 -
+/metadata/instance/compute/name 1 -
+/actuator/env 3 -
+/wp-content/sxo.php 1 -
+/project.rar 1 -
+/web/20230609003228/http://us.vclart.net/vcl/Artists/ 5 -
+/wp-includes/sodium_compat/src/index.php 6 -
+/core/authorize.php 1 -
+/.gitmodules 5 -
+/.aws_secrets.json 3 -
+/package-lock_old.json 1 -
+/vhosts/header.php 1 -
+/backup/index-dev.php 2 -
+/.svn/entries 4 -
+/aws/s3/credentials.bak 2 -
+/code.tar.gz 1 -
+/site/logs/error.log 1 -
+/wp-includes/block-patterns/themes.php 4 -
+/wp-includes/atomlib.php 1 -
+/wp-includes/wp-head.php 1 -
+/wp-includes/dropdown.php 1 -
+/admincontrollerextensionextensionultra.php 1 -
+/dump.cgi 1 -
+/secrets.env 1 -
+/update-logs/ 1 -
+/proc/self/status 1 -
+/Gemfile.lock.bak 1 -
+/js/tools.js 2 -
+/new/wp-admin/install.php 1 -
+/wp-includes/IXR/about.php7 2 -
+/system/.env 4 -
+/wp-includes/sts.php 1 -
+/wp-content/plugins/wp-login.php 7 -
+/kyc/.env 7 -
+/wp-content/themes/twentythirteen/functions.php 10 -
+/wp-admin/css/colors/ocean/index.php 11 -
+/etc/apache2/mods-enabled/ 2 -
+/db.sqlite 1 -
+/astab.php 14 -
+/proxy.pac 1 -
+/wp-includes/Requests/Response/ 1 -
+/e.php 5 -
+/.well-known/log.php 31 -
+/.env.php 5 -
+/wp-includes/css/dist/widgets/alfa-rex.php 1 -
+/smaxx.php 7 -
+/wp-content/upgrade/wp-login.php 5 -
+/users/ 1 -
+/smtp/backup.json 1 -
+/Odul.php 1 -
+/wp-content/upgrade/120f9.php 13 -
+/wp-content/plugins/elementor/about.php 6 -
+/wp-includes/images/sxo.php 1 -
+/wp-content/uploads/atomlib.php 2 -
+/wp-config.stage 2 -
+/var/www/html/ 1 -
+/images/wp-ok.php 6 -
+/actuator/conditions 1 -
+/configuration.php 3 -
+/.github/dependabot.yml 2 -
+/xwiki/bin/get/Main/DatabaseSearch 1 -
+/images/k.php 11 -
+/api/requests/ 1 -
+/pg_dump.sql 1 -
+/wp-content/json.php 4 -
+/wp-content/mu-plugins/ 1 -
+/mail/.env 4 -
+/src/log.txt 1 -
+/wp-content/themes/twentynineteen/images/alfa-rex.php 1 -
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php 1 -
+/wp-contentupgradewp-login.php 1 -
+/jenkins/script 1 -
+/wp-includes/js/mediaelement/ 11 -
+/ab.php 16 -
+/.travis.yml 7 -
+/cms/wp-admin/install.php 1 -
+/browse.php 10 -
+/images/cjfuns.php 8 -
+/css/dmtixucz/golden-access/ 11 -
+/.git/refs/remotes/origin/HEAD 2 -
+/metadata/instance/compute/zone 1 -
+/public/storage.json 1 -
+/repeater.php 33 -
+/api/variables/ 1 -
+/site.sql 1 -
+/.git/description 4 -
+/wp-admin/images/autoload_classmap.php 1 -
+/wp-content/languages/ru_RU_lite.mo.php 14 -
+/wp-includes/js/tinymce/skins/alfa-rex.php8 3 -
+/wp-includes/wp-apxupx.php 1 -
+/actuator/info 1 -
+/shadow 1 -
+/cloud.php 42 -
+/wp-contentlanguagesabout.php 1 -
+/admin/backup.tar.gz 2 -
+/plesk 1 -
+/debug.php 3 -
+/wp-content/themes/pridmag/custom-plugin.php 1 -
+/vhosts/about.php 1 -
+/wp-admin/maint/buy.php 4 -
+/static/js/main.e85f7a37.js 1 -
+/config/application.yml 5 -
+/dump.tar.gz 2 -
+/bitbucket-pipelines.yml 2 -
+/backup/.git/ 2 -
+/shellv3.php 1 -
+/xmanager.php 1 -
+/db.bak 3 -
+/wp-includes/SimplePie/admin.php 11 -
+/wp-includes/rest-api/alfa-rex.php7 4 -
+/.env_mail_server 2 -
+/keys.txt 1 -
+/db.php 38 -
+/plugin.php 25 -
+/temp.php 11 -
+/ClientApp/.env 2 -
+/etc/ssl/certs/ 1 -
+/cloudfront/keys.json 2 -
+/wp-admin/user/network.php 5 -
+/sym403.php 5 -
+/bypass.php 42 -
+/api/db.sql 2 -
+/files/ALFA_DATA/alfacgiapi/ 1 -
+/Site 2 http://immanuelmanohar.com/Site
+/system-info.php 1 http://immanuelmanohar.com/system-info.php
+/wp-content/uploads/admin.php 15 -
+/wp-log1n.php 1 -
+/config_backup.zip 1 -
+/debug/pprof 2 -
+/991176.php 1 -
+/includes/config.php 1 -
+/wp-includes/Requests/library/index.php 10 -
+/site/debug.log 1 -
+/wp-admin/js/wp-login.php 10 -
+/wp-includes/js/dist/development/alfa-rex.php8 2 -
+/xl2023.php 8 -
+/wp-config.cache 2 -
+/.github/ISSUE_TEMPLATE/ 2 -
+/common/down/file 1 -
+/.dump.tar.gz 3 -
+/gmo.php 11 -
+/.git/hooks/pre-push 4 -
+/wp-content/plugins/index.php 83 -
+/wp-admin/file.php 25 -
+/statics/img/login_bg.jpg 2 http://immanuelmanohar.com
+/wp-includes/widgets/index.php 1 -
+/old/.env 4 -
+/server_old.js 1 -
+/ovaajwoju.php 1 -
+/wp-includes/PHPMailer/admin.php 10 -
+/help.php 9 -
+/wp-includes/Text/Diff/Engine/ 11 -
+/wp-includes/SimplePie/Cache/content.php 6 -
+/dev/backup.zip 2 -
+/templates/beez3/error.php 2 -
+/info2.php 2 -
+/jp.php 38 -
+/.git.zip 1 -
+/s3-access.json 1 -
+/wp-includes/ID3/about.php7 2 -
+/wp-admin/network/shell.php 5 -
+/storage/app/ 1 -
+/wp-content/wp-apxupx.php 1 -
+/wp-includes/theme-compat/index.php 6 -
+/wp-contentpluginssimplesimple.php 1 -
+/cloudfront/config.json 2 -
+/wp-includes/SimplePie/XML/about.php 1 -
+/main.js.bak 1 -
+/wp-admin/axcjwclf.php 1 -
+/wp-includes/Requests/Auth/ 1 -
+/wp-content/uploads/2023/admiin.php 8 -
+/web/.env.bak 1 -
+/cloudxv3.php 1 -
+/wp/wp-admin/includes/class-wp-page-mvb2yr.php 2 -
+/fai.php 1 -
+/blog 12 -
+/admin/secret 2 -
+/blog/ 1 -
+/css/wp-22.php 5 -
+/wp-content/themes/Divi/includes/widgets/wp-blog.php 8 -
+/bk/index.php 1 -
+/backup/log.txt 2 -
+/wp-admincsscolorsindex.php 1 -
+/tmp/aws_keys.json 1 -
+/application.old 1 -
+/images/Marvins.php 7 -
+/wp-content/uploads/de_fb_uploads/b.php 11 -
+/cloud/Scraper.js 3 -
+/wp-content/themes/vantage/loops/alfa-rex.php8 1 -
+/site/bundle.js.map 1 -
+/.git/logs/refs/heads/master 6 -
+/.well-known/dnt-policy.txt.old 1 -
+/wp-logins.php 1 -
+/wp-contentupgradeindex.php 1 -
+/google.php 10 -
+/buy.php 76 -
+/wp-includes/css/dist/niil.php 13 -
+/vhosts/dropdown.php 1 -
+/wp-admin/user/sx.php 2 -
+/wp-includes/Text/moon.php 13 -
+/id_rsa.pub 2 -
+/server-status 3 -
+/wp-includes/js/tinymce/plugins/image/ 1 -
+/vendor.zip 1 -
+/wp-includes/blocks/group/ 1 -
+/wp-includes/wp-admin-css.php 13 -
+/wp-contentthemesastraincki1k.php 1 -
+/upload-logs/ 1 -
+/wp-includes/css/dist/edit-widgets/ 1 -
+/wp-includes/ID3//file.php 1 -
+/revision.php 13 -
+/wp-includes/system_log.php 6 -
+/.envrc 1 -
+/.travis.yml.old 1 -
+/site/db.sql 1 -
+/api/debug.php 2 -
+/wp-includes/js/tinymce/ 11 -
+/public/laravel-file-manager/tinymce 1 -
+/database-logs/ 1 -
+/wp-content/themes/twentytwentythree/assets/about.php 1 -
+/wp-content/themes/travel-lite/inc/about.php 1 -
+/i.php 7 http://immanuelmanohar.com/i.php
+/themes/index.php 8 -
+/https%3A/immanuel89.wordpress.com/ 1 -
+/index.bak.php 1 -
+/AC.id 3 -
+/wp-content/plugins/wpforms-lite/templates/admin/empty-states/payments/ 1 -
+/.well-known/credentials.json 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 21 -
+/wp-admin/user/wp-login.php 7 -
+/admiin.php 6 -
+/cgi-bin/plugins.php 1 -
+/img/index.php 1 -
+/.git/refs/remotes/origin/master 2 -
+/wp-admin/js/widgets/index.php 46 -
+/src/site.conf 1 -
+/api/aws/credentials 2 -
+/root/.env 2 -
+/wp-config.old.old 2 -
+/file5.php 5 -
+/.well-known/cloud.php 2 -
+/config/.gitignore 2 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/aws-sdk-credentials/ 2 -
+/.well-known/dnt-policy.txt.bak 1 -
+/wp-content/uploads/2025/03/themes.php 13 -
+/wp-content/plugins/Cache/Cache.php/wp-content/plugins/core/include.php 1 -
+/api/resources/ 1 -
+//wp-includes/block-supports/index.php 6 -
+/5fesj.php 1 -
+/hehehehe.php 18 -
+/file/function.php 11 -
+/api-gateway/v2/openapi.json 2 -
+/db/schema.rb 1 -
+/wp-includes/xl2023.php 1 -
+/selonboy.php 1 -
+/wp-includes/blocks/table/int/tmpl/index.php 2 -
+/wp-includes//about.php 1 -
+/docker/.env 7 -
+/gank.php.PhP 1 -
+/wp-content/plugins/woocommerce/src/about.php7 1 -
+/aws_lambda/secrets.json 2 -
+/scripts/env.js 1 -
+/apache2.conf.bak 1 -
+/10.php 11 -
+/api/user/ 1 -
+/jquery.php 17 -
+/wp-mail.php/wp-includes/ID3/class-config.php 4 -
+/wp/wp-content/themes/twentytwenty/template-parts/ 1 -
+/aws/iam/ecs-task-credentials.json 2 -
+/partner/config/config.js 2 -
+/proc/self/environ 1 -
+/xampp/phpinfo.php 2 -
+/modules-mod-simplefileuploadv1-3-elements-filemanager-php 4 -
+/ulc2.php 5 -
+/wp-content/uploads/de_fb_uploads/bypass.php 6 -
+/my.cnf 1 -
+/home/www/admin/ 1 -
+/index.php/fa/wp-includes/certificates/plugins 1 -
+/wp-includes/sitemaps/ 1 -
+/.hg/hgrc 2 -
+/wp-admin/includes/cong.php 4 -
+/wp-admin/includes/install.php 4 -
+/backup/.git/config 2 -
+/wp-includes/fonts/ 13 -
+/jmx-console/ 1 -
+/view-source: 1 -
+/public/index.php 5 -
+/wp-admin/sx.php 2 -
+/shell.php 76 -
+/baker.php/ 2 -
+/wp-includes/js/dist/ 11 -
+/test_phpinfo.php 1 -
+/wp-content/plugins/alfa.php 2 -
+/proc/net/udp 1 -
+/admin/.env~ 2 -
+/logs/aws/ses.log 4 -
+/wp-larryboi.php 1 -
+/wp-includes/certificates/index.php 3 -
+/.svn/wc.db 2 -
+/wp-includes/codeboy1877_up.php 1 -
+/wp-includes/widgets/themes.php 9 -
+/wp-content/admin.php/ 1 -
+/eks/metadata 2 -
+/wp-content/plugins/pwnd/dropdown.php 17 -
+/js/fileman/php/upload.php 1 -
+/pd.php 1 -
+/02.php 48 -
+/wp-content/atomlib.php 13 -
+/ckeditor/fileman/php/upload.php 1 -
+/settings.js 1 -
+/public/makeasmtp.php 10 -
+/LICENSE.txt 1 -
+/tutorial.php 5 -
+/send.php 15 -
+/wp-content 1 -
+/wp-includes/css/admin.php 6 -
+/wp-includes/style-engine/admin.php 2 -
+/application/.env 7 -
+/public/.env 6 -
+/socket.io/ 1 -
+/.s3cfg~ 2 -
+/admin/config 11 -
+/test/integration/env-config/app/.env 2 -
+/wp-content/upgrade-temp-backup/about.php 34 -
+/wp-admin/css/imdnbpma.php 1 -
+/wp-admin/includes/sx.php 2 -
+/themes/zMousse/otuz1.php 25 -
+/admin/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/www.php 11 -
+/.well-known/pkivalidation/log.php 4 -
+/aws/api-gateway.json 2 -
+/.database 3 -
+/README.txt 1 -
+/wp-content/languages/chosen.php 69 -
+/access.log 3 -
+/wp-content/upgrade-temp-backup/ty.php 3 -
+/wp-admin/js/about.php 52 -
+/web/.git/logs/HEAD 1 -
+/wp-content/plugins/duplicator/assets/about.php 7 -
+/backup/debug.js 2 -
+/aws/s3/keys.json 2 -
+/aws/.env 2 -
+/css/cong.php 6 -
+/.well-known/file.php/ 5 -
+/libs.php 1 https://immanuelmanohar.com/libs.php
+/home/function.php 6 -
+/nginx.conf.bak 1 -
+/static/js/2.ca066a4b.chunk.js 2 -
+/.cloudfront/secrets.json 3 -
+/prod/.env 9 -
+/backup.cgi 1 -
+/wp-admin/images/admin.php 18 -
+/.git/packed-refs 6 -
+/django_project_path/.env 2 -
+/manager/html 1 -
+/aws/iam/assume-role.json 2 -
+/api/tokens/ 1 -
+/wp-includesimageswp-login.php 1 -
+/www.zip 1 -
+/.well-known/dnt-policy.txt 1 -
+/admin/index-dev.php 2 -
+/packages/plugin-qiankun/examples/app1/.env 2 -
+/wp-admin/class.api.php 1 -
+/xleetshell.php 1 -
+/admin/images/slider/CUfcfoH.php 5 -
+/apache2.conf.old 1 -
+/.yarnrc 4 -
+/path/.env 2 -
+/email/smtp_config.json 2 -
+/.well-known/991176.php 3 -
+/RP 1 -
+/wp-includesbuy.php 1 -
+/wp-admin/includes/cloud.php 30 -
+/wp-corn-sample.php 11 -
+/site_backup.zip 2 -
+/.rbenv 1 http://immanuelmanohar.com/.rbenv
+/temanr10/.env 2 -
+/old-index.php 1 -
+/wp/wp-admin/install.php 1 -
+/wp-content/themes/tripod/woocommerce/alfa-rex.php7 1 -
+/API/V1/credentials 1 -
+/cmd.cgi 1 -
+/wp-includes/Text/chosen.php 1 -
+/moduless.php 5 -
+/wp-includes/js/plupload/wp-admin.php 1 -
+/wp-content/themes/seotheme/classwithtostring.php/wp-content/uploads/json.php 1 -
+/test/db.sql 1 -
+/wp-admin/shapes.php 6 -
+/site/config.php 1 -
+/wp-includes/wp-includes_function.php 20 -
+/tmp_images/alfacgiapi/ 1 -
+/css/item.php 4 -
+/setup.php 2 -
+/private/.env 8 -
+/.dockerignore 1 -
+/admin/compass 1 -
+/wp-content/dropdown.php 40 -
+/yindu.php 4 -
+/pma/ 1 -
+/.well-knownacme-challengeadmin.php 1 -
+/sitemap.xml.old 1 -
+/wp-content/uploads/2024/index.php 69 -
+/test_info.php 2 -
+/.well-known 1 -
+/images/ 29 -
+/include/wp-configs.php 3 -
+/wp-includes/SimplePie/Decode/lv.php 3 -
+/wp-includes/style-engine/gecko-new.php 1 -
+/.github/CODE_OF_CONDUCT.md 1 -
+/wp-admin/css/alfa-rex.php8 2 -
+/update-core.php 1 -
+/wp-content/plugins/ioxi/ioxi/ 1 -
+/css/xmrlpc.php/ 1 -
+/Pipfile.lock 2 -
+/web/.git/config 1 -
+/site/.env.old 1 -
+/user/.env.staging 2 -
+/config.php 81 -
+/vhosts/main.php 1 -
+/tests/default_settings/v11.0/.env 2 -
+/wp-content/packed.php/wp-includes/Text/network.php 1 -
+/.env.save 13 -
+/as/function 10 -
+/wp-admin/dropdown.php 23 -
+/site/.env.bak 1 -
+/chosen/ 1 -
+/cljntmcz.php 10 -
+/wp-includes/images/about.php7 2 -
+/alert.php 5 -
+/item.php/admin.php 5 -
+/inc.php 2 https://immanuelmanohar.com/inc.php
+/Gemfile.lock.old 1 -
+/.envs 3 -
+/wp-content/plugins/wordfence/js/ 9 -
+/export/.env 2 -
+/.aws/s3/secrets 3 -
+/WSO.php 11 -
+/wp-content/themes/twentytwentytwo/alfa-rex.php 29 -
+/wp-content/plugins/alfa-rex.php 2 -
+/logs.txt 1 -
+/wp-includes/js/crop/shell.php 5 -
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/backup.bak 2 -
+/LICENSE.txt.old 1 -
+/Blog 2 http://immanuelmanohar.com/Blog
+/kubernetes/eks/secrets.json 1 -
+/.zshrc 2 -
+/phpsso_server/ 1 http://immanuelmanohar.com
+/.git/refs/heads/master 4 -
+/var/log/nginx/access.log 1 -
+/certs/privkey.pem 2 -
+/dist.tar.gz 1 -
+/api-gateway/v1/openapi.json 2 -
+/.tmb/admin.php 8 -
+/config/credentials.yml 1 -
+/.cache 1 -
+/wp-admin/css/colors/fridSiB.php 1 -
+/imge.php 1 https://immanuelmanohar.com/imge.php
+/carrello 2 http://immanuelmanohar.com/carrello
+/api/aws/cognito 2 -
+/wikindex.php 2 -
+/.well-known/security.txt.bak 1 -
+/.backup.tar.gz 3 -
+/samll.php 8 -
+/aws/credentials 13 -
+/.kitchen.yml 1 -
+/images/about.php 35 -
+/index.js.old 1 -
+/NEW 3 http://immanuelmanohar.com/NEW
+/system_old.log 1 -
+/config/dump.sql 2 -
+/av.php 2 -
+/include/Lurd.class.php 1 -
+/wp-content/themes/aahana/json.php 40 -
+/wp-includes/js/about.php 35 -
+/wp-admin/css/colors/blue//1.php 1 -
+/verify.php 1 https://immanuelmanohar.com/verify.php
+/graphiql 2 -
+/wp-includesSimplePiegzdecodes.php 1 -
+/admin/controller/extension/extension/admin.php 6 -
+/logs/app.log 4 -
+/apache.conf 2 -
+/wp-contentpluginsindex.php 1 -
+/usr/local/apache2/conf/httpd.conf 1 -
+/shx.php 11 -
+/config/.htaccess 2 -
+/bin 2 -
+/mah/function.php 25 -
+/admin/.git/HEAD 2 -
+/sitemap.xml 6 -
+/admin/command.php 2 -
+/aws/iam/role-assume 2 -
+/core/error.log 2 -
+/server.xml.old 1 -
+/tmp/.aws/credentials 1 -
+/wp-includes/images/crystal/ 14 -
+/ova.php 7 -
+/debug.bak 1 -
+/apis/config/config.js 3 -
+/src.zip 1 -
+/wp-content/themes/hello-element/footer.php 7 -
+/wp-admin/meta/ 10 -
+/old 48 http://immanuelmanohar.com/old
+/.env.smtp_access 2 -
+/wp-content/plugins/yyobang/mar.php 1 -
+/pki-validation/ 10 -
+/packages/api/.env 2 -
+/config/.env.local 2 -
+/index_old.js 1 -
+/wp-content/upgrade-temp-backup/wp-login.php 38 -
+/wp-config 5 -
+/composer.json 5 -
+/api/backup.zip 2 -
+/wp-content/themes/twentytwentytwo/styles/alfa-rex.php 1 -
+/api-logs/ 1 -
+/sleepster/ 6 -
+/gecko.php 48 -
+/optimasprimemoxhag.php 1 -
+/log_old.txt 1 -
+/src/main.dev.js 1 -
+/wp-includes/theme-compat/theme-compat/ 10 -
+/WEB-INF/web.xml 1 -
+/wp-content/themes/twentytwenty/404.php 38 -
+/api/extensions/ 1 -
+/css/xmrlpc.php 26 -
+/wp-content/themes/twentytwenty/templates/alfa-rex.php 1 -
+/.tmb/cloud.php 11 -
+/wp-includes/customize/https://srtbc.com/edit.php 1 -
+/wp-content/themes/twentytwenty/functions.php 11 -
+/wp-includes/Text/Diff/Engine//about.php 1 -
+/config/access.log 2 -
+/development/.env 6 -
+/Pipfile 2 -
+/backup/.env.bak 2 -
+/admin/.git/ 2 -
+/wp-admin/css/colors/ocean/admiin.php 8 -
+/rest/v1/users 1 -
+/certs/fullchain.pem 2 -
+/wp-admin/includes/xmrlpc.php 76 -
+/wp-content/themes/fitnessbase/404.php 1 -
+/gists/cache/.env 2 -
+/public/js/main.js 1 -
+/admin/debug.log 2 -
+/wp-admin/alfa.php 11 -
+/dev/db.sql 2 -
+/metadata/instance/compute/ 1 -
+/burjuva.aspx 1 -
+/wp-includes/css/str_replace.php 13 -
+/.well-known/content.php 7 -
+/api/token.json 2 -
+/search 4 -
+/wp-admin/user/autoload_classmap.php 2 -
+/169.254.169.254/latest/meta-data/local-ipv4 2 -
+/web/.git/HEAD 1 -
+/header-function.php 1 -
+/wp-content/plugins/linkpreview/custom-plugin.php 1 -
+/admin/bundle.js.map 2 -
+/wp-22.php 3 -
+/myproject/.env 2 -
+/veoblmpa.php 1 -
+/wp-config.save 2 -
+/.env.txt 2 -
+/wp-admin/.env 1 -
+/conf/.env 6 -
+/server-info.php 8 http://immanuelmanohar.com/server-info.php
+/169.254.169.254/latest/meta-data/hostname 2 -
+/logs_old.txt 1 -
+/wp-includes/sodium_compat/autoload_classmap.php/wp-includes/images/smilies/about.php 4 -
+/dav/ 1 -
+/169.254.169.254/latest/meta-data/placement/ 2 -
+/wp-content/uploads/2021/ 2 -
+/crm/.env.production 2 -
+/wp-content/plugins/seoplugins/admin.php 4 -
+/dump_old.sql 1 -
+/.git/info/exclude 6 -
+/site/app.js.bak 1 -
+/.env.smtp 5 -
+/wp-content/themes/twentytwelve/js/alfa-rex.php8 1 -
+/main.js 3 -
+/k8s/metadata 1 -
+/images/autoload_classmap.php 6 -
+/wp-admin/css/colors/sunrise/ 14 -
+/systeminfo.php 1 -
+/wp-includes/js/tinymce/themes/inlite/ 1 -
+/rk2.php 1 -
+/uploads/test.php 4 -
+/wp-content/themes/travel-lite/js/about.php 1 -
+/crossdomain.xml 1 -
+/alfacgiapi/ 1 -
+/core/backup.tar.gz 2 -
+/config.txt 1 -
+/webpack.config.js.bak 1 -
+/small.php 5 -
+/aws/s3/secrets.json 2 -
+/css.php 142 -
+/wp-index.php 16 -
+/wp-admin/css/colors/xmrlpc.php 20 -
+/.cloudfront/config.json 3 -
+/img/about 2 -
+/wordpress/.env 1 -
+/node_modules.rar 1 -
+/sitemaps.xml 2 -
+/admin/upload/css.php 7 -
+/wp-includes/images/media/autoload_classmap.php 1 -
+/wp-includes/blocks/about.php 44 -
+/import/ 1 -
+/actuator/logfile 1 -
+/s3/.aws 1 -
+/features/ 1 -
+/marketing/.env 2 -
+/config/index-dev.php 2 -
+/wp-includes/SimplePie/Decode/about.php 2 -
+/wp-includes/smaxx.php 2 -
+/wp-admin/css/license.php 1 -
+/array.php 14 -
+/install.cgi 1 -
+//shop/wp-includes/wlwmanifest.xml 109 -
+/site/dump.sql.gz 1 -
+/api/results/ 1 -
+/api/processes/ 1 -
+/wp-admin/css/colors/midnight/colors.php 17 -
+/wp-includes/ID3/index.php 84 -
+/constants.php 1 -
+/test/shell.php 1 -
+/wp-includes/js/jquery/alfa-rex.php 1 -
+/api-gateway/dev/swagger.json 2 -
+/wp-content/plugins/recent-facebook-posts/includes/alfa-rex.php8 1 -
+/users.sql 1 -
+//site/wp-includes/wlwmanifest.xml 112 -
+/assets/images/ 10 -
+/developerslv/.env 2 -
+/actuator/sessions 1 -
+/apps/.env 14 -
+/controlloLogin.js 1 -
+/new/.env.production 2 -
+/bower_components/ 1 -
+/wp-2019.php/chosen.php 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 102 -
+/index/function.php/img/ 9 -
+/api/objects/codes.php.save 5 -
+/feed 1 -
+/react-app/.env 2 -
+/actuator/integrationgraph 1 -
+/WordPress 3 http://immanuelmanohar.com/WordPress
+/wp-content/mu-plugins-old/ 1 -
+/.gitlab-ci/.env 2 -
+/wp-admin/js/chosen.php 4 -
+/wp-admin/css/colors/blue/about.php 38 -
+/admin/.env.bak 2 -
+/sqlbuddy/ 1 -
+/wp-includes/Text/Diff/wp-login.php 1 -
+/admin/config.php 2 -
+/wp-content/themes/twentytwenty/assets/js/about.php 1 -
+/etc/ssl/private/server.key 1 -
+//__tests__/test-become/.env 2 -
+/wp-content/uploads/BbUMY/flower.php 1 -
+/wp-content/themes/seotheme/mar.php 82 -
+/wp-content/uploads/setup 8 -
+/0.php 2 -
+/tmp/error.log 1 -
+/.aws_config.js 3 -
+/config/.git/ 2 -
+/zb_system/image/common/user_1.png 1 http://immanuelmanohar.com
+/wp-content/upgrade/info.php 4 -
+/wp-includesTextindex.php 1 -
+/public/aws_keys.json 1 -
+/api/command 2 -
+/wp-content/wso112233.php 1 -
+/wp-includes/block-patterns/ 3 -
+/Gruntfile_old.js 1 -
+/beta/backup.zip 2 -
+/etc/postgresql/ 1 -
+/.env.dev 10 -
+/test.cgi 1 -
+/wp-includes/IXR/alfa-rex.php 4 -
+/api/shell.php 2 -
+/.bashrc 2 -
+/aws/s3/public.json 2 -
+/internal-api/aws/iam 1 -
+/application.yml 1 -
+/moddofuns.php 3 www.google.com
+/site/debug.php 1 -
+/admin/controller/extension/extension/new.php 1 -
+/.gitattributes.old 1 -
+/settings.old 1 -
+/admin/function.php/wp-includes/sodium_compat/index.php 1 -
+/s46v1.php 1 -
+/product/.env.production 2 -
+/wp-content/plugins/envato-market/inc/class-envato-market-github.php 20 -
+//wp-includes/wlwmanifest.xml 102 -
+/wp-content/plugins/woocommerce/i18n/alfa-rex.php8 1 -
+/wp-includes/assets/index.php 86 -
+/wp-content/wflogs/rules.php 1 -
+/aws_secrets.json 2 -
+/wp-admin/license.php 10 -
+/.env.bak1 2 -
+/js/style.php 4 -
+/beta/execute.php 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/var/www/html/phpinfo.php 1 -
+/wp-links-opml.php 3 -
+/wp-content/themes/vantage/fontawesome/about.php 1 -
+/TNT.php 8 -
+/.env.staging.json 3 -
+/wp-contentlanguagesindex.php 1 -
+/wp-content/blue.php 6 -
+/wp-content/fonts/ 1 -
+/wp-content/themes/sky-pro/js.php 9 -
+/s3-bucket.json 1 -
+/.well-knownold/inputs.php 4 -
+/.ssh/id_rsa.pub 1 -
+/alfa-rex2.php7 22 -
+/.wp-cli/as.php 3 -
+/wp67/manager.php 6 -
+/wp-includesSimplePieindex.php 1 -
+/src/dump.sql.gz 1 -
+/webAdmin/ueditorlocal/net/controller.ashx 1 -
+/wp-admin/includes/class_api.php 2 -
+/libraries/legacy/updates.php 22 -
+/wp-includes/mah.php 7 -
+/graphql-explorer 2 -
+/wp-content/themes/wp-pridmag/lock.php/wp-content/uploads/json.php 1 -
+//wp/ 1 immanuelbloch.net/blog//wp-login.php
+/rest/users/1/settings/ 1 -
+/.env.smtp_login 2 -
+/wp-content/plugins/revslider/public/assets/assets/sources/wp-login.php 6 -
+/ben.php 2 -
+/wp-includes/autoload_classmap.php 74 -
+/tmp/db_dump.sql 1 -
+/nf_tracking.php 4 -
+/wp-content/plugins/wso.php 8 -
+/wp-content/themes/twentytwentythree/assets/alfa-rex.php8 1 -
+/assets/edit.php 3 -
+/config.xml 2 -
+/docker-compose.yml.old 1 -
+/blog/wp-admin/install.php 1 -
+/.circleci/configs/development.yml 4 -
+/script/.env 1 -
+/wp-admin/css/colors/midnight/ 2 -
+/debug.js 2 -
+/images/stories/admin-post.php 4 -
+/wp-admin/css/colors/ectoplasm/ 1 -
+/include/mail.php 5 -
+/humans.txt 1 -
+/upfile.php 25 -
+/config/.htpasswd 2 -
+/wp-includes/js/tinymce/plugins/alfa-rex.php 1 -
+/app.js.old 1 -
+/core/main.js 2 -
+/privacy/ 1 -
+/wp-content/fonts/autoload_classmap.php 1 -
+/graphql/dev 2 -
+/etc/passwd 7 -
+/config/log.txt 2 -
+/core.php 14 -
+/gelay.php 1 -
+/wp-contentlanguageswp-login.php 1 -
+/view.php 1 -
+/wp-includes/Requests/Text/admin.php 37 -
+/about/function.php 93 -
+/wp-includes/ID3/admin.php 14 -
+/wp-includes/SimplePie/Decode/alfa-rex.php7 2 -
+/.db_credentials 3 -
+/.well-known/pki-validation/alfacgiapi/wawe_gH298.php 1 -
+/f0x.php 5 -
+/wp-admin/setup-config.php 55 -
+/api/v1/ 1 -
+/wp-includes/wp-load.php 19 -
+/robots.txt.old 1 -
+/wp-includes/js/imgareaselect/alfa-rex.php8 1 -
+/adminfuns.php7 21 -
+/wp-admincsscolorsabout.php 1 -
+/wp-includes/html-api/wp-login.php 4 -
+/admin/execute.php 2 -
+/wp-contentpluginspwnd1.php 1 -
+/ALFA_DATA/autoload_classmap.php 1 -
+/wp-content/themes/wp-pridmag/admin.php 7 -
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 5 -
+/new.php 33 -
+/download-logs/ 1 -
+/env 1 -
+/vendor/ 1 -
+/.db_backup.sql 3 -
+/api.php 2 -
+/wp-admin/media.php 5 -
+/169.254.169.254/latest/meta-data/public-ipv4 2 -
+/aboutfunction.php 1 -
+/aleXus.php 7 -
+/access_old.log 1 -
+/wp-includes/SimplePie/Content/ 1 -
+/wp-includes/fonts/index.php 63 -
+/error.log 6 -
+/silecms/ueditor/net/controller.ashx 1 -
+/content/.env 2 -
+/wp-adminimageschosen.php 1 -
+/wp-admin/includes/m.php 3 -
+/ansible/.env 2 -
+/cd.php 13 -
+/.vercel/ 1 -
+/.babelrc 1 -
+/xleet.php 24 -
+/src/main/resources/logback.xml 2 -
+/js/atomlib.php 11 -
+/dmesg_old 1 -
+/wp-content/themes/twenty/twenty.php 24 -
+/keys/private.pem 1 -
+/wp-admin/js/QXUho.php 6 -
+/wp-content/themes/tripod/woocommerce/alfa-rex.php8 1 -
+/wp-content/plugins/linkpreview/admin.php 1 -
+/wp-includes/js/tinymce/skins/ 1 -
+/css/colors/blue/index.php 10 -
+/wp-includes/assets/themes.php 34 -
+/wp-admin/css/colors/alfa-rex.php8 1 -
+/indo.php 1 -
+/.well-knownfile.php 2 -
+/wp-includes/js/dist/development/alfa-rex.php 1 -
+//cms/wp-includes/wlwmanifest.xml 112 -
+/pictures/.env 2 -
+/wp-content/themes/vantage/parts/about.php 1 -
+/shell20211028.php 38 -
+/marketing/.env.staging 2 -
+/server/.env 9 -
+/.env.config 3 -
+/wp-includes/js/index.php 2 -
+/Gel.php 5 -
+/wp-content/cache/index.php 12 -
+/web/config.php 1 -
+/config/sendgrid.php 4 -
+/wp-content/plugins/item.php 7 -
+/manifest.json.old 1 -
+/wp-content/uploads/about.php 11 -
+/wp-includes/SimplePie/network.php 7 -
+/wp-content/themes/astra/inc/network.php 4 -
+/504.php 6 -
+/actuator/threaddump 1 -
+/grafana/ 1 -
+/wp-contentcacheindex.php 1 -
+/hb02ugyh.php 1 -
+/wp-includes/themes.php 4 -
+/user-edit.php 6 -
+/wp-includes/js/mediaelement/renderers/ 11 -
+/.env.orig 2 -
+/adminuploadcss.php 1 -
+/cslu/v1/var/logs/customer-cslu-lib-log.log 1 -
+/.npmrc.old 1 -
+/wp-includes/interactivity-api/flower.php 1 -
+/press/ 1 -
+/wp-admin/tools.php 4 -
+/google-cloud-sdk/lib/googlecloudsdk/gcloud.pyo 2 -
+/fwe.php 1 -
+/admin/wp-22.php 1 -
+/configs.php 11 -
+/meta.php 17 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+//oss.maxcdn.com/respond/1.4.2/respond.min.js 12 -
+/100.php 11 -
+/wp-adminjs 1 -
+/aws/iam/role-chain.json 2 -
+/admin/upload/ 2 -
+/wp-includes/images/smilies/network.php 4 -
+/backup/.gitignore 2 -
+/contents.php 5 -
+/administrator/img/loading.gif 1 https://immanuelmanohar.com/administrator/img/loading.gif
+/manual/ 1 -
+/.well-known/as.php 9 -
+/app/config/config.php 1 -
+/vhosts/ovaajwoju.php 1 -
+/sh.php 13 -
+/.bitbucket/pipelines/ 1 -
+/wp-admin/images/xmrlpc.php 24 -
+/wp-admin/images/file.php 39 -
+/.well-known/radio.php 2 -
+/app_dev.php.bak 1 -
+/.docker/.env 1 -
+/admin/debug.php 2 -
+/api/v1/me 2 -
+/wp-includes/certificates/about.php 19 -
+/Dockerfile.bak 1 -
+/storage/framework/views/ 1 -
+/node_modules/.env 2 -
+/wp-includes/blocks/embed/ 1 -
+/events/ 1 -
+/yunu.php 1 http://immanuelmanohar.com
+/.local/ 1 -
+/.env.local 18 -
+/wp-admin/includes/ 15 -
+/js/.env 2 -
+/admin/uploads/images/autoload_classmap.php 1 -
+/assets/css/403.php 2 -
+/Gemfile.old 1 -
+/0byte.php 11 -
+/api/headers/ 1 -
+/wp-includes/SimplePie/wp-login.phphttp://twinslooktm.com/about.php 1 -
+/wp-configs.php 71 -
+/admin/upload/themes-install.php 4 -
+/imagesclass-config.php 1 -
+/internal/aws/iam/keys.json 1 -
+/.settings.json 2 -
+/site/bundle.js 1 -
+/htaccess.php 22 -
+/wwr.php 1 -
+/metadata/instance/network/interface/0/ipv4/ipAddress/0/publicIpAddress 1 -
+/as.php 103 -
+/xcc.php 1 -
+/wp-content/uploads/2022/update.php 4 -
+/.gitattributes.bak 1 -
+/site/settings.php 1 -
+/post.php 94 -
+/wp-includes/random_compat/about.php 6 -
+/wp-content/plugins/wordpress-seo/rk1.php 1 -
+/storage/logs/error.log 4 -
+/wp-content/autoload_classmap.php 26 -
+/wp-adminmaint 1 -
+/lf.php 5 -
+/solr/admin/metrics 1 -
+/xx.php 35 -
+/.well-known/eror.php 1 -
+/source_code.zip 1 -
+/.well-known/pki-validation/about.php 55 -
+/wp-content/plugins/pwnd/1.php 5 -
+/accounts/ 1 -
+/contact-us 1 https://immanuelmanohar.com/contact-us
+/storage/framework/ 1 -
+/wp-content/themes/twentytwenty/inc/alfa-rex.php 1 -
+/src/config.php 1 -
+/site/.git/ 1 -
+/wp-content/uploads/bblfstnt.php 1 -
+/ds.php 14 -
+/sts.php 3 -
+/wp-includespomoabout.php 1 -
+/config/bundle.js 2 -
+/wp-content/uploads/chosen.php 7 -
+/__screenshot-error 1 -
+/wp-content/plugins/pwnd/gecko.php 5 -
+/aws-secret.yaml 5 -
+/wp-includes/widgets/about.php 48 -
+/wp-includes/Requests/src/about.php 1 -
+/aws/cloudfront/config.json 2 -
+/admin/index.php 7 -
+/wp-content/themes/twentyfive/include.php 2 -
+/.wp-cli/wp-login.php 2 -
+/app.js 4 -
+/.env.ini 2 -
+/index.js 2 -
+/wp-admin/admin-ajax.php 3 -
+/wp-admin/user/plugins.php/wp-includes/certificates/plugins.php 2 -
+/themes/twentytwentytwo/index.php 14 -
+/.well-known/.well-known/cc.php 4 -
+/elfinder/php/connector.php 1 -
+/inc/config.php 1 -
+/server-info 3 -
+/wp-admin/themes.php 3 -
+/mytest/astech_robot.js 2 -
+/.vscode/sftp.json 6 -
+/wp-contentpluginslinkpreviewindex.php 1 -
+/backup.tar 3 -
+/article.php 26 -
+/wp-admin/class-db.php 1 -
+/wp-includes/css/dist/commands/alfa-rex.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/sx.php 2 -
+/alfa-rex.php 12 -
+/category.php 1 -
+/api/login 3 -
+/admin.php1 8 -
+/web.config.bak 1 -
+/private/aws_credentials.json 1 -
+/tmp/ 2 -
+/wp-content/plugins/wp-help/index.php 38 -
+/wp-admin/css/colors/light/ 3 -
+/wp-content/themes/too.php 1 -
+/symfony/.env 1 -
+/wp-content/plugins/core/include.php 6 -
+/worksec.php 32 -
+/user-logs/ 1 -
+/admin/main.dev.js 2 -
+/wp-cache.php 7 -
+/admin.html 1 -
+/*.backup 1 -
+/uploads/admin.php 2 -
+/wp-content/mu-plugins/index.php 5 -
+/wp-content/themes/twentyeleven/functions.php 10 -
+/doc.php 53 -
+/admin/upload/css.phphmgm.ir 2 -
+/build.gradle.bak 1 -
+/.npmrc 5 -
+/Assets/edit.php 4 -
+/wp-adminfile.php 1 -
+/api-gateway/staging/swagger.json 2 -
+/mar.php 50 -
+/wp-content/plugins/smaxx.php 2 -
+/INSTALL.txt.bak 1 -
+/wp-content/themes/admin.php 42 -
+/wp-admin/includes/wp-login.php 13 -
+/wp-contentpluginsxt 2 -
+/wp-content/themes/twentytwentyfour/ 1 -
+/php.php 3 http://immanuelmanohar.com/php.php
+/.env.staging 2 -
+/wp-includes/theme-compat/ 1 -
+/wp-includesID3index.php 1 -
+/api/healthz 2 -
+/edit-comments.php 6 -
+/login.old.php 1 -
+/tmp/aws_secrets.json 1 -
+/smtp.json 1 -
+/vhosts/function.php 1 -
+/test.php7 13 -
+/secrets.json 5 -
+/core/config.php.bak 2 -
+/OthioNDwMEK.php 5 -
+/backup/phpinfo.php 2 -
+/CHANGELOG.txt.old 1 -
+/Wp 3 http://immanuelmanohar.com/Wp
+/law.php 1 -
+/api/files/ 1 -
+/controllers/settings.js 3 -
+/wp-includes/Text/wp.php 6 -
+/settings.py 8 -
+/db.sql 7 -
+/api/rce 2 -
+/wp-includes/js/imgareaselect/ 11 -
+/aws/sts/secrets.json 2 -
+/api/v1/slack/image/slack-image%7B%7Brepeat('%2F..',%203)%7D%7D%2Fetc%2Fpasswd 1 -
+/wp-content/plugins/xmrlpc.php 4 -
+/config/settings.php 3 -
+/wp-content/uploads/admiin.php 4 -
+/Js.php 1 -
+/assets/images/about.php 6 -
+/wp-includes/IXR/allez.php 13 -
+/1975.php 5 -
+/wp-contentthemesabout.php 1 -
+/2019 2 http://immanuelmanohar.com/2019
+/ws/ 1 -
+/wp-includes/css/core.php 1 -
+/.env.dev.local 1 -
+/images/mzeogsze.php 1 -
+/wp.php 101 -
+/config/backup.sql 2 -
+/site/.git/config 1 -
+/Scripts/webuploader/fileupload.php 1 -
+/elk/ 1 -
+/backup/bundle.js.map 2 -
+/wp-content/plugins/content-management/content.php 1 -
+/css/index.php 40 -
+/wp-contentabout.php 1 -
+/web.xml.old 1 -
+/wp-includesimagesabout.php 1 -
+/secret-logs/ 1 -
+/wp-wso.php 5 -
+/dev/test.php 2 -
+/api-gateway/v1/swagger.json 2 -
+/app/settings.py 1 -
+/sim.phpwp-includescertificatesplugins.php 1 -
+/admin/UploadHandler.ashx 1 -
+/install-php-7-on-centos-6-centos-7-rhel-7-redhat-7/ 4 -
+/mysql.sql 1 -
+/.db_backup 3 -
+/api-gateway/.env.local 2 -
+/aws/s3/credentials.yml 2 -
+/aws/iam/temp-creds.json 2 -
+/app/config/parameters.yml 5 -
+/by.php 8 -
+/filter/jmol/js/jsmol/php/jsmol.php 1 -
+/templates/beez/index.php 5 -
+/Marvins.php 9 -
+/wp-admin/includes/alfa-rex.php 1 -
+/wp-admin/classwithtostring.php 61 -
+/private/aws.json 1 -
+/application.yml.old 1 -
+/wp-content/uploads/emvvuhwx.php 13 -
+/s3/config.json 1 -
+/wp-content/plugins/shell/about.php 1 -
+/frontend/js/env.js 2 -
+/disoxrmons.php 1 -
+/wp-admin/js/widgets/alfa-rex.php 1 -
+/Backup.zip 2 -
+/.well-known/pki-validation/file.php 2 -
+/shared/.env 1 -
+/wp-activate.php 50 -
+/aa.php 34 -
+/wp-includesfontswp-login.php 1 -
+/core/.env.save 2 -
+/s3/.aws/config 1 -
+/.alf.php 6 -
+/minik.php 2 -
+/class-php 11 -
+//server/phpinfo.php 2 -
+/wp-content/uploads/2020/admin.php 4 -
+/s3-credentials.bak 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 12 -
+/php/components/logs.php 1 -
+/wp-content/uploads/2023/08/autoload_classmap.php 1 -
+/wp-content/plugin.php 6 -
+/de2api/engine/getEngine 1 -
+/resources/docker/phpmyadmin/.env 2 -
+/.well-known/lofmebwd.php 9 -
+/config/keys.json 1 -
+/config/.secrets 1 -
+/e/data/js/ajax.js 2 -
+/backups/ 1 -
+/wp-includes/blocks/file/ 1 -
+/Rakefile 1 -
+/admin/graphql/explore 2 -
+/alfa-rex.php7 44 -
+/.aws_creds.json 3 -
+/backup_db_old.sql 1 -
+/wp-admincsscolorsblueabout.php 1 -
+/wp-includes/js/wp-login.php 8 -
+/.well-known/lv.php 6 -
+/.ssh/id_rsa.pub.old 1 -
+/server_info.php 2 -
+/admin.php7 6 -
+/plugins/Cache/footer.php 11 -
+/KS_inc/ueditor/net/controller.ashx 1 -
+/wp-admin/xmrlpc.php 20 -
+/aksinet.php 1 -
+/wp-includes/SimplePie/Parse/wp-login.php 1 -
+/fosil.php 6 -
+/wordpress/wp-includes/IXR/allez.php 11 -
+/.eslintrc.json 1 -
+/settings-logs/ 1 -
+/aaa.php 18 -
+/gatsby-config.js 3 -
+/delpaths.php 12 -
+/activity-logs/ 1 -
+/wp-includes/pomo/autoload_classmap.php 1 -
+/wp-includes/blocks/social-links/ 1 -
+/alexus.php 5 -
+/config.php.dist 1 -
+/wp-includes/wp-class.php/wp-content/themes/travelscape/ 1 -
+/web/dump.sql.gz 1 -
+/core/.env 17 -
+/https%3A/www.youtube.com/watch%3Fv%3D-1BkRr7N0is%26t%3D3043s 1 -
+/1xleet.php 5 -
+/wp-admin/includes/wp-conflg.php 11 -
+/.prettierrc 1 -
+/wp-includes/js/jquery/alfa-rex.php8 2 -
+/admin/controller/extension/extension/alfa-rex.php 1 -
+/media.php 28 -
+/site/wp-admin/ 5 -
+/superadmin.php 5 -
+/app/.env.dev 1 -
+/api/credentials/ 1 -
+/admin/debug 4 -
+/bash.php 2 -
+/.env.local.json 3 -
+/wp-includes/rest-api/fields/radio.php 12 -
+/filebrowser/ 1 -
+/etc/ssl/private/ 1 -
+/storage/framework/cache/ 1 -
+/config/parameters.json 2 -
+/options-discussion.php 1 -
+/wp-includes/class-wp-simplepie-sanitize-kses-stream.php 13 -
+/wp-content/themes/twentytwenty/about.php 2 -
+/site/log.txt 1 -
+/configs/routes-4aug.js 3 -
+/.well-knowncaches.php 1 -
+/wp-includes/Requests/library/about.php 5 -
+/q.php 5 -
+/inputs.php 122 -
+/wp-content.php.php 13 -
+/wp-includes/style-engine/about.php 54 -
+/wp-content/uploads/2023/05/ 1 -
+/wp-includes/SimplePie/Content/Type/index.php 6 -
+/website/.env 4 -
+/api-gateway/swagger.json 2 -
+/var/www/html/.git/ 1 -
+/.well-knownwp-login.php 1 -
+/themeszMousseotuz1.php 1 -
+/.well-known/index.php 58 -
+/dump.bak 3 -
+/config/aws.php 2 -
+/wp-includes/Text/Diff/Engine/file.php 1 -
+/error_log.php 8 -
+/admin/test 4 -
+/wp-content/themes/twentyfive/smaxx.php 2 -
+/wp-includes/interactivity-api/ 1 -
+/keys/ 1 -
+/.well-known/classwithtostring.php 22 -
+/wp-includes/js/alfa-rex.php 5 -
+/.htaccess.old 1 -
+/wp-content/themes/wp-pridmag/up.php 5 -
+/.htaccess.bak 1 -
+/wp-content/themes/twentytwenty/assets/alfa-rex.php8 1 -
+/xd.php 1 -
+/wp-site.php 3 -
+/amigo.php 1 -
+/phpinfo/index.php 1 http://immanuelmanohar.com/phpinfo/index.php
+/faq/ 1 -
+/0z.php 7 -
+/admin/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+//wp/wp-includes/wlwmanifest.xml 112 -
+/wp-content/uploads/json.php 36 -
+/plugins/fileman/php/upload.php 1 -
+//help/info.php 2 -
+/babel-plugin-dotenv/test/fixtures/default/.env 2 -
+/sidwso.php 20 -
+/wp-content/pm.php 1 -
+/access-logs/ 1 -
+/packed.php 38 -
+/static/env.js 1 -
+/load.php 9 -
+/2018 2 http://immanuelmanohar.com/2018
+/vhosts/ovaallxgr.php 1 -
+/yiwangxiao/imgpreview.php 1 -
+/wp-includes/block-patterns/about.php 44 -
+/sitewp-admin 1 -
+/backup/.env.save 2 -
+/.git/HEAD 33 -
+/immanuelmanohar.zip 2 -
+/.aws/metadata/iam/security-credentials/ 3 -
+/admin/config.json 2 -
+/.gitlab-ci.yml 6 -
+/wp-includes/rest-api/endpoints/html.php 2 -
+/wp-includes/ID3/plugins.php 1 -
+/.env_mail_login 2 -
+/credential/ 1 -
+/debug.cgi 1 -
+/database_backup.sql 1 -
+/global.inc 1 -
+/aws/ecs/task-credentials.json 2 -
+/web/main.dev.js 1 -
+/wp-content/themes/twentytwenty/alfa-rex.php8 2 -
+/atomlib.php 95 -
+/wp-includes/fonts/item.php 4 -
+/admin/app.js.bak 2 -
+/randkeyword.php 49 -
+/wp-content/plugins/elementor/sx.php 2 -
+/wp-content/themes/twentytwentyone/template-parts/about.php 2 -
+/application-dev.properties 1 -
+/upload/wp-info.php 7 -
+/wp-includes/cloud.php 1 -
+/teaching.php 3 -
+/upload/image/ 2 -
+/wp-includes/Requests/Response/wp-login.php 5 -
+/olux.php 2 -
+/WEB-INF/web.xml.old 1 -
+/wp-admin/upgrade.php 5 -
+/config/environments/production.rb 1 -
+/web.zip 1 -
+/api/form/ 1 -
+/awstats/.env 5 -
+/web/app_dev.php 1 -
+/termps.php 17 -
+/aws/iam/keys.json 2 -
+/keys/public.pem 1 -
+/vendor/aws/.env 1 -
+/src/.git/HEAD 1 -
+/conf_upload.php 5 -
+/etc/named.conf 2 -
+/developer.php 2 -
+/messages_old.log 1 -
+/upgrade.php 5 -
+/xxx.php 27 -
+/wp-admin/maint/yes.php 13 -
+/wp-includes/images/include.php 10 -
+//sito/wp-includes/wlwmanifest.xml 102 -
+/site/.gitignore 1 -
+/syslog_old 1 -
+/apache2.conf 1 -
+/wp-content/themes/twentytwentythree/parts/alfa-rex.php8 2 -
+/WP 3 http://immanuelmanohar.com/WP
+/sendinblue.env 1 -
+/wp-admin/product.php 7 -
+/wp-includes/css/dist/format-library/alfa-rex.php 1 -
+/.well-known/security.txt 4 -
+/wp-admin/css/colors/dkSUq.php 13 -
+/iytgcrjr.php 1 www.google.com
+/phpinfo/ 1 -
+/actuator/jolokia 1 -
+/wp-adminuserindex.php 1 -
+/wp-admin/js/admin.php 17 -
+/adminfuns.php 19 -
+/ALFA_DATA/alfacgiapi 1 http://immanuelmanohar.com/ALFA_DATA/alfacgiapi
+/deployment-config.json 1 -
+/wp-includes/customize/shell.php 4 -
+/wp-admin/css/colors/blue/index.php 95 -
+/cgi-bin/ffAA531.php 1 -
+/editor.php 7 -
+/click.php 38 -
+/karma.conf.js.old 1 -
+/wp-includes/random_compat/chosen.php 6 -
+/public/file-manager/content 1 -
+/wp-includes/css/dist/about.php 1 -
+/roundcubemail/.env 2 -
+/.backup.zip 3 -
+/wp-admin/css/colors/blue/blkafewl.php 8 -
+/wp-content/403.php 10 -
+/wp-content/uploads/2022/10/upload.php 5 -
+/wp-includes/css/dist/reusable-blocks/alfa-rex.php 1 -
+/wp-content/plugins/press/wp-class.php 9 -
+/carddav/ 1 -
+/wp-admin/css/colors/midnight/about.php 4 -
+/wp-admin/network/sx.php 2 -
+/wp-admin/includes/about.php 44 -
+/httpd.conf.old 1 -
+/wp-admin/cong.php 7 -
+/.env.prod.json 3 -
+/wp-content/plugins/user-meta/views/debug.php 1 -
+/wp-content/wso.php 2 -
+/wp-content/plugins/woocommerce/src/alfa-rex.php7 2 -
+/src/.git/config 1 -
+/admin/uploads/ 11 -
+/resources/.env 2 -
+/oauth/authorize 1 -
+/core/.git/HEAD 2 -
+/wp-content/uploads/2023/05/autoload_classmap.php 1 -
+/v1/.env 3 -
+/wp-includes/ID3/autoload_classmap.php 43 -
+/ws.php.php 1 -
+/indexfunction.php 1 -
+/site/config.json 1 -
+/169.254.169.254/latest/meta-data/ 2 -
+/wp-adminusers.php 1 -
+/package-lock.json.old 1 -
+/169.254.169.254/latest/meta-data/ami-id 2 -
+/wp-admin/includes/class.api.php 1 -
+/.aws/ 1 -
+/production/.env 2 -
+/wp-content/themes/seotheme/admin.php 4 -
+/node_modules/ 2 -
+/wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/aws_keys.json 2 -
+/Gemfile 2 -
+/register 1 -
+/api/db_dump.php 2 -
+/pgsql.dump 1 -
+/backup/database.php 2 -
+/vendor/.aws/secrets.json 1 -
+/mod/forum/view.php 1 -
+/.git-askpass.sh 1 -
+/css/xp.php 4 -
+/usr/local/mysql/my.cnf 1 -
+/libs/.env 2 -
+/.env_mail 2 -
+/perodua-malaysia//classwithtostring.php 6 -
+/karma.conf.json 3 -
+/wp-admin/css/colors/a.php 3 -
+/rss.php 5 -
+/project/.env 3 -
+/index/function.php 109 -
+/https%3A/www.taylorfrancis.com/books/e/9781498784870 2 -
+/wp-content/languages/ty.php 3 -
+/model.php 1 -
+/wp-includes/404.php 2 -
+/etc/apache2/apache2.conf 1 -
+/tmp/.env 1 -
+/images/options.php 3 -
+/backup/debug.log 2 -
+/web.php 20 -
+/.aws_lambda/token.json 3 -
+/site.conf 1 -
+/12wudscz.php 6 -
+/vendor/github.com/subosito/gotenv/.env 2 -
+/engine/.env 2 -
+/database/.env 1 -
+/yarn.lock.bak 1 -
+/secrets_old.yml 1 -
+/config/settings.prod 3 -
+/wp-adminjsabout.php 1 -
+/template/.env 2 -
+/stindex.php 5 -
+/wp-content/batm.php 3 -
+/sms.py 2 -
+/.wp/wso.php 1 -
+/config/env.php 1 -
+/composer.lock.bak 1 -
+/s3/keys.json 1 -
+/wp/wp-admin/includes/ 2 -
+/about.PHP 10 -
+/feedback/ 1 -
+/wp-admin/ccx/index.php 2 -
+/wp-content/themes/twentytwenty/classes/alfa-rex.php 1 -
+/yarn.lock.old 1 -
+/wp-includes/lock.php 4 -
+/caldav/ 1 -
+/wp-content/updraft/themes.php 1 -
+/wp-admin/css/colors/about.php 26 -
+/config/dev.json 2 -
+/.aws/metadata/iam 3 -
+/cgi-bin/file.php 13 -
+/wp-content/uploads/423_index.php 6 -
+/api/v2/ 1 -
+/index.bak 1 -
+/wp-includes/css/dist/widgets/ 11 -
+/helpers.php 1 -
+/class.php 67 -
+/api/websocket/ 1 -
+/public/aws_secrets.json 1 -
+/api/v1/aws/token 2 -
+/src/.git/logs/HEAD 1 -
+/wp-content/themes/pridmag/db.php 32 -
+/private/smtp.json 1 -
+/my.cnf.old 1 -
+/public/db.sql 1 -
+/metadata/instance/compute/plan 1 -
+/wp-includes/pomo/about.php 67 -
+/style_cww3.php 1 -
+/api/messages/ 1 -
+/wp-includes/rest-api/fields/index.php 10 -
+/wp-content/plugins/erinyani/ 1 -
+/api/debug 4 -
+/options.php 34 -
+/main.js.old 1 -
+/13.php 28 -
+/plugins/function.php 11 -
+/ALFA_DATA/index.php 19 -
+/wp-content/plugins/install.php 3 -
+/WEB-INF/src/ 1 -
+/modules/mod_simplefileuploadv1.3/elements/wp-2019.php 1 -
+/login 7 -
+/ssh/ 1 -
+/wp-content/x/index.php 16 -
+/config/logs/error.log 2 -
+/as/function.php 23 -
+/csv.php 5 -
+/wp-content/plugins/wp-apxupx.php 2 -
+/plugins/ 12 -
+/api-gateway/.env 2 -
+/Capfile 1 -
+/wsanon.php 1 -
+/wp-includes/js/codemirror/ 22 -
+/public/uploads/s3-keys.json 1 -
+/opt/jboss/standalone/configuration/standalone.xml 1 -
+/wp-includes/blocks/freeform/ 1 -
+/wp-includes/Text/Diff/Engine/wp-login.php 17 -
+/core/ 1 -
+/wp-includes/PHPMailer/about.php 1 -
+/core 1 -
+/.well-known/awraulub.php 1 -
+/wp-includes/rest-api/search/ 12 -
+/wp 48 http://immanuelmanohar.com/wp
+/alert-logs/ 1 -
+/wp-includes/js/alfa-rex.php8 1 -
+/alfa-rex2.php 35 -
+/wp-content/themes/twentytwentyfive/styles/sections/ 1 -
+/mail-config.php 1 -
+/admin 7 -
+/wp-content/themes/vantage/css/alfa-rex.php 1 -
+/wp-content/languages/index.php 52 -
+/wp-includes/pomo/install.php 6 -
+/etc/shadow- 1 -
+/wpad.dat 1 -
+/wp-includes/Text/Diff/Engine/index.php 17 -
+/azure-pipelines.yml 3 -
+/phpinfo 19 http://immanuelmanohar.com/phpinfo
+/wp-content/plugins/seoplugins/mar.php 73 -
+/.smtp-credentials 2 -
+/wp-includes/css/dist/edit-post/alfa-rex.php 1 -
+/wp-content/themes/twentytwelve/alfa-rex.php8 1 -
+/wp-includes/certificates/autoload_classmap.php 1 -
+/wp-login1.php 1 -
+/wp-fmfile.php 19 -
+/wp-includes/sitemaps/providers/ 13 -
+/settings 1 -
+/wp-content/plugins/background-image-cropper/plugins.php 6 -
+/bi.php 11 -
+/wp-admin/images/alfa-rex.php 7 -
+/laravel/.env 13 -
+/aspera/faspex/ 4 -
+/config/secrets.json 2 -
+/api/scripts/ 1 -
+/disagrsod.php 5 -
+/wp-admin/byp.php 3 -
+/zwso.php 17 -
+/debug_old.log 1 -
+/env.js 4 -
+/ses/keys.json 1 -
+/opt/ 1 -
+/application.properties.bak 1 -
+/core/adminer.php 2 -
+/wp-includes/css/dist/reusable-blocks/about.php 1 -
+/wp-includes/js/jcrop/sx.php 2 -
+/wp-content/plugins/ninja-forms/randkeyword.php 1 -
+/admin/controller/ 1 -
+/metadata/instance/compute/vmSize 1 -
+/jobs/ 1 -
+/wp-includes/makeasmtp.php 2 -
+/wp-admin/css/bgFbMo.php 13 -
+/wp-includes/Requests/src/wp-login.php 1 -
+/wp-files.php 21 -
+/admin/phpinfo.php 5 http://immanuelmanohar.com/admin/phpinfo.php
+/build.tar.gz 1 -
+/wp-config.backup 2 -
+/dashboard/ 1 -
+/dbeaver-data-sources.xml 1 -
+/wp_wol.php 5 -
+/static/ 1 -
+/xmlrpc.php 102 -
+/jenkins.yml 1 -
+/wp-conflg.php 72 -
+/wp-admin/repeater.php 22 -
+/system-logs/ 1 -
+/wp-includes/SimplePie/Net/alfa-rex.php7 1 -
+/secure_old 1 -
+/wp-admin/maint/sidebara.php 3 -
+/wp-content/plugins/core-plugin/smaxx.php 2 -
+/templates/beez3/index.php 17 -
+/server.js.old 1 -
+/server.js.bak 1 -
+/aws/eks/secrets.json 2 -
+/actuator 1 -
+/exchange/ 1 -
+/site/index-dev.php 1 -
+/img/5/radio.php 1 -
+/wp-includes/customize/index.php 20 -
+/backup/ 3 -
+/config/storage.yml 6 -
+/inf.php 2 -
+/public/.s3cfg 1 -
+/.well-known/pki-validation/ 21 -
+/enviroments/.env.production 3 -
+/am.php 5 -
+/wp-includesRequestslibraryabout.php 1 -
+/aws-api 2 -
+/wp-admincssnetwork.php 1 -
+/public/uploads/.bucket 1 -
+/wp-contentthemestwentytwenty404.php 1 -
+/ovaizmsld.php 1 -
+/wp-includes/images/wlw/wp-login.php 4 -
+/https%3A/www.dropbox.com/s/ghurbxj8ye1jw2y/Immanuel%20-%20Teaching%20Philosophy.pdf%3Fdl%3D0 1 -
+/wp-admin/css/colors/blue/index.php/ 5 -
+/Gemfile.lock 3 -
+/wp-includes/pomo/rk2.php 5 -
+/cgi-bin/404.php 1 -
+/config/app.php 1 -
+/admin/console 1 -
+/administrator/index.php 1 -
+/api/aws/ses 2 -
+/Gemfile_old 1 -
+/wordpress/ALFA_DATA/alfacgiapi/ 1 -
+/wp-includes/Text/Diff/alfa-rex.php7 2 -
+/wp-content/bk.php 1 -
+/wp-content/themes/vantage/slider/alfa-rex.php8 1 -
+/vendor/.env 3 -
+/wp-content/plugins/wp.php 6 -
+/vendor.tar.gz 1 -
+/wp-admin/network/xmrlpc.php 23 -
+/wp-admin/pages.php 9 -
+//test/wp-includes/wlwmanifest.xml 112 -
+/wp-includes/Text/Diff/about.php 34 -
+/site/.env.save 1 -
+/wp-admin/js/widgets/cloud.php 26 -
+/wp-admin/css/index.php 49 -
+/wp-includes/SimplePie/XML/wp-login.php 1 -
+/pma.zip 1 -
+/mailinspector/public/loader.php 1 -
+/wp-includes/Requests/Transport/file.php 1 -
+/wp-includes/pomo/yellow.php 13 -
+/public_html/.env 2 -
+/.well-knownold/ 10 -
+/depotcv.php 5 -
+/wp-content/themes/aahana/json.php/wp-content/uploads/json.php 1 -
+/web/error.log 1 -
+/uploads/update_with_pics.php 13 -
+/.aws_lambda/secrets.json 3 -
+//wp-file.php 6 -
+/.ftpconfig 4 -
+/wp-admin/css/autoload_classmap.php 1 -
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/web/phpinfo.php 1 -
+/admin/.env.local 2 -
+/wp-content/plugins/fix/up.php 16 -
+/gallery/ 1 -
+/atlassian-connect.json 1 -
+/backup/error.log 2 -
+/api/credentials 1 -
+/.well-knownold/cookie.php 1 -
+/.git/config~ 2 -
+/examples/sdl-first/.env 2 -
+/db_backup.zip 1 -
+/https%3A/arxiv.org/abs/1605.02140 2 -
+/wp-content/uploads/file.php 10 -
+/wp-contentindex.php 1 -
+/api/db_backup.sql 2 -
+/wp-admin/wp-signup.php 10 -
+/site/.env 4 -
+/custom-plugin.php 6 -
+/actuator/scheduledtasks 1 -
+/wp-admin/includes/class-wp-pagebuilders-3bv4aS.php 14 -
+/wp-includessodium_compatsrcCore32Curve25519Geindex.php 1 -
+/html 1 -
+/packages/plugin-qiankun/examples/app2/.env 2 -
+/themes/zMous 5 -
+/wp-includes/js/dist/vendor/ 10 -
+/wp-includes/options.php 7 -
+/css/sgd.php 2 -
+/bug-reports/ 1 -
+/.env.*.local 1 -
+/wp-content//autoload_classmap.php 12 -
+/pom.xml.bak 1 -
+/documentation/playwright.config.js 1 -
+/.well-known/pki-validation/xmrlpc.php 45 -
+/config/auth.yml 1 -
+/dump.sql.gz 2 -
+/test/bdd/fixtures/did-rest/.env 2 -
+/wp-includes/js/jquery/about.php 1 -
+/aws/s3/private.json 2 -
+/.envs/.production/.django 2 -
+/wp-content/languages/wp-login.php 11 -
+/baxa1.phP8 24 -
+/.well-known/class.api.php 3 -
+/images/index.html 2 -
+/asasx.php 11 -
+/admin/fckeditor/editor/filemanager/owlmailer.php 5 -
+/.well-known/pki-validation/parx.php 16 -
+/.bash_profile 1 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/https%3A/www.dropbox.com/s/21thufkdf8gjrq8/Immanuel%20Resume-ElectricalandComputerEngineer-v1.pdf%3Fdl%3D0 1 -
+/nakrip.php 16 -
+/backup/dump.sql.gz 2 -
+/wp-includes/html-api/index.php 34 -
+/wp-includes/ID3/options.php 3 -
+/aws/token.json 2 -
+/.well-known/bqdoemhl.php 1 -
+/wp-includes/customize/about.php 50 -
+/cloudbuild.yaml 1 -
+/.gitkeep 4 -
+/icon/.env 2 -
+/ote.php 1 -
+/nginx.conf.old 1 -
+/autoload_classmap/function.php 1 -
+/local/moodle_webshell/webshell.php 1 -
+/jindex.php 5 -
+/docker-node-mongo-redis/.env 2 -
+/download/ 1 -
+/var/www/html/.svn/ 1 -
+/core/log.txt 2 -
+/owa/ 1 -
+/wp-content/plugins/simple/simple.php 30 -
+/aws/s3/public-buckets.json 2 -
+/wp-includes/css/dist/ 4 -
+/security_old.log 1 -
+/mari.php 11 -
+/wp-admin/maint/index.php 46 -
+/static/nbextensions/ 1 -
+/setup/ 1 -
+/ioxi002.PhP7 8 -
+/admin/access.log 2 -
+/wp-admin/css/alfa-rex.php 1 -
+/wp-admin/js/widgets/about.php7 29 -
+/wp-admin/network/admin.php 9 -
+/simple/function.php 7 -
+/setup-config.php 9 -
+/wp-includes/js/tinymce/plugins/ 1 -
+/.well-known/pki-validation/siteindex.php 4 -
+/if.php 7 -
+/defau1t.php 5 -
+/api/v1/proxy 6 -
+/filemanager/dialog.php 17 -
+/documentation/ 1 -
+/imagesindex.php 1 -
+/.env.smtp/ 1 -
+/.well-knownclasswithtostring.php 1 -
+/.ssh/id_ed25519 1 -
+/wp-settings.php 1 -
+/live_env 1 -
+/.env-sample 1 -
+/wp-content/uploads/wp-conflg.php 40 -
+/requirements.txt 3 -
+/status 1 -
+/admin/function.php/wp-content/uploads/json.php 1 -
+/.git/refs/heads/ 4 -
+/wp-content/plugins/Cache.php 4 -
+/0x1949.php 17 -
+/wp-includes/js/thickbox/ 11 -
+/wp-includes/SimplePie/Content/Type/inputs.php 1 -
+/backup/app.js.bak 2 -
+/wp-includes/css/ 19 -
+/wp-includes/ans.php 1 -
+/Vagrantfile 1 -
+/phpsysinfo/phpsysinfo.php 2 -
+/wp-content/themes/twentytwentyone/assets/alfa-rex.php8 1 -
+/demo 11 -
+/UserFiles/ 4 -
+/config/env 1 -
+/doiconvs.php 2 -
+/ethan.php 3 -
+/lock360.php 72 -
+/wp-content/themes/twentyfourteen/images/about.php7 1 -
+/index/x.php 4 -
+/ohayo.php 5 -
+/home/.env 2 -
+/wp-config.bak 2 -
+/WEB-INF/web.xml.bak 1 -
+/config/backup.tar.gz 2 -
+/dnt-policy.txt.old 1 -
+/sim.php/wp-includes/certificates/plugins.php 17 -
+/wp-admin/css/colors/midnight/strcmp.php 14 -
+/wp-includes/style-engine/content.php 4 -
+/proc/self/cwd/ 1 -
+/fedex/.env 1 -
+/INSTALL.txt.old 1 -
+/wso1.php 5 -
+/templates/atomic/templates.php 9 -
+/ajax-actions.php 22 -
+/.aws_/credentials 1 -
+/public/env.js 1 -
+/admin/function.php/install.php 1 -
+/api/html/ 1 -
+/wp-admin/network/about.php 59 -
+/my_env/newsletter.py 2 -
+/wp-content/uploads/plugins.php 4 -
+/var/www/html/config.php 1 -
+/j.php 5 -
+/vhosts/admin.php 1 -
+/.aws_lambda 3 -
+/amaxx.php 5 -
+/aws_creds.js 2 -
+/.ssh/known_hosts 1 -
+/sftp.json 2 -
+/aws/metadata/iam/security-credentials 2 -
+/.well-known/file.php 15 -
+/.database.sql 3 -
+/core/.git/ 2 -
+/wp-admin/function.php 33 -
+/config-logs/ 1 -
+/home/user/.bashrc 1 -
+/.env.docker.dev 1 -
+/core/settings.php 2 -
+/config/database.yml 2 -
+/.database.bak 3 -
+/wp-includes/sx.php 2 -
+/phpmyadmin/setup/ 1 -
+/wp-json/sure-triggers/v1/automation/action 1 -
+/lara/phpinfo.php 7 -
+/exposed.php 1 -
+/wp-content/plugins/shell/noimg.php 10 -
+/health_check.php 1 https://immanuelmanohar.com/health_check.php
+/wp-admin/includes/rk2.php 2 -
+/core/bundle.js 2 -
+/beence.php 6 -
+/about/wp-conflg.php 5 -
+/wp-content/plugins/Cache/footer.php 4 -
+/backup.tgz 1 -
+/frontend/.env 3 -
+/xt/smaxx.php 2 -
+/wp-admin/maint/14.php 2 -
+/api/user 3 -
+/web/database.php 1 -
+/.docker/ 1 -
+/wp-includesimagessmiliesabout.php 1 -
+/acp.php 8 -
+/wp-includes/fonts/about.php 4 -
+/site_backup_old.zip 1 -
+/configs/routes.js 3 -
+/wp-admin/network/file.php 1 -
+/apis/controllers/users.js 3 -
+/xxxss 2 -
+/back/.env 3 -
+/sb.php 1 -
+//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js 14 -
+/computeMetadata/v1 4 -
+/api/success/ 1 -
+/wp-admin/admin.php 25 -
+/wp-content/banners/about.php 23 -
+/menu.php 58 -
+/secrets.txt 1 -
+/wp-content/themes/classic/inc/json.php 4 -
+/statics/images/admin_img/logo_1.gif 1 http://immanuelmanohar.com
+/.env-example 1 -
+/aws/credentials.json 2 -
+/sxo.php 6 -
+/wp-includes/images/media/wp-login.php 8 -
+/rbh/log 5 -
+/index-dev.php 1 -
+/wp-content/wp-configs.php 4 -
+/wp-includes/style-engine/autoload_classmap.php 6 -
+/web/.env.old 1 -
+/wp-admin/css/colors/blue/CasperExV1.php 2 -
+/aws/iam/config.json 2 -
+/react-app/.env.production 2 -
+/aws.yaml 2 -
+/.git/logs/refs/remotes/origin/master 1 -
+/wp-includes/blocks/block/ 12 -
+/aws.yml 5 -
+/aws/cognito/token.json 2 -
+/server.xml.bak 1 -
+/wp-includes/fonts/browser.php 13 -
+/wp-content/themes/travel-lite/alfa-rex.php8 1 -
+/profile-logs/ 1 -
+/INSTALL.txt 1 -
+/laravel/core/.env 4 -
+/.env1 2 -
+/conf/server.xml 1 -
+/api/docs 1 -
+/app/config/secrets.yml 1 -
+/new/.env 5 -
+/wp-content/themes/wp-login.php 1 -
+/opt/aws/ses.env 4 -
+/wp-includes/ID3/themes.php 7 -
+/wp-includes/ID3/about.php 63 -
+/2023 3 http://immanuelmanohar.com/2023
+/wp-admin/images/cloud.phphttps://anngli.com/radio.php 1 -
+/site/config.php.bak 1 -
+/terminal.php 1 -
+/app.py 5 -
+/.drone.yml 1 -
+/wp-includes/Requests/Utility/alfa-rex.php 3 -
+/collab-connect-web-application/server/.env 2 -
+/.s3/keys.json 2 -
+/wp-admin/includes/rfzhh.php 14 -
+/WORDPRESS 3 http://immanuelmanohar.com/WORDPRESS
+/wp-includes/random_compat/ 1 -
+/passwd 1 -
+/debug/pprof/ 1 -
+/aws/api-gateway/openapi.json 2 -
+/config/config.json 7 -
+/dev 9 -
+/wp-content/themes/cay-van-phong/3luaO.php 5 -
+/config/mail.php 2 -
+/wp-admin/includes/class-walker-nav-edit.php 1 -
+/cgi-bin/wp-login.php 26 -
+/rust-backend/dao/.env 2 -
+/wp-content/themes/customizr/templates/alfa-rex.php8 1 -
+/gallery 3 -
+/class-snoopye_wso.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 22 -
+/wp-includes/js/autoload_classmap.php 1 -
+/wp-mail.php 49 -
+/images/plugins.php 5 -
+/assets/bypass.php 5 -
+/wp-admin/autoload_classmap.php 37 -
+/link.php 55 -
+/client/mutual-fund-app/.env 2 -
+/backup/debug.php 2 -
+/files/log.php 6 -
+/wp-content/themes/twentyseventeen/page/index.php 3 -
+/wp-content/admin.php 66 -
+/archive.zip 2 -
+/wp-admin/mah.php 5 -
+/web/wp-admin/install.php 1 -
+/simple.php 121 -
+/index/index 4 -
+/exec.cgi 1 -
+/api/.env 29 -
+/defense.php 5 -
+/wp-includes/sodium_compat/namespaced 10 -
+/wp-includes/images/smilies/index.php 43 -
+/core/.git/config 2 -
+/.vimrc 1 -
+/.gitignore 10 -
+/main 46 http://immanuelmanohar.com/main
+/wp-includes/css/dist/commands/alfa-rex.php8 1 -
+/immanuelmanohar.com.zip 2 -
+/wp-includes/assets/alfa-rex.php7 1 -
+/uploads/autoload_classmap.php 16 -
+/.well-known/admin.php 31 -
+/command.php 2 -
+/sendgrid.env 7 -
+/admin/atomlib.php 4 -
+/.project 1 -
+/crm/.env 6 -
+/.gitlab-ci.yml.old 1 -
+/lara/info.php 7 -
+/.well-known/aws.json 2 -
+/wp-content/plugins/core-plugin/file-manager.php 3 -
+/public/file-manager/tinymce 1 -
+/gel4y.php 10 -
+/fonts.php 1 -
+/.kube/ 1 -
+/wp-adminmaintadmin.php 1 -
+/wp-content/themes/about.php 94 -
+/wp-includesRequestschosen.php 1 -
+/web/config.json 1 -
+/babel.config.js 1 -
+/system/new.php 1 -
+/erin1.PhP7 10 -
+/XxX.php 1 -
+/export/ 1 -
+/wp-admin/css/network.php 6 -
+/web/.env.local 1 -
+/web/debug.log 1 -
+/.aws/config 15 -
+/ssh/id_rsa 2 -
+/pvt.php 1 -
+/wp-admin/maint/admin.php 33 -
+/wp-includes/Text/Diff/Renderer/about.php 5 -
+/wp-admin/images/chosen.php 5 -
+/wp-content/themes/twentytwentythree/about.php 2 -
+/wp-includes/block-patterns/vuln.php 6 -
+//lol.php 7 -
+/cgi-bin/ALFA_DATA/alfacgiapi/ 1 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/aws-elasticbeanstalk-ec2-role 2 -
+/aws_secret.txt 2 -
+/dav.php 11 -
+/admin/test.php 2 -
+/api-keys/ 1 -
+/phpinfo2.php 5 http://immanuelmanohar.com/phpinfo2.php
+/php-info 2 -
+/_profiler/phpinfo/phpinfo.php 5 -
+/wi.php 21 -
+/admin/site.sql 2 -
+/wp-admin/js/index.php 102 -
+/build.zip 1 -
+/wp-admin/images/sx.php 2 -
+/.well-known/change-password.old 1 -
+/goat1.php 58 -
+/cgi-bin/fm.php 4 -
+/admin/main.js 2 -
+/error_old.log 1 -
+/private/ 1 -
+/proc/mounts 1 -
+/wp-contentthemesaleraalpha.php 1 -
+/jscripts/tiny_mce/plugins/filemanager/dialog.php 1 -
+/shell20211022.php 5 -
+/vhosts/ovajnhgdr.php 1 -
+/wp-includes/images/css.php 1 -
+/ssh/id_rsa.pub 1 -
+/wp-content/uploads/2023/10/autoload_classmap.php 1 -
+/wp-content/plugins/akismet/alfa-rex.php7 1 -
+/wp-adminnetworkadmin.php 1 -
+/wp-content/sx.php 2 -
+/wp-includes/fonts/admin.php 61 -
+/api/warnings/ 1 -
+/wp-admin/wp-admin.php 15 -
+/cloud 2 -
+/debug 3 -
+/wp-admin/css/colors/cloud.php 22 -
+/wp-admincsscolorsblue 1 -
+/wp-includes/images/wlw/autoload_classmap.php 1 -
+/wp-includesRequestsabout.php 1 -
+/shop/lock.php 8 -
+/Plugins/ueditor/net/controller.ashx 1 -
+/Gruntfile.js.old 1 -
+/metadata/computeMetadata/v1 1 -
+/wp-includeswp-class.php 1 -
+/admin/backup/ 1 -
+/admin/model/ 1 -
+/wp-includes/assets/admin.php 42 -
+/ab1ux1ft.php 7 -
+/admin/.env.old 2 -
+/id_rsa 3 -
+/delete4.php 1 -
+/th/plugins/phpThumb/404.php 6 -
+/include/dialog/select_templets.php 1 -
+/html/.env 2 -
+/wp-content/themes/seotheme/classwithtostring.php/wp-admin/user/admin.php/wp-content/uploads/json.php 1 -
+/api/test 2 -
+/api-gateway/.env.staging 2 -
+/wp-includes/IXR/wp-conflg.php 3 -
+/wp-content/plugins/wp-conflg.php 54 -
+/site 11 -
+/wp-content/plugins/elementor/elementor-merge.php 1 -
+/wp-admin/user/cloud.php 33 -
+/wp-includes/function.php 1 -
+/wp-content/updraft/about.php 22 -
+/ovaimzppa.php 1 -
+/wp-admin/404.php 30 -
+/wp-content/plugins/pwnd/as.php 30 -
+/src/backup.sql 1 -
+/wp-content/codeboy1877_up.php 1 -
+/profile/ 1 -
+/.well-known/fierzashell.php 1 -
+/backup.gz 1 -
+/index1.php 4 -
+/.well-known/cache-compat.php 3 -
+/images/xmrlpc.php 21 -
+/admin/debug.js 2 -
+/wp-includes/images/autoload_classmap.php 6 -
+/php.ini.bak 1 -
+/9index.php 5 -
+/wp-admin/js/widgets/xmrlpc.php 38 -
+/.well-known/elp.php 3 -
+/home/www/backup/ 1 -
+/helpers/utility.js 2 -
+/site/adminer.php 1 -
+/composer.lock 5 -
+/oldsanta/.env 2 -
+/wp-includes/SimplePie/Parse/alfa-rex.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/ 11 -
+/web/settings.php 1 -
+/wp-admin/css/colors/index.php/ 2 -
+/aws/ses.json 2 -
+/zko/readme.php 2 -
+/admin/infophp.php 2 -
+/web/wp-login.php 1 -
+/wp-includes/IXR/ 12 -
+/modules/ 3 -
+/wp-includes/images/media/ 13 -
+/en/news_info.php 1 -
+/web/debug.js 1 -
+/admin/run.php 2 -
+/db.sqlite3 1 -
+/wp-content/ALFA_DATA/alfacgiapi/ 1 -
+/var/www/html/backup/ 1 -
+/wp-includes/link-template-git.php 14 -
+/wp-content/plugins/seoplugins/index.php 45 -
+/swagger-ui.html 1 -
+/pi.php 13 -
+/wp-mna.php 5 -
+/wp-admin/css/about.php/alfacgiapi/ 2 -
+/wp-content/plugins/WordPressCore/blkfqnikz.php 2 -
+/cc.php%20/admin.php 2 -
+/home 45 http://immanuelmanohar.com/home
+/s.php 6 -
+/wp-includes/php-compat/chosen.php 5 -
+/resources/docker/rediscommander/.env 2 -
+/Nuke.App.Ui/.env 2 -
+/demo/.env 2 -
+/__weave/file/etc/passwd 1 -
+/smtp.env 1 -
+/wp-includes/widgets/parx.php 3 -
+/wp-admin/codeboy1877_up.php 1 -
+/wp-includes/cof.php 13 -
+/www/.env 4 -
+/netlify.toml 1 -
+/security.txt.old 1 -
+/web/config.php.bak 1 -
+/legion.php 5 -
+/e/data/js/jscolor/hs.png 1 http://immanuelmanohar.com
+/css/plugins.php 2 -
+/wp-includes/Text/Diff/Engine.php 25 -
+/.pgpass 4 -
+/098.php 5 -
+/admin/ty.php 4 -
+/settings.inc 1 -
+/aws_lambda/handler.js 2 -
+/uploads/xleet.php 3 -
+/data/aws/credentials 2 -
+/2024 3 http://immanuelmanohar.com/2024
+/wp-content/themes/twentyfourteen/archive.php 2 -
+/core/index-dev.php 2 -
+/install.php 122 -
+/services.php 5 -
+/wp-admin/xleet.php 3 -
+/app/config/.env 3 -
+/wp-links-opml.php/wp-includes/certificates/plugins.php 2 -
+/token 1 -
+/wp-includes/html-api/chosen.php 6 -
+/.profile 2 -
+/_phpinfo.php 5 -
+/baker.php 2 -
+/package-lock.json 4 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 11 -
+/includes/1975Team.php 1 -
+/.db_backup.tar 3 -
+/session 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 2 http://immanuelmanohar.com/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/wp-admin/maint/ 37 -
+/wp-includesabout.php 1 -
+/.s3cfg.old 2 -
+/backup/config.php.bak 2 -
+/wp-includes/SimplePie/HTTP/about.php7 1 -
+/api/key 2 -
+/wp-admin/css/colors/ocean/ 13 -
+/functions.php 8 -
+//website/wp-includes/wlwmanifest.xml 102 -
+/newsite 10 -
+/ap.php 1 https://immanuelmanohar.com/ap.php
+/env.backup 6 -
+/about.php7 26 -
+/.well-known/pki-validation/pwnd.php 4 -
+/media/kit/ 1 -
+/.docker/laravel/app/.env 1 -
+/wp-admin/css/colors/light/about.php 11 -
+/s3/.aws/credentials 1 -
+/wp-content/plugins/zgdsfagck/rk2.php 1 -
+/epinyins.php 29 -
+/public/execute.php 1 -
+/ftp-config.json 1 -
+/robots.txt.bak 1 -
+/admin.cgi 1 -
+/.circleci/config.yml 5 -
+/wp-content/plugins/seoo/wsoyanz1.php 24 -
+/database.sql 8 -
+/wp-includes/PHPMailer/brand.php 14 -
+/Old 3 http://immanuelmanohar.com/Old
+/sidwsi.php 14 -
+/config.old 3 -
+/docker-compose.dev.yml 4 -
+/audit-logs/ 1 -
+/js/tiny_mce/plugins/filemanager/dialog.php 1 -
+/wp-includes/blocks/heading/autoload_classmap.php 1 -
+/bac 2 http://immanuelmanohar.com/bac
+/routes.php 1 -
+/dashboard/phpinfo.php 3 -
+/wp-includes/SimplePie/Decode/wp-login.php 6 -
+/public/ 1 -
+/core/.gitignore 2 -
+/.git/dump.sql 2 -
+/colors.php 10 -
+/wp-includes/header.php 1 -
+/.well-known/mfeypwze.php 1 -
+/geju.php/wp-includes/images/about.php 6 -
+/var/log/cloud-init-output.log 2 -
+/.github/FUNDING.yml 1 -
+/wp-includes/IXR/admin.php 10 -
+/admin/dump.sql 2 -
+/usr/local/nginx/conf/nginx.conf 1 -
+/global-classes-css-file.php 1 -
+/cms/.env 1 -
+/vendor/github.com/gobuffalo/envy/.env 2 -
+/wp-includes/js/imgareaselect/alfa-rex.php 1 -
+/hello.php 6 -
+/wp-includes/blocks/button/index.php 9 -
+/wp-content/themes/xmrlpc.php 8 -
+/assets/item.php 4 -
+/wp-includes/sitemaps/providers/about.php 6 -
+/security-logs/ 1 -
+/src/dump.sql 1 -
+/api-gateway/config.yaml 2 -
+/user/controllers/index.js 2 -
+/api/ 1 -
+/images/cloud.php 24 -
+/site/.git/HEAD 1 -
+/en/.env 2 -
+/admin/view/ 1 -
+/manager/img/loading.gif 1 https://immanuelmanohar.com/manager/img/loading.gif
+/phpinfo/test.php 1 http://immanuelmanohar.com/phpinfo/test.php
+/core/config.json 2 -
+/profile-data/ 1 -
+/wp-includes/Requests/autoload_classmap.php 1 -
+/defaul1.php 7 -
+/var/www/html/settings.php 1 -
+/wp-admin/css/colors/HaUaphPh.php 1 -
+/images/index.php 8 -
+/.well-known/tiny.php 1 -
+/.env.prod.local 1 -
+/wso2.php 11 -
+/backup/db.sql 2 -
+/.ssh/id_rsa.pub.bak 1 -
+/.env_backup 2 -
+/config/.git/logs/HEAD 2 -
+/wp-includes/Requests/src/alfa-rex.php 1 -
+/wp-includes/Text/Diff/Engine/alfa-rex.php8 2 -
+/shop.php 11 -
+/aws/iam/temporary.json 2 -
+/rest/.env 1 -
+/wp-includes/css/dist/block-editor/alfa-rex.php8 1 -
+/old-site 2 http://immanuelmanohar.com/old-site
+/wp-content/themes/twentynineteen/sass/about.php 1 -
+/wp-includes/PHPMailer/file.php 1 -
+/awsstats/.env 4 -
+/wp-admin/packed.php 5 -
+/infoo.php 31 -
+/getcpuutil.php-bakworking 3 -
+/settings.gradle 2 -
+/ms-edit.php 6 -
+/article/view.php 1 -
+/wsa.php 11 -
+/777.php 5 -
+/mahfunction.php 1 -
+/wp-content/small.php 1 -
+/wp-contentpluginsWordPressCoreinclude.php 1 -
+/wp-admin/ajax-actions.php 22 -
+/wp-content/uploads/cache.php 11 -
+/wp-includes/html-api/ 3 -
+/wordfence-waf.php 1 -
+/wp-includes/Requests/about.php 60 -
+/wp-content/uploads/2023/08/ 11 -
+/wp-admin/css/colors/ectoplasm/alfa-rex.php8 2 -
+/unauth/%252e%252e/php/ztp_gate.php/PAN_help/x.css 1 -
+/wp-admin.php 40 -
+/ws.php 66 -
+/application.yml.bak 1 -
+/credentials/ 1 -
+/api-gateway/v2/swagger.json 2 -
+/wp-content/about.php 65 -
+/wp-adminjsindex.php 1 -
+/wp-content/plugins/WordPressCore/ 2 -
+/info.cgi 1 -
+/wp-includes/js/plupload/ 11 -
+/images/.env 2 -
+/known_hosts 1 -
+/wp-includes/Text/Diff/Renderer/wp-login.php 7 -
+/main/.env 7 -
+/wp-content/uploads/2022/ 2 -
+/cacti/cmd_realtime.php 1 -
+/wp-adminimagescloud.php 1 -
+/api/json/ 1 -
+/config/main.dev.js 2 -
+/root/.aws/credentials 1 -
+/wp-content/plugins//index.php 1 -
+/yarn_old.lock 1 -
+/wp-mail.php/wp-includes/ID3/Core32.php 4 -
+/internal-api/iam/credentials 1 -
+/src/.env 6 -
+/wp-contentthemeswp-pridmaginit.php 1 -
+/Dockerfile.old 1 -
+/wp-includes/theme-compat/wp-conflg.php/wp-content/plugins/google-seo-rank/index.php 3 -
+/tmp/php.log 1 -
+/admin/fileman/php/upload.php 1 -
+/exetasi.php 1 -
+/aws/s3/config.json 2 -
+/tiny.php 14 -
+/log4j.properties 1 -
+/config/adminer.php 2 -
+/security.txt 3 -
+/wp-includes/js/codemirror/87.php 13 -
+/wp-admin/wp-head.php 1 -
+/html.php 10 -
+/tools.php 6 -
+/wp-includes/html-api/cloud.php 5 -
+/wp-admin/maint/php 2 -
+/6index.php 5 -
+/wp-content/themes/vantage/languages/about.php 1 -
+/wp-includes/sitemaps/alfa-rex.php 5 -
+/smtp_config.js 1 -
+/wp-admin/includes/mar.php 3 -
+/ansible.cfg 1 -
+/wp-includes/js/imgareaselect/about.php7 2 -
+/zcanp.php 1 -
+/wp-includes/SimplePie/wp-conflg.php 6 -
+/wp-includes/pomo/fgertreyersd.php 5 -
+/admin.php/controller/extension/extension/ultra.php 6 -
+/test.html 1 -
+/.well-known/zwso.php 1 -
+/wp-includes/js/tinymce/plugins/hr/ 1 -
+/.well-known/pki-validation/cloud.php 30 -
+/wp-content/themes/cay-van-phong/filemanager.php 31 -
+/wp-includes/style-engine/wp-conflg.php 12 -
+/crack_self_restore.php 7 -
+/muse.php 30 -
+/22.php 7 -
+/wp-content/plugins/WordPressCore/smaxx.php 2 -
+/core/.env.bak 2 -
+/core/.env.old 2 -
+/application.properties.old 1 -
+/wp-admin/css/plugins.php 1 -
+/config/config.php 3 -
+//blog/robots.txt 1 immanuelbloch.net/blog//wp-login.php
+/.s3cfg 2 -
+/wp-includes/images/smilies/ 1 -
+/composer.json.bak 1 -
+/internal/aws/metadata.json 1 -
+/.well-knownpki-validationabout.php 1 -
+/wp-includes/IXR/autoload_classmap.php 1 -
+/web.config.old 1 -
+/uploads/index.php 1 -
+/wp-includes/Text/Diff/Engine/about.php 41 -
+/var/log/syslog 1 -
+/index/lock.php 5 -
+/.svnignore 1 -
+/auth/forgot-password 1 -
+/wp-admin/user/content.php 6 -
+/wso112233.php 36 -
+/wp-logout.php 8 -
+/.well-known/pki-validation/index.php 45 -
+/config/aws.json 6 -
+/.well-known/pki-validation/xp.php 14 -
+/MYK4TJEfFvO.php 5 -
+/etc/mysql/my.cnf 1 -
+/assets/ 3 -
+/library/.env 3 -
+/thumbs.php 8 -
+/wp-content/themes/twentynineteen/alfa-rex.php 1 -
+/wp-includes/PHPMailer/autoload_classmap.php 1 -
+/api/aws/token 2 -
+/web/.env 5 -
+/h4x0r.html 4 -
+/wp-*.php 1 -
+/.well-known/pki-validation/bb.php 3 -
+/moon.php 126 -
+/bundle.js.map 2 -
+/wp-content/plugins/sxo.php 1 -
+/wp-adminsetup-config.php 1 -
+//news/wp-includes/wlwmanifest.xml 102 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 3 http://immanuelmanohar.com/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/wp-content/themes/1.php 2 -
+/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/backend/config/default.yml 5 -
+/etc/apache2/sites-available/ 1 -
+/api/v1/auth 2 -
+/hyIPpxWDQ.php 5 -
+/sitemap.xml.bak 1 -
+/2022 3 http://immanuelmanohar.com/2022
+/.env_mail_admin 2 -
+/source.tar.gz 1 -
+/api/v2/proxy 4 -
+/wp-content/themes/astra/inc/fm.php 5 -
+/file-manager/tinymce 1 -
+/config/env.prod.json 1 http://immanuelmanohar.com/config/env.prod.json
+/.github/workflows/deploy.yml 3 -
+/swagger.yaml 1 -
+/config/.env~ 2 -
+/Gruntfile.js 1 -
+/api/aws/iam 2 -
+/Path 1 -
+/static/.env 1 -
+/.htaccess 6 -
+/.boto 1 -
+/admin-post.php 23 -
+/wp-includes/SimplePie/file.php 1 -
+/.env.docker 1 -
+/search.php 1 -
+/v.php 13 -
+/wp-includes/rest-api/blue.php 4 -
+/api/shared/config/config.env 6 -
+/myadmin.zip 1 -
+/.user.ini 2 -
+/cgi-bin/cloud.php 22 -
+/wp-includes/js/jquery/jquery.js 29 http://immanuelmanohar.com/wp-includes/js/jquery/jquery.js
+/spip.php 10 -
+/wp-content/plugins/ph-file-manager/wp-file.php 1 -
+/wp-includes/ID3/index.phphttps://cn-ves.com/m.php 2 -
+/lol.php 11 -
+/config/main.js 2 -
+/wp-includes/customize/themes.php 1 -
+/site/error.log 1 -
+/ioxi001.PhP7 11 -
+/version 1 -
+/media/system/js/core.js 29 http://immanuelmanohar.com/media/system/js/core.js
+/ccx/th3_err0r.php 1 -
+/bak 2 http://immanuelmanohar.com/bak
+/backup.tar.gz 8 -
+/etc/hosts 1 -
+/.env.sample 2 -
+/hidden/aws_keys.json 1 -
+/wp-cli.php 7 -
+/web/dump.sql 1 -
+/api/aws/keys 2 -
+/backup/.env 4 -
+/agora/.env 2 -
+/wp-content/themes/twentytwenty/assets/js/alfa-rex.php 1 -
+/secured/phpinfo.php 2 -
+/wp-admin/network/autoload_classmap.php 1 -
+/wp-content/plugins/woocommerce/src/wp-login.php 1 -
+/alfanew.PHP7 11 -
+/169.254.170.2/v2/credentials/ecsTaskExecutionRole 2 -
+/babel-plugin-dotenv/test/fixtures/empty-values/.env 2 -
+/wp-includes/pomo/ 24 -
+/indoxploit.php 1 -
+/post.php/wp-includes/Requests/ 1 -
+/wp-includes/SimplePie/Net/alfa-rex.php8 1 -
+/api-gateway/openapi.json 2 -
+/tes.php 19 -
+/about/sxo.php 6 -
+/wp-mail.php/wp-includes/ID3/.info.php 6 -
+/wp-includes/SimplePie/about.php 47 -
+/init.php 16 -
+/wp-content/uploads/wp-login.php.suspected 2 -
+/appsettings.json 4 -
+/css/uslipjzt.php 1 -
+/wp-admincsscolorscoffeeindex.php 1 -
+/credentials_old.yml.enc 1 -
+/fox.php 12 -
+/crypted.php 1 -
+/.fk.php 5 -
+/wp-admin/xxl.php 1 -
+/src/debug.js 1 -
+/.github/funding.yml 1 -
+/internal-api/aws/credentials 1 -
+/wp-includes/mtnidwgu.php 1 -
+/wordpress.zip 1 -
+/files/index.php 28 -
+/aws/s3/tokens.yml 2 -
+/src/settings.php 1 -
+/Assets/item.php 7 -
+/static/js/main.js 1 -
+/wp-content/themes/vantage/snippets/about.php 1 -
+/function/function.php 21 -
+/wsoyanz.php 27 -
+/settings.env 2 -
+/config.yml.bak 1 -
+/aws/ses_smtp.json 2 -
+/BLOG 2 http://immanuelmanohar.com/BLOG
+/wp-content/blogs.dir/about.php 22 -
+/admin/internal/api 4 -
+/tokens.txt 1 -
+/wp-includes/sodium_compat/index.php 5 -
+/dep.php 2 -
+/ern1.PhP7 6 -
+/.well-knownacme-challengeabout.php 1 -
+/wp-includes/ID3/sx.php 2 -
+/aws/env_vars.txt 2 -
+/wp-admin/css/colors/light/alfa-rex.php 1 -
+/images/up.php 14 -
+/package.json 6 -
+/.git/db.sql 2 -
+/wp-content/upgrade/ 14 -
+/wp-content/uploads/classwithtostring.php 8 -
+/.env.production.local 6 -
+/wp-adminmaintabout.php 1 -
+/wp-includes/PHPMailer/ 11 -
+/wp-admin/wp-conflg.php 62 -
+/database.php 3 -
+/upload/ 12 -
+/config.env 3 -
+/catuploadcsv.php 7 -
+/wp-admin/images/wp-login.php 5 -
+/feeds.php 5 -
+/adminfunction.php 1 -
+/wp-contentuploads202210upload.php 1 -
+/editor/editor/filemanager/upload/php/upload.php 1 -
+/sql/ 1 -
+/api/shared/config/.env 5 -
+/.tmb/class_api.php 2 -
+/.bash_history.old 1 -
+/libraries/phpmailer//index.php 1 -
+/rasax/.env 2 -
+/etc/fstab 1 -
+/max.php 33 -
+/wp-signup.php 44 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/aws/metadata/iam/security-credentials/ 2 -
+/public/bucket.json 1 -
+/wp-mail.php/wp-includes/certificates/plugins.php 1 -
+/db/.env 2 -
+/wp-content/plugins/Core-Econ/upH.php 10 -
+/wp-includes/SimplePie/Decode/alfa-rex.php8 1 -
+/wp-config.cust 2 -
+/wp-includes/js/tinymce/alfa-rex.php 1 -
+/.git/logs/refs/heads/main 2 -
+/wp-includes/pomo/chosen.php 5 -
+/LICENSE.txt.bak 1 -
+/.gitattributes 6 -
+/wp-admin/user/bak.php 6 -
+/admin/function.php 99 -
+/.env.testing 3 -
+/.well-known/afcsthua.php 1 -
+/order 3 http://immanuelmanohar.com/order
+/misc/ajax.js 1 -
+/2017 2 http://immanuelmanohar.com/2017
+/php8.php 19 -
+/backup_db.zip 1 -
+/bundle.js 2 -
+/wp-admin/css/colors/blue/makeasmtp.php 3 -
+/backend/config/development.yml 5 -
+/wp-admin/user/themes.php 1 -
+/function/admin.php 3 -
+/wp-includes/Text/ 11 -
+/assets/qvbgifxl.php 1 -
+/dashboard 2 -
+/.env.production 21 -
+/config/constants.js 3 -
+/.env_archive 1 -
+/169.254.169.254/latest/meta-data/iam/info/ 2 -
+/.env.example 13 -
+/src/config.php.bak 1 -
+/alfanew2.php7 26 -
+/dev/execute.php 2 -
+/wp-admin/css/colors/coffee/about.php 14 -
+/tmp/shell.php 1 -
+/wp-content/plugins/wp-help/mini.php 6 -
+/src/debug.log 1 -
+/6.php 7 -
+/wp-content/uploads/2019/ 1 -
+/aws_secrets.js 2 -
+/wp-content/configs.php 5 -
+/account.php 1 -
+/.s3/config.json 2 -
+/public_html.zip 1 -
+/.aws/s3/tokens 3 -
+/wp-crons.php 6 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includesALFA_DATAalfacgiapiperl.alfa 1 -
+/wp-includes/js/crop/ 12 -
+/wp-config.dist 2 -
+/wp-includesjstinymceskinslightgrayimgindex.php 1 -
+/admin/plugins/tinymce/license.txt 1 -
+/%20Gemfile 1 -
+/server/s3.js 2 -
+/wp-links.php 32 -
+/main.php 7 -
+/src/.env.local 1 -
+/wp-content/about.php7 1 -
+/class-wp.php 1 -
+/fileman/php/upload.php 1 -
+/wp-includes/Requests/sxo.php 1 -
+/wp-madrid.php 1 -
+/.php.ini 1 -
+/application-logs/ 1 -
+/wp-content/plugins/Cache/Cache.php 29 -
+/pinfo.php 3 http://immanuelmanohar.com/pinfo.php
+/backup/.env.old 2 -
+/src/config.json 2 -
+/config/site.conf 2 -
+/beta/.env 4 -
+/wp-admin/network/ayk.php 1 -
+/id_dsa 1 -
+/media/ 1 -
+/docker-compose.yml.bak 1 -
+/.s3/secrets.json 2 -
+/cjfuns.php 2 -
+/shop/.env 2 -
+/wp-admin/style.php 8 -
+/wp-includes/wp-class.php 28 -
+/dolphinscheduler/resources/download 1 -
+/sito 2 http://immanuelmanohar.com/sito
+/pomo.php 1 -
+/.well-known/worksec.php 1 -
+/web/backup.sql 1 -
+/wp-content/uploads/cong.php 8 -
+/install.txt 1 -
+/var/www/ 1 -
+/ftpmaster/.env 2 -
+/core/config.php 2 -
+/wp-content/themes/vantage/languages/alfa-rex.php 1 -
+/wp-admin/css/colors/blue/cloud.php 22 -
+/wp-content/themes/twentytwentytwo/styles/about.php 1 -
+/articles/ 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/index.php 6 -
+/api-gateway/secrets.json 2 -
+/wp-admin/css/sx.php 2 -
+/assetsbypass.php 1 -
+/access.php 11 -
+/wp-includes/certificates/wp-login.php 10 -
+/.gnupg/ 1 -
+/wp-content/themes/tripod/woocustomtemplates/about.php7 1 -
+/php_info.php 8 http://immanuelmanohar.com/php_info.php
+/admin/controllers/merchant.js 3 -
+/console.php 2 -
+/wp-content/themes/alera/alpha.php 27 -
+/root/.bashrc 1 -
+/.aws/ecs-task-credentials 3 -
+/wp/abe.php 4 -
+/actuator/configprops 1 -
+/site/wp-admin/install.php 1 -
+/wp-includes/bak.php 13 -
+/wp-includes/SimplePie/Decode/about.php7 1 -
+/wp-content/themes/vantage/loops/alfa-rex.php 1 -
+/wordpress/wp-includes/wp-config-sample.php 6 -
+/.git/backup 3 -
+/wp-content/plugins/not/includes/about.php 16 -
+/3.php 5 -
+/2021 2 http://immanuelmanohar.com/2021
+/internal-api/aws/metadata 1 -
+/wp-content/themes/travel/issue.php 5 -
+/cloudfront/api-keys.json 2 -
+/api-gateway/config.json 2 -
+/ms.php 5 -
+/wp-includes/css/dist/block-library/about.php 1 -
+/favicon.png 2 -
+/xpw.php 19 -
+/ses_config.php 1 -
+/test.txt 1 -
+/wp-content/debug.log 2 -
+/README 1 -
+/moderation.php 12 -
+/wp-admin/images/wp-ksv1i.php 13 -
+/common.php 1 -
+/wp-content/plugins/HelloDollyV2/hello_dolly_v2.php 1 www.google.com
+/doc/.env 2 -
+/wp-content/repeater.php 22 -
+/hidden/.env 1 -
+/site/main.js 1 -
+/css/access.php 6 -
+/wp-includes/IXR/plugins.php 1 -
+/config_old.yaml 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/ 6 -
+/dump.zip 2 -
+/wp-load.php 39 -
+/edit-form.php 7 -
+/home/user/.aws/credentials 1 -
+/Backup 2 http://immanuelmanohar.com/Backup
+/.well-known/nzhlgkwk.php 1 -
+/wp-content/themes/twentynineteen/js/alfa-rex.php 2 -
+/wp-includes/widgets/ 11 -
+/update/upload.php 1 -
+/themes.php 137 -
+/st.php 20 -
+/wp-content/upgrade/shell.php 4 -
+/wp-admin/js/wp-conflg.php 89 -
+/wp-includes/pomo/index.php 10 -
+/hi.php 1 -
+/publicmakeasmtp.php 1 -
+/moon.php/wp-includes/Text/network.php 1 -
+/4.php 11 -
+/wp-admin/alfacgiapi/ 1 -
+/aws/api-gateway/keys.json 2 -
+/api/internal-aws 2 -
+/support/ 1 -
+/yarn.lock 3 -
+/qa/.env 2 -
+/.netrc 3 -
+/wp-includes/blocks/sx.php 2 -
+/wp-includes/css/dist/block-library/admin.php 8 -
+/dnt-policy.txt.bak 1 -
+/.env.test 10 -
+/apache/i.php 2 -
+/wp-includes/fonts/wp/alfa-rex.php8 1 -
+/config/secrets.yml 2 -
+/wp-admin/network/upfile.php 7 -
+/database.bak 3 -
+/api/properties/ 1 -
+/proc/self/maps 1 -
+/ioxi-o.php 17 -
+/wp-content/themes/twentyfourteen/js/alfa-rex.php8 1 -
+/httpd.conf.bak 1 -
+/123.php 17 -
+/files/css_compare.php 13 -
+/config.properties 2 -
+/metadata/instance/compute/platformFaultDomain 1 -
+/app/config.yml 2 -
+/windows/win.ini 2 -
+/run.php 1 -
+/storage/logs/laravel.log 7 -
+/server.js 2 -
+/.git/objects/info/ 1 -
+/wp-includes/ID3/alfa-rex.php8 1 -
+/config/initializers/ 1 -
+/laravel/info.php 2 -
+/debug.log 8 -
+/var/log/apache2/access.log 1 -
+/style.php 20 -
+/server.bak 1 -
+/ser.php 1 https://immanuelmanohar.com/ser.php
+/blue.php 1 -
+/api/aws/sns 2 -
+/wp-includes/blocks/ 13 -
+/access/set 1 -
+/wp-includes/Text/lv.php 8 -
+/wp-content/plugins/edaewni/index.php 1 -
+/tmp/backup.zip 1 -
+/wso-x569.php 2 -
+/wp-content/themes/twentytwentyfour/index.php 1 -
+/config/.git/HEAD 2 -
+/filter.php 13 -
+/wp-content/themes/ 33 -
+/tools/a-z/index.php 1 -
+/ecs/task-credentials.json 2 -
+/.env.smtp_host 2 -
+/wp-content/wp-head.php 1 -
+/wp-includeswidgetsinclude.php 1 -
+/wp-includes/blocks/paragraph/alfa-rex.php8 1 -
+/we1y8.php 1 -
+/bs1.php 27 -
+/credentials-logs/ 1 -
+/img/cloud.php 26 -
+/app_dev.php 2 -
+/.github/ 2 -
+//2018/wp-includes/wlwmanifest.xml 75 -
+/cgi-bin/account_mgr.cgi 1 -
+/.gcloud/ 1 -
+/log.php 97 -
+/yuuki.php 5 -
+/wp-admin/ALFA_DATA/alfacgiapi/ 2 -
+/src/.env.old 1 -
+/usr/local/ 1 -
+/wp-includes/blocks/edit.php 4 -
+/wp-info.php 23 -
+/notes.txt 1 -
+/.sendgrid/config 2 -
+/.dump.tar 3 -
+/wp-content/themes/twentytwelve/css/alfa-rex.php8 2 -
+/src/database.php 1 -
+/2.php 37 -
+/class_api.php 5 -
+/flower.php 39 -
+/erros_run.php 1 -
+/169.254.169.254/latest/meta-data/network/interfaces/macs/ 2 -
+/wp-admin/update.php 3 -
+/wp-admin/fx.php 3 -
+/wp-includes/theme-compat/autoload_classmap.php 1 -
+/proc/self/cmdline 1 -
+/.github/workflows/ci.yml 2 -
+/_next/static/ 1 -
+/ar.php 9 -
+/code.zip 1 -
+/data.sql 1 -
+/cgi-bin/upfile.php 34 -
+/wp-mail.php/wp-includes/ID3/info.php 4 -
+/bootstrap.php 1 -
+/.well-known/about.php 33 -
+/169.254.170.2/latest/meta-data/ 2 -
+/wp-includes/block-patterns/admin.php 1 -
+/index.old.php 1 -
+/priv.php 9 -
+/config.py 1 -
+/api/graphql 2 -
+/site/backup.tar.gz 1 -
+/abe.php 19 -
+/secrets/aws_ses.env 4 -
+/api/components/ 1 -
+/wp-content/mode.php 1 -
+/file7.php 10 -
+/ALFA_DATA/alfacgiapi/ 5 -
+/ALFA_DATA/ 15 -
+/app_old.js 1 -
+/wp-admin/smaxx.php 2 -
+/admin/controller/extension/extension/ 48 -
+/sendgrid.config.js 1 -
+/wp-includes/ID3/autoload_classmap.phphttp://artrael.com/about/function.php 1 -
+/WordPress/wp-admin/includes/zmFM.php 7 -
+/wp-adminuserxmrlpc.php 1 -
+/sql/dump.sql 1 -
+/lv.php 85 -
+/aws/iam/temp-keys 2 -
+/back.php 8 -
+/kominfo.php 1 -
+/wp-config.production 2 -
+/wp-seo.php 18 -
+/.env.travis 1 -
+/.gitlab-ci/ 2 -
+/aws_lambda/token.json 2 -
+/core/app.js.bak 2 -
+/wp-includes/rest-api/endpoints/ 11 -
+/elfinder/src/connectors/php/connector.php 1 -
+/.AWS_/credentials 8 -
+/_profiler/phpinfo 17 http://immanuelmanohar.com/_profiler/phpinfo
+/logs/debug.log 5 -
+/api/v2/config 1 -
+/2020 2 http://immanuelmanohar.com/2020
+/wp-content/themes/twentytwentythree/parts/about.php 2 -
+/s3/secrets.json 1 -
+/cache.php 1 -
+/.gitlab-ci.yml.bak 1 -
+/api/run 2 -
+/wp-includes/css/dist/edit-widgets/alfa-rex.php8 1 -
+/config/mailer.php 2 -
+/event-logs/ 1 -
+/portal 9 -
+/health 1 -
+/memberfuns.php 2 -
+/usr/share/nginx/html/ 1 -
+/Content/lib/ueditor/net/controller.ashx 1 -
+/graphql/playground 2 -
+/wp-includes/assets/about.php 49 -
+/wp-admin/admin-post.php 3 -
+/f.php 11 -
+/config/site.sql 2 -
+/sitemaps.php 3 -
+/bag 2 http://immanuelmanohar.com/bag
+/wp-2019.php 50 -
+/core/dump.sql.gz 2 -
+/etc/nginx/snippets/self-signed-example.com.conf 2 -
+/wp-includesjstinymcepluginscompat3xcssindex.php 1 -
+/2index.php 6 -
+/.gitlab/ci/ 1 -
+/wp-includes/blocks/latest-comments/ 1 -
+/wp-contentxindex.php 1 -
+/.zsh_history 3 -
+/plugins/servlet/snjFooterNavigationConfig 1 -
+//feed/ 10 -
+/alf.php/ 1 -
+/wp-includes/pomo/mpvloi.php 13 -
+/3index.php 7 -
+/fi2.php 14 -
+/s3/.env 1 -
+/user/config/config.js 2 -
+/src/error.log 1 -
+/wp-content/plugins/woocommerce/lib/wp-login.php 1 -
+/169.254.169.254/latest/meta-data/iam/security-credentials/ 2 -
+/ralphwetzel/theonionbox 1 -
+/wp-includes/js/crop/alfa-rex.php 1 -
+/core/debug.php 2 -
+/register/ 1 -
+/wp-content/themes/twentytwentytwo/admin.php 4 -
+//wp1/wp-includes/wlwmanifest.xml 112 -
+/templates/atomic/error.php 8 -
+/src/phpinfo.php 1 -
+/.well-known/apap.php 6 -
+/wp-includes/blocks/block/index.php 1 -
+/rce.php 1 -
+/Archive.zip 2 -
+/api/parameters/ 1 -
+/backups/.env 2 -
+/wp-includes/css//xc.php 1 -
+/auth/reset-password 1 -
+/app_dev.php.old 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 6 -
+/admin/ckeditor/fileman/php/upload.php 1 -
+/wp-mail.php/wp-includes/ID3/esyfvxgmdq.php 4 -
+/wp-includes/ 21 -
+/images/404.php 7 -
+/aws/api-gateway/secrets.json 2 -
+/wp-content.php 5 -
+/admin/.env.save 2 -
+/wp-contentradio.php 1 -
+/wp-adminoptions.php 1 -
+/home/www/settings.php 1 -
+/woh.php 5 -
+/api-gateway/.env.production 2 -
+/indosec.php 1 -
+/phpmyadmin.zip 1 -
+/language/cron.php 6 -
+/index/index.php 4 -
+/filesindex.php 1 -
+/.well-knowncong.php 1 -
+/.git/shell.php 2 -
+/gank.php 5 -
+/p7m94.php 1 -
+/api-gateway/production/swagger.json 2 -
+/wp-blog-header.php 43 -
+/assets/images/28c5400b0b.php 7 -
+/wp-content/themes/travelscape/json.php 6 -
+/internal/proxy 1 -
+/wp-includes/Requests/Response/siteindex.php 4 -
+/admin/api/graphql 2 -
+/wp-content/uploads/2023/08/admiin.php 8 -
+/api/aws/s3 2 -
+/.backup/db.sql 3 -
+/wp-includes/images/wp-login.php 27 -
+/backup_old.zip 2 -
+/.git/FETCH_HEAD 7 -
+/wp-admin/css/wp-conflg.php 50 -
+/spec/ 1 -
+/alfanew.php7 34 -
+/wp-content/index.php 107 -
+/wp-includes/wp-2019.php 14 -
+/system.php 29 -
+/wp-content/themes/twentytwentythree/styles/alfa-rex.php8 1 -
+/wp-admin/network/post.php 1 -
+/new/.env.local 2 -
+/public/index.php/en 5 -
+/db.php.bak 1 -
+/wp-includes/IXR/wp-login.php 14 -
+/wp-contentpluginsdummyyummywp-signup.php 1 -
+/function.php 69 -
+/swagger.js 2 -
+/user_secrets.yml 1 -
+/s3/presigned 1 -
+/taf.php 1 -
+/shop 2 http://immanuelmanohar.com/shop
+/uploads/ 39 -
+/dist.rar 1 -
+/include/ 1 -
+/.well-known/pki-validation/wp-login.php 12 -
+/classwithtostring.php/rbzccnnp.php/ 1 -
+/.git/refs/tags/ 4 -
+/sources/.env 3 -
+/wp-includes/assets/file.php 4 -
+/wp-includescustomizeindex.php 1 -
+/index.html 41 -
+/wp-includesrest-apiabout.php 1 -
+/.circleci/config.yml.old 1 -
+/daddy.php 5 -
+/wp-includes/ID3/file.php 2 -
+/node_modules.zip 1 -
+/https%3A/www.dropbox.com/s/4v7amyy109mst8q/Research_statement_Immanuel.pdf%3Fdl%3D0 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 834
+185.39.19.49 12 12 16410 20250726082140
+124.221.245.78 11 11 19646 20250731015335
+149.56.150.101 11 11 17930 20250719075215
+185.177.72.16 10 10 24740 20250731071555
+196.251.85.248 10 10 16144 20250709074754
+185.39.19.48 10 10 13675 20250731102120
+114.96.103.33 10 10 17860 20250730035445
+185.39.19.43 10 10 13675 20250729100603
+185.39.19.34 10 10 13675 20250727050346
+103.196.9.136 10 10 16144 20250715233342
+80.85.247.231 10 10 13675 20250723125009
+80.85.246.217 10 10 13675 20250724193225
+188.143.244.144 9 9 14358 20250721172647
+185.177.72.205 9 9 11880 20250710204531
+104.252.191.52 9 9 13665 20250715230554
+129.211.215.233 9 9 16074 20250726123448
+141.98.11.115 9 10 15698 20250701174955
+152.42.205.148 9 9 16074 20250703171505
+185.177.72.210 9 9 11880 20250726063951
+146.70.194.254 8 8 14288 20250726141321
+185.177.72.10 8 8 11879 20250719094231
+94.103.88.24 8 8 10940 20250720050250
+45.90.185.116 8 8 11879 20250709161327
+106.119.167.146 8 8 14288 20250731203620
+137.226.113.44 8 8 14288 20250730213217
+8.213.136.33 1 1 1786 20250703090204
+36.41.75.167 5 5 8930 20250727070759
+131.153.240.178 1 1 1786 20250716053134
+43.166.136.153 3 3 5358 20250722022934
+84.17.60.236 6 6 10716 20250727140903
+43.130.47.33 1 1 1786 20250730060053
+212.34.141.109 3 3 5358 20250719144116
+57.129.81.225 3 3 5358 20250724055403
+43.135.139.165 2 2 3572 20250720042809
+132.232.144.200 3 3 5358 20250709115853
+124.156.179.141 3 3 5884 20250721140230
+223.244.35.77 6 6 10716 20250727223114
+43.166.134.47 1 1 1786 20250719185444
+91.99.127.48 1 1 1786 20250715230647
+117.33.163.216 2 2 3572 20250711033344
+196.251.114.219 4 4 7144 20250728123304
+34.217.60.213 1 1 1786 20250712093739
+110.166.71.39 3 3 15401 20250725114519
+43.130.102.223 3 3 5358 20250718194505
+35.89.3.206 1 1 1786 20250725193849
+36.112.209.154 1 1 1786 20250711004642
+212.34.146.152 6 6 9042 20250727195506
+34.134.233.51 2 2 3572 20250716222525
+150.109.230.210 1 1 1786 20250707035733
+34.227.99.127 2 2 3572 20250710014755
+145.239.83.37 1 1 1786 20250717070400
+159.203.7.82 1 1 1786 20250731005148
+43.166.244.66 2 2 3572 20250729185719
+43.130.9.111 1 1 1786 20250721215034
+34.136.21.118 1 1 1786 20250709122457
+43.130.100.35 2 2 3572 20250719053149
+2a01:4ff:f0:f144::1 1 1 1786 20250715230353
+77.238.225.146 7 7 9991 20250730004210
+196.251.81.21 4 4 7144 20250708062354
+45.148.10.42 2 2 3572 20250728062416
+185.169.4.152 2 2 3572 20250726090449
+43.153.119.119 2 2 3572 20250727224638
+170.106.107.87 5 5 8220 20250726201358
+58.221.60.171 1 1 1786 20250717224026
+43.153.123.3 2 2 3572 20250728230458
+43.130.60.195 1 1 1786 20250706053507
+151.80.133.111 1 1 1786 20250726054729
+23.80.147.12 3 3 4521 20250715003343
+124.226.222.66 5 5 8930 20250714024205
+57.129.81.228 1 1 1786 20250728053752
+43.152.72.244 2 2 3572 20250729175706
+162.62.213.165 5 5 8138 20250730122503
+191.102.163.186 1 2 3126 20250728234808
+144.126.203.195 1 1 12356 20250730004018
+43.133.220.37 4 4 7144 20250726162212
+49.51.73.183 1 1 1786 20250724143235
+146.70.194.230 2 2 3572 20250712042927
+88.210.10.79 7 7 11665 20250726044641
+73.157.23.173 1 7 1152849 20250722215952
+34.63.153.3 1 1 1786 20250713125717
+43.153.7.191 3 3 5358 20250723011111
+43.157.153.236 4 4 7281 20250722032406
+94.26.90.191 3 3 5358 20250716023208
+18.224.192.118 1 1 1786 20250721155429
+170.106.163.84 2 2 3572 20250724014845
+34.42.115.130 2 2 3572 20250713015301
+170.106.180.246 3 3 5358 20250724145808
+170.106.152.218 3 3 4625 20250731142320
+199.244.88.229 1 1 1786 20250701014343
+34.168.103.200 1 1 1786 20250720120327
+43.130.91.95 1 1 1053 20250711111842
+104.164.126.221 1 1 1786 20250716000329
+43.130.78.203 2 2 4265 20250731150214
+43.166.240.231 2 2 3572 20250729182817
+43.135.142.37 1 1 1786 20250708055835
+111.231.1.45 1 1 1786 20250725160616
+185.21.13.25 3 3 4521 20250707150351
+43.173.1.69 5 5 8930 20250726234037
+124.156.225.181 3 3 6051 20250718020216
+43.157.191.20 1 1 1786 20250722193824
+34.46.150.199 1 1 1786 20250701141617
+43.131.26.226 1 1 1786 20250729043806
+2a0a:4cc0:c0:6444:48b4:c8ff:fea6:ae8d 1 1 1786 20250704115717
+199.89.53.221 1 1 1786 20250731212153
+43.166.251.233 4 4 7144 20250729103351
+180.102.134.69 3 3 5358 20250719090945
+3.95.183.221 2 2 3572 20250716212959
+132.232.203.74 6 6 10716 20250730071213
+170.106.35.187 1 1 1786 20250707235443
+43.154.127.188 1 1 1786 20250719062139
+162.62.213.187 5 5 8930 20250730050851
+205.210.31.211 1 1 1786 20250726034202
+91.84.99.6 6 6 8205 20250713205512
+152.53.178.51 1 1 1786 20250708122011
+203.33.203.148 5 5 8930 20250728013938
+110.40.74.58 1 1 1786 20250703120132
+43.130.71.237 2 2 3572 20250715142655
+43.157.38.131 3 3 4521 20250715134828
+43.166.245.120 2 2 3572 20250728092252
+198.55.98.210 1 1 1786 20250708161431
+103.196.9.180 1 1 1786 20250716002150
+162.14.210.15 4 4 7144 20250726093129
+162.62.231.139 1 1 1786 20250710104558
+43.130.67.33 1 1 1786 20250717060550
+185.177.72.29 2 2 3572 20250717160219
+114.80.36.40 3 3 5358 20250724074923
+43.130.139.136 2 2 2780 20250719105934
+164.90.167.133 4 4 7144 20250712061236
+141.94.79.3 1 1 11809 20250725055748
+43.135.135.57 1 1 1786 20250719030125
+43.153.35.128 3 3 5358 20250727163132
+196.251.118.72 1 1 1786 20250715032032
+151.80.133.55 1 1 1786 20250727055127
+212.34.155.126 5 5 7256 20250715212613
+43.157.52.37 1 1 1786 20250724202847
+45.148.10.80 1 1 1786 20250721183338
+195.200.26.27 4 4 6307 20250724042909
+82.102.18.118 2 2 3572 20250718053342
+43.130.15.147 2 2 3572 20250720081854
+170.106.84.136 2 2 2735 20250726080035
+94.103.87.196 6 6 9042 20250725211342
+162.142.125.218 1 1 1786 20250729172743
+23.191.200.16 7 7 10093 20250710105315
+195.2.70.209 3 3 4521 20250730002110
+47.79.241.9 1 1 1786 20250717113939
+89.213.174.241 1 1 1786 20250706010708
+125.75.66.97 3 3 5358 20250728233337
+170.106.73.216 2 2 3572 20250728163836
+101.46.1.164 0 1 153767 
+185.226.196.24 1 1 1786 20250708032426
+139.155.139.22 5 5 8930 20250727004937
+64.227.186.238 1 1 1786 20250723003118
+80.85.246.71 2 2 2735 20250731063629
+80.85.246.140 2 2 2735 20250722015808
+34.45.84.52 1 1 1786 20250711131705
+119.45.20.16 3 3 5358 20250716160815
+85.204.70.90 6 6 10716 20250726075528
+195.2.81.171 3 3 4521 20250730133836
+196.251.80.43 4 4 7144 20250707072058
+5.133.192.199 1 1 1786 20250726005906
+34.28.58.198 1 1 1786 20250707131232
+185.21.14.193 3 3 4521 20250714070404
+146.70.185.32 3 3 5358 20250721151812
+34.56.78.121 1 1 1786 20250731122536
+195.26.224.235 3 3 4521 20250722200647
+205.210.31.186 1 1 1786 20250729040945
+2a0b:21c0:a003:54b::5 2 2 3572 20250716154910
+43.166.142.76 2 2 4265 20250726100333
+196.251.66.237 4 4 7144 20250706084047
+43.165.67.57 1 1 1786 20250703082316
+43.153.48.240 2 2 3572 20250731013254
+43.131.36.84 4 4 7144 20250723131856
+14.231.201.169 1 1 1786 20250720150147
+43.166.226.57 1 1 1786 20250722190329
+192.42.116.195 1 1 1786 20250710105304
+182.44.8.254 3 3 5358 20250726183416
+52.90.110.15 2 2 3572 20250706134917
+43.153.54.138 2 2 3572 20250731231816
+35.87.205.207 1 1 1786 20250707030949
+57.129.81.227 1 1 1786 20250723055341
+37.139.53.179 1 1 1786 20250725182345
+46.62.144.94 1 1 1786 20250724012403
+2601:602:c480:6ad0:c156:38d2:d152:e036 7 16 2300678 20250713140028
+185.26.150.103 1 1 1786 20250720092810
+212.102.33.181 1 1 1786 20250723210828
+82.102.18.190 4 4 7144 20250724212824
+107.174.224.18 2 2 3572 20250711210703
+43.157.98.187 1 1 1786 20250721010529
+129.226.174.80 1 1 1786 20250718210806
+81.92.195.94 1 1 949 20250722215935
+60.188.57.0 4 4 7144 20250727192343
+64.90.38.74 1 1 1786 20250724065603
+93.158.91.237 1 1 1786 20250723200519
+43.130.37.243 5 5 10675 20250711122846
+91.201.115.174 4 4 6307 20250720155400
+43.153.122.30 1 1 1053 20250726091349
+3.84.111.86 1 1 1786 20250719132552
+43.130.34.74 1 1 1786 20250721132849
+206.82.9.246 1 1 1786 20250725195505
+85.204.70.116 4 4 7144 20250726234519
+49.51.141.76 2 2 4098 20250724070045
+111.172.249.49 5 5 8930 20250724135730
+192.36.109.96 1 1 1786 20250712202757
+34.56.58.166 4 4 7144 20250726193452
+65.108.127.55 1 1 1786 20250706195659
+103.140.205.214 1 1 1053 20250729171326
+185.226.197.69 1 1 1786 20250731195041
+43.157.175.122 1 1 1786 20250725214814
+43.156.109.53 1 1 1786 20250708103607
+205.169.39.50 1 7 1152849 20250710080857
+43.132.167.136 1 1 1786 20250712171607
+185.117.225.181 0 6 1340 
+43.157.170.13 3 3 5358 20250727223034
+51.91.254.43 2 2 13540 20250729054013
+198.235.24.53 1 1 1786 20250718030420
+43.167.157.80 4 4 7144 20250729020236
+43.135.172.89 1 1 1786 20250711103243
+162.142.125.125 1 1 1786 20250729202656
+142.93.211.111 1 1 12368 20250702014440
+45.5.117.112 1 1 1053 20250727194630
+43.133.187.11 2 2 3572 20250723070954
+45.89.70.30 2 2 2735 20250723190515
+45.156.130.12 1 1 1786 20250721200056
+43.166.134.114 2 2 2862 20250721122204
+101.33.55.204 3 3 5358 20250713033944
+43.153.192.98 2 2 3572 20250727081359
+209.97.166.205 2 2 3572 20250715003225
+195.211.77.142 1 1 1786 20250715230540
+43.131.23.154 1 1 1786 20250704052302
+51.38.234.109 1 1 1786 20250727060306
+150.109.119.38 1 1 1786 20250709030046
+75.119.159.169 2 2 3572 20250715173632
+43.133.14.237 2 2 3572 20250726193755
+87.236.176.66 1 1 1786 20250705111711
+82.156.68.74 7 7 12502 20250729213142
+35.197.67.165 1 1 1786 20250721112627
+203.2.64.59 2 2 3572 20250728171951
+94.2.77.12 1 1 1786 20250730192545
+43.166.226.186 1 1 1923 20250721121159
+94.131.11.131 6 6 10716 20250719215811
+196.251.118.216 1 1 1786 20250719135814
+2404:8000:90:0:bded:5d70:791f:989c 1 1 1786 20250719072336
+49.232.151.112 6 6 10716 20250729182604
+43.157.170.126 4 4 7144 20250730194147
+94.103.93.19 4 4 5470 20250710194933
+170.106.192.208 2 2 3572 20250711230433
+46.166.162.40 1 1 1786 20250719063617
+141.94.78.15 1 1 1786 20250731064732
+82.102.18.188 4 4 7144 20250731164208
+43.157.179.227 3 3 4566 20250728165829
+45.135.232.178 1 1 1786 20250719230902
+2a02:c206:3015:2326::1 3 3 5358 20250727142447
+38.91.101.159 1 1 1786 20250703102218
+43.131.39.179 2 2 3572 20250728141802
+43.153.15.51 2 2 3572 20250727175200
+182.44.12.37 4 4 7144 20250720215625
+119.28.177.175 1 1 949 20250704102922
+180.110.203.108 3 3 5358 20250730224103
+148.113.202.94 1 1 1786 20250711225620
+66.249.66.9 0 5 78725 
+34.168.107.7 1 1 1786 20250718133948
+169.224.81.19 1 1 949 20250729043056
+52.178.192.189 2 2 3572 20250701144553
+49.51.245.241 4 4 7144 20250728044531
+43.166.247.82 3 3 5358 20250730130157
+101.32.49.171 2 2 2862 20250716093330
+110.40.186.63 4 4 7144 20250728044654
+182.42.104.32 7 7 12502 20250728111327
+113.189.60.47 1 1 1076 20250728153041
+34.69.4.121 1 1 1786 20250708142939
+64.227.27.164 1 1 1786 20250707000754
+101.33.66.34 1 1 1786 20250705041729
+80.85.245.250 6 6 9042 20250725131738
+43.166.1.243 5 5 8746 20250727074843
+43.130.53.252 1 1 1786 20250718204719
+43.153.27.244 1 1 1786 20250707234536
+185.180.141.15 1 1 1786 20250726225311
+43.131.32.36 1 1 1923 20250729110722
+2a0b:4142:d08::2 1 1 1786 20250725144510
+139.59.39.126 1 1 1786 20250719013012
+196.251.88.64 1 1 1786 20250713040832
+212.102.37.148 1 1 1786 20250716180851
+170.106.187.106 1 1 2312 20250711125217
+199.244.88.231 1 1 1786 20250718165103
+35.222.46.70 1 1 1786 20250724153642
+195.2.78.89 2 2 2735 20250710101215
+170.106.179.68 2 2 2862 20250719015016
+170.106.160.90 1 1 1786 20250723171624
+43.135.36.201 2 2 3572 20250728152044
+35.237.174.198 1 1 1786 20250714161820
+43.130.106.18 4 4 7144 20250720154151
+89.110.109.74 6 6 9879 20250729025613
+43.159.143.190 2 2 3572 20250724080210
+3.237.252.152 1 1 1786 20250709012729
+34.135.220.143 2 2 3572 20250725153741
+43.167.236.228 1 1 1786 20250723233811
+43.167.241.46 4 4 7144 20250723012511
+43.157.82.252 4 4 6548 20250729102427
+185.177.72.37 4 4 7144 20250718182553
+192.42.116.203 1 1 1786 20250705133629
+196.251.66.236 4 4 7144 20250719190221
+43.154.250.181 1 1 1786 20250721063514
+3.88.199.138 1 1 1786 20250715123108
+2620:101:2002:11a5:10:8:141:60 1 1 1786 20250726125319
+43.166.128.86 1 1 1786 20250702232747
+43.157.142.101 1 1 1786 20250708061847
+178.20.47.92 5 5 7256 20250725181830
+119.28.140.106 2 2 2862 20250726093701
+43.132.150.96 1 1 1786 20250712141635
+122.8.187.36 0 1 45519 
+82.102.18.180 2 2 3572 20250719210117
+179.97.64.56 1 1 2312 20250730204841
+20.244.4.220 2 2 3572 20250717002250
+3.1.202.163 2 2 3572 20250712000702
+143.244.57.92 2 2 3572 20250716070552
+206.168.34.95 1 1 1786 20250729183237
+147.135.209.14 1 1 1786 20250729085421
+49.51.183.84 1 1 1786 20250705005303
+129.226.93.214 1 1 1786 20250701034203
+109.166.52.222 1 1 1786 20250714023336
+170.106.193.108 1 1 1786 20250714074008
+34.9.32.54 1 1 1786 20250710124502
+84.55.46.85 2 2 3572 20250728084015
+43.166.129.247 1 1 1786 20250719225702
+165.22.218.59 1 1 1786 20250711002617
+88.80.26.4 8 8 11879 20250702200021
+154.17.105.95 1 1 1786 20250708192535
+34.207.232.227 1 1 1786 20250701194515
+43.153.71.132 1 1 1786 20250725155359
+43.153.102.138 2 2 2839 20250726032010
+114.117.233.112 8 8 14288 20250730004512
+170.106.82.209 4 4 7144 20250722044024
+113.219.218.197 5 5 8930 20250716065826
+43.166.136.24 3 3 5358 20250729045653
+2001:41d0:401:3000::17ca 1 1 1786 20250721072156
+43.157.181.189 3 3 4648 20250731145234
+104.252.191.122 1 1 1786 20250715230541
+85.204.70.98 6 6 10716 20250724152604
+121.4.97.180 4 4 7144 20250728080039
+159.203.19.129 1 1 1786 20250701005934
+2607:a400:5:81::6 2 2 3572 20250710004808
+2a01:4f9:3051:1e6b::2 2 2 3572 20250713204037
+159.223.37.66 1 1 1786 20250706140100
+43.173.1.57 1 1 1786 20250703091550
+2804:4bb0:b0a:3d00:bc2f:2699:194:8fca 1 1 1076 20250728060220
+144.126.208.50 1 1 1786 20250720051814
+94.191.43.82 3 3 15391 20250725052110
+43.165.65.75 3 3 5358 20250728232319
+49.51.243.95 4 4 7807 20250716101140
+47.82.11.91 1 1 1786 20250731091631
+43.133.69.37 2 2 3572 20250722142812
+185.174.102.97 1 1 1786 20250705161047
+150.109.46.88 2 2 3572 20250731172016
+38.152.244.150 2 2 2735 20250703180059
+93.158.91.239 1 1 1786 20250718110754
+94.74.126.0 0 1 772695 
+212.118.43.65 4 4 7144 20250731004548
+43.135.130.202 2 2 3572 20250727234418
+43.159.148.221 3 3 5358 20250730162712
+89.110.115.121 3 3 4521 20250726041701
+34.140.63.218 1 1 1786 20250708054622
+43.153.113.127 1 1 1786 20250717100747
+195.88.252.196 2 2 3572 20250728024746
+185.177.72.115 1 1 1786 20250710101509
+43.165.69.68 1 1 1786 20250705200754
+43.158.91.71 1 1 1786 20250701085211
+85.204.70.102 4 4 7144 20250720055621
+43.135.145.77 1 1 1786 20250731165044
+80.85.245.241 1 1 1786 20250716164559
+43.166.247.155 3 3 5358 20250723021554
+161.35.84.59 1 1 1786 20250712233845
+191.96.5.118 2 2 3572 20250726174329
+124.220.171.218 2 2 3572 20250729093006
+182.44.10.67 3 3 5358 20250731143138
+162.62.132.25 2 2 3709 20250731220150
+43.156.156.96 4 4 7144 20250727024825
+93.123.109.125 2 2 3572 20250721200300
+145.239.89.234 1 1 1786 20250720050613
+43.166.239.145 2 2 2839 20250714171817
+177.86.162.160 1 1 1786 20250731214532
+134.209.122.62 1 1 1786 20250705210040
+2600:1f18:66cd:1a50:6e4e:f497:b3a5:3901 1 1 1786 20250713152303
+80.85.246.214 3 3 4521 20250730024005
+118.195.165.218 4 4 7144 20250718203705
+43.153.54.14 2 2 2735 20250721134633
+185.238.75.243 1 1 1786 20250718073218
+146.70.194.252 2 2 3572 20250703133818
+34.61.254.51 1 1 1786 20250706131154
+132.232.165.4 5 5 8930 20250731234619
+164.92.162.37 1 1 1786 20250715011826
+172.255.81.165 2 2 2735 20250710073957
+85.204.70.104 2 2 3572 20250701143032
+43.130.40.120 1 1 1786 20250727151849
+171.229.252.222 2 2 2735 20250722103636
+137.184.21.103 1 1 1786 20250710191619
+54.190.30.8 2 2 3572 20250710180121
+45.135.232.10 1 1 1786 20250718192354
+142.202.190.32 1 1 1786 20250728221930
+91.231.89.121 1 1 1786 20250718191206
+43.157.174.69 2 2 3572 20250704190209
+46.62.151.24 1 1 1786 20250729050137
+182.42.105.144 4 4 7144 20250728233311
+4.186.26.86 4 4 7144 20250730073939
+43.157.158.178 1 1 994 20250714165136
+185.226.197.30 1 1 1786 20250714150805
+91.196.152.159 1 1 1786 20250718192431
+196.251.80.30 2 2 3572 20250703114407
+2001:4860:7:30e::e1 1 1 1786 20250705110502
+185.157.214.24 5 5 8093 20250731011238
+35.90.170.126 1 1 1786 20250710041955
+124.156.157.91 1 1 1786 20250702031139
+43.132.214.228 2 2 3572 20250717052123
+103.174.50.168 1 1 1786 20250727062752
+134.209.175.214 1 1 1786 20250724231155
+89.110.80.171 2 2 2735 20250724013108
+43.153.74.75 1 1 1786 20250703043230
+43.133.91.48 3 3 3729 20250716105136
+196.251.80.35 2 2 3572 20250710153039
+192.42.116.182 3 3 5229 20250730060229
+57.129.139.103 1 1 1786 20250729085950
+49.51.72.236 1 1 1786 20250706201612
+51.38.187.132 1 1 1786 20250718060952
+82.102.18.222 2 2 3572 20250723194927
+43.135.186.135 3 3 5358 20250722081011
+185.39.19.97 8 8 10940 20250720190422
+2a01:4f9:2b:249::2 1 1 1786 20250722232500
+101.91.148.219 2 2 3572 20250725083902
+78.153.140.218 1 1 1786 20250704143823
+43.130.3.122 2 2 2839 20250729111531
+170.106.72.93 2 2 3572 20250706165949
+43.153.86.78 3 3 5358 20250726190709
+43.130.16.140 1 1 1786 20250714225959
+91.84.104.205 6 6 9879 20250730162137
+43.166.250.187 2 2 3572 20250722104804
+43.159.128.155 2 2 3572 20250710051929
+34.123.58.93 1 1 1786 20250730123249
+186.65.115.203 2 2 2735 20250701232645
+2a02:c206:3015:63::1 2 2 3572 20250722054845
+199.244.88.224 1 1 1786 20250701192416
+212.34.140.200 5 5 7256 20250727004036
+43.130.228.73 4 4 7144 20250725225912
+43.157.22.109 2 2 3572 20250726034011
+49.51.47.100 1 1 1786 20250712083851
+157.230.15.92 1 1 1786 20250731090131
+43.159.149.56 1 1 1786 20250731065222
+93.158.90.52 1 1 1786 20250712070119
+192.222.53.124 1 1 0 20250725194331
+92.113.225.21 1 1 1786 20250720043129
+43.135.144.81 3 3 4521 20250720211434
+222.79.103.59 7 7 12502 20250726061534
+185.245.104.75 2 2 2735 20250719051016
+43.157.156.190 3 3 5884 20250727004536
+145.239.10.137 1 1 949 20250725192657
+170.106.65.93 1 1 1786 20250703201639
+146.70.194.236 4 4 7144 20250725221354
+91.201.115.242 6 6 9042 20250726120655
+143.244.57.88 3 3 5358 20250714125733
+223.15.245.170 3 3 5358 20250730133359
+2a01:4f8:222:3046::2 1 1 1786 20250713213029
+43.166.253.94 1 1 1786 20250710223618
+43.153.26.165 1 1 1786 20250715214202
+212.34.153.180 3 3 4521 20250708054931
+43.166.224.244 1 1 2479 20250714172925
+205.169.39.7 1 1 1786 20250707113849
+103.133.105.75 5 5 8930 20250712194758
+66.63.187.201 2 2 3572 20250729180610
+205.169.39.14 1 7 3126 20250718060451
+43.166.130.123 1 1 1786 20250729054604
+49.51.33.159 2 2 4098 20250714093557
+43.152.72.247 2 2 2862 20250721134328
+154.42.3.13 2 2 3572 20250716191926
+182.43.70.143 3 3 5358 20250722144207
+43.166.255.102 2 2 3572 20250711125445
+43.130.111.40 1 1 1786 20250727154846
+43.130.116.87 2 2 3572 20250730085257
+43.155.129.131 1 1 1786 20250714011828
+205.169.39.12 1 1 1786 20250707095826
+205.210.31.3 1 1 1786 20250718053937
+167.172.19.95 1 1 1786 20250702231733
+185.226.197.28 1 1 1786 20250714150804
+170.106.167.214 1 1 1786 20250704180708
+43.157.22.57 6 6 9087 20250731073445
+172.93.102.106 1 1 11714 20250725065352
+143.244.57.120 4 4 7144 20250714080415
+54.164.157.105 4 16 782519 20250724073046
+182.42.111.156 3 3 5358 20250715031524
+80.85.247.161 6 6 9042 20250730155723
+92.124.198.242 0 1 962398 
+80.85.245.5 3 3 4521 20250725184442
+43.130.32.245 2 2 3572 20250719104327
+43.157.172.39 6 6 9879 20250730215846
+201.150.152.4 1 1 2312 20250729140527
+43.130.39.254 3 3 4625 20250721115749
+185.226.196.10 1 1 1786 20250714151200
+122.51.104.231 6 6 10716 20250729055618
+43.155.195.141 3 3 5358 20250730061820
+2607:5300:60:7e27::1 2 2 3572 20250704165938
+43.130.12.43 1 1 1786 20250717225712
+129.28.14.231 1 1 1786 20250727102438
+2409:8a34:407e:5f30:a00:27ff:feb5:71b5 1 1 1786 20250714095513
+170.106.148.137 1 1 1786 20250711044506
+206.189.140.140 1 1 12364 20250715203135
+213.230.86.204 1 1 1786 20250728172331
+162.254.150.233 1 1 1786 20250710232152
+35.247.164.144 2 2 3572 20250713185848
+43.128.149.102 8 8 14288 20250729100000
+186.65.115.185 2 2 2735 20250703114607
+43.166.246.180 4 4 7144 20250730200420
+213.209.143.116 1 1 1786 20250727125448
+35.192.27.208 1 1 1786 20250717151841
+2001:41d0:701:1100::7f94 1 1 1786 20250720052124
+78.153.140.222 2 2 3572 20250712175407
+66.249.66.12 0 4 265873 
+14.215.163.132 4 4 7144 20250730224136
+172.81.62.31 1 1 1786 20250726094513
+43.130.14.245 1 1 1786 20250719174633
+43.135.148.92 1 1 1786 20250729105334
+101.33.81.73 1 1 1786 20250709225949
+88.210.11.43 3 3 4521 20250720122111
+54.37.19.39 2 2 3572 20250726054612
+43.153.49.151 1 1 1786 20250701035551
+43.130.154.56 2 2 2862 20250731173153
+121.229.185.160 2 2 3572 20250720064104
+222.79.104.23 6 6 10716 20250729122322
+95.8.231.224 1 1 994 20250730084707
+47.82.60.22 1 1 1786 20250710121711
+212.34.132.22 5 5 8093 20250725085003
+142.91.118.200 1 1 1786 20250731135127
+193.46.254.55 2 2 3572 20250704063031
+188.166.211.225 1 1 1786 20250723033237
+43.157.180.116 1 1 1786 20250705011645
+149.56.150.223 3 9 1154636 20250719075246
+93.158.92.11 1 1 1786 20250719002129
+45.141.215.160 1 1 1786 20250713082312
+43.131.253.14 2 2 4265 20250712222435
+43.155.27.244 2 2 3572 20250720235417
+85.204.70.94 2 2 3572 20250731221957
+43.165.65.180 5 5 8197 20250731160805
+170.106.165.76 3 3 4521 20250731173654
+3.239.249.94 1 1 1786 20250711021028
+43.159.152.4 2 2 4098 20250726200319
+125.94.144.102 5 5 8930 20250729122246
+91.84.111.136 4 4 5470 20250717005723
+49.51.233.95 1 1 1786 20250713163650
+185.177.72.7 4 4 40367 20250718192927
+194.163.152.77 1 1 1786 20250706222800
+43.159.128.247 2 2 3572 20250719111821
+49.51.52.250 2 2 3572 20250721225441
+185.191.147.136 1 1 1786 20250717003805
+43.143.248.236 6 6 10716 20250723220317
+195.211.77.140 1 1 1786 20250715230514
+185.220.101.169 5 5 7909 20250715032610
+49.51.72.76 1 1 1786 20250713114528
+185.226.196.9 1 1 1786 20250714151206
+49.51.178.45 1 1 1786 20250710151559
+43.154.140.188 1 1 1786 20250722204155
+43.153.12.58 2 2 3572 20250729191720
+141.95.54.157 1 1 1786 20250719053142
+43.143.60.88 1 1 1786 20250712124141
+103.80.119.54 1 1 1786 20250730012559
+139.59.182.152 1 1 1786 20250709005819
+123.187.240.242 3 3 5358 20250724165634
+36.111.67.189 6 6 10716 20250720095259
+124.156.226.179 2 2 3572 20250718204420
+2401:4900:8857:1faf:c068:abe7:3c2d:cd56 1 1 1786 20250720043134
+205.169.39.1 1 1 1786 20250717031918
+34.19.0.6 1 1 1786 20250722102151
+43.165.189.110 1 1 1786 20250709044201
+185.180.141.47 1 1 1786 20250730183356
+185.79.157.23 1 1 1786 20250716183950
+43.135.133.194 3 3 5358 20250730095201
+176.126.103.148 2 2 3572 20250714101804
+49.51.203.164 1 1 1786 20250721113159
+85.204.70.96 2 2 3572 20250704194404
+43.130.105.21 2 2 4098 20250731170759
+165.231.159.221 1 1 1786 20250710073954
+68.183.87.55 1 1 1786 20250727010134
+57.129.81.224 1 1 1786 20250704022052
+43.166.131.228 4 4 7144 20250731020617
+43.134.186.61 4 4 7144 20250728044422
+185.21.13.119 3 3 4521 20250726204151
+134.199.165.172 2 2 3572 20250730052917
+43.153.85.46 4 4 7144 20250731071241
+196.251.85.246 1 1 1786 20250712052300
+170.106.110.146 1 1 1786 20250728100823
+2601:582:c384:3830:c122:f0b8:e1b0:3a5b 1 1 949 20250731220339
+43.135.185.59 3 3 5358 20250730151726
+155.94.155.152 1 1 1786 20250719102443
+82.102.18.126 2 2 3572 20250711020514
+182.42.110.255 3 3 5358 20250731143043
+66.249.66.13 0 1 1340 
+146.70.194.246 6 6 10716 20250728002311
+205.169.39.26 1 1 1786 20250710081015
+47.82.60.35 1 1 1786 20250703134226
+170.106.113.159 3 3 5358 20250731154949
+45.148.10.235 1 1 1786 20250729180433
+3.237.61.108 3 3 5358 20250719103941
+43.159.152.187 2 2 3572 20250730001951
+170.106.180.153 1 1 949 20250724150530
+146.247.229.2 1 1 1786 20250706142631
+159.223.63.24 1 1 1786 20250724045421
+162.14.197.180 2 2 3572 20250711095630
+43.153.204.189 1 1 1786 20250714153554
+182.42.111.213 5 5 8930 20250728141648
+43.157.188.74 2 2 3572 20250725152408
+43.130.57.76 1 1 949 20250729101649
+149.202.51.146 1 1 1786 20250729054036
+2602:fb54:9fa:: 2 2 23694 20250725063640
+170.106.143.6 1 1 1786 20250724144521
+132.255.57.201 1 1 1786 20250724123032
+43.133.253.253 3 3 5358 20250715060308
+43.156.228.27 2 2 3572 20250721053503
+23.229.104.2 4 4 5515 20250723043213
+49.51.36.179 1 1 1786 20250725112043
+129.226.213.145 1 1 1786 20250706153918
+43.159.139.164 2 2 3572 20250721051500
+91.84.109.110 4 4 6307 20250717075249
+205.210.31.238 1 1 1786 20250724170617
+175.27.164.113 3 3 5358 20250730071117
+103.35.191.207 6 6 10716 20250729092150
+43.153.73.200 1 1 1786 20250701093714
+85.204.70.100 2 2 3572 20250705154634
+104.154.164.1 2 2 3572 20250704090747
+118.195.153.213 5 5 8930 20250731234559
+43.130.74.193 3 3 15391 20250725060118
+51.81.167.146 1 1 1786 20250716004631
+49.51.253.26 3 3 5092 20250724152906
+43.135.182.43 1 1 1786 20250724213232
+43.166.7.113 2 2 2862 20250716100302
+43.130.16.212 1 1 1923 20250724153650
+182.44.9.147 3 3 5358 20250714150017
+43.159.149.216 2 2 12889 20250725065458
+5.133.192.167 1 1 1786 20250720092159
+43.153.104.196 3 3 4625 20250722182956
+182.44.67.97 1 1 1786 20250713142826
+47.82.11.12 1 1 1786 20250724122402
+43.159.145.153 4 4 7144 20250727050548
+139.59.225.177 2 2 3572 20250711065435
+104.164.126.64 2 2 3572 20250716002210
+66.249.66.11 0 10 159354 
+43.157.150.69 1 1 1786 20250717051059
+170.106.180.139 2 2 3572 20250706214106
+212.102.33.243 1 1 1786 20250711215044
+35.222.88.234 4 4 7144 20250728192018
+185.226.197.70 1 1 1786 20250731194938
+182.40.104.255 3 3 5358 20250723190141
+49.51.39.209 2 2 3709 20250708123935
+2620:101:2002:11a5:10:8:141:53 2 2 4098 20250719003534
+43.130.57.46 2 2 3709 20250714170258
+43.153.10.13 1 1 1786 20250701171931
+182.44.2.148 3 3 5358 20250731082120
+212.34.135.52 2 2 2735 20250712053125
+49.7.227.204 6 6 10716 20250727070751
+45.84.107.33 3 3 3970 20250715032614
+167.253.66.212 2 2 3572 20250730203834
+43.156.204.134 3 3 4566 20250725030703
+43.153.10.83 3 3 4566 20250723112849
+43.166.136.202 4 4 7281 20250728094659
+43.165.135.242 2 2 2735 20250729124216
+43.135.133.241 1 1 1786 20250701073731
+51.91.254.244 1 1 1786 20250721072218
+101.32.15.141 1 1 1786 20250727225627
+43.135.211.148 4 4 6352 20250718093507
+43.167.232.38 2 2 3572 20250725235340
+2001:4ba0:cafe:b2c::1 1 1 1786 20250718104746
+80.85.245.37 2 2 2735 20250710034506
+43.166.237.57 1 1 1053 20250701164158
+43.156.168.214 1 1 1786 20250703033349
+43.157.53.115 1 1 1786 20250701233532
+89.110.103.94 2 2 3572 20250725193909
+101.32.52.164 2 2 3572 20250728205554
+101.42.117.179 7 7 12502 20250730163049
+35.232.56.81 1 1 1786 20250715135808
+49.51.50.147 2 2 3572 20250718075554
+49.51.204.74 2 2 3572 20250713091045
+185.177.72.49 1 1 1786 20250727133631
+43.135.145.73 1 1 1786 20250719081408
+212.102.36.170 1 1 1786 20250715075457
+196.251.83.156 4 4 7144 20250721051630
+144.91.88.83 1 1 1786 20250721183358
+3.95.182.73 2 2 3572 20250705165529
+45.82.78.254 4 4 7144 20250713100347
+49.51.132.100 5 5 8220 20250716021347
+170.106.181.163 1 1 1786 20250707002952
+43.133.66.51 2 2 3572 20250729063812
+205.169.39.179 2 8 4912 20250718032601
+205.169.39.24 1 7 853206 20250717172958
+185.191.147.227 1 1 1786 20250713033709
+49.51.183.75 1 1 1786 20250716234209
+5.35.69.6 3 3 4521 20250706013947
+43.135.145.117 3 3 4625 20250719172043
+221.229.106.25 2 2 3572 20250712225843
+212.118.53.218 5 5 8093 20250726005916
+43.153.96.233 2 2 3572 20250721135406
+154.17.105.93 1 1 1786 20250720184728
+87.251.78.138 2 2 3572 20250713073230
+150.40.234.146 0 1 188488 
+93.158.91.245 1 1 1786 20250726155111
+198.199.74.247 1 1 1786 20250728231344
+209.141.34.112 1 1 1786 20250709043246
+120.71.59.24 3 3 5358 20250727132433
+88.218.62.29 1 1 1786 20250717153508
+2001:4ba0:cafe:c13::1 1 1 1786 20250731053347
+43.157.147.3 1 1 1076 20250706162756
+31.56.36.189 2 2 3572 20250712065033
+106.227.49.113 7 7 12502 20250730193500
+194.242.48.252 1 1 1053 20250728154715
+146.70.194.238 2 2 3572 20250704073146
+49.51.38.193 1 1 1786 20250716151808
+43.128.67.187 1 1 2312 20250731143117
+18.234.122.31 2 2 3572 20250707083749
+43.130.31.17 2 2 3572 20250709100821
+160.153.246.243 2 2 1787 20250729110316
+3.146.111.124 1 1 1786 20250718225805
+186.209.113.130 1 1 1786 20250724070008
+42.83.147.53 3 3 5358 20250714151027
+146.70.194.222 2 2 3572 20250724152432
+77.90.153.227 2 2 3572 20250709203734
+43.166.128.187 2 2 3572 20250731015717
+15.204.43.172 1 1 1786 20250704134526
+146.190.98.78 2 2 3572 20250730185933
+168.196.203.37 1 1 1923 20250727232215
+43.153.79.218 1 1 1923 20250726094624
+94.247.172.129 1 1 1786 20250706001857
+43.163.206.70 3 3 5358 20250714014722
+118.89.233.234 4 4 7144 20250729024344
+5.133.192.168 1 1 1786 20250704214148
+103.248.120.89 1 1 2312 20250728231937
+43.135.182.95 1 1 1786 20250716030918
+205.210.31.13 1 1 1786 20250722020705
+103.115.164.181 1 1 1786 20250719114519
+5.133.192.171 1 1 1786 20250712160018
+43.153.67.21 1 1 1786 20250720034408
+143.244.57.121 4 4 7144 20250728183237
+43.153.107.22 1 1 1786 20250716075835
+205.210.31.67 1 1 1786 20250718031803
+66.249.66.10 0 3 254124 
+43.135.142.7 3 3 5358 20250714163823
+185.226.197.59 2 2 3572 20250713122014
+43.130.41.242 2 14 2305698 20250725135122
+140.143.98.18 2 2 3572 20250718082808
+43.155.140.157 5 5 8619 20250726092329
+141.94.76.134 2 2 3572 20250728053642
+43.130.139.177 3 3 6051 20250721122910
+68.183.184.193 2 2 3572 20250725011640
+43.157.149.188 3 3 4625 20250717114746
+2406:da14:109f:500:904f:c9d4:df64:58bf 1 1 1786 20250729015934
+196.251.83.27 2 2 2735 20250724085143
+49.51.195.195 1 1 1786 20250724212952
+182.42.105.85 5 5 8930 20250731112902
+43.159.135.203 1 1 1786 20250716035402
+45.156.130.10 1 1 1786 20250721200056
+141.95.54.59 2 2 3572 20250730054227
+143.244.57.123 2 2 3572 20250723224208
+43.156.202.34 3 3 5358 20250717235338
+185.180.141.50 1 1 1786 20250730183356
+2a02:c207:2270:5321::1 2 2 3572 20250725230515
+206.0.90.155 1 1 1076 20250729221249
+46.250.175.212 0 1 22624 
+34.123.170.104 2 8 1153902 20250718032618
+82.102.18.116 2 2 3572 20250706215856
+93.158.90.65 1 1 1786 20250706010342
+2001:41d0:601:1100::5e96 1 1 1786 20250723011035
+43.135.138.128 2 2 2780 20250724144854
+198.55.98.222 1 1 1786 20250719020530
+34.93.114.13 6 6 10716 20250704211502
+188.166.56.57 1 1 1786 20250717004311
+170.239.44.182 1 1 994 20250728143637
+131.153.142.170 1 1 1786 20250716053134
+137.184.175.186 1 1 1786 20250705004131
+145.239.81.31 1 1 1786 20250727055537
+205.169.39.21 1 1 1786 20250710091001
+13.221.96.145 2 2 3572 20250718195425
+43.157.38.228 4 4 7144 20250722131720
+93.158.91.25 1 1 1786 20250728040205
+199.244.88.218 1 1 1786 20250717233324
+34.105.65.155 1 1 1786 20250723105802
+159.203.62.228 1 1 1786 20250713003402
+69.160.160.55 1 7 1152849 20250710180737
+82.102.18.182 4 4 7144 20250722163310
+49.51.252.146 1 1 1076 20250716110353
+139.59.238.37 3 3 5358 20250709104515
+185.220.101.107 5 5 6650 20250730060225
+143.198.218.79 2 2 3572 20250703014919
+43.130.72.40 3 3 6051 20250722101649
+51.81.207.12 1 1 1786 20250716202332
+175.6.217.4 5 5 8930 20250726183421
+64.227.179.218 8 8 14288 20250712035511
+113.141.91.58 7 7 12502 20250731082144
+198.235.24.197 1 1 1786 20250722235558
+170.106.15.3 3 3 5259 20250731140737
+150.40.232.76 0 1 65636 
+196.251.114.214 2 2 3572 20250730074741
+170.106.11.6 3 3 5358 20250717180242
+43.157.95.131 2 2 3572 20250730210213
+94.46.247.102 1 1 1786 20250722215934
+2a01:7a7:2:3eb6:225:90ff:fefb:553c 1 1 1786 20250721193200
+205.210.31.47 1 1 1786 20250717194759
+43.166.238.12 2 2 3572 20250719231725
+109.70.100.3 8 8 11879 20250707185337
+51.91.250.17 1 1 1786 20250723055322
+93.152.230.160 6 6 8205 20250706133528
+185.220.101.46 5 5 6650 20250717005903
+117.62.235.53 7 7 12502 20250730035615
+91.134.91.17 3 3 5358 20250719002745
+43.155.157.239 2 2 4265 20250730005322
+43.133.139.6 2 2 3572 20250714164828
+165.227.37.210 1 1 1786 20250721010427
+209.236.117.90 1 1 1786 20250731195911
+45.90.185.100 3 3 5229 20250717005906
+43.153.36.110 2 2 3572 20250715074945
+49.51.196.42 2 2 3572 20250728042356
+103.8.25.126 2 2 1787 20250716040712
+38.57.255.106 1 1 1786 20250720115217
+159.223.150.46 1 1 1786 20250727064128
+146.70.194.228 2 2 3572 20250725194713
+195.2.81.242 1 1 1786 20250703053909
+43.157.168.43 3 3 5358 20250731025830
+185.177.72.31 1 1 1786 20250714013915
+43.163.104.54 1 1 949 20250711132058
+170.106.192.3 1 1 1786 20250710072110
+43.167.245.18 5 5 11009 20250724155453
+2a02:1778::113:254 1 1 1786 20250701224124
+43.153.47.201 1 1 1923 20250706115648
+120.48.149.139 0 1 65636 
+80.249.144.89 1 1 1786 20250719145742
+185.180.141.14 1 1 1786 20250726225311
+196.251.83.252 4 4 7144 20250710103606
+93.158.90.34 1 1 1786 20250724050500
+91.246.41.166 1 1 1786 20250714121728
+170.106.163.48 3 3 5358 20250711205935
+124.222.142.44 5 5 8930 20250728080146
+119.28.89.249 1 1 1923 20250719171016
+2a00:da00:f409:400::1 1 1 1786 20250702173907
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250701 66 67 112207 49
+20250702 56 56 105678 39
+20250703 68 68 115589 56
+20250704 59 59 100539 53
+20250705 49 49 84166 42
+20250706 60 60 103541 52
+20250707 58 58 99505 44
+20250708 47 47 80594 42
+20250709 72 85 1460901 48
+20250710 80 92 2435055 54
+20250711 57 57 99857 51
+20250712 66 66 113691 52
+20250713 56 65 2385681 44
+20250714 62 62 105060 54
+20250715 82 83 211110 51
+20250716 74 84 1620915 62
+20250717 64 72 1027273 49
+20250718 63 81 1297077 54
+20250719 88 100 1299352 63
+20250720 48 48 83217 43
+20250721 69 75 892771 55
+20250722 40 46 1219155 36
+20250723 60 65 170833 50
+20250724 65 71 111758 55
+20250725 72 84 2513250 59
+20250726 75 75 125300 59
+20250727 53 53 90714 47
+20250728 54 55 95365 50
+20250729 55 55 90693 51
+20250730 68 68 126832 53
+20250731 67 67 122923 53
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 4
+0s-30s 1555
+2mn-5mn 3
+30mn-1h 4
+5mn-15mn 3
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 1576 2903022 1438 1316
+/contact.php 141 133809 19 127
+/default.php 36 64296 17 16
+/reshist.php 36 83232 17 17
+/ResumeCV.php 35 37660 18 18
+/personal.php 34 35802 17 19
+/publications.php 33 32802 15 17
+/teaching.php 32 61536 14 19
+/sigsys.php 18 44622 12 16
+/test 5 5 0 2
+/whm 1 12859 0 0
+/wp-admin/ 1 11909 0 1
+/.git/config 1 11714 1 1
+/webmail 1 12861 0 1
+/cpanel 1 12861 1 0
+/wp-login.php 1 11785 1 0
+/controlpanel 1 12860 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+44-100 7
+5K+ 283
+2K-5K 91
+0-44 39248
+500-1K 206
+1K-2K 2142
+END_FILESIZE
