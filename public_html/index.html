@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dr. Immanuelle Manohar (formerly Immanuel Manohar) - Senior Lecturer at Whitworth University specializing in Mathematics, Computer Science, and Engineering. Research in Factor Analysis, Machine Learning, and Big Data.">
+    <meta name="keywords" content="Immanuelle Manohar, Immanuel Manohar, Factor Analysis, PCA, ICA, Machine Learning, Image Retrieval, Big Data, Mathematics, Computer Science, Whitworth University">
+    <meta name="author" content="Dr. Immanuelle Manohar">
+    <title>Dr. Immanuelle Manohar - Academic Portfolio</title>
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="neural-background"></div>
+
+    <header id="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="title">Dr. Immanuelle Manohar</h1>
+                <p class="subtitle">Senior Lecturer | Researcher | Entrepreneur</p>
+            </div>
+            <nav id="navbar">
+                <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </button>
+                <ul class="nav-list">
+                    <li><a href="index.html" class="nav-button" data-page="index">Home</a></li>
+                    <li><a href="research.html" class="nav-button" data-page="research">Research</a></li>
+                    <li><a href="publications.html" class="nav-button" data-page="publications">Publications</a></li>
+                    <li><a href="teaching.html" class="nav-button" data-page="teaching">Teaching</a></li>
+                    <li><a href="resume.html" class="nav-button" data-page="resume">Resume</a></li>
+                    <li><a href="contact.html" class="nav-button" data-page="contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section id="home" class="section">
+            <div class="container">
+                <div class="hero-section">
+                    <div class="hero-content">
+                        <h2 class="section-title">Welcome to My Academic Portfolio</h2>
+                        <p class="hero-description">
+                            I find joy and comfort in teaching students. I've taught in the fields of Mathematics,
+                            Computer Science and Engineering. I continuously strive to learn practical things that
+                            can help students and currently started a company that develops mobile and web applications.
+                        </p>
+                        <div class="hero-buttons">
+                            <a href="research.html" class="big-button primary">
+                                Explore Research
+                            </a>
+                            <a href="contact.html" class="big-button secondary">
+                                Get in Touch
+                            </a>
+                        </div>
+                    </div>
+                    <div class="hero-image">
+                        <img src="images/pic_1.jpg" alt="Dr. Immanuelle Manohar" class="profile-image">
+                    </div>
+                </div>
+
+                <div class="research-highlights">
+                    <h3 class="highlights-title">Current Research Interests</h3>
+                    <div class="research-grid">
+                        <div class="research-card">
+                            <div class="card-icon">
+                                <img src="images/ICA_figure.jpg" alt="Factor Analysis" class="research-thumbnail">
+                            </div>
+                            <h4>Factor Analysis & Statistical Methods</h4>
+                            <p>Research into perturbation properties of factor analysis, PCA, ICA, and related statistical analysis techniques for better algorithms and approaches.</p>
+                            <button class="small-button" onclick="showResearchDetail('factor')">Learn More</button>
+                        </div>
+
+                        <div class="research-card">
+                            <div class="card-icon">
+                                <img src="images/QR.jpg" alt="QR Decomposition" class="research-thumbnail">
+                            </div>
+                            <h4>Matrix QR Decomposition</h4>
+                            <p>Exploring the power and elegance of QR decomposition as a faster alternative to SVD with orders of magnitude less complexity.</p>
+                            <button class="small-button" onclick="showResearchDetail('qr')">Learn More</button>
+                        </div>
+
+                        <div class="research-card">
+                            <div class="card-icon">
+                                <img src="images/IM_ret.png" alt="Image Retrieval" class="research-thumbnail">
+                            </div>
+                            <h4>Image Retrieval & ML</h4>
+                            <p>Feature extraction from images using SIFT, analyzing redundancy through NMF and ICA for improved image recognition systems.</p>
+                            <button class="small-button" onclick="showResearchDetail('image')">Learn More</button>
+                        </div>
+
+                        <div class="research-card">
+                            <div class="card-icon">
+                                <img src="images/big_data.png" alt="Big Data Transmission" class="research-thumbnail">
+                            </div>
+                            <h4>Big Data Transmission</h4>
+                            <p>Developing queuing models for optimal data transfer over multiple hops in high-throughput wireless networks with massive data capabilities.</p>
+                            <button class="small-button" onclick="showResearchDetail('bigdata')">Learn More</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h3>Dr. Immanuelle Manohar</h3>
+                    <p>Senior Lecturer at Whitworth University</p>
+                    <p>Mathematics and Computer Science Department</p>
+                </div>
+                <div class="footer-links">
+                    <a href="https://scholar.google.com/citations?user=owpYBT0AAAAJ&hl=en" target="_blank" class="footer-link">Google Scholar</a>
+                    <a href="https://www.linkedin.com/in/immanuel-manohar-b6a89a14" target="_blank" class="footer-link">LinkedIn</a>
+                    <a href="http://www.idr-stat.com" target="_blank" class="footer-link">Website</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Dr. Immanuelle Manohar. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
